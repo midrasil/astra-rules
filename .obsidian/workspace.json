@@ -1,0 +1,369 @@
+{
+  "main": {
+    "id": "4b3d1bbecfa1ead1",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ddf2f9d36bdcea1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a96a0fe96752cb07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Regras/Mecânica Básica/Reserva de Dados.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reserva de Dados"
+            }
+          },
+          {
+            "id": "74e457a8ddfafd08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Regras/Personagens/Ambição e Desejo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ambição e Desejo"
+            }
+          },
+          {
+            "id": "ef6938ef0f4a396c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Regras/Personagens/Vida.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vida"
+            }
+          },
+          {
+            "id": "17486c792800ca46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Regras/Personagens/Ambição e Desejo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ambição e Desejo"
+            }
+          },
+          {
+            "id": "7d2e94cb7a3207ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Regras/Cenas e Conflitos/Cenas Táticas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cenas Táticas"
+            }
+          },
+          {
+            "id": "a55cbbaac15cf51f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Regras/Cenas e Conflitos/A Cena.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A Cena"
+            }
+          },
+          {
+            "id": "28a891e22839318f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Regras/Personagens/Vontade.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vontade"
+            }
+          },
+          {
+            "id": "00fe5a1846167e98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Regras/Personagens/Vontade.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vontade"
+            }
+          },
+          {
+            "id": "01b8b7b7c450d732",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Criação de Personagem/3 - Características Derivadas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3 - Características Derivadas"
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c8aac55af6a398c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "efb7c5060c062ae7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d80a0b20cadf131",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "cc96c615c355569e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "d670975a9f4af558",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "107c4dec3a9eeb62",
+    "type": "split",
+    "children": [
+      {
+        "id": "ece554816b26ebea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aac19ea23dcbc091",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Regras/Atributos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos"
+            }
+          },
+          {
+            "id": "d2e626150aeb650e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Regras/Atributos.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "1b6560a2faac634e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "9f98e8da4a071ae2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "17127a439574dcfd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Regras/Atributos.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          },
+          {
+            "id": "294570f8be0826b5",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {
+                "tabWorkspace": {
+                  "version": 1,
+                  "openTabs": [
+                    {
+                      "tabId": "tab-1791586026694-oidlzvk",
+                      "conversationId": "conv-1791586365767-92qx13px4"
+                    },
+                    {
+                      "tabId": "tab-1791653163500-4xl44a6",
+                      "conversationId": "conv-1791653174250-yk62wfzz7"
+                    }
+                  ],
+                  "activeTabId": "tab-1791586026694-oidlzvk"
+                }
+              },
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 523.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
+      "realclaudian:Open Claudian": false
+    }
+  },
+  "active": "01b8b7b7c450d732",
+  "lastOpenFiles": [
+    "Criação de Personagem/4 - Trunfos e Complicações.md",
+    "Criação de Personagem/3 - Características Derivadas.md",
+    "Criação de Personagem/2 - Atributos e Perícias.md",
+    "Criação de Personagem/1 - Identidade.md",
+    "Criação de Personagem/0 - Criação de Personagem.md",
+    "Regras/Personagens/Progressão.md",
+    "Astra Engine.md",
+    "Criação de Personagem/5 - Equipamento Inicial.md",
+    "Regras/Personagens/Ambição e Desejo.md",
+    "Regras/Mecânica Básica/Mecânica Básica.md",
+    "Regras/Condições/Debilitado.md",
+    "Regras/Condições/Agarrado.md",
+    "Regras/Condições/Caído.md",
+    "Regras/Condições",
+    "Regras/Mecânica Básica/Reserva de Dados.md",
+    "Regras/Condições/Condições.md",
+    "Regras/Resistência e Vulnerabilidade/Imunidade.md",
+    "Regras/Resistência e Vulnerabilidade/Vulnerabilidade.md",
+    "Regras/Resistência e Vulnerabilidade/Resistência e Vulnerabilidade.md",
+    "Regras/Resistência e Vulnerabilidade/Resistência.md",
+    "Regras/Personagens/Perícias.md",
+    "Regras/Personagens/Atributos.md",
+    "Regras/Personagens/Trunfos/Combate.md",
+    "Regras/Personagens/Trunfos/Antecedentes.md",
+    "Regras/Personagens/Trunfos/Trunfos.md",
+    "Regras/Personagens/Complicações/Complicações.md",
+    "Regras/Personagens/Complicações/Lista de Complicações.md",
+    "Regras/Personagens/Complicações",
+    "Criação de Personagem",
+    "Regras/Resistência e Vulnerabilidade",
+    "Regras/Personagens/Trunfos",
+    "Regras/Movimento",
+    "Regras/Personagens",
+    "Regras/Mecânica Básica",
+    "Regras/Equipamentos",
+    "Regras/Cenas e Conflitos/Ações"
+  ]
+}
