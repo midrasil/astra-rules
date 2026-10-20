@@ -32,6 +32,8 @@ O Desarmado é de Origem **Natural** e Material **Orgânico**: está **sempre di
 
 Por padrão, o dano do Desarmado é **superficial** (ver [[Vida#Gravidade do Dano|Gravidade do Dano]]). Como seu bônus de dano é +0, um empate em um Confronto desarmado não causa dano.
 
+O Trunfo [[Combate#Artista Marcial|Artista Marcial]] muda o Desarmado do personagem: Dano 2, Propriedade Leve e dano agravado.
+
 ## Propriedades
 
 As **Propriedades** de uma arma são organizadas em quatro categorias. Toda arma tem exatamente uma **Origem** e um **Material**; as propriedades de **Empunhadura** e **Uso** são opcionais e podem ser combinadas.
@@ -67,6 +69,10 @@ O Material é considerado junto ao Tipo de Dano ao aplicar [[Resistência e Vuln
 ### Uso (opcional)
 
 - **Arremesso (valor)** — arma que pode ser lançada como um ataque à distância. A Propriedade acompanha sempre um valor, que indica o **Alcance de arremesso** da arma, medido em quadrados — por exemplo, **Arremesso (6)** indica que a arma pode ser lançada a até 6 quadrados. Ataques de arremesso utilizam a Perícia **Atirar**. O campo **Alcance** da arma continua valendo para seu uso corpo a corpo. Em um [[Confrontar|Confronto]], a arma pode ser utilizada para **Aceitar o Confronto** contra um atacante à distância, desde que ele esteja dentro do Alcance de arremesso.
+
+### Personagem (opcional)
+
+- **Predileta** — a arma escolhida pelo Trunfo [[Combate#Arma Predileta|Arma Predileta]]. Quem tem o Trunfo ganha bônus ao usá-la.
 
 Catálogos e módulos podem adicionar novas propriedades, origens e materiais, e definir os valores específicos de cada arma (Nome, Dano, Tipo de Dano, Alcance e demais campos).
 

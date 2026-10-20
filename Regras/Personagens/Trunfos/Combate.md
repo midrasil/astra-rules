@@ -6,8 +6,8 @@
 
 - **Categoria:** Combate
 - **Estágio:** Novato
-- **Requisito:** [[Atributos|Agilidade]] 3
-- **Descrição:** o personagem aprende a lutar empunhando duas armas de forma efetiva. Para utilizar esta capacidade, ambas as armas empunhadas devem possuir a Propriedade **[[Armas#Propriedades|leve]]**. Em cada [[Confrontar|Confronto]] com rolagem oposta — seja atacando ou contra-atacando — o personagem decide, no momento do Confronto, qual das duas armas adiciona seu **Dano** à Reserva de Dados e qual adiciona seu **Dano** ao dano causado, somado à **Margem de Sucessos** em caso de vitória.
+- **Requisito:** [[Atributos|Agilidade]] 3, sem [[#Contra-Ataque|Contra-Ataque]]
+- **Descrição:** o personagem aprende a lutar empunhando duas armas de forma efetiva. Para utilizar esta capacidade, ambas as armas devem possuir a Propriedade **[[Armas#Propriedades|Leve]]**. No **Ataque** e ao **Aceitar o [[Confrontar|Confronto]]**, a arma escolhida soma seu **Dano** ao dano causado, somado à **Margem de Sucessos** em caso de vitória, e a outra arma soma seu **Dano** à Reserva de Dados. Com [[#Artista Marcial|Artista Marcial]], o [[Armas#Desarmado|Desarmado]] conta como arma Leve. Não pode ser combinado com Contra-Ataque.
 
 ### Aparar
 
@@ -15,6 +15,104 @@
 - **Estágio:** Novato
 - **Requisito:** [[Atributos|Agilidade]] 3
 - **Descrição:** o personagem aprende a se defender utilizando a própria arma. Ao sofrer um [[Confrontar|Confronto]], o personagem pode escolher **Defender** mesmo sem um [[Escudos|Escudo]], adicionando à sua rolagem de defesa o **Dano** da arma utilizada para aparar. Apenas armas **corpo a corpo** podem ser utilizadas para aparar. Essa capacidade **não se acumula com um Escudo**: em um Confronto, o personagem defende com o Escudo (**Proteção**) ou com a arma (**Dano**), nunca com ambos. Se o personagem estiver empunhando duas armas, ao Defender ele escolhe uma delas para somar seu **Dano**.
+
+### Furioso
+
+- **Categoria:** Combate
+- **Estágio:** Novato
+- **Requisito:** nenhum
+- **Descrição:** durante um combate, sempre que sofre dano, o personagem rola [[Atributos|Determinação]]. Sem nenhum Sucesso, ele perde o controle e recebe a Condição **[[Fúria]]**. A Fúria dura até o fim do combate, ou até o personagem gastar a Ação sem se mover e passar numa rolagem de Determinação com **-2 dados**.
+
+### Arma Predileta
+
+- **Categoria:** Combate
+- **Estágio:** Novato
+- **Requisito:** [[Perícias|Atirar]] 4 ou [[Perícias|Lutar]] 4
+- **Descrição:** o personagem conhece uma arma específica como a palma da mão. Essa arma recebe a Propriedade **[[Armas#Personagem (opcional)|Predileta]]**. Ao usá-la, ele ganha **+1 dado** em Ataque e ao [[Confrontar]]. O Trunfo pode ser escolhido mais de uma vez, cada vez para uma arma diferente, mas o bônus não se soma entre cópias. Se a arma for perdida, ele pode escolher uma substituta, mas o bônus só volta depois de **duas semanas de jogo**.
+
+### Arma Predileta Aprimorada
+
+- **Categoria:** Combate
+- **Estágio:** Veterano
+- **Requisito:** [[#Arma Predileta|Arma Predileta]]
+- **Descrição:** o domínio do personagem sobre sua Arma Predileta aumenta. Ao usá-la, ele ganha mais **+1 dado** em Ataque e ao [[Confrontar]], num total de **+2**.
+
+### Artista Marcial
+
+- **Categoria:** Combate
+- **Estágio:** Novato
+- **Requisito:** [[Perícias|Lutar]] 2
+- **Descrição:** o personagem é altamente treinado em combate corpo a corpo. Seu [[Armas#Desarmado|Desarmado]] passa a ter **Dano 2** e a Propriedade **[[Armas#Propriedades|Leve]]**, e causa **dano agravado**.
+
+### Artista Marcial Aprimorado
+
+- **Categoria:** Combate
+- **Estágio:** Veterano
+- **Requisito:** [[#Artista Marcial|Artista Marcial]], [[Perícias|Lutar]] 4
+- **Descrição:** no **Ataque** com o Desarmado, o personagem soma à [[Reserva de Dados]] uma quantidade de dados igual ao **Dano** do Desarmado.
+
+### Brigão
+
+- **Categoria:** Combate
+- **Estágio:** Novato
+- **Requisito:** [[Atributos|Força]] 3
+- **Descrição:** lutas frequentes de mãos nuas deram ao personagem um soco poderoso. O **Dano** do seu [[Armas#Desarmado|Desarmado]] aumenta em **+2**, somado a qualquer outro bônus, como o do [[#Artista Marcial|Artista Marcial]].
+
+### Pugilista
+
+- **Categoria:** Combate
+- **Estágio:** Experiente
+- **Requisito:** [[#Brigão|Brigão]]
+- **Descrição:** quando o personagem acerta um Ataque com o Desarmado e vence o [[Confrontar|Confronto]] com **margem de 3 Sucessos ou mais**, causa **+2 de dano**.
+
+### Atirador
+
+- **Categoria:** Combate
+- **Estágio:** Experiente
+- **Requisito:** nenhum
+- **Descrição:** o personagem dispara com controle e precisão. No começo de cada turno em que não está [[Mirando]], ele recebe essa Condição **sem gastar a Ação**, e fazer um Ataque **não encerra** a Mira. Ela continua acumulando com a Manobra [[Manobras#Mirar|Mirar]], até o limite pela Astúcia, e só é perdida quando o personagem se move, é deslocado à força, é atacado ou fica Caído. Vale para Atirar, inclusive com armas de arremesso.
+
+### Bloquear
+
+- **Categoria:** Combate
+- **Estágio:** Experiente
+- **Requisito:** [[Perícias|Lutar]] 3
+- **Descrição:** acostumado ao combate corpo a corpo, o personagem aprende a bloquear os golpes dos oponentes. Ele ganha **+1 dado ao Defender**.
+
+### Bloquear Aprimorado
+
+- **Categoria:** Combate
+- **Estágio:** Veterano
+- **Requisito:** [[#Bloquear|Bloquear]]
+- **Descrição:** o bloqueio do personagem fica ainda melhor. Ele ganha mais **+1 dado ao Defender**, num total de **+2**.
+
+### Contra-Ataque
+
+- **Categoria:** Combate
+- **Estágio:** Experiente
+- **Requisito:** [[#Aparar|Aparar]], [[Perícias|Lutar]] 3, sem [[#Lutar com Duas Armas|Lutar com Duas Armas]]
+- **Descrição:** o personagem leva o [[#Aparar|Aparar]] também para o [[Confrontar|Confronto]]. Ao **Aceitar o Confronto** com uma arma **corpo a corpo**, ele soma à Reserva de Dados o **Dano** da arma, como faz ao Defender. Não pode ser combinado com Lutar com Duas Armas.
+
+### Contra-Ataque Aprimorado
+
+- **Categoria:** Combate
+- **Estágio:** Veterano
+- **Requisito:** [[#Contra-Ataque|Contra-Ataque]]
+- **Descrição:** quando o personagem Aceita o Confronto e vence, o revide causa **dano agravado** em vez de superficial.
+
+### Esquiva
+
+- **Categoria:** Combate
+- **Estágio:** Experiente
+- **Requisito:** [[Atributos|Agilidade]] 3
+- **Descrição:** o personagem sabe sair do caminho do perigo. Ele ganha **+1 dado ao [[Confrontar#Esquivar|Esquivar]]** e, quando vence, pode se deslocar até a **Movimentação base inteira**, em vez da metade.
+
+### Esquiva Aprimorada
+
+- **Categoria:** Combate
+- **Estágio:** Veterano
+- **Requisito:** [[#Esquiva|Esquiva]]
+- **Descrição:** a esquiva do personagem passa a usar sua velocidade. Ao Esquivar, em vez do +1 da Esquiva, ele soma dados iguais à **metade da Movimentação**, arredondada para baixo. Sem Movimentação, como quando [[Agarrado]], não há esquiva.
 
 ---
 

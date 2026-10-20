@@ -192,3 +192,5 @@ O bônus é perdido assim que o personagem é atacado e não pode ser utilizado 
 Quando isso acontece, todas as Ações anteriormente utilizadas para Mirar são desperdiçadas e o personagem deve começar a acumular o bônus novamente caso queira Mirar outra vez.
 
 Realizar o ataque encerra a Mira, independentemente do resultado da rolagem.
+
+No sistema, a Mira é a Condição [[Mirando]]: cada uso de Mirar soma um acúmulo.
