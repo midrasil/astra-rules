@@ -15,6 +15,8 @@ Os Trunfos são divididos em oito categorias:
 - [[Estranhas]] — capacidades estranhas, sobrenaturais ou inexplicáveis.
 - [[Lendárias]] — os Trunfos mais poderosos e raros.
 
+Além delas, as [[Características de NPC]] são Trunfos usados, por padrão, apenas por NPCs e criaturas.
+
 ## Requisitos
 
 Um Trunfo pode exigir:

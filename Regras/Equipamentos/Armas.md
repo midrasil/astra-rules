@@ -65,10 +65,18 @@ O Material é considerado junto ao Tipo de Dano ao aplicar [[Resistência e Vuln
 
 - **Leve** — arma ágil e equilibrada.
 - **Duas mãos** — arma que exige ser empunhada com as duas mãos para ser utilizada.
+- **Flexível** — arma que pode ser usada com uma mão ou com as duas. Empunhada com as duas mãos, recebe **+1 de Dano**.
+- **Acoplada** — arma presa ao corpo ou à armadura, que não ocupa a mão e não pode ser alvo da Manobra [[Manobras#Desarmar|Desarmar]]. Ela só ataca quando a mão em que está acoplada não segura nada. Cada mão tem no máximo uma arma Acoplada.
 
 ### Uso (opcional)
 
 - **Arremesso (valor)** — arma que pode ser lançada como um ataque à distância. A Propriedade acompanha sempre um valor, que indica o **Alcance de arremesso** da arma, medido em quadrados — por exemplo, **Arremesso (6)** indica que a arma pode ser lançada a até 6 quadrados. Ataques de arremesso utilizam a Perícia **Atirar**. O campo **Alcance** da arma continua valendo para seu uso corpo a corpo. Em um [[Confrontar|Confronto]], a arma pode ser utilizada para **Aceitar o Confronto** contra um atacante à distância, desde que ele esteja dentro do Alcance de arremesso.
+
+- **Versátil (tipo de dano)** — arma que tem um segundo Tipo de Dano, indicado na Propriedade. O atacante escolhe qual usar a cada Ataque. Por exemplo, uma arma Perfurante com **Versátil (Corte)**.
+- **Não letal** — o dano da arma é sempre **superficial** (ver [[Vida#Gravidade do Dano|Gravidade do Dano]]). Para causar dano agravado com ela, o atacante sofre **-2 dados** no Ataque.
+- **Manobra (Reposicionar, Derrubar ou Desarmar)** — a arma pode ser usada para realizar a [[Manobras|Manobra]] indicada até o **Alcance** da arma, em vez de exigir contato físico. A Manobra não recebe bônus da arma.
+
+As Propriedades são traços simples da arma: como ela é empunhada, que tipo de dano causa e como pode ser usada. Capacidades especiais pertencem às [[#Maestria|Maestrias]].
 
 ### Personagem (opcional)
 
@@ -78,13 +86,19 @@ Catálogos e módulos podem adicionar novas propriedades, origens e materiais, e
 
 ## Maestria
 
-A **Maestria** é um efeito especial que uma arma oferece a quem a domina. Cada arma possui **no máximo uma** Maestria, ou nenhuma.
+A **Maestria** é uma técnica que o personagem domina com uma arma específica. Ela não pertence à arma: é o personagem quem escolhe qual Maestria aplica à sua arma ao adquirir o [[Combate#Maestria com Arma|Trunfo Maestria com Arma]].
 
-Uma Maestria funciona de forma separada das Propriedades: a arma sempre a apresenta, mas o efeito só pode ser usado por um personagem que possua o [[Trunfos|Trunfo]] correspondente. Sem o Trunfo, a arma funciona normalmente, sem a Maestria.
+Cada cópia do Trunfo vale para **uma** arma Predileta do personagem e lhe dá **uma** Maestria. Qualquer Maestria pode ser escolhida para qualquer arma. Se a arma Predileta for perdida, a Maestria passa para a substituta junto com a Predileta, no mesmo prazo.
 
-As Maestrias costumam ser ativadas por resultados de um [[Confrontar|Confronto]], como vencer, empatar ou vencer por uma determinada Margem.
+Toda Maestria é ativada ao **vencer um Ataque** com a arma. Em empate ela não ativa. Cada Maestria diz o que mais é preciso e se tem custo.
 
-A lista de Maestrias e os Trunfos que as concedem ainda serão definidos.
+### Lista de Maestrias
+
+- **Golpe Tático** — ao vencer o Ataque, o personagem pode **abrir mão da Margem**: causa só o Dano da arma e aplica ao alvo o efeito de uma destas Manobras, à sua escolha: [[Manobras#Reposicionar|Reposicionar]], [[Manobras#Derrubar|Derrubar]] ou [[Manobras#Desarmar|Desarmar]]. O alvo não faz outra rolagem para resistir.
+- **Embalo** — ao vencer o Ataque, o personagem ganha um acúmulo de [[Embalo]] contra aquele alvo. Cada acúmulo dá **+1 dado** nos Ataques contra o mesmo alvo.
+- **Varredura** — ao vencer o Ataque, o personagem também causa o **Dano da arma**, como dano **superficial**, em outro alvo adjacente ao primeiro.
+- **Golpe Letal** — funciona como um acerto crítico: ao vencer o Ataque, cada **par de 10** da rolagem do atacante soma o **Dano da arma** mais uma vez ao dano.
+- **Golpe Debilitante** — ao vencer o Ataque, o personagem aplica ao alvo, à sua escolha, a condição [[Lento]] ou [[Abalado]], até o começo do seu próximo Turno.
 
 ## Tipos de Dano
 
