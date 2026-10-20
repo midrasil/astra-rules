@@ -28,7 +28,7 @@ Nadar e escalar são [[Movimentação#Movimentação Especial|Movimentação Esp
 
 ## Efeitos ao acertar
 
-Quando a criatura **vence um Ataque com o seu ataque natural**, o alvo faz um teste para resistir, com Dificuldade igual à Potência. Se falhar, sofre o efeito.
+Quando a criatura **vence um Ataque com um ataque natural corpo a corpo**, o alvo faz um teste para resistir, com Dificuldade igual à Potência. Se falhar, sofre o efeito.
 
 ### Venenosa (Potência 2; Vigor + Determinação)
 
@@ -85,6 +85,10 @@ Quando a criatura **vence um Ataque com o seu ataque natural**, o alvo faz um te
 
 - **Requisito:** Escavadora
 - **Descrição:** ao sair da terra para atacar, a criatura faz um teste oposto de Furtividade contra o Perceber do alvo. Se vencer, recebe **+2 dados** no Ataque.
+
+### Enxame (dano pelo Tamanho)
+
+- **Descrição:** a criatura é um enxame de bichos pequenos, tratado como uma só. No **começo de cada turno** dela, todas as criaturas **dentro do token ou adjacentes** sofrem **dano superficial**, sem rolagem de ataque. O dano base vem do Tamanho (**Médio 2, Grande 4, Enorme 6**) e cai **1 para cada criatura atingida além da primeira**, até o mínimo de 1. Efeitos ao acertar da criatura, como [[#Venenosa (Potência 2; Vigor + Determinação)|Venenosa]], valem para cada atingido. O dano base pode mudar em cada criatura. Costuma ser **Imune a Corte e Perfurante**.
 
 ## Sentidos
 

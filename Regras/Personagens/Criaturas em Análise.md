@@ -15,18 +15,18 @@ O livro usa dados (d4 a d12, e d12+N acima disso). O Astra usa valores de 1 a 5.
 | d8 | 3 |
 | d10 | 4 |
 | d12 | 5 |
-| d12+N | 5, e o excedente vira outra coisa (ver abaixo) |
+| d12+N | 5 (o excedente é descartado) |
 
 - **Atributos:** Força, Agilidade e Vigor seguem os do livro; **Espírito vira Determinação**; Astúcia segue a Astúcia. O livro não tem **Carisma**: proposta de 1 para animais e 2 para criaturas inteligentes.
 - **Perícias:** cada Perícia do livro vira a do núcleo com o mesmo papel (Lutar, Atirar, Furtividade, Intimidar, Perceber, Atletismo para Escalar e Nadar, Sobrevivência para Rastrear, Ocultismo para Conhecimento oculto). Arremessar vira Atirar.
-- **Força acima de d12:** em aberto. Opções: o excedente vira **Dano extra** no ataque natural (+1 a cada +2), ou permitir Atributos acima de 5 para NPCs.
+- **Força acima de d12:** vira **5**, e o excedente é descartado. O Astra funciona diferente do Savage Worlds, e converter o excedente em bônus pode desbalancear.
 
 ### Combate
 
 | Livro | Astra |
 |---|---|
 | **Aparar** e **Resistência** | não existem: saem da Reserva de defesa e da trilha de Vida (3 + Vigor). |
-| **Armadura +N** | **Absorção**: proposta de metade da Armadura, arredondada para cima (+1 e +2 → 1, +4 → 2, +6 → 3, +8 → 4). |
+| **Armadura +N** | **Absorção**: metade da Armadura, arredondada para cima (+1 e +2 → 1, +4 → 2, +6 → 3, +8 → 4). |
 | **Ataque For+dX** | ataque natural (arma de Origem Natural) com **Dano**: For → 0, d4 → 1, d6 → 2, d8 → 3, d10 → 4, d12 → 5. |
 | **Movimentação** | igual, em quadros. |
 | **Tamanho** -2 / -1 / 0 a +1 / +2 a +4 / +5 a +7 / +8 ou mais | **Pequeno / Pequeno / Médio / Grande / Enorme / Colossal**. Gato e fada: **Minúsculo**. |
@@ -48,7 +48,7 @@ O livro usa dados (d4 a d12, e d12+N acima disso). O Astra usa valores de 1 a 5.
 | Constrição, Abraço de Urso, Rolar | Constritora |
 | Tecer (teia) | Teia |
 | Visão no Escuro, Infravisão | Visão no Escuro |
-| Ligeiro | Trunfo Ligeiro |
+| Ligeiro | já incluído na Movimentação da criatura |
 | Regeneração Rápida / Lenta | Trunfos Regeneração / Cura Rápida |
 | Fraqueza, Imunidade, Invulnerabilidade, Etéreo, Construto, Elemental, Morto-Vivo | Resistências, Vulnerabilidades e Imunidades por Tipo de Dano e Material, e o Tipo de Criatura |
 
@@ -56,9 +56,33 @@ Ficam de fora: feitiços, erguer mortos, cria de vampiro, enfeitiçar, mudança 
 
 ## Criaturas
 
-### Animais ⬜
+### Animais 🟨
 
-Cão/Lobo · Lobo Atroz · Leão · Urso Grande · Touro · Cavalo de Guerra · Cavalo de Montaria · Mula · Gato Pequeno · Jacaré/Crocodilo · Serpente Constritora · Serpente Venenosa · Tubarão Branco · Tubarão Devorador de Homens · Aranha Gigante · Enxame
+Proposta de conversão. Atributos na ordem **For / Agi / Vig / Car / Ast / Det**. Carisma 1 em todos. Vida = 3 + Vigor.
+
+| Criatura | Atributos | Perícias | Mov. | Tamanho | Ataque natural | Absorção | Características e notas |
+|---|---|---|---|---|---|---|---|
+| Cão/Lobo | 2 / 3 / 2 / 1 / 2 / 2 | Lutar 2, Perceber 4 | 8 | Pequeno | Mordida, Dano 1 | 0 | Ir para a Garganta |
+| Lobo Atroz | 3 / 3 / 3 / 1 / 1 / 2 | Intimidar 3, Lutar 3, Perceber 2 | 10 | Médio | Mordida, Dano 2 | 0 | Ir para a Garganta |
+| Leão | 5 / 3 / 3 / 1 / 2 / 4 | Lutar 3, Perceber 3 | 8 | Grande | Mordida ou Garra, Dano 2 | 0 | Investida (Bote), Frenesi Aprimorado |
+| Urso Grande | 5 / 2 / 5 / 1 / 2 / 3 | Atletismo 2, Lutar 3, Perceber 3 | 8 | Grande | Garras, Dano 2 | 0 | Constritora (Abraço de Urso) |
+| Touro | 5 / 2 / 5 / 1 / 1 / 3 | Lutar 1, Perceber 2 | 7 | Grande | Chifres, Dano 2 | 0 | Investida (Espetar) |
+| Cavalo de Guerra | 5 / 2 / 4 / 1 / 1 / 2 | Lutar 3, Perceber 2 | 8 | Grande | Coice, Dano 1 | 0 | — |
+| Cavalo de Montaria | 5 / 3 / 3 / 1 / 1 / 2 | Lutar 1, Perceber 2 | 10 | Grande | Coice, Dano 0 | 0 | — |
+| Mula | 3 / 1 / 3 / 1 / 1 / 2 | Perceber 1 | 6 | Médio | Coice, Dano 0 | 0 | Genioso: −1 em Cavalgar ao montá-la (narrativo) |
+| Gato Pequeno | 1 / 3 / 2 / 1 / 2 / 4 | Atletismo 2, Furtividade 3, Perceber 2 | 6 | Minúsculo | Mordida ou Garra, Dano 0 | 0 | Visão no Escuro |
+| Jacaré/Crocodilo | 4 / 1 / 4 / 1 / 1 / 2 | Atletismo 3, Lutar 3, Perceber 2 | 3 (5 nadando) | Médio | Mordida, Dano 2 | 1 | Aquática, Constritora (Rolar) |
+| Serpente Constritora | 2 / 1 / 2 / 1 / 1 / 3 | Lutar 2, Perceber 4 | 4 | Médio | Mordida, Dano 0 | 0 | Constritora |
+| Serpente Venenosa | 1 / 3 / 1 / 1 / 1 / 2 | Lutar 3, Perceber 5 | 4 | Minúsculo | Mordida, Dano 0 | 0 | Venenosa (Potência 2) |
+| Tubarão Branco | 5 / 3 / 5 / 1 / 1 / 3 | Atletismo 4, Lutar 4, Perceber 5 | 10 nadando | Grande | Mordida, Dano 3 | 0 | Aquática |
+| Tubarão Devorador de Homens | 3 / 3 / 2 / 1 / 1 / 2 | Atletismo 4, Lutar 3, Perceber 5 | 10 nadando | Médio | Mordida, Dano 2 | 0 | Aquática |
+| Aranha Gigante | 4 / 4 / 2 / 1 / 1 / 2 | Atirar 4, Atletismo 5, Furtividade 4, Intimidar 4, Lutar 3, Perceber 3 | 8 | Médio | Mordida, Dano 1 | 0 | Escaladora, Teia, Venenosa (Potência 4) |
+| Enxame | 3 / 4 / 4 / 1 / 1 / 5 | Perceber 2 | 10 | Grande | — | 0 | Enxame (4 de dano, −1 por criatura além da primeira, mínimo 1, superficial), Imune a Corte e Perfurante |
+
+Decisões desta leva:
+- O **Ligeiro** dos animais no livro só troca o dado de corrida. No Astra, Correr dobra a Movimentação, então ele já está na Movimentação de cada um e não vira o Trunfo Ligeiro.
+- **Nadar** e **Escalar** viram Atletismo.
+- Ficam de fora: Acrobata do gato, Rápida da serpente (cartas de ação), Robusto do tubarão e os modificadores de ataque "Pequeno" e "Grande", que o Tamanho já cobre.
 
 ### Humanoides e monstros ⬜
 
