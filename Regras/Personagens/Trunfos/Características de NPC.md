@@ -88,9 +88,9 @@ Quando a criatura **vence um Ataque com o seu ataque natural**, o alvo faz um te
 
 ## Sentidos
 
-### Visão no Escuro
+### Visão no Escuro (12 quadros)
 
-- **Descrição:** ignora as penalidades de Penumbra e de Escuro, mas não as de Breu (ver [[Iluminação]]).
+- **Descrição:** como no D&D, até o alcance a criatura enxerga no **Escuro** como se fosse **Penumbra** e na **Penumbra** como se fosse **Claro**, sem distinguir cores. Além do alcance, a [[Iluminação]] vale normalmente. O **Breu**, a escuridão mágica, bloqueia a Visão no Escuro.
 
 ---
 
