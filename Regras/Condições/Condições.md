@@ -7,6 +7,9 @@ As Condições são aplicadas por Ações, Manobras, Trunfos ou outras regras. T
 - [[Caído]] — no chão; penaliza as próprias rolagens e altera ataques feitos contra ele.
 - [[Agarrado]] — imobilizado por outro personagem; sem movimentação.
 - [[Debilitado]] — trilha de Vida cheia.
+- [[Lento]] — Movimentação reduzida até o próximo Turno de quem aplicou.
+- [[Abalado]] — penalidade no próximo Ataque.
+- [[Embalo]] — bônus acumulado nos Ataques contra o mesmo alvo.
 
 ## Relações
 
