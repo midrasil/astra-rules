@@ -11,6 +11,7 @@ Esta seção organiza as regras usadas quando uma situação exige ordem de inic
 - [[Confrontar|Confrontar]] — ataques e respostas do alvo.
 - [[Manobras|Manobras]] — controle de posição, condição ou movimento.
 - [[Aguardar|Aguardar]] — atrasar o turno ou preparar uma ação.
+- [[Iluminação|Iluminação]] — penalidades por pouca luz.
 
 ## Seções relacionadas
 

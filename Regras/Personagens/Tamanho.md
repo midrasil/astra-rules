@@ -19,7 +19,19 @@ Uma criatura só pode **mover outra criatura do mesmo Tamanho ou menor**.
 
 Isso vale para toda regra que desloca um personagem contra a vontade dele, como a Manobra [[Manobras#Reposicionar|Reposicionar]] ou arrastar um alvo [[Agarrado]]. Uma criatura menor ainda pode tentar Derrubar, Agarrar ou Desarmar uma maior, mas não consegue tirá-la do lugar.
 
-Fora isso, o Tamanho ainda não possui outros efeitos mecânicos. Cenários e módulos podem definir regras adicionais para ele.
+## Tamanho no ataque
+
+Atacar um alvo muito maior é mais fácil, e atacar um alvo muito menor é mais difícil. Conte a diferença de categorias entre o atacante e o alvo:
+
+| Alvo | Ataque |
+|---|---|
+| **2 categorias maior** | +2 dados |
+| **3 ou mais categorias maior** | +4 dados |
+| **2 ou mais categorias menor** | -2 dados |
+
+Uma categoria de diferença não muda nada. A regra vale nos dois sentidos: um gato que ataca um dragão recebe +4 dados, e o dragão que ataca o gato recebe -2.
+
+Cenários e módulos podem definir regras adicionais para o Tamanho.
 
 ---
 
