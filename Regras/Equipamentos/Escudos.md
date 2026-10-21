@@ -7,6 +7,8 @@ Cada escudo é descrito pelos seguintes campos:
 | Campo | Descrição |
 |---|---|
 | **Nome** | o nome do escudo |
+| **Categoria** | Leve, Médio ou Pesado (ver [[#Categorias]]) |
+| **Força mínima** | a Força necessária para usar o escudo sem perder Movimentação |
 | **Descrição** | uma descrição breve do escudo |
 | **Proteção** | bônus concedido ao Defender |
 | **Carga** | quantos slots o escudo ocupa |
@@ -15,3 +17,13 @@ Cada escudo é descrito pelos seguintes campos:
 ## Proteção
 
 Ao escolher **Defender**, o personagem adiciona a **Proteção** do escudo à sua Reserva de Dados (ver [[Confrontar]]).
+
+## Categorias
+
+| Categoria | Proteção | Força mínima | Outro custo |
+|---|---|---|---|
+| **Leve** | 1 | — | — |
+| **Médio** | 2 | 2 | — |
+| **Pesado** | 3 | 3 | -1 dado ao Atacar |
+
+Com Força abaixo da Força mínima do escudo empunhado, o personagem tem **-2 de Movimentação** (a mesma penalidade da armadura, que não se soma).

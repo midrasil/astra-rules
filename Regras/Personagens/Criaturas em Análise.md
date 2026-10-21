@@ -96,7 +96,7 @@ Proposta de conversão, com as mesmas regras dos Animais. Atributos na ordem **F
 |---|---|---|---|---|---|---|---|
 | Goblin | 1 / 3 / 2 / 2 / 2 / 2 | Atirar 3, Atletismo 2, Furtividade 4, Lutar 2, Perceber 2 | 5 | Pequeno | Lança Curta, Dano 1 | 0 | Visão no Escuro (Infravisão) |
 | Orc | 3 / 2 / 3 / 2 / 1 / 2 | Atirar 2, Furtividade 2, Intimidar 3, Lutar 2, Perceber 2 | 6 | Médio | Cimitarra, Dano 3 | 1 | Visão no Escuro |
-| Orc Líder Tribal | 4 / 3 / 4 / 2 / 2 / 2 | Atirar 3, Furtividade 2, Intimidar 4, Lutar 5, Perceber 2 | 6 | Médio | Machado de Batalha, Dano 4 | 3 (Placa Peitoral) | Visão no Escuro |
+| Orc Líder Tribal | 4 / 3 / 4 / 2 / 2 / 2 | Atirar 3, Furtividade 2, Intimidar 4, Lutar 5, Perceber 2 | 6 | Médio | Machado de Batalha, Dano 4 | 3 (Placa Peitoral, Média) | Visão no Escuro |
 | Ogro | 5 / 2 / 5 / 2 / 1 / 2 | Atirar 2, Intimidar 3, Lutar 3, Perceber 1 | 7 | Grande | Clava Massiva, Dano 3 | 1 (Peles Grossas) | Frenesi (Varredura) |
 | Troll | 5 / 2 / 4 / 2 / 1 / 2 | Atirar 2, Atletismo 2, Intimidar 4, Lutar 3, Perceber 2 | 7 | Grande | Porrete com Espinhos, Dano 3; Garras, Dano 1 | 1 (pele) | Regeneração (não vale contra dano de Fogo, narrativo), Frenesi Aprimorado (Varrer Aprimorado) |
 | Minotauro | 5 / 3 / 5 / 2 / 2 / 3 | Atirar 2, Intimidar 5, Lutar 4, Perceber 4 | 8 | Grande | Lança (duas mãos), Dano 2, Alcance 2; Chifres, Dano 1 | 1 | Investida (+4 de Dano, depois de 6 quadros) |
