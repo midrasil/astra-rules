@@ -84,9 +84,30 @@ Decisões desta leva:
 - **Nadar** e **Escalar** viram Atletismo.
 - Ficam de fora: Acrobata do gato, Rápida da serpente (cartas de ação), Robusto do tubarão e os modificadores de ataque "Pequeno" e "Grande", que o Tamanho já cobre.
 
-### Humanoides e monstros ⬜
+### Humanoides e monstros 🟨
 
-Goblin · Orc · Orc Líder Tribal · Ogro · Troll · Minotauro · Verme Gigante · Draco · Dragão
+Proposta de conversão, com as mesmas regras dos Animais. Atributos na ordem **For / Agi / Vig / Car / Ast / Det**. Carisma 2 nos inteligentes e 1 nos de inteligência animal (Draco e Verme). As armas e armaduras ficam **equipadas na ficha** e também no compêndio de **Equipamentos**; a Ação de ataque usa a arma da mão (Fonte Arma). Dano da arma pelo dado (For+d8 → 3) e Absorção = metade da Armadura. Pele e escamas viram Absorção base.
+
+| Criatura | Atributos | Perícias | Mov. | Tamanho | Ações | Absorção | Características e notas |
+|---|---|---|---|---|---|---|---|
+| Goblin | 1 / 3 / 2 / 2 / 2 / 2 | Atirar 3, Atletismo 2, Furtividade 4, Lutar 2, Perceber 2 | 5 | Pequeno | Lança Curta, Dano 1 | 0 | Visão no Escuro (Infravisão) |
+| Orc | 3 / 2 / 3 / 2 / 1 / 2 | Atirar 2, Furtividade 2, Intimidar 3, Lutar 2, Perceber 2 | 6 | Médio | Cimitarra, Dano 3 | 1 | Visão no Escuro |
+| Orc Líder Tribal | 4 / 3 / 4 / 2 / 2 / 2 | Atirar 3, Furtividade 2, Intimidar 4, Lutar 5, Perceber 2 | 6 | Médio | Machado de Batalha, Dano 4 | 2 | Visão no Escuro |
+| Ogro | 5 / 2 / 5 / 2 / 1 / 2 | Atirar 2, Intimidar 3, Lutar 3, Perceber 1 | 7 | Grande | Clava Massiva, Dano 3 | 1 (Peles Grossas) | Frenesi (Varredura) |
+| Troll | 5 / 2 / 4 / 2 / 1 / 2 | Atirar 2, Atletismo 2, Intimidar 4, Lutar 3, Perceber 2 | 7 | Grande | Porrete com Espinhos, Dano 3; Garras, Dano 1 | 1 (pele) | Regeneração (não vale contra dano de Fogo, narrativo), Frenesi Aprimorado (Varrer Aprimorado) |
+| Minotauro | 5 / 3 / 5 / 2 / 2 / 3 | Atirar 2, Intimidar 5, Lutar 4, Perceber 4 | 8 | Grande | Lança (duas mãos), Dano 2, Alcance 2; Chifres, Dano 1 | 1 | Investida (+4 de Dano, depois de 6 quadros) |
+| Verme Gigante | 5 / 2 / 5 / 1 / 2 / 4 | Furtividade 4, Lutar 2, Perceber 4 | 6 | Colossal | Mordida, Dano 3; Pancada, Dano 8 | 2 (escamas) | Escavadora |
+| Draco | 5 / 2 / 5 / 1 / 2 / 4 | Intimidar 5, Lutar 4, Perceber 3 | 6 | Enorme | Garras/Mordida, Dano 3; Sopro de Fogo, Dano 8; Açoite de Cauda, Dano 0 | 2 (escamas) | Aterrorizante (Potência 2), Sopro |
+| Dragão | 5 / 3 / 5 / 2 / 3 / 4 | Intimidar 5, Lutar 4, Perceber 5 | 8 (voo 24) | Colossal | Garras/Mordida, Dano 3; Sopro de Fogo, Dano 8; Açoite de Cauda, Dano 0 | 2 (escamas) | Aterrorizante (Potência 3), Frenesi Aprimorado, Voadora, Sopro |
+
+Decisões desta leva:
+- **Arremessar** vira Atirar e vale o maior dos dois; **Escalar** e **Nadar** viram Atletismo.
+- **Provocar** do Goblin fica de fora, porque não tem Perícia equivalente no núcleo.
+- Ficam de fora: Focado e Robusto do Dragão, Robusto e Gigantesco do Verme, e os modificadores de ataque "Grande" e "Enorme", que o Tamanho já cobre.
+
+- **Dano acima de d12** pode passar de 5: cada dado vale pela tabela e eles se somam (2d10 → 4 + 4 = 8; 4d6 → 2 + 2 + 2 + 2 = 8). Vale para o Sopro de Fogo e a Pancada do Verme.
+- **Açoite de Cauda:** Ação de Ataque com Zona em **Retângulo** de 3 × 6 quadros saindo do token, como no livro. O Dano é a Força −2, que pela tabela fica 0.
+- As Zonas usam as formas de Region do Foundry (Retângulo, Círculo, Elipse, Cone, Anel, Linha e Emanação), com as medidas em quadrados.
 
 ### Mortos-vivos e espíritos ⬜
 
