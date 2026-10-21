@@ -199,6 +199,13 @@
 - **Requisito:** [[#Guardião|Guardião]]
 - **Descrição:** o personagem protege os aliados sem descanso. O [[#Guardião|Guardião]] e o [[#Baluarte|Baluarte]] deixam de ter limite por rodada: ele soma a Proteção do Escudo a cada aliado adjacente, sempre que for preciso.
 
+### Evasão
+
+- **Categoria:** Combate
+- **Estágio:** Novato
+- **Requisito:** [[Atributos|Agilidade]] 3
+- **Descrição:** o personagem sabe sair de perigos que tomam uma área. Ao resistir a um **dano em área**, como o sopro de um dragão, se tirar Sucessos **maiores ou iguais ao dano** e a Movimentação da [[Confrontar#Esquivar|Esquiva]] bastar para chegar a uma casa fora da zona, ele sai dela automaticamente e **não sofre dano**. Senão, a resistência segue a regra normal.
+
 ---
 
 ← [[Trunfos|Voltar para Trunfos]]
