@@ -43,7 +43,7 @@ Cada entrada da [Lista de Complicações](Lista%20de%20Complica%C3%A7%C3%B5es.md
 - **Menor ou Maior:** o jogador escolhe um dos dois tipos quando adquire a Complicação.
 ## Criação de personagem
 
-Durante a [criação de personagem](../../../Cria%C3%A7%C3%A3o%20de%20Personagem/4%20-%20Trunfos%20e%20Complica%C3%A7%C3%B5es.md), cada personagem deve adquirir exatamente **4 Pontos de Complicação**.
+Durante a [criação de personagem](../../../Cria%C3%A7%C3%A3o%20de%20Personagem/4%20-%20Privil%C3%A9gios%20e%20Complica%C3%A7%C3%B5es.md), cada personagem deve adquirir exatamente **4 Pontos de Complicação**.
 
 | Tipo adquirido | Valor |
 |---|---:|

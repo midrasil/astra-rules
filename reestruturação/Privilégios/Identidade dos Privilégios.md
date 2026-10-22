@@ -162,4 +162,4 @@ Os seguintes Trunfos não entram na avaliação de Privilégios porque seus efei
 - todos os Trunfos de Combate;
 - todas as Características de NPC.
 
-Esses conceitos não são automaticamente classificados como Perfis. Seu destino será avaliado separadamente.
+Esses conceitos não são automaticamente classificados como Competências. Seu destino será avaliado separadamente.

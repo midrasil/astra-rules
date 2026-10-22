@@ -1,14 +1,10 @@
-# Privilégios e Complicações
+Além de Atributos e Perícias, o personagem é definido pelos **Privilégios** que possui e pelas **Complicações** que criam problemas em sua história.
 
-Além de Atributos e Perícias, o personagem é definido pelos **Privilégios** que possui, pelos **Perfis** que desenvolve e pelas **Complicações** que criam problemas em sua história.
-
-## Privilégios e Perfis
+## Privilégios
 
 O personagem recebe:
 
-> **7 pontos compartilhados entre Privilégios e Perfis**
-
-Esses pontos podem ser divididos livremente entre os dois sistemas.
+> **7 Pontos de Privilégio**
 
 Ao adquirir [Privilégios](../Regras/Personagens/Privil%C3%A9gios/Privil%C3%A9gios.md):
 
@@ -17,7 +13,7 @@ Ao adquirir [Privilégios](../Regras/Personagens/Privil%C3%A9gios/Privil%C3%A9gi
 
 Por exemplo, `Refúgio 3` com **Arsenal** e **Biblioteca** consome 5 dos 7 pontos.
 
-Os pontos utilizados em Perfis seguirão as regras próprias desse sistema. Pontos não utilizados não são convertidos em XP nem podem ser transferidos para Complicações.
+Pontos de Privilégio não utilizados não são convertidos em XP nem podem ser transferidos para Complicações.
 
 ## Complicações
 
@@ -46,7 +42,7 @@ Complicações possuem natureza narrativa. Elas criam situações e consequênci
 
 Complicações comportamentais orientam a interpretação do personagem. Quando ele tentar agir contra esse comportamento sob pressão, o Narrador pode exigir um teste apropriado para resistir, com Dificuldade definida pelas circunstâncias da cena. Consulte as [regras de Complicações](../Regras/Personagens/Complica%C3%A7%C3%B5es/Complica%C3%A7%C3%B5es.md#complica%C3%A7%C3%B5es-comportamentais).
 
-Os Pontos de Complicação são separados dos pontos compartilhados entre Privilégios e Perfis. Adquirir Complicações não concede pontos adicionais, e pontos não utilizados não podem ser transferidos entre os dois orçamentos.
+Os Pontos de Complicação são separados dos Pontos de Privilégio. Adquirir Complicações não concede Privilégios adicionais, e pontos não utilizados não podem ser transferidos entre os dois orçamentos.
 
 ---
 

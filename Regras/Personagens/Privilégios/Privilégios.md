@@ -48,7 +48,7 @@ Privilégios não possuem requisitos, cadeias de pré-requisitos ou incompatibil
 
 ## Criação de personagem
 
-Durante a criação, o personagem recebe **7 pontos** compartilhados entre Privilégios e Perfis.
+Durante a criação, o personagem recebe **7 Pontos de Privilégio**.
 
 Cada ponto pode adquirir:
 

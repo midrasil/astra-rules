@@ -12,7 +12,7 @@ Com essa mudança, também deixam de existir:
 - o campo **Requisito**;
 - cadeias de pré-requisitos entre capacidades.
 
-A avaliação e o funcionamento dos Privilégios foram aprovados e incorporados aos documentos oficiais. Essa implementação não dependeu da definição dos Perfis.
+A avaliação e o funcionamento dos Privilégios foram aprovados e incorporados aos documentos oficiais. Essa implementação não dependeu da definição das Competências.
 
 ## Privilégios
 
@@ -106,7 +106,7 @@ Um Privilégio como **Fama** pode não possuir Especializações, utilizando ape
 
 ## Criação de personagem
 
-Durante a criação, o personagem recebe **7 pontos** que podem ser divididos livremente entre Privilégios e Perfis.
+Durante a criação, o personagem recebe **7 Pontos de Privilégio**.
 
 Cada ponto utilizado em um Privilégio pode adquirir:
 
@@ -115,7 +115,7 @@ Cada ponto utilizado em um Privilégio pode adquirir:
 
 Assim, aumentar um Privilégio do Nível 0 para o Nível 3 durante a criação custa 3 pontos. Adquirir duas Especializações custa mais 2 pontos.
 
-Os mesmos 7 pontos também serão utilizados para adquirir Perfis, conforme as regras que ainda serão definidas para eles.
+As Competências serão distribuídas por uma regra própria e não utilizam Pontos de Privilégio.
 
 ## Limite entre Privilégios e capacidades mecânicas
 
@@ -133,7 +133,7 @@ As **Especializações** são uma exceção a esse limite. Uma Especialização 
 
 O benefício pertence à Especialização, não ao Nível básico do Privilégio. A forma e o valor de cada efeito serão definidos individualmente na descrição da Especialização.
 
-Excluir uma capacidade dos Privilégios não significa classificá-la automaticamente como Perfil. Seu destino será decidido quando os Perfis forem avaliados.
+Excluir uma capacidade dos Privilégios não significa classificá-la automaticamente como Competência. Seu destino será decidido quando as Competências forem avaliadas.
 
 ## Perda de Privilégios
 
@@ -153,10 +153,10 @@ Antes da implementação oficial, os antigos Trunfos narrativos passarão por um
 - verificar quais Privilégios precisam de Especializações;
 - utilizar as identidades aprovadas como base para escrever a lista oficial.
 
-Essa avaliação pode ser realizada antes da definição dos Perfis. Capacidades cuja identidade seja apenas um benefício, penalidade ou efeito mecânico direto ficam fora da lista de Privilégios, mas efeitos mecânicos específicos podem fazer parte de suas Especializações.
+Essa avaliação pode ser realizada antes da definição das Competências. Capacidades cuja identidade seja apenas um benefício, penalidade ou efeito mecânico direto ficam fora da lista de Privilégios, mas efeitos mecânicos específicos podem fazer parte de suas Especializações.
 
 ## Integração
 
-As antigas versões narrativas foram removidas da lista de Trunfos e o orçamento compartilhado foi incorporado à criação de personagem.
+As antigas versões narrativas foram removidas da lista de Trunfos e o orçamento de Privilégios foi incorporado à criação de personagem.
 
-As referências às capacidades mecânicas mantidas como Trunfos legados serão substituídas quando os Perfis forem definidos.
+As referências às capacidades mecânicas mantidas como Trunfos legados serão substituídas quando as Competências forem definidas.

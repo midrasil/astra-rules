@@ -53,7 +53,7 @@ Os quatro pontos podem ser distribuídos, por exemplo, das seguintes formas:
 - uma Complicação Maior e duas Menores;
 - duas Complicações Maiores.
 
-Pontos de Complicação são separados dos pontos compartilhados entre Privilégios e Perfis. Complicações não concedem Privilégios, Perfis, XP ou qualquer outro benefício, e pontos não utilizados não podem ser transferidos para outro orçamento.
+Pontos de Complicação são separados dos Pontos de Privilégio. Complicações não concedem Privilégios, XP ou qualquer outro benefício, e pontos não utilizados não podem ser transferidos para outro orçamento.
 
 ## Tipos disponíveis
 
@@ -144,7 +144,7 @@ Quando os acontecimentos da campanha produzirem uma nova situação problemátic
 Complicações adquiridas dessa maneira:
 
 - precisam ser consequência dos acontecimentos da história;
-- não concedem pontos, Privilégios, Perfis ou recompensas retroativas;
+- não concedem pontos, Privilégios, Competências ou recompensas retroativas;
 - podem ser Menores ou Maiores, conforme seu alcance narrativo;
 - podem posteriormente ser reduzidas, transformadas ou resolvidas pela história.
 
