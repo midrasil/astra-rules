@@ -1,4 +1,4 @@
-Rascunho de trabalho. Adapta as criaturas do livro de monstros de referência para o Astra, usando as [[Características de NPC]] e as regras do sistema. Primeiro definimos a **conversão**; depois cada criatura é convertida com ela.
+Rascunho de trabalho. Adapta as criaturas do livro de monstros de referência para o Astra, usando as [Características de NPC](Trunfos/Caracter%C3%ADsticas%20de%20NPC.md) e as regras do sistema. Primeiro definimos a **conversão**; depois cada criatura é convertida com ela.
 
 Legenda do status: ⬜ não convertida · 🟨 em discussão · ✅ convertida · ❌ descartada
 

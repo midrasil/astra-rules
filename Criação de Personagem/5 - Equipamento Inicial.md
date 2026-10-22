@@ -5,8 +5,8 @@ Todo personagem começa com algum equipamento. O que ele carrega inicialmente é
 
 Todo item tem um **Valor**, e a **moeda** usada varia conforme o cenário.
 
-O personagem pode carregar itens até sua **Carga máxima** (`5 + Força`); passar disso o deixa em [[Equipamentos#Sobrecarga|Sobrecarga]].
+O personagem pode carregar itens até sua **Carga máxima** (`5 + Força`); passar disso o deixa em [Sobrecarga](../Regras/Equipamentos/Equipamentos.md#sobrecarga).
 
 ---
 
-← [[0 - Criação de Personagem|Voltar para Criação de Personagem]]
+← [Voltar para Criação de Personagem](0%20-%20Cria%C3%A7%C3%A3o%20de%20Personagem.md)

@@ -6,4 +6,4 @@ Nenhum Trunfo desta categoria foi registrado ainda.
 
 ---
 
-← [[Trunfos|Voltar para Trunfos]]
+← [Voltar para Trunfos](Trunfos.md)

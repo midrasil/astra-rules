@@ -1,13 +1,13 @@
 **Escudos** são equipamentos utilizados para defesa.
 
-Um personagem equipado com um **Escudo** pode escolher **Defender** em um Confronto (ver [[Confrontar]]).
+Um personagem equipado com um **Escudo** pode escolher **Defender** em um Confronto (ver [Confrontar](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Confrontar.md)).
 
 Cada escudo é descrito pelos seguintes campos:
 
 | Campo | Descrição |
 |---|---|
 | **Nome** | o nome do escudo |
-| **Categoria** | Leve, Médio ou Pesado (ver [[#Categorias]]) |
+| **Categoria** | Leve, Médio ou Pesado (ver [Categorias](#categorias)) |
 | **Força mínima** | a Força necessária para usar o escudo sem perder Movimentação |
 | **Descrição** | uma descrição breve do escudo |
 | **Proteção** | bônus concedido ao Defender |
@@ -16,7 +16,7 @@ Cada escudo é descrito pelos seguintes campos:
 
 ## Proteção
 
-Ao escolher **Defender**, o personagem adiciona a **Proteção** do escudo à sua Reserva de Dados (ver [[Confrontar]]).
+Ao escolher **Defender**, o personagem adiciona a **Proteção** do escudo à sua Reserva de Dados (ver [Confrontar](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Confrontar.md)).
 
 ## Categorias
 
@@ -30,4 +30,4 @@ Com Força abaixo da Força mínima do escudo empunhado, o personagem tem **-2 d
 
 ## Trunfos de escudo
 
-[[Combate#Abrigo do Escudo|Abrigo do Escudo]], [[Combate#Guardião|Guardião]], [[Combate#Baluarte|Baluarte]] e [[Combate#Guardião Aprimorado|Guardião Aprimorado]] usam a Proteção do Escudo contra dano em área e para proteger aliados adjacentes.
+[Abrigo do Escudo](../Personagens/Trunfos/Combate.md#abrigo-do-escudo), [Guardião](../Personagens/Trunfos/Combate.md#guardi%C3%A3o), [Baluarte](../Personagens/Trunfos/Combate.md#baluarte) e [Guardião Aprimorado](../Personagens/Trunfos/Combate.md#guardi%C3%A3o-aprimorado) usam a Proteção do Escudo contra dano em área e para proteger aliados adjacentes.

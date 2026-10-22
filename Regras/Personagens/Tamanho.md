@@ -1,4 +1,4 @@
-O **Tamanho** indica o porte físico de um personagem ou criatura e quanto espaço ele ocupa no mapa durante uma [[Cenas Táticas|Cena Tática]].
+O **Tamanho** indica o porte físico de um personagem ou criatura e quanto espaço ele ocupa no mapa durante uma [Cena Tática](../Cenas%20e%20Conflitos/Cenas%20T%C3%A1ticas.md).
 
 Todo personagem possui um Tamanho. O padrão é **Médio**.
 
@@ -17,7 +17,7 @@ Uma criatura que ocupa mais de um quadrado é considerada **adjacente** a tudo q
 
 Uma criatura só pode **mover outra criatura do mesmo Tamanho ou menor**.
 
-Isso vale para toda regra que desloca um personagem contra a vontade dele, como a Manobra [[Manobras#Reposicionar|Reposicionar]] ou arrastar um alvo [[Agarrado]]. Uma criatura menor ainda pode tentar Derrubar, Agarrar ou Desarmar uma maior, mas não consegue tirá-la do lugar.
+Isso vale para toda regra que desloca um personagem contra a vontade dele, como a Manobra [Reposicionar](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Manobras.md#reposicionar) ou arrastar um alvo [Agarrado](../Condi%C3%A7%C3%B5es/Agarrado.md). Uma criatura menor ainda pode tentar Derrubar, Agarrar ou Desarmar uma maior, mas não consegue tirá-la do lugar.
 
 ## Tamanho no ataque
 
@@ -35,4 +35,4 @@ Cenários e módulos podem definir regras adicionais para o Tamanho.
 
 ---
 
-← [[Personagens|Voltar a Personagens]]
+← [Voltar a Personagens](Personagens.md)

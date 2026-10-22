@@ -62,7 +62,7 @@ Se o personagem que iniciou a Manobra obtiver mais Sucessos, ele pode deslocar o
 
 Esse deslocamento pode representar um empurrão, puxão, condução corporal ou qualquer outra forma semelhante de retirar o alvo de sua posição.
 
-O personagem só pode Reposicionar um alvo do **mesmo [[Tamanho]] ou menor**.
+O personagem só pode Reposicionar um alvo do **mesmo [Tamanho](../../Personagens/Tamanho.md) ou menor**.
 
 Em caso de empate ou vitória do alvo, nada acontece.
 
@@ -100,7 +100,7 @@ Se o personagem que iniciou a Manobra obtiver mais Sucessos, o alvo recebe a con
 
 Em caso de empate ou vitória do alvo, nada acontece.
 
-**Derrubar não causa dano.** Seu efeito é apenas aplicar a condição **Caído** (ver [[Caído]]).
+**Derrubar não causa dano.** Seu efeito é apenas aplicar a condição **Caído** (ver [Caído](../../Condi%C3%A7%C3%B5es/Ca%C3%ADdo.md)).
 
 ## Agarrar
 
@@ -120,7 +120,7 @@ Se o personagem que iniciou a Manobra obtiver mais Sucessos, o alvo recebe a con
 
 Em caso de empate ou vitória do alvo, nada acontece.
 
-**Agarrar não causa dano.** Seu efeito é apenas aplicar a condição **Agarrado** (ver [[Agarrado]]).
+**Agarrar não causa dano.** Seu efeito é apenas aplicar a condição **Agarrado** (ver [Agarrado](../../Condi%C3%A7%C3%B5es/Agarrado.md)).
 
 ## Desarmar
 
@@ -193,4 +193,4 @@ Quando isso acontece, todas as Ações anteriormente utilizadas para Mirar são 
 
 Realizar o ataque encerra a Mira, independentemente do resultado da rolagem.
 
-No sistema, a Mira é a Condição [[Mirando]]: cada uso de Mirar soma um acúmulo.
+No sistema, a Mira é a Condição [Mirando](../../Condi%C3%A7%C3%B5es/Mirando.md): cada uso de Mirar soma um acúmulo.

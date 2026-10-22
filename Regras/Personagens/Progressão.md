@@ -1,4 +1,4 @@
-No **Astra Engine**, personagens não possuem níveis globais. Sua evolução acontece gradualmente por meio da aquisição e do aprimoramento de capacidades ao longo da campanha.
+No **Astra**, personagens não possuem níveis globais. Sua evolução acontece gradualmente por meio da aquisição e do aprimoramento de capacidades ao longo da campanha.
 
 Conforme participa de sessões, supera desafios, alcança objetivos e desenvolve sua história, o personagem recebe **Pontos de Experiência**, normalmente abreviados como **XP**.
 
@@ -24,9 +24,9 @@ Recomenda-se conceder a mesma quantidade de XP a todos os personagens do grupo, 
 
 O XP pode ser utilizado para:
 
-- aumentar [[Atributos|Atributos]];
-- aumentar [[Perícias|Perícias]];
-- adquirir [[Trunfos|Trunfos]];
+- aumentar [Atributos](Atributos.md);
+- aumentar [Perícias](Per%C3%ADcias.md);
+- adquirir [Trunfos](Trunfos/Trunfos.md);
 - adquirir ou desenvolver capacidades específicas de um cenário ou módulo.
 
 Aumentar uma característica significa comprar seu **próximo nível**. Não é possível ignorar níveis intermediários.
@@ -35,7 +35,7 @@ Quando uma regra utilizar o termo **novo nível**, considere o valor que a carac
 
 > **Exemplo:** aumentar uma Perícia do nível 2 para o nível 3 utiliza **3** como novo nível para calcular o custo.
 
-Quando um Atributo aumenta, todos os valores derivados dele, como Vida, Vontade, Carga e Iniciativa, são **recalculados imediatamente** (ver [[3 - Características Derivadas|Características Derivadas]]).
+Quando um Atributo aumenta, todos os valores derivados dele, como Vida, Vontade, Carga e Iniciativa, são **recalculados imediatamente** (ver [Características Derivadas](../../Cria%C3%A7%C3%A3o%20de%20Personagem/3%20-%20Caracter%C3%ADsticas%20Derivadas.md)).
 
 ## Custos de Experiência
 
@@ -84,4 +84,4 @@ O gasto de XP representa como as experiências vividas durante a campanha transf
 
 ---
 
-← [[Personagens|Voltar para Personagens]]
+← [Voltar para Personagens](Personagens.md)

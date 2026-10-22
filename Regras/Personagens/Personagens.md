@@ -2,38 +2,38 @@ Esta seção reúne os elementos que definem as capacidades, recursos, motivaç�
 
 ## Criação de personagem
 
-- [[0 - Criação de Personagem|Criação de Personagem]] — como montar um personagem do zero.
+- [Criação de Personagem](../../Cria%C3%A7%C3%A3o%20de%20Personagem/0%20-%20Cria%C3%A7%C3%A3o%20de%20Personagem.md) — como montar um personagem do zero.
 
 ## Capacidades
 
-- [[Atributos|Atributos]] — capacidades fundamentais físicas e espirituais.
-- [[Perícias|Perícias]] — conhecimentos e habilidades desenvolvidos pelo personagem.
+- [Atributos](Atributos.md) — capacidades fundamentais físicas e espirituais.
+- [Perícias](Per%C3%ADcias.md) — conhecimentos e habilidades desenvolvidos pelo personagem.
 
 ## Natureza
 
-- [[Tamanho|Tamanho]] — porte físico, espaço ocupado no mapa e quem pode mover quem.
-- [[Tipos de Criatura|Tipos de Criatura]] — classificação da natureza do personagem ou criatura.
+- [Tamanho](Tamanho.md) — porte físico, espaço ocupado no mapa e quem pode mover quem.
+- [Tipos de Criatura](Tipos%20de%20Criatura.md) — classificação da natureza do personagem ou criatura.
 
 ## Recursos
 
-- [[Vida|Vida]] — condição física, dano e recuperação.
-- [[Vontade|Vontade]] — determinação e resistência mental e emocional.
+- [Vida](Vida.md) — condição física, dano e recuperação.
+- [Vontade](Vontade.md) — determinação e resistência mental e emocional.
 
 ## Identidade e personalização
 
-- [[Ambição e Desejo|Ambição e Desejo]] — objetivos de longo e curto prazo.
-- [[Convicções e Pilares|Convicções e Pilares]] — princípios que o personagem defende e o que os sustenta.
-- [[Trunfos|Trunfos]] — talentos, aptidões e características especiais.
-- [[Complicações|Complicações]] — falhas e deficiências que criam dificuldades.
+- [Ambição e Desejo](Ambi%C3%A7%C3%A3o%20e%20Desejo.md) — objetivos de longo e curto prazo.
+- [Convicções e Pilares](Convic%C3%A7%C3%B5es%20e%20Pilares.md) — princípios que o personagem defende e o que os sustenta.
+- [Trunfos](Trunfos/Trunfos.md) — talentos, aptidões e características especiais.
+- [Complicações](Complica%C3%A7%C3%B5es/Complica%C3%A7%C3%B5es.md) — falhas e deficiências que criam dificuldades.
 
 ## Progressão
 
-- [[Progressão|Progressão]] — ganho e gasto de XP durante a campanha.
+- [Progressão](Progress%C3%A3o.md) — ganho e gasto de XP durante a campanha.
 
 ## Relações
 
-Essas características alimentam a [[Reserva de Dados|Reserva de Dados]] e são utilizadas durante [[Cenas e Conflitos|Cenas e Conflitos]].
+Essas características alimentam a [Reserva de Dados](../Mec%C3%A2nica%20B%C3%A1sica/Reserva%20de%20Dados.md) e são utilizadas durante [Cenas e Conflitos](../Cenas%20e%20Conflitos/Cenas%20e%20Conflitos.md).
 
 ---
 
-← [[Astra Engine|Voltar ao Astra Engine]]
+← [Voltar ao Astra](../../Readme.md)

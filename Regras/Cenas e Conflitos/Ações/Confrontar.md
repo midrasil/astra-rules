@@ -10,7 +10,7 @@ A combinação utilizada pode variar de acordo com a arma, a situação, o cená
 
 ## Combate com Duas Armas
 
-Todo personagem pode usar uma arma em cada mão por padrão. Quando não possui o Trunfo [[Combate#Lutar com Duas Armas|Lutar com Duas Armas]], o único benefício disso é ter duas armas com tipos e propriedades diferentes à sua disposição.
+Todo personagem pode usar uma arma em cada mão por padrão. Quando não possui o Trunfo [Lutar com Duas Armas](../../Personagens/Trunfos/Combate.md#lutar-com-duas-armas), o único benefício disso é ter duas armas com tipos e propriedades diferentes à sua disposição.
 
 Em outras palavras, a cada Confronto — seja atacando ou contra-atacando — o personagem pode escolher qual das duas armas irá utilizar.
 
@@ -46,7 +46,7 @@ A **Margem** corresponde à diferença entre a quantidade de Sucessos obtida pel
 
 Se ambos obtiverem a mesma quantidade de Sucessos, ocorre um empate e **o atacante vence**, mas causa apenas o **bônus de dano da arma** como **dano superficial**.
 
-Para Aceitar o Confronto, o personagem que está respondendo precisa ser capaz de atingir o atacante com a arma utilizada, respeitando a restrição das armas à distância (ver [[#Alcance e Respostas ao Confronto]]).
+Para Aceitar o Confronto, o personagem que está respondendo precisa ser capaz de atingir o atacante com a arma utilizada, respeitando a restrição das armas à distância (ver [Alcance e Respostas ao Confronto](#alcance-e-respostas-ao-confronto)).
 
 De forma geral, confrontos entre armas corpo a corpo exigem que ambos estejam dentro do alcance um do outro, enquanto ataques à distância só podem ser respondidos dessa forma quando o personagem também possuir uma forma válida de atingir o atacante.
 
@@ -62,7 +62,7 @@ ou
 
 > **Força + Lutar**
 
-À Reserva de Dados é adicionada a **Proteção** do [[Escudos|Escudo]].
+À Reserva de Dados é adicionada a **Proteção** do [Escudo](../../Equipamentos/Escudos.md).
 
 Se o defensor obtiver mais Sucessos que o atacante, o ataque é bloqueado e nenhum dos participantes causa dano.
 
@@ -92,7 +92,7 @@ Se o personagem obtiver mais Sucessos que o atacante, ele evita completamente o 
 
 em uma direção à sua escolha.
 
-Esse deslocamento segue as regras normais de [[Movimentação]], como Terreno Difícil e Movimentação Especial, mas não ativa efeitos provocados pela movimentação, como habilidades que punem ou interferem no deslocamento de adversários.
+Esse deslocamento segue as regras normais de [Movimentação](../../Movimento/Movimenta%C3%A7%C3%A3o.md), como Terreno Difícil e Movimentação Especial, mas não ativa efeitos provocados pela movimentação, como habilidades que punem ou interferem no deslocamento de adversários.
 
 Em caso de empate, o atacante vence, mas causa apenas o **bônus de dano da arma** como **dano superficial**.
 
@@ -126,7 +126,7 @@ O atacante conta a si mesmo entre os aliados adjacentes ao alvo. O bônus nunca 
 
 Para contar os lados:
 
-- **Adjacente** inclui as diagonais. Uma criatura que ocupa mais de um quadrado é adjacente a tudo que estiver ao lado de qualquer quadrado que ocupa (ver [[Tamanho]]).
+- **Adjacente** inclui as diagonais. Uma criatura que ocupa mais de um quadrado é adjacente a tudo que estiver ao lado de qualquer quadrado que ocupa (ver [Tamanho](../../Personagens/Tamanho.md)).
 - O **atacante** também precisa estar adjacente ao alvo.
 - Personagens **derrotados** não contam para nenhum dos lados.
 - **Personagens de jogadores** são sempre aliados entre si. Cada NPC pertence a um lado, que pode ser hostil, neutro ou aliado do grupo.
@@ -137,11 +137,11 @@ A Vantagem Numérica vale **apenas em ataques corpo a corpo**. Quando o inimigo 
 
 O **Alcance** de uma arma indica a distância máxima, em quadrados, na qual ela atinge seus alvos sem penalidade.
 
-Ataques à distância, incluindo [[Armas#Propriedades|armas de arremesso]], podem atingir alvos além do Alcance normal da arma. Para cada faixa de quadrados do tamanho do Alcance da arma além de seu Alcance normal, o atacante perde **-2 dados** de sua Reserva de Dados no ataque.
+Ataques à distância, incluindo [armas de arremesso](../../Equipamentos/Armas.md#propriedades), podem atingir alvos além do Alcance normal da arma. Para cada faixa de quadrados do tamanho do Alcance da arma além de seu Alcance normal, o atacante perde **-2 dados** de sua Reserva de Dados no ataque.
 
 Uma arma com **Alcance 6** atinge normalmente alvos a até 6 quadrados. Um alvo entre **7 e 12 quadrados** impõe **-2 dados** ao ataque; entre **13 e 18 quadrados**, **-4 dados**; e assim por diante.
 
-Para armas de arremesso, utilize o **Alcance de arremesso** em vez do Alcance da arma (ver [[Armas#Propriedades|Arremesso]]).
+Para armas de arremesso, utilize o **Alcance de arremesso** em vez do Alcance da arma (ver [Arremesso](../../Equipamentos/Armas.md#propriedades)).
 
 Se a perda reduzir a Reserva de Dados a menos de 1 dado, o ataque não pode ser realizado.
 

@@ -6,7 +6,7 @@ O personagem recebe:
 
 > **7 Pontos de Trunfo**
 
-Cada [[Trunfos|Trunfo]] custa **1 Ponto de Trunfo durante a criação**, independentemente de seu Estágio.
+Cada [Trunfo](../Regras/Personagens/Trunfos/Trunfos.md) custa **1 Ponto de Trunfo durante a criação**, independentemente de seu Estágio.
 
 O personagem pode escolher Trunfos de qualquer Estágio, desde que cumpra todos os requisitos ao final da criação. Quando um Trunfo exigir outro Trunfo, ambos precisam ser adquiridos e cada um custa 1 ponto.
 
@@ -20,7 +20,7 @@ O personagem precisa adquirir:
 
 > **4 Pontos de Complicação**
 
-Cada [[Complicações|Complicação]] possui um valor conforme seu grau:
+Cada [Complicação](../Regras/Personagens/Complica%C3%A7%C3%B5es/Complica%C3%A7%C3%B5es.md) possui um valor conforme seu grau:
 
 | Grau | Valor |
 |---|---:|
@@ -39,4 +39,4 @@ Os Pontos de Complicação são separados dos Pontos de Trunfo. Adquirir Complic
 
 ---
 
-← [[0 - Criação de Personagem|Voltar para Criação de Personagem]]
+← [Voltar para Criação de Personagem](0%20-%20Cria%C3%A7%C3%A3o%20de%20Personagem.md)

@@ -4,11 +4,11 @@ Cada Perícia pertence a uma **categoria** — **Físico** ou **Espiritual** —
 
 > **Atributo + Perícia = Reserva de Dados**
 
-Para saber como essa combinação funciona na prática, veja [[Reserva de Dados]].
+Para saber como essa combinação funciona na prática, veja [Reserva de Dados](../Mec%C3%A2nica%20B%C3%A1sica/Reserva%20de%20Dados.md).
 
 ## Lista de Perícias
 
-A tabela abaixo reúne as Perícias do núcleo do Astra Engine, sua **categoria** e uma descrição. A categoria indica a natureza da competência — se ela é predominantemente **Físico** ou **Espiritual** — mas não restringe o Atributo utilizado.
+A tabela abaixo reúne as Perícias do núcleo do Astra, sua **categoria** e uma descrição. A categoria indica a natureza da competência — se ela é predominantemente **Físico** ou **Espiritual** — mas não restringe o Atributo utilizado.
 
 | Perícia         | Categoria  | Descrição                                                                              |
 | --------------- | ---------- | -------------------------------------------------------------------------------------- |
@@ -48,9 +48,9 @@ Do mesmo modo, **Lutar** pode usar **Força**, quando o combate depende de impac
 
 ## Perícias por Cenário
 
-Esta lista representa o **núcleo padrão** do Astra Engine, mas cada cenário é livre para **adicionar, remover ou substituir** Perícias conforme o mundo e a proposta da campanha.
+Esta lista representa o **núcleo padrão** do Astra, mas cada cenário é livre para **adicionar, remover ou substituir** Perícias conforme o mundo e a proposta da campanha.
 
 - Um cenário **medieval** não teria **Dirigir** nem **Pilotar**, pois esses veículos não existem. Em troca, poderia incluir Perícias próprias, como **Etiqueta** ou **Comando**.
 - Um cenário de **ficção científica** manteria **Pilotar** e poderia adicionar Perícias como **Hacking** ou **Engenharia**.
 
-Essa liberdade faz parte da filosofia modular do Astra Engine: o núcleo fornece a base, e cada cenário ajusta as ferramentas de que precisa.
+Essa liberdade faz parte da filosofia modular do Astra: o núcleo fornece a base, e cada cenário ajusta as ferramentas de que precisa.

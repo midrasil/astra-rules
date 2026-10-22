@@ -1,6 +1,6 @@
-Uma **Vulnerabilidade** é um valor associado a um [[Armas#Tipos de Dano|Tipo de Dano]] ou [[Armas#Material (obrigatório, um por arma)|Material]] específico, que deixa o personagem mais suscetível ao dano correspondente. Ela sempre acompanha um valor — por exemplo, **Vulnerabilidade a Gelo 2** ou **Vulnerabilidade a Prata 3**.
+Uma **Vulnerabilidade** é um valor associado a um [Tipo de Dano](../Equipamentos/Armas.md#tipos-de-dano) ou [Material](../Equipamentos/Armas.md#material-obrigat%C3%B3rio-um-por-arma) específico, que deixa o personagem mais suscetível ao dano correspondente. Ela sempre acompanha um valor — por exemplo, **Vulnerabilidade a Gelo 2** ou **Vulnerabilidade a Prata 3**.
 
-No cálculo da [[Resistência e Vulnerabilidade#Absorção Efetiva|Absorção Efetiva]], as Vulnerabilidades ao Tipo de Dano e ao Material da arma são somadas e **subtraem** da absorção. Por isso, uma Vulnerabilidade consome a [[Armaduras#Absorção|Absorção da armadura]] antes de se tornar dano extra.
+No cálculo da [Absorção Efetiva](Resist%C3%AAncia%20e%20Vulnerabilidade.md#absor%C3%A7%C3%A3o-efetiva), as Vulnerabilidades ao Tipo de Dano e ao Material da arma são somadas e **subtraem** da absorção. Por isso, uma Vulnerabilidade consome a [Absorção da armadura](../Equipamentos/Armaduras.md#absor%C3%A7%C3%A3o) antes de se tornar dano extra.
 
 Por enquanto, Vulnerabilidades a Materiais são definidas diretamente nos personagens e criaturas.
 
@@ -13,4 +13,4 @@ Por exemplo, um personagem com **Absorção 2** e **Vulnerabilidade a Fogo 3** t
 
 ---
 
-← [[Resistência e Vulnerabilidade|Voltar para Resistência e Vulnerabilidade]]
+← [Voltar para Resistência e Vulnerabilidade](Resist%C3%AAncia%20e%20Vulnerabilidade.md)

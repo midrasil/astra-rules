@@ -1,4 +1,4 @@
-Lista de Complicações do núcleo. Cada entrada reúne a versão **menor** e a **maior** (ver [[Complicações#Formato de uma Complicação|Formato de uma Complicação]]).
+Lista de Complicações do núcleo. Cada entrada reúne a versão **menor** e a **maior** (ver [Formato de uma Complicação](Complica%C3%A7%C3%B5es.md#formato-de-uma-complica%C3%A7%C3%A3o)).
 
 ## Audição
 
@@ -45,5 +45,5 @@ Complicações de Reputação e Segredos são narrativas: não alteram rolagens.
 
 ## Sorte
 
-- **Menor — Má Sorte:** a sorte raramente sorri para o personagem. Ao usar Vontade para [[Vontade#Rerrolar Dados|Rerrolar Dados]], ele rerrola **1 dado a menos** (até 2 em vez de 3).
-- **Maior — Azarado:** o azar persegue o personagem. Ao usar Vontade para [[Vontade#Rerrolar Dados|Rerrolar Dados]], ele rerrola **2 dados a menos** (só 1 em vez de 3).
+- **Menor — Má Sorte:** a sorte raramente sorri para o personagem. Ao usar Vontade para [Rerrolar Dados](../Vontade.md#rerrolar-dados), ele rerrola **1 dado a menos** (até 2 em vez de 3).
+- **Maior — Azarado:** o azar persegue o personagem. Ao usar Vontade para [Rerrolar Dados](../Vontade.md#rerrolar-dados), ele rerrola **2 dados a menos** (só 1 em vez de 3).

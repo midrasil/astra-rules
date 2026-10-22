@@ -1,10 +1,10 @@
 Uma **Convicção** é um princípio que o personagem se recusa a trair — por exemplo, "Nunca abandonar quem luta ao meu lado".
 
-Diferente da [[Ambição e Desejo|Ambição e do Desejo]], uma Convicção não é um objetivo: é um **limite de conduta**.
+Diferente da [Ambição e do Desejo](Ambi%C3%A7%C3%A3o%20e%20Desejo.md), uma Convicção não é um objetivo: é um **limite de conduta**.
 
 ## Convicções
 
-Todo personagem possui **3 Convicções**, escolhidas na criação de personagem (ver [[1 - Identidade|Identidade]]).
+Todo personagem possui **3 Convicções**, escolhidas na criação de personagem (ver [Identidade](../../Cria%C3%A7%C3%A3o%20de%20Personagem/1%20-%20Identidade.md)).
 
 ## Pilares
 
@@ -18,7 +18,7 @@ Cada Convicção suporta **2 Fraturas**. Uma Convicção pode estar:
 
 - **Íntegra** — sem Fraturas;
 - com **1 Fratura**;
-- com **2 Fraturas**, o que a **rompe** (ver [[#Convicção Rompida|Convicção Rompida]]).
+- com **2 Fraturas**, o que a **rompe** (ver [Convicção Rompida](#convic%C3%A7%C3%A3o-rompida)).
 
 ### Ganhando uma Fratura
 
@@ -27,11 +27,11 @@ Uma Convicção ganha **1 Fratura** quando:
 - o personagem age **deliberadamente** contra ela; ou
 - seu Pilar é **ferido** ou **corrompido**.
 
-Ao ganhar uma Fratura, o personagem sofre **1 ponto de dano agravado de [[Vontade|Vontade]]**.
+Ao ganhar uma Fratura, o personagem sofre **1 ponto de dano agravado de [Vontade](Vontade.md)**.
 
 ### Reparando uma Fratura
 
-Ao final de uma sessão em que o personagem defendeu uma Convicção que não está rompida, ou seu Pilar, pagando um **custo real** — como risco, perda ou renúncia —, remova **1 Fratura** dessa Convicção. Reparar uma Fratura torna **1 ponto de dano agravado de [[Vontade|Vontade]]** em dano superficial.
+Ao final de uma sessão em que o personagem defendeu uma Convicção que não está rompida, ou seu Pilar, pagando um **custo real** — como risco, perda ou renúncia —, remova **1 Fratura** dessa Convicção. Reparar uma Fratura torna **1 ponto de dano agravado de [Vontade](Vontade.md)** em dano superficial.
 
 Isso pode ocorrer **uma vez por sessão para cada Convicção**.
 
@@ -42,7 +42,7 @@ Uma Convicção se **rompe** quando:
 - recebe a segunda Fratura; ou
 - seu Pilar é **destruído** ou **perdido**. Nesse caso, a Convicção passa direto a ter **2 Fraturas**, e o personagem sofre **1 ponto de dano agravado de Vontade** para cada Fratura ganha dessa forma.
 
-Enquanto houver Convicções rompidas, toda compra feita com [[Progressão|XP]] custa **2 XP a mais** para cada Convicção rompida, até o máximo de **6 XP a mais**.
+Enquanto houver Convicções rompidas, toda compra feita com [XP](Progress%C3%A3o.md) custa **2 XP a mais** para cada Convicção rompida, até o máximo de **6 XP a mais**.
 
 ### Restaurando uma Convicção Rompida
 
@@ -55,7 +55,7 @@ O jogador e o Narrador definem juntos se a Convicção será **restaurada** ou *
 
 ## Benefício
 
-**Uma vez por sessão**, quando o personagem age em defesa de uma Convicção ou de seu Pilar, ele pode [[Vontade#Usando a Vontade|usar Vontade]] **sem sofrer o dano superficial de Vontade**, seja para [[Vontade#Rerrolar Dados|Rerrolar Dados]] ou para [[Vontade#Ignorar Penalidades Físicas|Ignorar Penalidades Físicas]].
+**Uma vez por sessão**, quando o personagem age em defesa de uma Convicção ou de seu Pilar, ele pode [usar Vontade](Vontade.md#usando-a-vontade) **sem sofrer o dano superficial de Vontade**, seja para [Rerrolar Dados](Vontade.md#rerrolar-dados) ou para [Ignorar Penalidades Físicas](Vontade.md#ignorar-penalidades-f%C3%ADsicas).
 
 Esse uso é possível mesmo com a trilha de Vontade cheia.
 
@@ -69,4 +69,4 @@ As Convicções não determinam como o personagem deve agir. O jogador sempre de
 
 ---
 
-← [[Personagens|Voltar para Personagens]]
+← [Voltar para Personagens](Personagens.md)

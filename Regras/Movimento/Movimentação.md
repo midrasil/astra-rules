@@ -12,7 +12,7 @@ A Movimentação pode ser realizada antes ou depois da Ação do personagem, de 
 
 Cada quadrado percorrido custa **1 ponto de Movimentação**.
 
-Mover-se na diagonal também custa apenas **1 ponto de Movimentação**. O Astra Engine não utiliza custos adicionais para deslocamentos diagonais.
+Mover-se na diagonal também custa apenas **1 ponto de Movimentação**. O Astra não utiliza custos adicionais para deslocamentos diagonais.
 
 Um personagem pode atravessar normalmente um quadrado ocupado por um **aliado** (não podendo permanecer no mesmo quadrado), mas não pode atravessar um quadrado ocupado por um **inimigo**.
 
@@ -52,4 +52,4 @@ Dessa forma, diferentes formas de voo podem funcionar de maneiras distintas, de 
 
 ## Salto
 
-O **Salto** é realizado utilizando uma **Ação** e possui regras próprias. Consulte [[Saltar|Saltar]].
+O **Salto** é realizado utilizando uma **Ação** e possui regras próprias. Consulte [Saltar](Saltar.md).

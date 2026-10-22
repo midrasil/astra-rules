@@ -14,7 +14,7 @@ Legenda do status: ⬜ não analisado · 🟨 em discussão · ✅ decidido · �
 
 ## Grupo 1 — Movimentos especiais ✅
 
-No Astra, nadar e escalar são [[Movimentação#Movimentação Especial|Movimentação Especial]] e custam 2 pontos de Movimentação por quadrado. O [[Movimentação#Voo|Voo]] não segue essa regra: quem concede o Voo define como ele funciona.
+No Astra, nadar e escalar são [Movimentação Especial](../Movimento/Movimenta%C3%A7%C3%A3o.md#movimenta%C3%A7%C3%A3o-especial) e custam 2 pontos de Movimentação por quadrado. O [Voo](../Movimento/Movimenta%C3%A7%C3%A3o.md#voo) não segue essa regra: quem concede o Voo define como ele funciona.
 
 Pela decisão geral, a característica deixa a criatura usar a sua Movimentação com aquele movimento **pelo custo normal**, 1 ponto por quadrado.
 
@@ -65,7 +65,7 @@ Regra simples de iluminação, nova no vault:
 
 ## Grupo 5 — Tamanho no ataque ✅
 
-O Astra já tem o campo [[Tamanho]]. Proposta: atacar um alvo muito maior é mais fácil e atacar um alvo muito menor é mais difícil.
+O Astra já tem o campo [Tamanho](Tamanho.md). Proposta: atacar um alvo muito maior é mais fácil e atacar um alvo muito menor é mais difícil.
 
 Conta a diferença de categorias entre atacante e alvo (Minúsculo, Pequeno, Médio, Grande, Enorme, Colossal):
 
@@ -100,4 +100,4 @@ Ficam de fora, por serem de cenário ou dependerem de regras que o Astra não te
 - **Medo** é acumulável. Cada acúmulo impõe **-1 dado** em todas as Reservas do personagem.
 - No **fim de cada turno do personagem afetado**, ele perde 1 acúmulo.
 - A quantidade de acúmulos da Aterrorizante, como todos os valores das características, é configurável em cada criatura; o padrão é igual à Potência.
-- Texto final em [[Características de NPC]].
+- Texto final em [Características de NPC](Trunfos/Caracter%C3%ADsticas%20de%20NPC.md).

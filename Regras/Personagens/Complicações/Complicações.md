@@ -25,7 +25,7 @@ Cada Complicação reúne suas duas versões em uma única entrada, descrevendo 
 
 ## Aquisição
 
-Durante a [[4 - Trunfos e Complicações|criação de personagem]], cada personagem precisa adquirir exatamente **4 Pontos de Complicação**.
+Durante a [criação de personagem](../../../Cria%C3%A7%C3%A3o%20de%20Personagem/4%20-%20Trunfos%20e%20Complica%C3%A7%C3%B5es.md), cada personagem precisa adquirir exatamente **4 Pontos de Complicação**.
 
 Uma mesma Complicação só pode ser escolhida uma vez. O personagem não pode possuir simultaneamente suas versões Menor e Maior.
 

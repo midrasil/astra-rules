@@ -18,4 +18,4 @@ Um personagem com **Movimentação 0**, como um personagem Agarrado, não pode s
 
 ---
 
-← [[Condições|Voltar para Condições]]
+← [Voltar para Condições](Condi%C3%A7%C3%B5es.md)

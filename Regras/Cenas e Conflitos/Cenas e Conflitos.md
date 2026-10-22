@@ -2,23 +2,23 @@ Esta seção organiza as regras usadas quando uma situação exige ordem de inic
 
 ## Estrutura da cena
 
-- [[Cenas Táticas|Cenas Táticas]] — visão geral dos conflitos estruturados.
-- [[A Cena|A Cena]] — rodadas, turnos e iniciativa.
-- [[Ação|Ação]] — o que um personagem pode fazer durante seu turno.
+- [Cenas Táticas](Cenas%20T%C3%A1ticas.md) — visão geral dos conflitos estruturados.
+- [A Cena](A%20Cena.md) — rodadas, turnos e iniciativa.
+- [Ação](A%C3%A7%C3%A3o.md) — o que um personagem pode fazer durante seu turno.
 
 ## Conflitos e decisões táticas
 
-- [[Confrontar|Confrontar]] — ataques e respostas do alvo.
-- [[Manobras|Manobras]] — controle de posição, condição ou movimento.
-- [[Aguardar|Aguardar]] — atrasar o turno ou preparar uma ação.
-- [[Iluminação|Iluminação]] — penalidades por pouca luz.
+- [Confrontar](A%C3%A7%C3%B5es/Confrontar.md) — ataques e respostas do alvo.
+- [Manobras](A%C3%A7%C3%B5es/Manobras.md) — controle de posição, condição ou movimento.
+- [Aguardar](A%C3%A7%C3%B5es/Aguardar.md) — atrasar o turno ou preparar uma ação.
+- [Iluminação](Ilumina%C3%A7%C3%A3o.md) — penalidades por pouca luz.
 
 ## Seções relacionadas
 
-- [[Movimento|Movimento]]
-- [[Regras/Equipamentos/Equipamentos|Equipamentos]]
-- [[Mecânica Básica|Mecânica Básica]]
+- [Movimento](../Movimento/Movimento.md)
+- [Equipamentos](../Equipamentos/Equipamentos.md)
+- [Mecânica Básica](../Mec%C3%A2nica%20B%C3%A1sica/Mec%C3%A2nica%20B%C3%A1sica.md)
 
 ---
 
-← [[Astra Engine|Voltar ao Astra Engine]]
+← [Voltar ao Astra](../../Readme.md)

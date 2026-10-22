@@ -4,8 +4,8 @@
 
 No **fim de cada turno** do personagem afetado, ele perde 1 acúmulo de Medo.
 
-O Medo é aplicado, por exemplo, pela característica **Aterrorizante** (ver [[Características de NPC]]).
+O Medo é aplicado, por exemplo, pela característica **Aterrorizante** (ver [Características de NPC](../Personagens/Trunfos/Caracter%C3%ADsticas%20de%20NPC.md)).
 
 ---
 
-← [[Condições|Voltar para Condições]]
+← [Voltar para Condições](Condi%C3%A7%C3%B5es.md)

@@ -8,7 +8,7 @@ Ao realizar um ataque contra qualquer alvo que não seja o personagem que o est�
 
 Ataques realizados contra quem está mantendo o agarrão não sofrem essa penalidade.
 
-O personagem que mantém o agarrão pode arrastar ou carregar o alvo enquanto se movimenta, desde que o alvo seja do **mesmo [[Tamanho]] ou menor**. Esse deslocamento é tratado como uma **Movimentação Especial** e segue as regras aplicáveis a esse tipo de movimento.
+O personagem que mantém o agarrão pode arrastar ou carregar o alvo enquanto se movimenta, desde que o alvo seja do **mesmo [Tamanho](../Personagens/Tamanho.md) ou menor**. Esse deslocamento é tratado como uma **Movimentação Especial** e segue as regras aplicáveis a esse tipo de movimento.
 
 ## Como escapar
 
@@ -20,4 +20,4 @@ Se o personagem Agarrado obtiver mais Sucessos, a condição **Agarrado** é enc
 
 ---
 
-← [[Condições|Voltar para Condições]]
+← [Voltar para Condições](Condi%C3%A7%C3%B5es.md)

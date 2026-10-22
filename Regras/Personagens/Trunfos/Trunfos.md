@@ -1,4 +1,4 @@
-**Trunfos** representam talentos, aptidões especiais e características que distinguem um personagem, indo além de seus [[Atributos|Atributos]] e [[Perícias|Perícias]].
+**Trunfos** representam talentos, aptidões especiais e características que distinguem um personagem, indo além de seus [Atributos](../Atributos.md) e [Perícias](../Per%C3%ADcias.md).
 
 Enquanto Atributos e Perícias descrevem capacidades gerais, os Trunfos representam aquilo que torna cada personagem único: treinamentos específicos, dons especiais e capacidades incomuns.
 
@@ -6,16 +6,16 @@ Enquanto Atributos e Perícias descrevem capacidades gerais, os Trunfos represen
 
 Os Trunfos são divididos em oito categorias:
 
-- [[Antecedentes]] — características ligadas à origem, formação e natureza do personagem.
-- [[Combate]] — talentos voltados à luta e ao confronto.
-- [[Liderança]] — capacidades de comandar, inspirar e coordenar aliados.
-- [[Poder]] — Trunfos ligados a poderes e capacidades extraordinárias.
-- [[Profissionais]] — Trunfos ligados a uma área de especialização ou profissão.
-- [[Sociais]] — talentos ligados à interação, influência e relações entre personagens.
-- [[Estranhas]] — capacidades estranhas, sobrenaturais ou inexplicáveis.
-- [[Lendárias]] — os Trunfos mais poderosos e raros.
+- [Antecedentes](Antecedentes.md) — características ligadas à origem, formação e natureza do personagem.
+- [Combate](Combate.md) — talentos voltados à luta e ao confronto.
+- [Liderança](Lideran%C3%A7a.md) — capacidades de comandar, inspirar e coordenar aliados.
+- [Poder](Poder.md) — Trunfos ligados a poderes e capacidades extraordinárias.
+- [Profissionais](Profissionais.md) — Trunfos ligados a uma área de especialização ou profissão.
+- [Sociais](Sociais.md) — talentos ligados à interação, influência e relações entre personagens.
+- [Estranhas](Estranhas.md) — capacidades estranhas, sobrenaturais ou inexplicáveis.
+- [Lendárias](Lend%C3%A1rias.md) — os Trunfos mais poderosos e raros.
 
-Além delas, as [[Características de NPC]] são Trunfos usados, por padrão, apenas por NPCs e criaturas.
+Além delas, as [Características de NPC](Caracter%C3%ADsticas%20de%20NPC.md) são Trunfos usados, por padrão, apenas por NPCs e criaturas.
 
 ## Requisitos
 
@@ -28,7 +28,7 @@ Um Trunfo ainda pode exigir:
 - que o personagem não possua um Trunfo incompatível;
 - requisitos adicionais definidos pelo cenário ou módulo.
 
-O Estágio de um Trunfo determina seu custo em XP durante a campanha, mas não restringe seu acesso. As regras de aquisição estão centralizadas em [[Progressão#Adquirindo Trunfos|Progressão]]. Durante a criação, cada Trunfo custa 1 Ponto de Trunfo, independentemente do Estágio (ver [[4 - Trunfos e Complicações|Trunfos e Complicações]]).
+O Estágio de um Trunfo determina seu custo em XP durante a campanha, mas não restringe seu acesso. As regras de aquisição estão centralizadas em [Progressão](../Progress%C3%A3o.md#adquirindo-trunfos). Durante a criação, cada Trunfo custa 1 Ponto de Trunfo, independentemente do Estágio (ver [Trunfos e Complicações](../../../Cria%C3%A7%C3%A3o%20de%20Personagem/4%20-%20Trunfos%20e%20Complica%C3%A7%C3%B5es.md)).
 
 ## Formato de um Trunfo
 
@@ -42,8 +42,8 @@ Todo Trunfo é apresentado com as seguintes informações:
 
 ## Complicações
 
-As [[Complicações|Complicações]] são falhas e deficiências que trazem obstáculos ao personagem. Elas funcionam de forma diferente dos Trunfos.
+As [Complicações](../Complica%C3%A7%C3%B5es/Complica%C3%A7%C3%B5es.md) são falhas e deficiências que trazem obstáculos ao personagem. Elas funcionam de forma diferente dos Trunfos.
 
 ---
 
-← [[Personagens|Voltar para Personagens]]
+← [Voltar para Personagens](../Personagens.md)

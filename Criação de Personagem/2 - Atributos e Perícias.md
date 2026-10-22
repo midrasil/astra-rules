@@ -1,8 +1,8 @@
-Além do conceito, um personagem é definido numericamente por seus [[Atributos|Atributos]] e [[Perícias|Perícias]]. Esta subsessão trata da distribuição inicial de pontos entre eles.
+Além do conceito, um personagem é definido numericamente por seus [Atributos](../Regras/Personagens/Atributos.md) e [Perícias](../Regras/Personagens/Per%C3%ADcias.md). Esta subsessão trata da distribuição inicial de pontos entre eles.
 
 ## Atributos
 
-Todo personagem possui os seis [[Atributos|Atributos]] do núcleo, com valores de **1 a 5** (1 = fraco, 2 = médio, 5 = auge humano).
+Todo personagem possui os seis [Atributos](../Regras/Personagens/Atributos.md) do núcleo, com valores de **1 a 5** (1 = fraco, 2 = médio, 5 = auge humano).
 
 Distribua o array fixo abaixo, escolhendo **onde cada valor entra**:
 
@@ -12,7 +12,7 @@ Nenhum Atributo pode passar de **4** durante a criação — o valor **5** só �
 
 ## Perícias
 
-As [[Perícias|Perícias]] variam de **0 a 5** (0 = sem treino). Comece com todas em **0** e escolha **um** dos três perfis:
+As [Perícias](../Regras/Personagens/Per%C3%ADcias.md) variam de **0 a 5** (0 = sem treino). Comece com todas em **0** e escolha **um** dos três perfis:
 
 - **Generalista** — uma perícia em 3, seis em 2 e sete em 1.
 - **Equilibrado** — duas em 3, quatro em 2 e cinco em 1.
@@ -22,4 +22,4 @@ As perícias que não receberem pontos permanecem em **0**. O teto na criação 
 
 ---
 
-← [[0 - Criação de Personagem|Voltar para Criação de Personagem]]
+← [Voltar para Criação de Personagem](0%20-%20Cria%C3%A7%C3%A3o%20de%20Personagem.md)

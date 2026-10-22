@@ -1,4 +1,4 @@
-Um personagem **Mirando** usou a Manobra [[Manobras#Mirar|Mirar]] e se concentra no alvo. Cada acúmulo dá:
+Um personagem **Mirando** usou a Manobra [Mirar](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Manobras.md#mirar) e se concentra no alvo. Cada acúmulo dá:
 
 > **+2 dados no próximo Ataque com Atirar**, inclusive com armas de arremesso
 
@@ -9,12 +9,12 @@ Todos os acúmulos são perdidos se, antes de atacar, o personagem:
 - se mover;
 - for deslocado à força;
 - for atacado;
-- ficar [[Caído]].
+- ficar [Caído](Ca%C3%ADdo.md).
 
-Realizar o Ataque também encerra a Mira, exceto para quem tem o Trunfo [[Combate#Atirador|Atirador]].
+Realizar o Ataque também encerra a Mira, exceto para quem tem o Trunfo [Atirador](../Personagens/Trunfos/Combate.md#atirador).
 
 O sistema retira esta Condição sozinho nesses casos e no fim do combate.
 
 ---
 
-← [[Condições|Voltar para Condições]]
+← [Voltar para Condições](Condi%C3%A7%C3%B5es.md)

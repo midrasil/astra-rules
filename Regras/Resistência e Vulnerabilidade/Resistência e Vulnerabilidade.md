@@ -1,28 +1,28 @@
-Esta seção reúne as regras que definem como personagens e criaturas reagem a dano de [[Armas#Tipos de Dano|Tipos de Dano]] e [[Armas#Material (obrigatório, um por arma)|Materiais]] específicos, através de **Resistências**, **Vulnerabilidades** e **Imunidades**.
+Esta seção reúne as regras que definem como personagens e criaturas reagem a dano de [Tipos de Dano](../Equipamentos/Armas.md#tipos-de-dano) e [Materiais](../Equipamentos/Armas.md#material-obrigat%C3%B3rio-um-por-arma) específicos, através de **Resistências**, **Vulnerabilidades** e **Imunidades**.
 
 Elas podem ser concedidas por equipamentos, condições, origens, criaturas, magias ou efeitos.
 
 ## Conceitos
 
-- [[Resistência|Resistência]] — valor que contribui para converter dano agravado em dano superficial.
-- [[Vulnerabilidade|Vulnerabilidade]] — valor que reduz a absorção e aumenta o dano recebido.
-- [[Imunidade|Imunidade]] — sem valor; o dano do Tipo ou Material simplesmente não se aplica.
+- [Resistência](Resist%C3%AAncia.md) — valor que contribui para converter dano agravado em dano superficial.
+- [Vulnerabilidade](Vulnerabilidade.md) — valor que reduz a absorção e aumenta o dano recebido.
+- [Imunidade](Imunidade.md) — sem valor; o dano do Tipo ou Material simplesmente não se aplica.
 
 As Resistências, Vulnerabilidades e Imunidades a Materiais são, por enquanto, definidas diretamente nos personagens e criaturas. Armaduras continuam concedendo Resistências apenas a Tipos de Dano.
 
 ## Absorção Efetiva
 
-Ao sofrer dano, calcula-se a **absorção efetiva** considerando o [[Armas#Tipos de Dano|Tipo de Dano]] recebido e o Material da arma que o causou, quando houver:
+Ao sofrer dano, calcula-se a **absorção efetiva** considerando o [Tipo de Dano](../Equipamentos/Armas.md#tipos-de-dano) recebido e o Material da arma que o causou, quando houver:
 
-> **Absorção Efetiva** = [[Armaduras#Absorção|Absorção da armadura]] + Σ [[Resistência|Resistências]] ao Tipo e ao Material − Σ [[Vulnerabilidade|Vulnerabilidades]] ao Tipo e ao Material
+> **Absorção Efetiva** = [Absorção da armadura](../Equipamentos/Armaduras.md#absor%C3%A7%C3%A3o) + Σ [Resistências](Resist%C3%AAncia.md) ao Tipo e ao Material − Σ [Vulnerabilidades](Vulnerabilidade.md) ao Tipo e ao Material
 
 Os valores do Tipo e do Material são somados. Quando a fonte de dano não tem Material, apenas o Tipo de Dano é considerado.
 
 - **Absorção efetiva maior ou igual ao dano agravado:** todo o dano é convertido em dano superficial.
-- **Absorção efetiva entre 0 e o dano:** apenas a parte coberta pela absorção é convertida; o excedente permanece agravado (ver [[Armaduras]]).
-- **Absorção efetiva negativa:** o valor negativo é somado ao dano recebido (em módulo) e todo o dano é agravado — nenhuma conversão é possível (ver [[Vulnerabilidade]]).
+- **Absorção efetiva entre 0 e o dano:** apenas a parte coberta pela absorção é convertida; o excedente permanece agravado (ver [Armaduras](../Equipamentos/Armaduras.md)).
+- **Absorção efetiva negativa:** o valor negativo é somado ao dano recebido (em módulo) e todo o dano é agravado — nenhuma conversão é possível (ver [Vulnerabilidade](Vulnerabilidade.md)).
 - Dano que já é **superficial** não é afetado pela absorção positiva.
-- A [[Imunidade]] ao Tipo ou ao Material prevalece sobre tudo: o dano é ignorado antes mesmo de calcular a absorção efetiva, mesmo que haja Vulnerabilidade ao outro.
+- A [Imunidade](Imunidade.md) ao Tipo ou ao Material prevalece sobre tudo: o dano é ignorado antes mesmo de calcular a absorção efetiva, mesmo que haja Vulnerabilidade ao outro.
 
 ## Exemplos
 
@@ -35,8 +35,8 @@ Os valores do Tipo e do Material são somados. Quando a fonte de dano não tem M
 
 ## Relações
 
-Os Tipos de Dano e Materiais são definidos em [[Armas|Armas]]. A gravidade do dano e sua recuperação estão descritas em [[Vida|Vida]].
+Os Tipos de Dano e Materiais são definidos em [Armas](../Equipamentos/Armas.md). A gravidade do dano e sua recuperação estão descritas em [Vida](../Personagens/Vida.md).
 
 ---
 
-← [[Astra Engine|Voltar ao Astra Engine]]
+← [Voltar ao Astra](../../Readme.md)

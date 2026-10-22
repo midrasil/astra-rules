@@ -6,7 +6,7 @@ Quanto maior a Reserva de Dados, maiores são as chances do personagem obter um 
 
 ## Dados Utilizados
 
-O Astra Engine utiliza **dados de dez faces**, representados pela abreviação **d10**.
+O Astra utiliza **dados de dez faces**, representados pela abreviação **d10**.
 
 Cada ponto que compõe uma **Reserva de Dados** corresponde a um d10 que deve ser rolado.
 
@@ -38,11 +38,11 @@ Toda Reserva de Dados tem **um Atributo**. A segunda parcela, quando houver, é 
 
 ### Penalidades
 
-Penalidades em dados, como as de [[Caído]], [[Debilitado]], [[Agarrado]] e [[Equipamentos#Sobrecarga|Sobrecarga]], **se somam**. Um personagem Caído e Debilitado, por exemplo, sofre **-4 dados**.
+Penalidades em dados, como as de [Caído](../Condi%C3%A7%C3%B5es/Ca%C3%ADdo.md), [Debilitado](../Condi%C3%A7%C3%B5es/Debilitado.md), [Agarrado](../Condi%C3%A7%C3%B5es/Agarrado.md) e [Sobrecarga](../Equipamentos/Equipamentos.md#sobrecarga), **se somam**. Um personagem Caído e Debilitado, por exemplo, sofre **-4 dados**.
 
 Quando a Reserva combina dois Atributos de **categorias diferentes** (um Físico e um Espiritual), valem as penalidades das duas categorias, e elas também se somam.
 
-Se as penalidades reduzirem a Reserva de Dados a menos de 1 dado, o personagem não rola, e seu resultado é considerado **1 Sucesso**, da mesma forma que um [[Confrontar#Alvo sem Resposta|alvo sem resposta]].
+Se as penalidades reduzirem a Reserva de Dados a menos de 1 dado, o personagem não rola, e seu resultado é considerado **1 Sucesso**, da mesma forma que um [alvo sem resposta](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Confrontar.md#alvo-sem-resposta).
 
 ## Realizando o Teste
 

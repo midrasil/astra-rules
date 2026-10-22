@@ -4,23 +4,23 @@ As Condições são aplicadas por Ações, Manobras, Trunfos ou outras regras. T
 
 ## Condições
 
-- [[Caído]] — no chão; penaliza as próprias rolagens e altera ataques feitos contra ele.
-- [[Agarrado]] — imobilizado por outro personagem; sem movimentação.
-- [[Debilitado]] — trilha de Vida cheia.
-- [[Lento]] — Movimentação reduzida até o próximo Turno de quem aplicou.
-- [[Abalado]] — penalidade no próximo Ataque.
-- [[Embalo]] — bônus acumulado nos Ataques contra o mesmo alvo.
-- [[Envenenado]] — penalidade em rolagens Físicas.
-- [[Paralisado]] — sem Ação nem Movimentação.
-- [[Atordoado]] — sem Ação.
-- [[Medo]] — penalidade acumulável em todas as Reservas.
-- [[Fúria]] — só em combate; ataca com mais força e se defende pior.
-- [[Mirando]] — acumula o bônus da Manobra Mirar para o próximo Ataque com Atirar.
+- [Caído](Ca%C3%ADdo.md) — no chão; penaliza as próprias rolagens e altera ataques feitos contra ele.
+- [Agarrado](Agarrado.md) — imobilizado por outro personagem; sem movimentação.
+- [Debilitado](Debilitado.md) — trilha de Vida cheia.
+- [Lento](Lento.md) — Movimentação reduzida até o próximo Turno de quem aplicou.
+- [Abalado](Abalado.md) — penalidade no próximo Ataque.
+- [Embalo](Embalo.md) — bônus acumulado nos Ataques contra o mesmo alvo.
+- [Envenenado](Envenenado.md) — penalidade em rolagens Físicas.
+- [Paralisado](Paralisado.md) — sem Ação nem Movimentação.
+- [Atordoado](Atordoado.md) — sem Ação.
+- [Medo](Medo.md) — penalidade acumulável em todas as Reservas.
+- [Fúria](F%C3%BAria.md) — só em combate; ataca com mais força e se defende pior.
+- [Mirando](Mirando.md) — acumula o bônus da Manobra Mirar para o próximo Ataque com Atirar.
 
 ## Relações
 
-As Condições costumam ser aplicadas por [[Manobras|Manobras]] e outros efeitos durante [[Cenas e Conflitos|Cenas e Conflitos]].
+As Condições costumam ser aplicadas por [Manobras](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Manobras.md) e outros efeitos durante [Cenas e Conflitos](../Cenas%20e%20Conflitos/Cenas%20e%20Conflitos.md).
 
 ---
 
-← [[Astra Engine|Voltar ao Astra Engine]]
+← [Voltar ao Astra](../../Readme.md)

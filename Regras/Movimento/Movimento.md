@@ -2,14 +2,14 @@ Esta seção reúne as regras de deslocamento usadas principalmente durante cena
 
 ## Regras
 
-- [[Movimentação|Movimentação]] — deslocamento padrão, terreno e movimentos especiais.
-- [[Correr|Correr]] — ampliar a distância percorrida durante o turno.
-- [[Saltar|Saltar]] — saltos horizontais e verticais.
+- [Movimentação](Movimenta%C3%A7%C3%A3o.md) — deslocamento padrão, terreno e movimentos especiais.
+- [Correr](Correr.md) — ampliar a distância percorrida durante o turno.
+- [Saltar](Saltar.md) — saltos horizontais e verticais.
 
 ## Relações
 
-O movimento ocorre dentro da estrutura de [[Cenas e Conflitos|Cenas e Conflitos]] e normalmente acompanha a [[Ação|Ação]] do personagem.
+O movimento ocorre dentro da estrutura de [Cenas e Conflitos](../Cenas%20e%20Conflitos/Cenas%20e%20Conflitos.md) e normalmente acompanha a [Ação](../Cenas%20e%20Conflitos/A%C3%A7%C3%A3o.md) do personagem.
 
 ---
 
-← [[Astra Engine|Voltar ao Astra Engine]]
+← [Voltar ao Astra](../../Readme.md)

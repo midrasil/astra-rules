@@ -65,7 +65,7 @@ Um bom Desejo deve representar algo que o personagem realmente queira alcançar 
 
 ### Cumprindo um Desejo
 
-Uma vez por sessão, quando o personagem age de forma definitiva para **cumprir** seu Desejo, ele recupera **1 ponto de dano superficial de [[Vontade|Vontade]]** — imediatamente, no momento da ação.
+Uma vez por sessão, quando o personagem age de forma definitiva para **cumprir** seu Desejo, ele recupera **1 ponto de dano superficial de [Vontade](Vontade.md)** — imediatamente, no momento da ação.
 
 Cumprir o Desejo o **encerra**.
 

@@ -16,14 +16,14 @@ A trilha de Vida de um personagem é composta por **3 + Vigor** espaços. Cenár
 
 ## Gravidade do Dano
 
-O Astra Engine utiliza duas **gravidades** principais de dano:
+O Astra utiliza duas **gravidades** principais de dano:
 
 - **Dano Superficial**
 - **Dano Agravado**
 
 A diferença entre eles representa a gravidade do ferimento e a dificuldade necessária para sua recuperação.
 
-O **Tipo de Dano** — a natureza do ferimento (corte, contusão, perfurante, fogo, gelo, elétrica etc.) — é uma informação separada da gravidade: ele é definido pela fonte do dano, como as armas (ver [[Armas|Armas]]).
+O **Tipo de Dano** — a natureza do ferimento (corte, contusão, perfurante, fogo, gelo, elétrica etc.) — é uma informação separada da gravidade: ele é definido pela fonte do dano, como as armas (ver [Armas](../Equipamentos/Armas.md)).
 
 ## Dano Superficial
 
@@ -43,7 +43,7 @@ Essa gravidade de dano representa consequências mais sérias e normalmente é m
 
 Determinados equipamentos, habilidades ou efeitos podem transformar **dano agravado em dano superficial**.
 
-**Por padrão, todo dano é agravado** — a menos que a própria fonte do dano (arma, ataque, efeito) especifique o contrário. É o caso da maioria dos ataques, especialmente os desferidos com armas. [[Armaduras|Armaduras]] e [[Resistência|Resistências]] podem converter dano agravado em superficial (ver [[Resistência e Vulnerabilidade]]).
+**Por padrão, todo dano é agravado** — a menos que a própria fonte do dano (arma, ataque, efeito) especifique o contrário. É o caso da maioria dos ataques, especialmente os desferidos com armas. [Armaduras](../Equipamentos/Armaduras.md) e [Resistências](../Resist%C3%AAncia%20e%20Vulnerabilidade/Resist%C3%AAncia.md) podem converter dano agravado em superficial (ver [Resistência e Vulnerabilidade](../Resist%C3%AAncia%20e%20Vulnerabilidade/Resist%C3%AAncia%20e%20Vulnerabilidade.md)).
 
 A principal exceção é o **combate desarmado**, que causa **dano superficial** por padrão — socos, chutes e agarrões raramente são fatais. O Narrador também pode determinar que outras fontes de dano causam superficial quando a situação assim pedir.
 
@@ -51,7 +51,7 @@ O dano agravado é registrado na trilha de Vida como um traço X.
 
 ## Trilha de Vida Preenchida
 
-- Quando a **trilha de Vida fica cheia**, com qualquer combinação de dano superficial e agravado, o personagem fica **Debilitado** (ver [[Debilitado]]).
+- Quando a **trilha de Vida fica cheia**, com qualquer combinação de dano superficial e agravado, o personagem fica **Debilitado** (ver [Debilitado](../Condi%C3%A7%C3%B5es/Debilitado.md)).
 - Se continuar recebendo dano, superficial ou agravado, e não houver mais espaços livres, o dano adicional começa a **converter espaços já preenchidos por dano superficial em dano agravado**.
 - Quando **toda a trilha de Vida estiver preenchida por dano agravado**, o personagem está **incapacitado** e em uma situação potencialmente fatal. Em termos práticos, ele deixa de conseguir continuar normalmente na cena, e a sobrevivência passa a depender da situação e da decisão narrativa do Narrador.
 

@@ -1,17 +1,17 @@
-**Criação de Personagem** é o processo de montar um novo personagem no Astra Engine. O resultado é uma ficha pronta para jogar, com Atributos, Perícias, Trunfos, Complicações e equipamento iniciais.
+**Criação de Personagem** é o processo de montar um novo personagem no Astra. O resultado é uma ficha pronta para jogar, com Atributos, Perícias, Trunfos, Complicações e equipamento iniciais.
 
 As etapas são feitas em ordem, mas você pode voltar e ajustar escolhas anteriores enquanto o conceito do personagem se firma.
 
 ## Subsessões
 
-- [[1 - Identidade|Identidade]] — Conceito, Ambição e Desejo.
-- [[2 - Atributos e Perícias|Atributos e Perícias]] — Atributos (array fixo) e Perícias (perfis).
-- [[3 - Características Derivadas|Características Derivadas]] — Vida, Vontade, Iniciativa e Carga máxima.
-- [[4 - Trunfos e Complicações|Trunfos e Complicações]] — 7 Pontos de Trunfo e 4 Pontos de Complicação.
-- [[5 - Equipamento Inicial|Equipamento Inicial]] — o que o personagem começa carregando.
+- [Identidade](1%20-%20Identidade.md) — Conceito, Ambição e Desejo.
+- [Atributos e Perícias](2%20-%20Atributos%20e%20Per%C3%ADcias.md) — Atributos (array fixo) e Perícias (perfis).
+- [Características Derivadas](3%20-%20Caracter%C3%ADsticas%20Derivadas.md) — Vida, Vontade, Iniciativa e Carga máxima.
+- [Trunfos e Complicações](4%20-%20Trunfos%20e%20Complica%C3%A7%C3%B5es.md) — 7 Pontos de Trunfo e 4 Pontos de Complicação.
+- [Equipamento Inicial](5%20-%20Equipamento%20Inicial.md) — o que o personagem começa carregando.
 
-Por fim, feche o personagem com nome, aparência e história. A ficha está pronta para jogar; ajustes posteriores, com gasto de XP, seguem as regras de [[Progressão|Progressão]].
+Por fim, feche o personagem com nome, aparência e história. A ficha está pronta para jogar; ajustes posteriores, com gasto de XP, seguem as regras de [Progressão](../Regras/Personagens/Progress%C3%A3o.md).
 
 ---
 
-← [[Astra Engine|Voltar ao Astra Engine]]
+← [Voltar ao Astra](../Readme.md)

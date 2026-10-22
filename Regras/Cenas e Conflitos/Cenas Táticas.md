@@ -1,4 +1,4 @@
-As cenas táticas no **Astra Engine** representam conflitos nos quais posição, tempo, movimentação e decisões tomadas durante a Cena passam a ter importância direta para o resultado.
+As cenas táticas no **Astra** representam conflitos nos quais posição, tempo, movimentação e decisões tomadas durante a Cena passam a ter importância direta para o resultado.
 
 O uso de um **mapa** é recomendado, com personagens e demais elementos da Cena ocupando posições específicas em quadrados.
 
@@ -8,10 +8,10 @@ Durante uma cena tática, o tempo é organizado em **Rodadas** e **Turnos**. O c
 
 ## Estrutura
 
-- [[A Cena|A Cena]] — rodadas, turnos e iniciativa.
-- [[Ação|Ação]] — ações disponíveis durante um turno.
-- [[Movimento|Movimento]] — deslocamento e ações relacionadas.
+- [A Cena](A%20Cena.md) — rodadas, turnos e iniciativa.
+- [Ação](A%C3%A7%C3%A3o.md) — ações disponíveis durante um turno.
+- [Movimento](../Movimento/Movimento.md) — deslocamento e ações relacionadas.
 
 ---
 
-← [[Cenas e Conflitos|Voltar para Cenas e Conflitos]]
+← [Voltar para Cenas e Conflitos](Cenas%20e%20Conflitos.md)

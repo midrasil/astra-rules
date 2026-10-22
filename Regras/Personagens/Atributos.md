@@ -13,7 +13,7 @@ Cada Atributo pertence a uma **categoria**: **Físico** ou **Espiritual**.
 | Físico     | Força, Agilidade, Vigor        |
 | Espiritual | Carisma, Astúcia, Determinação |
 
-Algumas regras afetam apenas rolagens de uma categoria, como as penalidades de [[Debilitado]], [[Equipamentos#Sobrecarga|Sobrecarga]] e [[Vontade#Vontade Preenchida|Vontade preenchida]]. Nesses casos, vale a categoria do **Atributo** utilizado na Reserva de Dados, e não a da Perícia. Se a Reserva usar dois Atributos de categorias diferentes, valem as penalidades das duas categorias.
+Algumas regras afetam apenas rolagens de uma categoria, como as penalidades de [Debilitado](../Condi%C3%A7%C3%B5es/Debilitado.md), [Sobrecarga](../Equipamentos/Equipamentos.md#sobrecarga) e [Vontade preenchida](Vontade.md#vontade-preenchida). Nesses casos, vale a categoria do **Atributo** utilizado na Reserva de Dados, e não a da Perícia. Se a Reserva usar dois Atributos de categorias diferentes, valem as penalidades das duas categorias.
 
 ## Lista de Atributos
 

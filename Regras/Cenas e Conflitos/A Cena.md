@@ -18,7 +18,7 @@ Depois que todos os participantes tiverem realizado seus Turnos, uma nova Rodada
 
 A **Iniciativa** determina a ordem em que os participantes realizam seus Turnos durante a cena.
 
-No início da cena, cada participante rola uma [[Reserva de Dados]] formada por **Agilidade** e **Astúcia** e conta os Sucessos normalmente.
+No início da cena, cada participante rola uma [Reserva de Dados](../Mec%C3%A2nica%20B%C3%A1sica/Reserva%20de%20Dados.md) formada por **Agilidade** e **Astúcia** e conta os Sucessos normalmente.
 
 > **Agilidade + Astúcia = Reserva de Iniciativa**
 
@@ -40,7 +40,7 @@ Durante seu Turno, um personagem possui:
 
 A Ação e a Movimentação podem ser realizadas na ordem que o jogador preferir.
 
-Um personagem pode, por exemplo, se movimentar antes de realizar sua Ação ou agir primeiro e se movimentar em seguida, ou mesmo se movimentar, agir e se movimentar novamente caso ainda possua pontos de movimento, como será explicado em [[Movimentação|Movimentação]].
+Um personagem pode, por exemplo, se movimentar antes de realizar sua Ação ou agir primeiro e se movimentar em seguida, ou mesmo se movimentar, agir e se movimentar novamente caso ainda possua pontos de movimento, como será explicado em [Movimentação](../Movimento/Movimenta%C3%A7%C3%A3o.md).
 
 A forma como esses recursos são utilizados depende das decisões do personagem e das circunstâncias da Cena.
 
@@ -58,4 +58,4 @@ Essa mudança não precisa acontecer apenas em combates. Perseguições, fugas, 
 
 Da mesma forma, nem todo conflito precisa ser tratado dessa maneira. Um confronto rápido, uma travessia sem risco ou uma ação cuja posição exata não seja importante pode continuar sendo resolvido de forma narrativa, utilizando testes e decisões sem dividir a Cena em turnos.
 
-O objetivo dessa distinção é permitir que o Astra Engine utilize precisão quando ela realmente acrescenta algo à Cena, sem transformar todas as situações em uma sequência rígida de ações, deslocamentos e medições.
+O objetivo dessa distinção é permitir que o Astra utilize precisão quando ela realmente acrescenta algo à Cena, sem transformar todas as situações em uma sequência rígida de ações, deslocamentos e medições.
