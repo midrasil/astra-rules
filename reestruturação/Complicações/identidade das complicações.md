@@ -1,5 +1,3 @@
-# Identidade das Complicações
-
 Esta lista registra a identidade central de cada Complicação. Ela foi usada como base para revisar as Complicações existentes e criar as novas entradas do sistema, permanecendo como referência para futuras propostas.
 
 A identidade explica de forma simples qual é o problema narrativo representado pela Complicação. Os tipos disponíveis, a personalização e as possibilidades de resolução estão desenvolvidos na lista oficial.
