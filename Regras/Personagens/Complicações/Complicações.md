@@ -1,3 +1,4 @@
+
 **Complicações** são problemas narrativos associados ao personagem. Elas criam pessoas, situações e consequências que podem interferir em sua história, sem aplicar penalidades ou modificadores mecânicos.
 
 Uma Complicação pode representar um inimigo, uma perseguição, uma obrigação, um segredo, uma reputação problemática, uma relação difícil ou outra situação duradoura capaz de trazer problemas para o personagem.
@@ -12,10 +13,20 @@ Complicações criam situações na história, em vez de tornar o personagem num
 - alterar diretamente combate, dano, Vontade ou outros recursos;
 - conceder recompensas quando entram em jogo.
 
-Quando uma Complicação for relevante, o Narrador pode introduzir personagens, acontecimentos e consequências associados a ela. Isso deve decorrer da ficção, não precisa acontecer em todas as sessões e não determina como o personagem deve agir.
+Quando uma Complicação for relevante, o Narrador pode introduzir personagens, acontecimentos e consequências associados a ela. Isso deve decorrer da ficção e não precisa acontecer em todas as sessões.
+
+## Complicações comportamentais
+
+Algumas Complicações, como **Boca Grande**, **Arrogante** ou **Fobia**, descrevem impulsos, crenças ou padrões de comportamento. Elas orientam a interpretação do personagem e podem influenciar suas ações.
+
+Quando uma situação pressionar diretamente esse comportamento e o jogador quiser agir contra ele, o Narrador pode exigir um teste para resistir, normalmente utilizando [Determinação](../Atributos.md#determina%C3%A7%C3%A3o). A Reserva e a [Dificuldade](../../Mec%C3%A2nica%20B%C3%A1sica/Reserva%20de%20Dados.md#escala-de-dificuldade) são definidas pelas circunstâncias da cena. Situações extremas podem possuir Dificuldades elevadas.
+
+Em caso de sucesso, o personagem consegue resistir à Complicação naquele momento. Em caso de falha, ela se manifesta de maneira coerente com a situação. O Narrador determina a consequência imediata da Complicação, mas não assume o controle geral do personagem além do comportamento colocado à prova.
+
+Por exemplo, se um personagem com **Boca Grande** for capturado e pressionado a revelar uma informação, o Narrador pode exigir um teste de Determinação com Dificuldade elevada para que ele consiga permanecer calado. Em caso de falha, o personagem deixa escapar alguma informação relevante.
 ## Tipos
 
-Uma Complicação pode ser **Menor** ou **Maior**. A diferença é determinada pelo alcance e pela importância narrativa..
+Uma Complicação pode ser **Menor** ou **Maior**. A diferença é determinada pelo alcance e pela importância narrativa.
 ### Menor
 
 Uma Complicação Menor possui alcance limitado, aparece ocasionalmente e costuma envolver uma pessoa, grupo pequeno ou local específico. Suas consequências são administráveis e normalmente complicam uma cena, relação ou objetivo secundário.

@@ -1,4 +1,4 @@
-Além de Atributos e Perícias, o personagem é definido por **talentos** e **falhas** que o destacam e complicam sua vida.
+Além de Atributos e Perícias, o personagem é definido pelos **Trunfos** que o destacam e pelas **Complicações** que criam problemas em sua história.
 
 ## Trunfos
 
@@ -37,7 +37,9 @@ Uma mesma Complicação só pode ser escolhida uma vez e não pode existir simul
 
 Cada Complicação deve ser personalizada para o personagem. O jogador e o Narrador definem juntos sua origem, as pessoas ou organizações envolvidas, seu alcance, suas conexões com a ficha e como ela pode aparecer na campanha.
 
-Complicações são exclusivamente narrativas. Elas criam situações e consequências na história, mas não aplicam penalidades ou modificadores mecânicos.
+Complicações possuem natureza narrativa. Elas criam situações e consequências na história, mas não aplicam penalidades ou modificadores mecânicos.
+
+Complicações comportamentais orientam a interpretação do personagem. Quando ele tentar agir contra esse comportamento sob pressão, o Narrador pode exigir um teste apropriado para resistir, com Dificuldade definida pelas circunstâncias da cena. Consulte as [regras de Complicações](../Regras/Personagens/Complica%C3%A7%C3%B5es/Complica%C3%A7%C3%B5es.md#complica%C3%A7%C3%B5es-comportamentais).
 
 Os Pontos de Complicação são separados dos Pontos de Trunfo. Adquirir Complicações não concede Trunfos adicionais, e pontos não utilizados não podem ser transferidos entre os dois orçamentos.
 

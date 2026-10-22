@@ -4,151 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "2ddf2f9d36bdcea1",
+        "id": "b31c9cbc70dee4b3",
         "type": "tabs",
         "children": [
           {
-            "id": "a96a0fe96752cb07",
+            "id": "2cf9e7c6b3a1a8e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Regras/Mecânica Básica/Reserva de Dados.md",
+                "file": "Criação de Personagem/4 - Trunfos e Complicações.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reserva de Dados"
-            }
-          },
-          {
-            "id": "74e457a8ddfafd08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Regras/Personagens/Ambição e Desejo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ambição e Desejo"
-            }
-          },
-          {
-            "id": "ef6938ef0f4a396c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Regras/Personagens/Vida.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vida"
-            }
-          },
-          {
-            "id": "17486c792800ca46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Regras/Personagens/Ambição e Desejo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ambição e Desejo"
-            }
-          },
-          {
-            "id": "7d2e94cb7a3207ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Regras/Cenas e Conflitos/Cenas Táticas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cenas Táticas"
-            }
-          },
-          {
-            "id": "a55cbbaac15cf51f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Regras/Cenas e Conflitos/A Cena.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "A Cena"
-            }
-          },
-          {
-            "id": "28a891e22839318f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Regras/Personagens/Vontade.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vontade"
-            }
-          },
-          {
-            "id": "00fe5a1846167e98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Regras/Personagens/Vontade.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vontade"
-            }
-          },
-          {
-            "id": "01b8b7b7c450d732",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "reestruturação/complicações.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "complicações"
-            }
-          },
-          {
-            "id": "aa5fdbf5e421a2aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Regras/Personagens/Complicações/Complicações.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Complicações"
+              "title": "4 - Trunfos e Complicações"
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -226,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Regras/Personagens/Complicações/Complicações.md",
+                "file": "Criação de Personagem/4 - Trunfos e Complicações.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Regras/Personagens/Complicações/Complicações.md",
+                "file": "Criação de Personagem/4 - Trunfos e Complicações.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -288,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Regras/Personagens/Complicações/Complicações.md",
+                "file": "Criação de Personagem/4 - Trunfos e Complicações.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -350,7 +223,11 @@
   },
   "active": "7bb9e680937df06c",
   "lastOpenFiles": [
-    "reestruturação/complicações.md",
+    "Regras/Personagens/Complicações/Complicações.md",
+    "Regras/Personagens/Complicações/Lista de Complicações.md",
+    "reestruturação/Complicações/Funcionamento.md",
+    "reestruturação/Complicações/identidade das complicações.md",
+    "reestruturação/Complicações",
     "Readme.md",
     "reestruturação",
     "Criação de Personagem/4 - Trunfos e Complicações.md",
@@ -374,17 +251,13 @@
     "Regras/Mecânica Básica/Mecânica Básica.md",
     "Regras/Condições/Debilitado.md",
     "Regras/Condições/Agarrado.md",
-    "Regras/Condições/Caído.md",
     "Regras/Condições",
-    "Regras/Mecânica Básica/Reserva de Dados.md",
-    "Regras/Condições/Condições.md",
     "Regras/Personagens/Complicações",
     "Criação de Personagem",
     "Regras/Resistência e Vulnerabilidade",
     "Regras/Personagens/Trunfos",
     "Regras/Movimento",
     "Regras/Personagens",
-    "Regras/Mecânica Básica",
-    "Regras/Equipamentos"
+    "Regras/Mecânica Básica"
   ]
 }

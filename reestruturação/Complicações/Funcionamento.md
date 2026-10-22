@@ -2,6 +2,8 @@
 
 Este documento registra as decisões tomadas para o novo funcionamento das **Complicações** no Astra.
 
+> **Estado:** reestruturação concluída. As regras e as 28 Complicações aprovadas foram incorporadas ao sistema.
+
 ## Conceito
 
 Complicações são problemas narrativos associados ao personagem. Elas criam pessoas, situações e consequências que podem interferir em sua história, mas não aplicam penalidades ou modificadores mecânicos.
@@ -30,7 +32,7 @@ Complicações não podem:
 - alterar diretamente combate, dano, Vontade ou outros recursos;
 - conceder recompensas quando entram em jogo.
 
-As Complicações atuais que tenham natureza predominantemente mecânica serão removidas do sistema. Por enquanto, elas não serão convertidas ou substituídas por versões narrativas.
+Complicações de natureza predominantemente mecânica foram removidas do sistema. Um conceito só foi mantido ou adaptado quando pôde funcionar narrativamente sem penalidades ou modificadores.
 
 ## Criação de personagem
 
@@ -122,10 +124,18 @@ A utilização de uma Complicação:
 - deve decorrer da ficção e das circunstâncias da campanha;
 - não precisa acontecer em todas as sessões;
 - não aplica penalidades automáticas;
-- não determina como o personagem deve agir;
+- pode orientar o comportamento do personagem e exigir testes para que ele resista a seus impulsos;
 - não concede XP, Vontade ou outra recompensa.
 
 A Complicação funciona como uma verdade narrativa disponível ao Narrador, e não como uma habilidade ativada ou uma autorização para punir arbitrariamente o personagem.
+
+## Complicações comportamentais
+
+Complicações comportamentais orientam a interpretação do personagem e podem influenciar suas ações. Quando a situação pressionar diretamente esse comportamento e o jogador quiser agir contra ele, o Narrador pode exigir um teste para resistir, normalmente utilizando **Determinação**.
+
+A Reserva e a Dificuldade são determinadas pelas circunstâncias da cena. Situações extremas podem apresentar Dificuldades elevadas. Em caso de sucesso, o personagem resiste à Complicação naquele momento. Em caso de falha, ela se manifesta de maneira coerente com a situação, sem conceder ao Narrador controle geral sobre o personagem além do comportamento colocado à prova.
+
+Por exemplo, quando um personagem com **Boca Grande** for capturado e pressionado a revelar uma informação, o Narrador pode exigir um teste de Determinação com Dificuldade elevada para que ele permaneça calado. Em caso de falha, o personagem deixa escapar alguma informação relevante.
 
 ## Novas Complicações durante a campanha
 
@@ -166,6 +176,59 @@ Cada Complicação deve seguir este formato:
 
 **Resolução:** apresenta possibilidades narrativas que podem contribuir para resolver, reduzir ou transformar a Complicação. Essas possibilidades não são condições automáticas ou exaustivas. A resolução definitiva é determinada durante o jogo pelo jogador e pelo Narrador.
 ```
+
+## Ordem de implementação
+
+A revisão da lista oficial foi realizada em três etapas:
+
+1. Complicações disponíveis apenas como **Menores**;
+2. Complicações disponíveis apenas como **Maiores**;
+3. Complicações disponíveis como **Menores ou Maiores**.
+
+### Menores
+
+As Complicações disponíveis apenas como Menores são:
+
+- Admiradores Obsessivos;
+- Analfabeto;
+- Boca Grande;
+- Cauteloso;
+- Desejo de Morrer;
+- Leal;
+- Peculiaridade;
+- Refúgio Comprometido;
+- Teimoso.
+
+### Maiores
+
+As Complicações disponíveis apenas como Maiores são:
+
+- Arrogante;
+- Código de Honra;
+- Curioso;
+- Excesso de Confiança.
+
+### Menores ou Maiores
+
+As Complicações disponíveis nos dois tipos são:
+
+- Amaldiçoado;
+- Antipatizado;
+- Assombrado;
+- Conflito com uma Facção;
+- Delirante;
+- Fobia;
+- Ganancioso;
+- Inimigo;
+- Má Reputação;
+- Pacifista;
+- Possuído;
+- Procurado;
+- Refúgio Sinistro;
+- Segredo;
+- Voto.
+
+As três etapas foram incorporadas à lista oficial de Complicações.
 
 ## Exemplo
 
