@@ -1,10 +1,12 @@
 Equipamentos são os objetos que os personagens carregam e utilizam, seja para atacar, se proteger ou realizar outras tarefas.
 
-Atualmente o núcleo do Astra Engine organiza os equipamentos em **três tipos**:
+Atualmente o núcleo do Astra Engine organiza os equipamentos em **quatro tipos**:
 
 - [[Regras/Equipamentos/Armas|Armas]] — equipamentos utilizados para atacar.
 - [[Regras/Equipamentos/Armaduras|Armaduras]] — equipamentos utilizados para proteção.
 - [[Regras/Equipamentos/Escudos|Escudos]] — equipamentos utilizados para defesa.
+
+- **Itens comuns** — objetos de uso cotidiano, como mochilas, cordas e ferramentas.
 
 Novos tipos de equipamento podem ser adicionados futuramente, através de módulos ou cenários específicos.
 
@@ -17,7 +19,7 @@ Novos tipos de equipamento podem ser adicionados futuramente, através de módul
 
 O peso dos equipamentos **não é medido em quilogramas**. No Astra Engine, o espaço que um item ocupa é medido em **slots**.
 
-Cada equipamento possui um valor de **Carga**, que indica quantos slots ocupa. Isso se aplica igualmente a armas, armaduras e escudos.
+Cada equipamento possui um valor de **Carga**, que indica quantos slots ocupa. Isso se aplica igualmente a armas, armaduras, escudos e itens comuns.
 
 ### Carga máxima
 

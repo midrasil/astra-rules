@@ -76,7 +76,7 @@
 
 - **Categoria:** Sociais
 - **Estágio:** Novato
-- **Requisito:** [[Atributos|Vigor]] 2
+- **Requisito:** nenhum
 - **Descrição:** o personagem tem boa aparência, e isso facilita seu caminho. Ele ganha **+1 dado** em toda rolagem que usa **Carisma**.
 
 ### Muito Atraente

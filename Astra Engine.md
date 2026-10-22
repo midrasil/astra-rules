@@ -16,7 +16,7 @@ O núcleo está organizado em sete áreas principais:
 - [[Personagens|Personagens]] — capacidades, recursos, motivações e características dos personagens.
 - [[Cenas e Conflitos|Cenas e Conflitos]] — estrutura das cenas táticas, turnos e ações de confronto.
 - [[Movimento|Movimento]] — deslocamento e ações relacionadas à movimentação.
-- [[Regras/Equipamentos/Equipamentos|Equipamentos]] — carga, armas, armaduras, escudos e troca de itens.
+- [[Regras/Equipamentos/Equipamentos|Equipamentos]] — carga, itens comuns, armas, armaduras, escudos e troca de itens.
 - [[Resistência e Vulnerabilidade|Resistência e Vulnerabilidade]] — como personagens e criaturas reagem a tipos de dano.
 - [[Condições|Condições]] — estados que afetam os personagens durante uma cena.
 
@@ -25,5 +25,5 @@ O núcleo está organizado em sete áreas principais:
 - [[1 - Identidade|Identidade]] — Conceito, Ambição e Desejo.
 - [[2 - Atributos e Perícias|Atributos e Perícias]] — array fixo de Atributos e perfis de Perícias.
 - [[3 - Características Derivadas|Características Derivadas]] — Vida, Vontade, Iniciativa e Carga máxima.
-- [[4 - Trunfos e Complicações|Trunfos e Complicações]] — dois Trunfos Novato e duas Complicações.
+- [[4 - Trunfos e Complicações|Trunfos e Complicações]] — 7 Pontos de Trunfo e 4 Pontos de Complicação.
 - [[5 - Equipamento Inicial|Equipamento Inicial]] — equipamento inicial definido pelo cenário.

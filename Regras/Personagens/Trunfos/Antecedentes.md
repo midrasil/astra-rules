@@ -41,7 +41,7 @@
 
 - **Categoria:** Antecedentes
 - **Estágio:** Novato
-- **Requisito:** [[Atributos|Vigor]] 3
+- **Requisito:** nenhum
 - **Descrição:** o corpo do personagem responde bem ao tratamento. Num tratamento com pelo menos 1 sucesso, ele converte **1 ponto de dano agravado a mais** em superficial. Hospitalizado, converte **2 pontos por dia** em vez de 1 (ver [[Vida#Recuperação|Recuperação]]).
 
 ### Regeneração
@@ -55,14 +55,14 @@
 
 - **Categoria:** Antecedentes
 - **Estágio:** Novato
-- **Requisito:** [[Atributos|Agilidade]] 2
+- **Requisito:** nenhum
 - **Descrição:** o personagem é rápido nas pernas. Sua [[Movimentação]] base aumenta em **2**. Como [[Correr]] dobra a Movimentação base, a corrida também fica mais longa.
 
 ### Musculoso
 
 - **Categoria:** Antecedentes
 - **Estágio:** Novato
-- **Requisito:** [[Atributos|Força]] 2 e [[Atributos|Vigor]] 2
+- **Requisito:** nenhum
 - **Descrição:** o personagem é grande ou está em ótima forma, e seu corpo aguenta melhor os golpes. Ele ganha **+1 de Absorção** e soma a Força mais uma vez à [[Equipamentos#Carga|Carga]] máxima, que passa a ser **5 + 2 × Força**.
 
 ### Prontidão

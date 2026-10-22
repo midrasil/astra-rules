@@ -19,14 +19,16 @@ Além delas, as [[Características de NPC]] são Trunfos usados, por padrão, ap
 
 ## Requisitos
 
-Um Trunfo pode exigir:
+Trunfos não exigem valores mínimos de Atributos ou Perícias.
 
-- um ou mais Atributos ou Perícias em valores mínimos;
+Um Trunfo ainda pode exigir:
+
 - outro Trunfo;
 - uma condição, treinamento ou elemento específico da história;
+- que o personagem não possua um Trunfo incompatível;
 - requisitos adicionais definidos pelo cenário ou módulo.
 
-O Estágio necessário e o custo para adquirir Trunfos estão centralizados em [[Progressão#Adquirindo Trunfos|Progressão]].
+O Estágio de um Trunfo determina seu custo em XP durante a campanha, mas não restringe seu acesso. As regras de aquisição estão centralizadas em [[Progressão#Adquirindo Trunfos|Progressão]]. Durante a criação, cada Trunfo custa 1 Ponto de Trunfo, independentemente do Estágio (ver [[4 - Trunfos e Complicações|Trunfos e Complicações]]).
 
 ## Formato de um Trunfo
 
@@ -34,7 +36,7 @@ Todo Trunfo é apresentado com as seguintes informações:
 
 - **Nome**
 - **Categoria** — uma das oito categorias de Trunfo.
-- **Estágio** — classificação utilizada para seus requisitos e custo.
+- **Estágio** — classificação utilizada para determinar seu custo em XP durante a campanha.
 - **Requisito** — condições adicionais necessárias para adquiri-lo.
 - **Descrição** — o efeito do Trunfo em jogo.
 

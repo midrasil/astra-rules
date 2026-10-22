@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Criação de Personagem/3 - Características Derivadas.md",
+                "file": "Criação de Personagem/4 - Trunfos e Complicações.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3 - Características Derivadas"
+              "title": "4 - Trunfos e Complicações"
             }
           }
         ],
@@ -301,7 +301,7 @@
                       "conversationId": "conv-1791653174250-yk62wfzz7"
                     }
                   ],
-                  "activeTabId": "tab-1791586026694-oidlzvk"
+                  "activeTabId": "tab-1791653163500-4xl44a6"
                 }
               },
               "icon": "bot",
@@ -329,15 +329,25 @@
   },
   "active": "01b8b7b7c450d732",
   "lastOpenFiles": [
+    "Criação de Personagem/1 - Identidade.md",
+    "Regras/Personagens/Trunfos/Características de NPC.md",
+    "Regras/Personagens/Trunfos/Estranhas.md",
+    "Regras/Personagens/Trunfos/Lendárias.md",
+    "Regras/Personagens/Trunfos/Liderança.md",
+    "Regras/Personagens/Trunfos/Poder.md",
+    "Regras/Personagens/Trunfos/Profissionais.md",
+    "Regras/Personagens/Trunfos/Sociais.md",
+    "Regras/Personagens/Trunfos/Trunfos.md",
+    "Regras/Personagens/Ambição e Desejo.md",
+    "Regras/Personagens/Trunfos/Combate.md",
+    "Regras/Personagens/Trunfos/Antecedentes.md",
+    "Regras/Personagens/Progressão.md",
     "Criação de Personagem/4 - Trunfos e Complicações.md",
     "Criação de Personagem/3 - Características Derivadas.md",
     "Criação de Personagem/2 - Atributos e Perícias.md",
-    "Criação de Personagem/1 - Identidade.md",
     "Criação de Personagem/0 - Criação de Personagem.md",
-    "Regras/Personagens/Progressão.md",
     "Astra Engine.md",
     "Criação de Personagem/5 - Equipamento Inicial.md",
-    "Regras/Personagens/Ambição e Desejo.md",
     "Regras/Mecânica Básica/Mecânica Básica.md",
     "Regras/Condições/Debilitado.md",
     "Regras/Condições/Agarrado.md",
@@ -346,16 +356,6 @@
     "Regras/Mecânica Básica/Reserva de Dados.md",
     "Regras/Condições/Condições.md",
     "Regras/Resistência e Vulnerabilidade/Imunidade.md",
-    "Regras/Resistência e Vulnerabilidade/Vulnerabilidade.md",
-    "Regras/Resistência e Vulnerabilidade/Resistência e Vulnerabilidade.md",
-    "Regras/Resistência e Vulnerabilidade/Resistência.md",
-    "Regras/Personagens/Perícias.md",
-    "Regras/Personagens/Atributos.md",
-    "Regras/Personagens/Trunfos/Combate.md",
-    "Regras/Personagens/Trunfos/Antecedentes.md",
-    "Regras/Personagens/Trunfos/Trunfos.md",
-    "Regras/Personagens/Complicações/Complicações.md",
-    "Regras/Personagens/Complicações/Lista de Complicações.md",
     "Regras/Personagens/Complicações",
     "Criação de Personagem",
     "Regras/Resistência e Vulnerabilidade",

@@ -28,7 +28,7 @@ Esta seção reúne os elementos que definem as capacidades, recursos, motivaç�
 
 ## Progressão
 
-- [[Progressão|Progressão]] — ganho e gasto de XP e o Estágio do personagem.
+- [[Progressão|Progressão]] — ganho e gasto de XP durante a campanha.
 
 ## Relações
 

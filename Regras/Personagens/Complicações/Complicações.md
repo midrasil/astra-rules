@@ -6,11 +6,18 @@ Em ambos os casos, as Complicações ocasionalmente devem levar o personagem a t
 
 ## Menores e Maiores
 
-As Complicações são divididas em dois graus: **menores** e **maiores**. O grau reflete a **severidade** da falha — Complicações maiores são mais severas e têm maior impacto em jogo.
+As Complicações são divididas em dois graus. O grau reflete a severidade da falha e também determina seu valor durante a criação:
+
+| Grau | Valor na criação |
+|---|---:|
+| **Menor** | 1 Ponto de Complicação |
+| **Maior** | 2 Pontos de Complicação |
+
+Complicações Maiores são mais severas e possuem maior impacto em jogo.
 
 ## Formato de uma Complicação
 
-Cada Complicação reúne suas duas versões em uma única entrada, descrevendo o efeito **menor** e o efeito **maior**:
+Cada Complicação reúne suas duas versões em uma única entrada, descrevendo o efeito **Menor** e o efeito **Maior**:
 
 - **Nome**
 - **Menor** — o efeito na versão menor.
@@ -18,8 +25,12 @@ Cada Complicação reúne suas duas versões em uma única entrada, descrevendo 
 
 ## Aquisição
 
-As Complicações são adquiridas durante a [[0 - Criação de Personagem|criação de personagem]].
+Durante a [[4 - Trunfos e Complicações|criação de personagem]], cada personagem precisa adquirir exatamente **4 Pontos de Complicação**.
 
-Durante a campanha, o Narrador pode atribuir novas Complicações a um personagem com base nos acontecimentos da história.
+Uma mesma Complicação só pode ser escolhida uma vez. O personagem não pode possuir simultaneamente suas versões Menor e Maior.
+
+Os Pontos de Complicação não concedem Pontos de Trunfo e não podem ser convertidos em XP.
+
+Durante a campanha, o Narrador pode atribuir novas Complicações a um personagem com base nos acontecimentos da história. Complicações recebidas dessa forma não concedem pontos ou outras recompensas retroativas.
 
 Uma Complicação não pode ser superada nem removida, e não concede nenhuma recompensa quando atrapalha o personagem.

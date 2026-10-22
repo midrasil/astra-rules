@@ -6,14 +6,14 @@
 
 - **Categoria:** Combate
 - **Estágio:** Novato
-- **Requisito:** [[Atributos|Agilidade]] 3, sem [[#Contra-Ataque|Contra-Ataque]]
+- **Requisito:** sem [[#Contra-Ataque|Contra-Ataque]]
 - **Descrição:** o personagem aprende a lutar empunhando duas armas de forma efetiva. Para utilizar esta capacidade, ambas as armas devem possuir a Propriedade **[[Armas#Propriedades|Leve]]**. No **Ataque** e ao **Aceitar o [[Confrontar|Confronto]]**, a arma escolhida soma seu **Dano** ao dano causado, somado à **Margem de Sucessos** em caso de vitória, e a outra arma soma seu **Dano** à Reserva de Dados. Com [[#Artista Marcial|Artista Marcial]], o [[Armas#Desarmado|Desarmado]] conta como arma Leve. Não pode ser combinado com Contra-Ataque.
 
 ### Aparar
 
 - **Categoria:** Combate
 - **Estágio:** Novato
-- **Requisito:** [[Atributos|Agilidade]] 3
+- **Requisito:** nenhum
 - **Descrição:** o personagem aprende a se defender utilizando a própria arma. Ao sofrer um [[Confrontar|Confronto]], o personagem pode escolher **Defender** mesmo sem um [[Escudos|Escudo]], adicionando à sua rolagem de defesa o **Dano** da arma utilizada para aparar. Apenas armas **corpo a corpo** podem ser utilizadas para aparar. Essa capacidade **não se acumula com um Escudo**: em um Confronto, o personagem defende com o Escudo (**Proteção**) ou com a arma (**Dano**), nunca com ambos. Se o personagem estiver empunhando duas armas, ao Defender ele escolhe uma delas para somar seu **Dano**.
 
 ### Maestria com Arma
@@ -28,21 +28,21 @@
 
 - **Categoria:** Combate
 - **Estágio:** Novato
-- **Requisito:** [[Perícias|Atirar]] 2
+- **Requisito:** nenhum
 - **Descrição:** o personagem sabe disparar mesmo com o inimigo em cima dele. Ele pode **Aceitar o [[Confrontar|Confronto]]** de um ataque corpo a corpo usando uma arma à distância.
 
 ### Olho de Águia
 
 - **Categoria:** Combate
 - **Estágio:** Novato
-- **Requisito:** [[Perícias|Atirar]] 2
+- **Requisito:** nenhum
 - **Descrição:** o personagem calcula bem a distância dos disparos. Ao atacar além do Alcance da arma, ele **ignora a primeira faixa** de penalidade: só perde os -2 dados a partir da segunda faixa.
 
 ### Olho de Águia Aprimorado
 
 - **Categoria:** Combate
 - **Estágio:** Experiente
-- **Requisito:** Olho de Águia e [[Perícias|Atirar]] 3
+- **Requisito:** Olho de Águia
 - **Descrição:** ao atacar além do Alcance da arma, o personagem **ignora as duas primeiras faixas** de penalidade: só perde os -2 dados a partir da terceira faixa.
 
 ### Golpe de Misericórdia
@@ -84,7 +84,7 @@
 
 - **Categoria:** Combate
 - **Estágio:** Novato
-- **Requisito:** [[Perícias|Atirar]] 4 ou [[Perícias|Lutar]] 4
+- **Requisito:** nenhum
 - **Descrição:** o personagem conhece uma arma específica como a palma da mão. Essa arma recebe a Propriedade **[[Armas#Personagem (opcional)|Predileta]]**. Ao usá-la, ele ganha **+1 dado** em Ataque e ao [[Confrontar]]. O Trunfo pode ser escolhido mais de uma vez, cada vez para uma arma diferente, mas o bônus não se soma entre cópias. Se a arma for perdida, ele pode escolher uma substituta, mas o bônus só volta depois de **duas semanas de jogo**.
 
 ### Arma Predileta Aprimorada
@@ -98,21 +98,21 @@
 
 - **Categoria:** Combate
 - **Estágio:** Novato
-- **Requisito:** [[Perícias|Lutar]] 2
+- **Requisito:** nenhum
 - **Descrição:** o personagem é altamente treinado em combate corpo a corpo. Seu [[Armas#Desarmado|Desarmado]] passa a ter **Dano 2** e a Propriedade **[[Armas#Propriedades|Leve]]**, e causa **dano agravado**.
 
 ### Artista Marcial Aprimorado
 
 - **Categoria:** Combate
 - **Estágio:** Veterano
-- **Requisito:** [[#Artista Marcial|Artista Marcial]], [[Perícias|Lutar]] 4
+- **Requisito:** [[#Artista Marcial|Artista Marcial]]
 - **Descrição:** no **Ataque** com o Desarmado, o personagem soma à [[Reserva de Dados]] uma quantidade de dados igual ao **Dano** do Desarmado.
 
 ### Brigão
 
 - **Categoria:** Combate
 - **Estágio:** Novato
-- **Requisito:** [[Atributos|Força]] 3
+- **Requisito:** nenhum
 - **Descrição:** lutas frequentes de mãos nuas deram ao personagem um soco poderoso. O **Dano** do seu [[Armas#Desarmado|Desarmado]] aumenta em **+2**, somado a qualquer outro bônus, como o do [[#Artista Marcial|Artista Marcial]].
 
 ### Pugilista
@@ -133,7 +133,7 @@
 
 - **Categoria:** Combate
 - **Estágio:** Experiente
-- **Requisito:** [[Perícias|Lutar]] 3
+- **Requisito:** nenhum
 - **Descrição:** acostumado ao combate corpo a corpo, o personagem aprende a bloquear os golpes dos oponentes. Ele ganha **+1 dado ao Defender**.
 
 ### Bloquear Aprimorado
@@ -147,7 +147,7 @@
 
 - **Categoria:** Combate
 - **Estágio:** Experiente
-- **Requisito:** [[#Aparar|Aparar]], [[Perícias|Lutar]] 3, sem [[#Lutar com Duas Armas|Lutar com Duas Armas]]
+- **Requisito:** [[#Aparar|Aparar]], sem [[#Lutar com Duas Armas|Lutar com Duas Armas]]
 - **Descrição:** o personagem leva o [[#Aparar|Aparar]] também para o [[Confrontar|Confronto]]. Ao **Aceitar o Confronto** com uma arma **corpo a corpo**, ele soma à Reserva de Dados o **Dano** da arma, como faz ao Defender. Não pode ser combinado com Lutar com Duas Armas.
 
 ### Contra-Ataque Aprimorado
@@ -161,7 +161,7 @@
 
 - **Categoria:** Combate
 - **Estágio:** Experiente
-- **Requisito:** [[Atributos|Agilidade]] 3
+- **Requisito:** nenhum
 - **Descrição:** o personagem sabe sair do caminho do perigo. Ele ganha **+1 dado ao [[Confrontar#Esquivar|Esquivar]]** e, quando vence, pode se deslocar até a **Movimentação base inteira**, em vez da metade.
 
 ### Esquiva Aprimorada
