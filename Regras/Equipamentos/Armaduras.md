@@ -5,6 +5,8 @@ Cada armadura é descrita pelos seguintes campos:
 | Campo            | Descrição                                                           |
 | ---------------- | ------------------------------------------------------------------- |
 | **Nome**         | o nome da armadura                                                  |
+| **Categoria**    | Leve, Média ou Pesada (ver [[#Categorias]])                         |
+| **Força mínima** | a Força necessária para vestir a armadura sem perder Movimentação   |
 | **Descrição**    | uma descrição breve da armadura                                     |
 | **Absorção**     | quantos pontos de dano agravado são convertidos em dano superficial |
 | **Propriedades** | características especiais da armadura                               |
@@ -23,10 +25,24 @@ Dano que já é superficial não é afetado: a armadura apenas reduz a quantidad
 
 Resistências e Vulnerabilidades a [[Armas#Tipos de Dano|Tipos de Dano]] específicos podem aumentar ou reduzir essa absorção (ver [[Resistência e Vulnerabilidade|Resistência e Vulnerabilidade]]).
 
+## Categorias
+
+Toda armadura tem uma **Categoria**, que define o seu custo.
+
+| Categoria | Absorção | Ao Esquivar | Força mínima |
+|---|---|---|---|
+| **Leve** | 1 | sem penalidade | — |
+| **Média** | 2 a 3 | -2 a -3 dados | 2 |
+| **Pesada** | 4 a 5 | -4 a -5 dados | 3 |
+
+- **Esquivar:** com armadura Média ou Pesada, a Reserva de Esquivar perde dados iguais à **Absorção da armadura**. A Absorção base do personagem e as Resistências não contam.
+- **Força mínima:** com Força abaixo da Força mínima da armadura vestida, o personagem tem **-2 de Movimentação**.
+
 ## Propriedades
 
 As **Propriedades** representam características especiais de uma armadura. A lista inicial de propriedades é:
 
 - **Resistência a [Tipo] (valor)** — a armadura concede [[Resistência]] ao [[Armas#Tipos de Dano|Tipo de Dano]] indicado. O valor é somado à [[Resistência e Vulnerabilidade#Absorção Efetiva|Absorção Efetiva]] contra aquele Tipo — por exemplo, uma armadura com **Absorção 2** e **Resistência a Corte (1)** tem Absorção Efetiva 3 contra Corte e 2 contra os demais Tipos.
+- **Vulnerabilidade a [Tipo] (valor)** — a armadura deixa o portador [[Resistência e Vulnerabilidade|vulnerável]] ao Tipo de Dano indicado. O valor é subtraído da [[Resistência e Vulnerabilidade#Absorção Efetiva|Absorção Efetiva]] contra aquele Tipo — por exemplo, as armaduras de metal têm **Vulnerabilidade a Elétrico (1)**: uma Cota de Malha com Absorção 4 fica com 3 contra Elétrico.
 
 Catálogos e módulos podem adicionar novas propriedades e definir os valores específicos de cada armadura.

@@ -171,6 +171,41 @@
 - **Requisito:** [[#Esquiva|Esquiva]]
 - **Descrição:** a esquiva do personagem passa a usar sua velocidade. Ao Esquivar, em vez do +1 da Esquiva, ele soma dados iguais à **metade da Movimentação**, arredondada para baixo. Sem Movimentação, como quando [[Agarrado]], não há esquiva.
 
+### Abrigo do Escudo
+
+- **Categoria:** Combate
+- **Estágio:** Novato
+- **Requisito:** —
+- **Descrição:** o personagem se encolhe atrás do [[Escudos|Escudo]] diante de perigos que tomam uma área. Com um Escudo empunhado, ao resistir a um **dano em área**, como o sopro de um dragão, ele soma a **Proteção** do Escudo à Reserva.
+
+### Guardião
+
+- **Categoria:** Combate
+- **Estágio:** Novato
+- **Requisito:** —
+- **Descrição:** o personagem protege quem luta ao seu lado. Uma vez por rodada, quando um aliado **adjacente** escolhe [[Confrontar#Defender|Defender]], o personagem pode somar a **Proteção** do próprio Escudo à Reserva desse aliado, além do que o aliado já usa para Defender (a Proteção do Escudo dele ou o Dano da arma, com [[#Aparar|Aparar]]). Com essa ajuda, o aliado pode **Defender mesmo sem Escudo**. O personagem precisa estar com um Escudo empunhado. Ajudar não custa a Ação nem impede que ele mesmo Defenda.
+
+### Baluarte
+
+- **Categoria:** Combate
+- **Estágio:** Experiente
+- **Requisito:** [[#Abrigo do Escudo|Abrigo do Escudo]], [[#Guardião|Guardião]]
+- **Descrição:** o Escudo do personagem cobre também os aliados contra perigos em área. O [[#Guardião|Guardião]] passa a valer quando um aliado adjacente resiste a um **dano em área**: o personagem soma a Proteção do Escudo à Reserva desse aliado. Essa ajuda conta no mesmo limite de uma vez por rodada do Guardião.
+
+### Guardião Aprimorado
+
+- **Categoria:** Combate
+- **Estágio:** Veterano
+- **Requisito:** [[#Guardião|Guardião]]
+- **Descrição:** o personagem protege os aliados sem descanso. O [[#Guardião|Guardião]] e o [[#Baluarte|Baluarte]] deixam de ter limite por rodada: ele soma a Proteção do Escudo a cada aliado adjacente, sempre que for preciso.
+
+### Evasão
+
+- **Categoria:** Combate
+- **Estágio:** Novato
+- **Requisito:** [[Atributos|Agilidade]] 3
+- **Descrição:** o personagem sabe sair de perigos que tomam uma área. Ao resistir a um **dano em área**, como o sopro de um dragão, se tirar Sucessos **maiores ou iguais ao dano** e a Movimentação da [[Confrontar#Esquivar|Esquiva]] bastar para chegar a uma casa fora da zona, ele sai dela automaticamente e **não sofre dano**. Senão, a resistência segue a regra normal.
+
 ---
 
 ← [[Trunfos|Voltar para Trunfos]]

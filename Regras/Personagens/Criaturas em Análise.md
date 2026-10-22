@@ -26,10 +26,14 @@ O livro usa dados (d4 a d12, e d12+N acima disso). O Astra usa valores de 1 a 5.
 | Livro | Astra |
 |---|---|
 | **Aparar** e **Resistência** | não existem: saem da Reserva de defesa e da trilha de Vida (3 + Vigor). |
-| **Armadura +N** | **Absorção**: metade da Armadura, arredondada para cima (+1 e +2 → 1, +4 → 2, +6 → 3, +8 → 4). |
+| **Armadura +N** | **Absorção N**: o valor cheio da Armadura (+2 → 2, +4 → 4). |
 | **Ataque For+dX** | ataque natural (arma de Origem Natural) com **Dano**: For → 0, d4 → 1, d6 → 2, d8 → 3, d10 → 4, d12 → 5. |
 | **Movimentação** | igual, em quadros. |
 | **Tamanho** -2 / -1 / 0 a +1 / +2 a +4 / +5 a +7 / +8 ou mais | **Pequeno / Pequeno / Médio / Grande / Enorme / Colossal**. Gato e fada: **Minúsculo**. |
+
+### Dano em área
+
+Efeitos em área (como o Sopro) causam **dano resistível**: o dano é a Dificuldade do teste para resistir. Cada Sucesso converte 1 dano agravado em superficial; os Sucessos que passam do dano removem dano superficial. As **Resistências** ao Tipo de Dano contam como Sucessos (agravado vira superficial, superficial vira nada), as **Vulnerabilidades** somam ao dano e a **Imunidade** zera. A **Absorção** da armadura vale só nos Ataques e não entra aqui.
 
 ### Habilidades que já têm Característica
 
@@ -71,7 +75,7 @@ Proposta de conversão. Atributos na ordem **For / Agi / Vig / Car / Ast / Det**
 | Cavalo de Montaria | 5 / 3 / 3 / 1 / 1 / 2 | Lutar 1, Perceber 2 | 10 | Grande | Coice, Dano 0 | 0 | — |
 | Mula | 3 / 1 / 3 / 1 / 1 / 2 | Perceber 1 | 6 | Médio | Coice, Dano 0 | 0 | Genioso: −1 em Cavalgar ao montá-la (narrativo) |
 | Gato Pequeno | 1 / 3 / 2 / 1 / 2 / 4 | Atletismo 2, Furtividade 3, Perceber 2 | 6 | Minúsculo | Mordida ou Garra, Dano 0 | 0 | Visão no Escuro |
-| Jacaré/Crocodilo | 4 / 1 / 4 / 1 / 1 / 2 | Atletismo 3, Lutar 3, Perceber 2 | 3 (5 nadando) | Médio | Mordida, Dano 2 | 1 | Aquática, Constritora (Rolar) |
+| Jacaré/Crocodilo | 4 / 1 / 4 / 1 / 1 / 2 | Atletismo 3, Lutar 3, Perceber 2 | 3 (5 nadando) | Médio | Mordida, Dano 2 | 2 | Aquática, Constritora (Rolar) |
 | Serpente Constritora | 2 / 1 / 2 / 1 / 1 / 3 | Lutar 2, Perceber 4 | 4 | Médio | Mordida, Dano 0 | 0 | Constritora |
 | Serpente Venenosa | 1 / 3 / 1 / 1 / 1 / 2 | Lutar 3, Perceber 5 | 4 | Minúsculo | Mordida, Dano 0 | 0 | Venenosa (Potência 2) |
 | Tubarão Branco | 5 / 3 / 5 / 1 / 1 / 3 | Atletismo 4, Lutar 4, Perceber 5 | 10 nadando | Grande | Mordida, Dano 3 | 0 | Aquática |
@@ -86,19 +90,19 @@ Decisões desta leva:
 
 ### Humanoides e monstros 🟨
 
-Proposta de conversão, com as mesmas regras dos Animais. Atributos na ordem **For / Agi / Vig / Car / Ast / Det**. Carisma 2 nos inteligentes e 1 nos de inteligência animal (Draco e Verme). As armas e armaduras ficam **equipadas na ficha** e também no compêndio de **Equipamentos**; a Ação de ataque usa a arma da mão (Fonte Arma). Dano da arma pelo dado (For+d8 → 3) e Absorção = metade da Armadura. Pele e escamas viram Absorção base.
+Proposta de conversão, com as mesmas regras dos Animais. Atributos na ordem **For / Agi / Vig / Car / Ast / Det**. Carisma 2 nos inteligentes e 1 nos de inteligência animal (Draco e Verme). As armas e armaduras ficam **equipadas na ficha** e também no compêndio de **Equipamentos**; a Ação de ataque usa a arma da mão (Fonte Arma). Dano da arma pelo dado (For+d8 → 3) e Absorção = Armadura cheia. Pele e escamas viram Absorção base.
 
 | Criatura | Atributos | Perícias | Mov. | Tamanho | Ações | Absorção | Características e notas |
 |---|---|---|---|---|---|---|---|
 | Goblin | 1 / 3 / 2 / 2 / 2 / 2 | Atirar 3, Atletismo 2, Furtividade 4, Lutar 2, Perceber 2 | 5 | Pequeno | Lança Curta, Dano 1 | 0 | Visão no Escuro (Infravisão) |
 | Orc | 3 / 2 / 3 / 2 / 1 / 2 | Atirar 2, Furtividade 2, Intimidar 3, Lutar 2, Perceber 2 | 6 | Médio | Cimitarra, Dano 3 | 1 | Visão no Escuro |
-| Orc Líder Tribal | 4 / 3 / 4 / 2 / 2 / 2 | Atirar 3, Furtividade 2, Intimidar 4, Lutar 5, Perceber 2 | 6 | Médio | Machado de Batalha, Dano 4 | 2 | Visão no Escuro |
+| Orc Líder Tribal | 4 / 3 / 4 / 2 / 2 / 2 | Atirar 3, Furtividade 2, Intimidar 4, Lutar 5, Perceber 2 | 6 | Médio | Machado de Batalha, Dano 4 | 3 (Placa Peitoral, Média) | Visão no Escuro |
 | Ogro | 5 / 2 / 5 / 2 / 1 / 2 | Atirar 2, Intimidar 3, Lutar 3, Perceber 1 | 7 | Grande | Clava Massiva, Dano 3 | 1 (Peles Grossas) | Frenesi (Varredura) |
 | Troll | 5 / 2 / 4 / 2 / 1 / 2 | Atirar 2, Atletismo 2, Intimidar 4, Lutar 3, Perceber 2 | 7 | Grande | Porrete com Espinhos, Dano 3; Garras, Dano 1 | 1 (pele) | Regeneração (não vale contra dano de Fogo, narrativo), Frenesi Aprimorado (Varrer Aprimorado) |
 | Minotauro | 5 / 3 / 5 / 2 / 2 / 3 | Atirar 2, Intimidar 5, Lutar 4, Perceber 4 | 8 | Grande | Lança (duas mãos), Dano 2, Alcance 2; Chifres, Dano 1 | 1 | Investida (+4 de Dano, depois de 6 quadros) |
-| Verme Gigante | 5 / 2 / 5 / 1 / 2 / 4 | Furtividade 4, Lutar 2, Perceber 4 | 6 | Colossal | Mordida, Dano 3; Pancada, Dano 8 | 2 (escamas) | Escavadora |
-| Draco | 5 / 2 / 5 / 1 / 2 / 4 | Intimidar 5, Lutar 4, Perceber 3 | 6 | Enorme | Garras/Mordida, Dano 3; Sopro de Fogo, Dano 8; Açoite de Cauda, Dano 0 | 2 (escamas) | Aterrorizante (Potência 2), Sopro |
-| Dragão | 5 / 3 / 5 / 2 / 3 / 4 | Intimidar 5, Lutar 4, Perceber 5 | 8 (voo 24) | Colossal | Garras/Mordida, Dano 3; Sopro de Fogo, Dano 8; Açoite de Cauda, Dano 0 | 2 (escamas) | Aterrorizante (Potência 3), Frenesi Aprimorado, Voadora, Sopro |
+| Verme Gigante | 5 / 2 / 5 / 1 / 2 / 4 | Furtividade 4, Lutar 2, Perceber 4 | 6 | Colossal | Mordida, Dano 3; Pancada, Dano 8 | 4 (escamas) | Escavadora |
+| Draco | 5 / 2 / 5 / 1 / 2 / 4 | Intimidar 5, Lutar 4, Perceber 3 | 6 | Enorme | Garras/Mordida, Dano 3; Sopro de Fogo, Dano 8; Açoite de Cauda, Dano 0 | 4 (escamas) | Aterrorizante (Potência 2), Sopro |
+| Dragão | 5 / 3 / 5 / 2 / 3 / 4 | Intimidar 5, Lutar 4, Perceber 5 | 8 (voo 24) | Colossal | Garras/Mordida, Dano 3; Sopro de Fogo, Dano 8; Açoite de Cauda, Dano 0 | 4 (escamas) | Aterrorizante (Potência 3), Frenesi Aprimorado, Voadora, Sopro |
 
 Decisões desta leva:
 - **Arremessar** vira Atirar e vale o maior dos dois; **Escalar** e **Nadar** viram Atletismo.
