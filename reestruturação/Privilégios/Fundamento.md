@@ -155,10 +155,8 @@ Antes da implementação oficial, os antigos Trunfos narrativos passarão por um
 
 Essa avaliação pode ser realizada antes da definição dos Perfis. Capacidades cuja identidade seja apenas um benefício, penalidade ou efeito mecânico direto ficam fora da lista de Privilégios, mas efeitos mecânicos específicos podem fazer parte de suas Especializações.
 
-## Etapas pendentes
+## Integração
 
-Ainda precisam ser realizadas:
+As antigas versões narrativas foram removidas da lista de Trunfos e o orçamento compartilhado foi incorporado à criação de personagem.
 
-- a remoção das antigas versões narrativas que ainda permanecem na lista de Trunfos;
-- a integração completa do orçamento compartilhado durante a criação;
-- a substituição das referências restantes a Trunfos depois que os Perfis forem definidos.
+As referências às capacidades mecânicas mantidas como Trunfos legados serão substituídas quando os Perfis forem definidos.

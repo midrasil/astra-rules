@@ -1,6 +1,6 @@
 # Identidade dos Privilégios
 
-Esta lista inicia a avaliação dos antigos Trunfos narrativos. Ela registra apenas a identidade simples de cada possível Privilégio, antes da definição de seus Níveis e da redação das entradas oficiais.
+Esta lista registra a identidade aprovada dos Privilégios utilizada na redação das entradas oficiais.
 
 Capacidades cuja identidade seja apenas um bônus, uma penalidade ou outro efeito mecânico direto não entram como Privilégios. Especializações, porém, podem possuir efeitos mecânicos ligados ao recurso que acrescentam.
 
@@ -76,13 +76,13 @@ O personagem possui um local que pode utilizar como residência, proteção e ba
 
 O personagem possui pessoas leais que o acompanham, servem ou agem em seu nome. Seu Nível representa a quantidade, a capacidade e o alcance geral desses seguidores.
 
-Este nome é provisório e reúne a antiga progressão formada por Assistente, Criados, Séquito, Comitiva e Corte.
+Este Privilégio reúne a antiga progressão formada por Assistente, Criados, Séquito, Comitiva e Corte.
 
 ## Status
 
 O personagem ocupa uma posição reconhecida dentro da sociedade, como um título, classe social ou dignidade. Seu Nível representa a importância e o alcance dessa posição.
 
-Status foi citado como exemplo para o novo sistema, mas ainda precisa ser comparado com Prestígio e Influência para confirmar sua identidade própria.
+Status se diferencia de Prestígio e Influência por representar a posição geral do personagem na sociedade, e não sua posição dentro de uma organização ou sua capacidade de mobilizar instituições.
 
 ## Especializações de Refúgio
 
@@ -145,7 +145,7 @@ O Refúgio oferece conforto, decoração e condições apropriadas para receber 
 - **Recursos** representa patrimônio e capacidade financeira; **Influência** representa poder sobre decisões, pessoas e instituições.
 - **Fama** representa reconhecimento público; **Prestígio** representa posição dentro de uma organização.
 - **Influência** representa a capacidade de fazer pessoas e instituições agirem; **Prestígio** representa a posição que o personagem ocupa.
-- **Status** representa posição social, mas ainda precisa ser diferenciado de Prestígio e Influência.
+- **Status** representa posição social; **Prestígio** representa posição dentro de uma organização; **Influência** representa a capacidade de mobilizar pessoas e instituições.
 - **Seguidores** representa pessoas ligadas diretamente ao personagem; **Guardas** representa uma Especialização vinculada ao Refúgio.
 
 ## Conceitos excluídos dos Privilégios

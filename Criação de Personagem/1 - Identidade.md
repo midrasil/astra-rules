@@ -2,7 +2,7 @@ Antes e além dos números, um personagem é definido por **quem ele é**: seu c
 
 ## Conceito
 
-Defina **quem é o personagem** em poucas palavras: origem, ocupação, personalidade e o que o move. O conceito orienta as escolhas seguintes — quais Atributos priorizar, quais [Trunfos](../Regras/Personagens/Trunfos/Trunfos.md) combinam e quais [Complicações](../Regras/Personagens/Complica%C3%A7%C3%B5es/Complica%C3%A7%C3%B5es.md) fazem sentido.
+Defina **quem é o personagem** em poucas palavras: origem, ocupação, personalidade e o que o move. O conceito orienta as escolhas seguintes — quais Atributos priorizar, quais [Privilégios](../Regras/Personagens/Privil%C3%A9gios/Privil%C3%A9gios.md) combinam e quais [Complicações](../Regras/Personagens/Complica%C3%A7%C3%B5es/Complica%C3%A7%C3%B5es.md) fazem sentido.
 
 ## Ambição e Desejo
 

@@ -1,3 +1,6 @@
+> [!warning] Sistema legado
+> O conceito de Trunfo está sendo substituído por **Privilégios** e **Perfis**. Os antigos Trunfos narrativos já foram transferidos para os [Privilégios](../Privil%C3%A9gios/Privil%C3%A9gios.md). As capacidades mecânicas permanecem aqui apenas até a definição dos Perfis.
+
 **Trunfos** representam talentos, aptidões especiais e características que distinguem um personagem, indo além de seus [Atributos](../Atributos.md) e [Perícias](../Per%C3%ADcias.md).
 
 Enquanto Atributos e Perícias descrevem capacidades gerais, os Trunfos representam aquilo que torna cada personagem único: treinamentos específicos, dons especiais e capacidades incomuns.
@@ -28,7 +31,7 @@ Um Trunfo ainda pode exigir:
 - que o personagem não possua um Trunfo incompatível;
 - requisitos adicionais definidos pelo cenário ou módulo.
 
-O Estágio de um Trunfo determina seu custo em XP durante a campanha, mas não restringe seu acesso. As regras de aquisição estão centralizadas em [Progressão](../Progress%C3%A3o.md#adquirindo-trunfos). Durante a criação, cada Trunfo custa 1 Ponto de Trunfo, independentemente do Estágio (ver [Trunfos e Complicações](../../../Cria%C3%A7%C3%A3o%20de%20Personagem/4%20-%20Trunfos%20e%20Complica%C3%A7%C3%B5es.md)).
+O Estágio de um Trunfo determina seu custo em XP durante a campanha, mas não restringe seu acesso. As regras de aquisição estão centralizadas em [Progressão](../Progress%C3%A3o.md#adquirindo-trunfos). Os antigos Pontos de Trunfo não fazem mais parte da criação de personagem; o novo orçamento possui 7 pontos compartilhados entre Privilégios e Perfis (ver [Privilégios e Complicações](../../../Cria%C3%A7%C3%A3o%20de%20Personagem/4%20-%20Trunfos%20e%20Complica%C3%A7%C3%B5es.md)).
 
 ## Formato de um Trunfo
 

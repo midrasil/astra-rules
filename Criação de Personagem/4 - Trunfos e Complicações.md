@@ -1,18 +1,23 @@
-Além de Atributos e Perícias, o personagem é definido pelos **Trunfos** que o destacam e pelas **Complicações** que criam problemas em sua história.
+# Privilégios e Complicações
 
-## Trunfos
+Além de Atributos e Perícias, o personagem é definido pelos **Privilégios** que possui, pelos **Perfis** que desenvolve e pelas **Complicações** que criam problemas em sua história.
+
+## Privilégios e Perfis
 
 O personagem recebe:
 
-> **7 Pontos de Trunfo**
+> **7 pontos compartilhados entre Privilégios e Perfis**
 
-Cada [Trunfo](../Regras/Personagens/Trunfos/Trunfos.md) custa **1 Ponto de Trunfo durante a criação**, independentemente de seu Estágio.
+Esses pontos podem ser divididos livremente entre os dois sistemas.
 
-O personagem pode escolher Trunfos de qualquer Estágio, desde que cumpra todos os requisitos ao final da criação. Quando um Trunfo exigir outro Trunfo, ambos precisam ser adquiridos e cada um custa 1 ponto.
+Ao adquirir [Privilégios](../Regras/Personagens/Privil%C3%A9gios/Privil%C3%A9gios.md):
 
-Por exemplo, uma sequência com cinco Trunfos progressivos custa 5 pontos caso o personagem adquira todos os seus Estágios.
+- cada ponto concede **1 Nível** em um Privilégio; ou
+- cada ponto concede **1 Especialização** de um Privilégio.
 
-Pontos de Trunfo não utilizados não são convertidos em XP nem podem ser transferidos para Complicações.
+Por exemplo, `Refúgio 3` com **Arsenal** e **Biblioteca** consome 5 dos 7 pontos.
+
+Os pontos utilizados em Perfis seguirão as regras próprias desse sistema. Pontos não utilizados não são convertidos em XP nem podem ser transferidos para Complicações.
 
 ## Complicações
 
@@ -41,7 +46,7 @@ Complicações possuem natureza narrativa. Elas criam situações e consequênci
 
 Complicações comportamentais orientam a interpretação do personagem. Quando ele tentar agir contra esse comportamento sob pressão, o Narrador pode exigir um teste apropriado para resistir, com Dificuldade definida pelas circunstâncias da cena. Consulte as [regras de Complicações](../Regras/Personagens/Complica%C3%A7%C3%B5es/Complica%C3%A7%C3%B5es.md#complica%C3%A7%C3%B5es-comportamentais).
 
-Os Pontos de Complicação são separados dos Pontos de Trunfo. Adquirir Complicações não concede Trunfos adicionais, e pontos não utilizados não podem ser transferidos entre os dois orçamentos.
+Os Pontos de Complicação são separados dos pontos compartilhados entre Privilégios e Perfis. Adquirir Complicações não concede pontos adicionais, e pontos não utilizados não podem ser transferidos entre os dois orçamentos.
 
 ---
 

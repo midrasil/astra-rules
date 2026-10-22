@@ -27,7 +27,7 @@ O XP pode ser utilizado para:
 - aumentar [Atributos](Atributos.md);
 - aumentar [Perícias](Per%C3%ADcias.md);
 - adquirir ou aumentar [Privilégios](Privil%C3%A9gios/Privil%C3%A9gios.md);
-- adquirir [Trunfos](Trunfos/Trunfos.md);
+- adquirir [Trunfos legados](Trunfos/Trunfos.md), enquanto ainda não forem substituídos pelos Perfis;
 - adquirir ou desenvolver capacidades específicas de um cenário ou módulo.
 
 Aumentar uma característica significa comprar seu **próximo nível**. Não é possível ignorar níveis intermediários.
@@ -46,7 +46,7 @@ Quando um Atributo aumenta, todos os valores derivados dele, como Vida, Vontade,
 | Aumentar uma **Perícia** | novo nível × 3 XP |
 | Adquirir ou aumentar um **Privilégio** | 3 XP por nível |
 | Adquirir uma **Especialização de Privilégio** | 3 XP |
-| Adquirir um **Trunfo** | determinado pelo Estágio do Trunfo |
+| Adquirir um **Trunfo legado** | determinado pelo Estágio do Trunfo |
 | Outras capacidades | determinado pela regra, cenário ou módulo |
 
 ### Exemplos
@@ -67,6 +67,8 @@ Cada novo [Nível de Privilégio](Privil%C3%A9gios/Privil%C3%A9gios.md#n%C3%ADve
 Cada Especialização de Privilégio também custa **3 XP**. Aumentar o Nível não concede Especializações automaticamente.
 
 ## Adquirindo Trunfos
+
+Estas regras são mantidas temporariamente para as capacidades mecânicas que ainda não foram convertidas em Perfis. Trunfos não fazem mais parte do orçamento da criação de personagem.
 
 Cada Trunfo possui um Estágio. O Estágio determina somente seu custo em XP durante a campanha e não restringe quais Trunfos o personagem pode adquirir.
 
