@@ -24,7 +24,7 @@ Esta seção reúne os elementos que definem as capacidades, recursos, motivaç�
 - [Ambição e Desejo](Ambi%C3%A7%C3%A3o%20e%20Desejo.md) — objetivos de longo e curto prazo.
 - [Convicções e Pilares](Convic%C3%A7%C3%B5es%20e%20Pilares.md) — princípios que o personagem defende e o que os sustenta.
 - [Trunfos](Trunfos/Trunfos.md) — talentos, aptidões e características especiais.
-- [Complicações](Complica%C3%A7%C3%B5es/Complica%C3%A7%C3%B5es.md) — falhas e deficiências que criam dificuldades.
+- [Complicações](Complica%C3%A7%C3%B5es/Complica%C3%A7%C3%B5es.md) — problemas narrativos que criam situações e consequências na história.
 
 ## Progressão
 

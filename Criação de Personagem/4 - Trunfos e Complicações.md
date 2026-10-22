@@ -20,9 +20,9 @@ O personagem precisa adquirir:
 
 > **4 Pontos de Complicação**
 
-Cada [Complicação](../Regras/Personagens/Complica%C3%A7%C3%B5es/Complica%C3%A7%C3%B5es.md) possui um valor conforme seu grau:
+Escolha as Complicações na [Lista de Complicações](../Regras/Personagens/Complica%C3%A7%C3%B5es/Lista%20de%20Complica%C3%A7%C3%B5es.md). Cada uma informa se está disponível como **Menor**, **Maior** ou **Menor ou Maior**. Quando houver escolha, o jogador decide qual tipo está adquirindo.
 
-| Grau | Valor |
+| Tipo adquirido | Valor |
 |---|---:|
 | **Menor** | 1 ponto |
 | **Maior** | 2 pontos |
@@ -33,7 +33,11 @@ Os quatro pontos podem ser distribuídos das seguintes formas:
 - uma Complicação Maior e duas Menores;
 - duas Complicações Maiores.
 
-Uma mesma Complicação só pode ser escolhida uma vez. O personagem não pode possuir simultaneamente suas versões Menor e Maior.
+Uma mesma Complicação só pode ser escolhida uma vez e não pode existir simultaneamente como Menor e Maior. Registre o tipo escolhido na ficha, como `Procurado (Maior)`.
+
+Cada Complicação deve ser personalizada para o personagem. O jogador e o Narrador definem juntos sua origem, as pessoas ou organizações envolvidas, seu alcance, suas conexões com a ficha e como ela pode aparecer na campanha.
+
+Complicações são exclusivamente narrativas. Elas criam situações e consequências na história, mas não aplicam penalidades ou modificadores mecânicos.
 
 Os Pontos de Complicação são separados dos Pontos de Trunfo. Adquirir Complicações não concede Trunfos adicionais, e pontos não utilizados não podem ser transferidos entre os dois orçamentos.
 

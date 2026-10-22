@@ -1,49 +1,87 @@
-Lista de Complicações do núcleo. Cada entrada reúne a versão **menor** e a **maior** (ver [Formato de uma Complicação](Complica%C3%A7%C3%B5es.md#formato-de-uma-complica%C3%A7%C3%A3o)).
+# Lista de Complicações
 
-## Audição
+Esta é a lista de Complicações do núcleo. Todas seguem as regras de [Complicações](Complica%C3%A7%C3%B5es.md) e produzem apenas consequências narrativas.
 
-- **Menor — Duro de Ouvido:** o personagem escuta mal e sofre **−2 dados** em testes de **Perceber** que dependam da audição, como ouvir passos, uma conversa do outro lado da porta ou um alarme distante.
-- **Maior — Surdo:** o personagem não ouve nada. Testes de **Perceber** que dependam apenas da audição **falham automaticamente**. Para conversar, ele depende de leitura labial, sinais ou escrita, a critério do Narrador.
+## Procurado
 
-A penalidade não é automática: o Narrador decide quando um teste depende da audição.
+**Tipo:** Menor ou Maior
 
-## Corpo
+**Descrição:** o personagem é procurado por uma autoridade, organização ou facção. Como Complicação Menor, a perseguição está limitada a uma cidade, pequeno grupo ou região distante e pode provocar interrogatórios, detenções ou dificuldades quando ele for reconhecido. Como Complicação Maior, o personagem é ativamente caçado na região da campanha, e seus perseguidores possuem recursos para acompanhar seus movimentos, ameaçar aliados e interromper seus planos. O jogador e o Narrador devem definir quem o procura, o motivo, o alcance da perseguição e o que seus perseguidores pretendem fazer caso o encontrem.
 
-- **Maior — Fracote:** o corpo do personagem aguenta pouco: ele é magro, baixo ou frágil demais para o seu povo. Sua **Absorção** sofre **−1**, sem nunca ficar abaixo de 0.
-- **Maior — Um Braço Só:** por nascença ou por uma ferida antiga, o personagem tem apenas um braço. Ele sofre **−2 dados** em tarefas que exigem as duas mãos, como escalar ou nadar, empunha **um único item por vez** e não pode usar armas de **Duas mãos**.
+**Resolução:** provar sua inocência, cumprir uma sentença, receber perdão, negociar com os perseguidores ou revelar o verdadeiro responsável são algumas possibilidades. Fugir, mudar de identidade ou eliminar quem conduz a perseguição pode alterar a situação, mas também pode transformá-la em outra Complicação. A resolução definitiva depende da ficção e deve ser definida em jogo pelo jogador e pelo Narrador.
 
-## Lei
+## Má Reputação
 
-- **Menor — Procurado:** o personagem tem pendências com a lei por delitos leves, ou é procurado por algo mais sério longe da região da campanha. Se for reconhecido, pode ser detido, multado ou ter de se explicar.
-- **Maior — Foragido:** o personagem é procurado por um crime grave, como assassinato, na região da campanha. Se for reconhecido, será preso ou caçado, e pode haver recompensa pela sua captura.
+**Tipo:** Menor ou Maior
 
-Pressupõe um cenário com leis e autoridades para aplicá-las.
+**Descrição:** histórias prejudiciais sobre o personagem influenciam como outras pessoas o tratam. Como Complicação Menor, ele é mal falado dentro de um círculo pequeno, no qual encontra desconfiança, desprezo ou portas fechadas. Como Complicação Maior, sua infâmia alcança uma região ou meio social amplo, atraindo hostilidade, ameaças e atenção indesejada. O jogador e o Narrador devem definir qual acontecimento originou essa reputação, quem conhece a história, o que acreditam sobre o personagem e onde ela possui influência.
 
-## Reputação
+**Resolução:** esclarecer os acontecimentos, reparar o dano causado, conquistar a confiança das pessoas afetadas ou realizar algo capaz de mudar a opinião pública são algumas possibilidades. Também é possível que a reputação perca importância quando o personagem abandona aquele meio. A resolução definitiva depende da ficção e deve ser definida em jogo pelo jogador e pelo Narrador.
 
-- **Menor — Mal Falado:** o personagem é conhecido por algo vergonhoso num círculo pequeno. Quem conhece a história o trata com desconfiança ou desprezo, e isso fecha portas que estariam abertas para outra pessoa.
-- **Maior — Infâmia:** o personagem fez algo terrível ou repugnante, e a notícia correu longe. Onde é reconhecido, muitos se recusam a ajudá-lo, alguns o ameaçam abertamente, e inimigos ou autoridades podem estar à sua procura.
-- **Menor — Antipatizado:** o personagem não é bem visto de modo geral. Desconhecidos o recebem com frieza, conhecidos evitam ajudá-lo além do necessário e ninguém o defende de graça.
-- **Maior — Desprezado:** um grupo ou uma região inteira vive para atrapalhar o personagem e quem anda com ele, espalhando boatos e sabotando seus planos.
-- **Menor — Admiradores Obsessivos:** o personagem costuma atrair pessoas que se encantam demais por ele. Elas o seguem, aparecem nos piores momentos e podem colocá-lo em apuros sem querer.
-- **Menor — Suspeito:** uma facção ou organização desconfia do personagem. Seus membros o vigiam, negam favores e acreditam no pior a seu respeito.
-- **Maior — Rejeitado:** uma facção ou organização detesta o personagem. Seus membros se recusam a lidar com ele e alguns buscam ativamente prejudicá-lo.
+## Antipatizado
 
-## Segredos
+**Tipo:** Menor ou Maior
 
-- **Menor — Segredo:** o personagem esconde algo que, se vier à tona, causa vergonha, perda de reputação ou o afastamento de um aliado.
-- **Maior — Segredo Sombrio:** o personagem esconde algo grave, como um crime, uma traição ou uma origem proibida. Se for revelado, a vida dele desmorona. Protegê-lo pode levá-lo a agir contra o próprio grupo.
+**Descrição:** uma comunidade ou grupo social não gosta do personagem, independentemente de sua reputação formal. Como Complicação Menor, ele é recebido com frieza e encontra pouca disposição para receber ajuda. Como Complicação Maior, o desprezo é intenso e seus desafetos espalham boatos, sabotam seus planos ou hostilizam quem permanece ao seu lado. O jogador e o Narrador devem definir quem antipatiza com o personagem, por que isso acontece e até onde essa hostilidade alcança.
 
+**Resolução:** reparar uma ofensa, desfazer um mal-entendido, conquistar respeito ou criar uma aliança com alguém importante do grupo são algumas possibilidades. Sair daquela comunidade ou aceitar uma separação definitiva também pode encerrar sua relevância. A resolução definitiva depende da ficção e deve ser definida em jogo pelo jogador e pelo Narrador.
 
-Complicações de Reputação e Segredos são narrativas: não alteram rolagens.
+## Admiradores Obsessivos
 
-## Refúgio
+**Tipo:** Menor
 
-- **Menor — Refúgio Comprometido:** o refúgio do personagem já foi invadido uma vez. Alguém conhece o caminho até ele, e uma nova invasão pode acontecer quando ele menos espera.
-- **Menor — Refúgio Sinistro:** o refúgio tem um aspecto perturbador. Quem entra fica desconfortável ou desconfiado, e visitas raramente terminam bem.
-- **Maior — Refúgio Assombrado:** uma manifestação sobrenatural habita o refúgio. O personagem não a controla nem a entende, e ela pode agir nos piores momentos.
+**Descrição:** o personagem atrai uma ou mais pessoas cuja admiração ultrapassa limites razoáveis. Elas podem segui-lo, aparecer em momentos inconvenientes, invadir sua privacidade, espalhar histórias ou se colocar em perigo para chamar sua atenção. O jogador e o Narrador devem definir quem são esses admiradores, por que se interessaram pelo personagem, o que desejam e quais limites estão dispostos a ultrapassar.
 
-## Sorte
+**Resolução:** estabelecer limites, afastar os admiradores, ajudá-los a abandonar a obsessão ou mudar as circunstâncias que alimentam sua fixação são algumas possibilidades. Reagir de forma agressiva ou humilhante pode encerrar a admiração, mas também pode transformá-la em ressentimento ou inimizade. A resolução definitiva depende da ficção e deve ser definida em jogo pelo jogador e pelo Narrador.
 
-- **Menor — Má Sorte:** a sorte raramente sorri para o personagem. Ao usar Vontade para [Rerrolar Dados](../Vontade.md#rerrolar-dados), ele rerrola **1 dado a menos** (até 2 em vez de 3).
-- **Maior — Azarado:** o azar persegue o personagem. Ao usar Vontade para [Rerrolar Dados](../Vontade.md#rerrolar-dados), ele rerrola **2 dados a menos** (só 1 em vez de 3).
+## Conflito com uma Facção
+
+**Tipo:** Menor ou Maior
+
+**Descrição:** uma facção, organização ou instituição desconfia do personagem ou se opõe a ele. Como Complicação Menor, seus membros o vigiam, negam favores e interpretam suas ações da pior maneira. Como Complicação Maior, a organização o considera um inimigo, recusa qualquer cooperação e utiliza sua influência para prejudicá-lo. O jogador e o Narrador devem definir qual é a facção, o que causou o conflito, quais membros estão envolvidos e quais recursos ela pode mobilizar.
+
+**Resolução:** demonstrar lealdade, reparar uma ofensa, colaborar contra uma ameaça comum, negociar com a liderança ou provocar uma mudança interna na facção são algumas possibilidades. Destruir ou abandonar a organização também pode encerrar o conflito, mas suas consequências podem criar novos inimigos. A resolução definitiva depende da ficção e deve ser definida em jogo pelo jogador e pelo Narrador.
+
+## Segredo
+
+**Tipo:** Menor ou Maior
+
+**Descrição:** o personagem esconde uma informação que poderia mudar a maneira como outras pessoas o tratam. Como Complicação Menor, sua revelação pode causar vergonha, perda de reputação ou o afastamento de um aliado. Como Complicação Maior, o segredo envolve algo grave, como um crime, uma traição, uma identidade proibida ou um acontecimento capaz de destruir sua posição e ameaçar pessoas próximas. O jogador e o Narrador devem definir o segredo, quem poderia descobri-lo, quem seria afetado e quais indícios podem conduzir até a verdade.
+
+**Resolução:** revelar voluntariamente a verdade, reparar suas consequências, conquistar o perdão dos envolvidos ou tornar a informação irrelevante são algumas possibilidades. Silenciar testemunhas ou destruir provas pode proteger o segredo, mas não necessariamente resolver a Complicação. A resolução definitiva depende da ficção e deve ser definida em jogo pelo jogador e pelo Narrador.
+
+## Refúgio Comprometido
+
+**Tipo:** Menor
+
+**Descrição:** a segurança ou o segredo do refúgio do personagem foi comprometido. Alguém conhece sua localização, possui uma forma de entrar ou sabe algo que pode ser usado contra seus ocupantes. O jogador e o Narrador devem definir quem comprometeu o refúgio, como isso aconteceu, quais informações ou acessos essa pessoa possui e o que pretende fazer com eles.
+
+**Resolução:** mudar de refúgio, alterar sua segurança, recuperar acessos roubados, negociar com quem conhece o local ou convencê-lo a guardar silêncio são algumas possibilidades. Eliminar uma ameaça conhecida pode não resolver o problema caso a informação já tenha sido compartilhada. A resolução definitiva depende da ficção e deve ser definida em jogo pelo jogador e pelo Narrador.
+
+## Refúgio Sinistro
+
+**Tipo:** Menor ou Maior
+
+**Descrição:** algo no refúgio provoca medo, desconforto ou desconfiança. Como Complicação Menor, sua aparência, história ou atmosfera afasta visitantes e torna encontros no local difíceis. Como Complicação Maior, uma presença, maldição ou manifestação sobrenatural habita o refúgio e pode agir em momentos importantes. O jogador e o Narrador devem definir a origem do aspecto sinistro, como ele se manifesta, quem conhece sua história e o que deseja qualquer presença ligada ao local.
+
+**Resolução:** restaurar o lugar, compreender sua história, desfazer uma maldição, apaziguar ou expulsar uma presença e abandonar o refúgio são algumas possibilidades. Resolver uma manifestação pode revelar outra causa por trás dela. A resolução definitiva depende da ficção e deve ser definida em jogo pelo jogador e pelo Narrador.
+
+## Inimigo
+
+**Tipo:** Menor ou Maior
+
+**Descrição:** uma pessoa ou grupo deseja prejudicar o personagem. Como Complicação Menor, o Inimigo possui recursos limitados, age dentro de um meio específico e normalmente ameaça interesses secundários. Como Complicação Maior, é uma pessoa poderosa ou organização capaz de perseguir o personagem, atacar seus aliados e interferir repetidamente em seus objetivos. O jogador e o Narrador devem definir quem é o Inimigo, a origem do conflito, o que ele deseja e quais recursos, relações e limites possui.
+
+**Resolução:** derrotar, reconciliar-se ou negociar com o Inimigo, eliminar a causa do conflito ou retirar dele os meios e o interesse para continuar são algumas possibilidades. Sua morte pode encerrar a Complicação, mas aliados, herdeiros ou consequências de suas ações podem transformá-la em outra. A resolução definitiva depende da ficção e deve ser definida em jogo pelo jogador e pelo Narrador.
+
+## Voto
+
+**Tipo:** Menor ou Maior
+
+**Descrição:** o personagem assumiu um compromisso que influencia suas escolhas e pode colocá-lo em situações difíceis. Como Complicação Menor, o Voto possui objetivo ou alcance limitado e afeta uma parte específica de sua vida. Como Complicação Maior, é um compromisso central, duradouro e capaz de entrar em conflito com relações e objetivos importantes. O jogador e o Narrador devem definir o conteúdo do Voto, por que ele foi realizado, a quem ou a que está ligado e o que significa honrá-lo. O personagem pode possuir uma [Convicção](../Convic%C3%A7%C3%B5es%20e%20Pilares.md) diretamente relacionada ao Voto.
+
+**Resolução:** cumprir o compromisso, ser liberado por quem o recebeu, descobrir que ele perdeu seu propósito ou aceitar as consequências de rompê-lo são algumas possibilidades. Uma mudança de crença ou de circunstâncias também pode transformar o Voto em outra obrigação. A resolução definitiva depende da ficção e deve ser definida em jogo pelo jogador e pelo Narrador.
+
+---
+
+← [Voltar para Complicações](Complica%C3%A7%C3%B5es.md)

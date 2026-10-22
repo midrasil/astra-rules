@@ -42,7 +42,7 @@ Todo Trunfo é apresentado com as seguintes informações:
 
 ## Complicações
 
-As [Complicações](../Complica%C3%A7%C3%B5es/Complica%C3%A7%C3%B5es.md) são falhas e deficiências que trazem obstáculos ao personagem. Elas funcionam de forma diferente dos Trunfos.
+As [Complicações](../Complica%C3%A7%C3%B5es/Complica%C3%A7%C3%B5es.md) são problemas narrativos que criam situações e consequências na história. Elas funcionam de forma diferente dos Trunfos e não aplicam penalidades ou modificadores mecânicos.
 
 ---
 

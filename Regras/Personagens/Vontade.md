@@ -62,7 +62,7 @@ Isso não representa necessariamente inconsciência ou perda total de controle. 
 
 A consequência específica depende das circunstâncias da cena e das decisões do Narrador para aquela situação.
 
-Após a resolução final do evento que causou o colapso, a critério do Narrador, o personagem pode ganhar uma nova [Complicação](Complica%C3%A7%C3%B5es/Complica%C3%A7%C3%B5es.md) **menor** ou **maior**.
+Após a resolução final do evento que causou o colapso, se suas consequências criarem um problema narrativo duradouro, o Narrador pode atribuir ao personagem uma nova [Complicação](Complica%C3%A7%C3%B5es/Complica%C3%A7%C3%B5es.md) **Menor** ou **Maior**. O jogador e o Narrador devem personalizá-la de acordo com o que aconteceu durante a história.
 
 ## Usando a Vontade
 
