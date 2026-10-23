@@ -74,6 +74,8 @@ Um personagem com a trilha de Vontade cheia não pode utilizar Vontade, exceto p
 
 Uma vez por sessão, uma **Convicção** permite utilizar Vontade sem sofrer o dano superficial, mesmo com a trilha cheia (ver [Convicções e Pilares](Convic%C3%A7%C3%B5es%20e%20Pilares.md)).
 
+Algumas Capacidades concedidas por Competências exigem o uso de Vontade para serem ativadas.
+
 ### Rerrolar Dados
 
 Após realizar um teste, o personagem pode sofrer **1 ponto de dano superficial de Vontade** para **rerrolar até 3 dados** de sua Reserva de Dados.
@@ -111,7 +113,7 @@ O dano superficial de Vontade sofrido para utilizar esses efeitos é marcado nor
 Ferimentos de Vontade não desaparecem ao final dos conflitos.  
 A recuperação depende da **gravidade** do dano sofrido.
 
-- **Dano Superficial:** No começo de cada sessão, se o personagem não estiver em uma situação de perigo, estresse ou em um momento decisivo (ou outra circunstância determinada pelo Narrador), ele recupera uma quantidade de dano superficial igual ao seu valor no atributo **Determinação**.
+- **Dano Superficial:** Ao completar um [Descanso Prolongado](Descanso%20Prolongado.md), o personagem recupera todo o dano superficial de Vontade.
 - **Dano Agravado:** Não se recupera com o tempo. Ele se torna superficial quando o personagem trabalha ativamente em direção à sua **Ambição**, quando uma **Fratura** de Convicção é reparada (1 ponto) ou quando uma Convicção rompida é **restaurada** (até 2 pontos) (ver [Convicções e Pilares](Convic%C3%A7%C3%B5es%20e%20Pilares.md)).
 
 Agir em favor de seu **Desejo** também permite recuperar dano superficial de Vontade. Os detalhes estão em [Ambição e Desejo](Ambi%C3%A7%C3%A3o%20e%20Desejo.md).

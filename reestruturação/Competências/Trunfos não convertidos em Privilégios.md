@@ -16,7 +16,7 @@ As antigas categorias sem entradas foram omitidas. Os antigos Trunfos narrativos
 - **Categoria:** Antecedentes
 - **Estágio:** Veterano
 - **Requisito:** [Cura Rápida](#cura-r%C3%A1pida)
-- **Descrição:** o corpo do personagem se recupera mesmo sem cuidados. No começo de cada sessão, junto com a recuperação do dano superficial, ele converte **1 ponto de dano agravado** em superficial, sem precisar de tratamento.
+- **Descrição:** o corpo do personagem se recupera mesmo sem cuidados. Ao completar um [Descanso Prolongado](../../Regras/Personagens/Descanso%20Prolongado.md), junto com a recuperação do dano superficial, ele converte **1 ponto de dano agravado** em superficial, sem precisar de tratamento.
 
 ### Ligeiro
 
@@ -322,7 +322,7 @@ Quando a criatura **vence um Ataque com um ataque natural corpo a corpo**, o alv
 
 #### Sopro (Dano; Tipo de Dano)
 
-- **Descrição:** com a sua Ação, a criatura ataca todos os alvos num cone de 3 quadros, com uma rolagem só. Cada alvo responde com **Esquivar** ou **Defender**; não pode Aceitar o Confronto. O Sopro não pode ser usado em turnos seguidos.
+- **Descrição:** com sua Ação, a criatura cria uma [Zona](../../Regras/Cenas%20e%20Conflitos/Zonas.md) instantânea em um cone de 3 quadrados. A Zona possui o Dano e o Tipo de Dano definidos na criatura. O Sopro não pode ser usado em turnos seguidos.
 
 #### Investida (+2 de Dano; 4 quadros)
 

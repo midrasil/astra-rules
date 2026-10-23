@@ -37,6 +37,8 @@ Os valores do Tipo e do Material são somados. Quando a fonte de dano não tem M
 
 Os Tipos de Dano e Materiais são definidos em [Armas](../Equipamentos/Armas.md). A gravidade do dano e sua recuperação estão descritas em [Vida](../Personagens/Vida.md).
 
+O dano causado por [Zonas](../Cenas%20e%20Conflitos/Zonas.md) não utiliza a Absorção Efetiva. Nesse caso, Resistências contam como Sucessos automáticos no teste para resistir, Vulnerabilidades aumentam diretamente o Dano da Zona e Imunidades impedem completamente o dano.
+
 ---
 
 ← [Voltar ao Astra](../../Readme.md)

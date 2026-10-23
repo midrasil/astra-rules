@@ -11,6 +11,7 @@ Esta seção organiza as regras usadas quando uma situação exige ordem de inic
 - [Confrontar](A%C3%A7%C3%B5es/Confrontar.md) — ataques e respostas do alvo.
 - [Manobras](A%C3%A7%C3%B5es/Manobras.md) — controle de posição, condição ou movimento.
 - [Aguardar](A%C3%A7%C3%B5es/Aguardar.md) — atrasar o turno ou preparar uma ação.
+- [Zonas](Zonas.md) — efeitos que atingem uma área e como resistir ao dano causado por eles.
 - [Iluminação](Ilumina%C3%A7%C3%A3o.md) — penalidades por pouca luz.
 
 ## Seções relacionadas

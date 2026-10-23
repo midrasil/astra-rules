@@ -14,7 +14,7 @@
 - **Categoria:** Antecedentes
 - **Estágio:** Veterano
 - **Requisito:** [Cura Rápida](#cura-r%C3%A1pida)
-- **Descrição:** o corpo do personagem se recupera mesmo sem cuidados. No começo de cada sessão, junto com a recuperação do dano superficial, ele converte **1 ponto de dano agravado** em superficial, sem precisar de tratamento.
+- **Descrição:** o corpo do personagem se recupera mesmo sem cuidados. Ao completar um [Descanso Prolongado](../Descanso%20Prolongado.md), junto com a recuperação do dano superficial, ele converte **1 ponto de dano agravado** em superficial, sem precisar de tratamento.
 
 ### Ligeiro
 

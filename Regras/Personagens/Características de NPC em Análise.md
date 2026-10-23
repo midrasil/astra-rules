@@ -83,7 +83,7 @@ Cada um com tratamento próprio:
 | Característica | Proposta |
 |---|---|
 | **Frenesi** | Uma vez por turno, ao vencer um Ataque, pode fazer outro Ataque contra outro alvo adjacente, com -2 dados. No **Aprimorado**, sem a penalidade. |
-| **Sopro** (fogo, gelo, ácido…) | Ação: ataque em cone de 3 quadros; cada alvo na área responde com Esquivar ou Defender. Não pode ser usado em turnos seguidos. |
+| **Sopro** (fogo, gelo, ácido…) | Ação: cria uma [Zona](../Cenas%20e%20Conflitos/Zonas.md) instantânea em cone de 3 quadrados, com Dano e Tipo definidos na criatura. Não pode ser usado em turnos seguidos. |
 | **Investida** (Bote, Espetar, Carga) | Ao se mover pelo menos 4 quadros em linha reta antes de atacar, soma +2 ao Dano do Ataque. |
 | **Ir para a Garganta** | Ao vencer com Margem 3 ou mais, o dano ignora a Absorção da armadura do alvo. |
 | **Constritora** (Constrição, Abraço, Rolar) | Ao vencer com Margem 2 ou mais, o alvo também fica Agarrado. No começo de cada turno da criatura, o alvo Agarrado por ela sofre o Dano do ataque natural. |

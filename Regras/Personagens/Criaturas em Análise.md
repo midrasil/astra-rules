@@ -33,7 +33,7 @@ O livro usa dados (d4 a d12, e d12+N acima disso). O Astra usa valores de 1 a 5.
 
 ### Dano em área
 
-Efeitos em área (como o Sopro) causam **dano resistível**: o dano é a Dificuldade do teste para resistir. Cada Sucesso converte 1 dano agravado em superficial; os Sucessos que passam do dano removem dano superficial. As **Resistências** ao Tipo de Dano contam como Sucessos (agravado vira superficial, superficial vira nada), as **Vulnerabilidades** somam ao dano e a **Imunidade** zera. A **Absorção** da armadura vale só nos Ataques e não entra aqui.
+Efeitos em área, como o Sopro, seguem a regra de [Zonas](../Cenas%20e%20Conflitos/Zonas.md).
 
 ### Habilidades que já têm Característica
 

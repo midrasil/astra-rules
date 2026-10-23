@@ -18,6 +18,7 @@ Esta seção reúne os elementos que definem as capacidades, recursos, motivaç�
 
 - [Vida](Vida.md) — condição física, dano e recuperação.
 - [Vontade](Vontade.md) — determinação e resistência mental e emocional.
+- [Descanso Prolongado](Descanso%20Prolongado.md) — recuperação de dano superficial de Vida e Vontade.
 
 ## Identidade e personalização
 

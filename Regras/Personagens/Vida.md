@@ -60,7 +60,7 @@ O dano agravado é registrado na trilha de Vida como um traço X.
 Ferimentos não desaparecem imediatamente após o término de um conflito.  
 A recuperação depende da **gravidade** do dano sofrido.
 
-**Dano Superficial** — cura com o tempo, sem necessidade de tratamento. No começo de cada sessão, se o personagem não estiver em uma situação de perigo, estresse ou em um momento decisivo (ou outra circunstância determinada pelo Narrador), ele recupera uma quantidade de dano superficial igual ao seu valor no atributo **Vigor**.
+**Dano Superficial** — cura com o tempo, sem necessidade de tratamento. Ao completar um [Descanso Prolongado](Descanso%20Prolongado.md), o personagem recupera uma quantidade de dano superficial igual ao seu **Vigor**.
 
 **Dano Agravado** — não se recupera com o tempo. Ele permanece na trilha até receber **tratamento**, que o converte em dano superficial; o dano convertido volta a se curar normalmente depois disso.
 

@@ -59,7 +59,7 @@ Quando a criatura **vence um Ataque com um ataque natural corpo a corpo**, o alv
 
 ### Sopro (Dano; Tipo de Dano)
 
-- **Descrição:** com a sua Ação, a criatura ataca todos os alvos num cone de 3 quadros, com uma rolagem só. Cada alvo responde com **Esquivar** ou **Defender**; não pode Aceitar o Confronto. O Sopro não pode ser usado em turnos seguidos.
+- **Descrição:** com sua Ação, a criatura cria uma [Zona](../../Cenas%20e%20Conflitos/Zonas.md) instantânea em um cone de 3 quadrados. A Zona possui o Dano e o Tipo de Dano definidos na criatura. O Sopro não pode ser usado em turnos seguidos.
 
 ### Investida (+2 de Dano; 4 quadros)
 
