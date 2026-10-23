@@ -1,6 +1,6 @@
-# Fundamento das Competências
-
 Este documento registra as decisões fundamentais para o novo sistema de **Competências**.
+
+As regras fundamentais foram aprovadas e incorporadas ao sistema oficial. A lista de Competências e a substituição completa dos antigos Trunfos serão realizadas posteriormente.
 
 ## Substituição dos Perfis
 
@@ -147,3 +147,7 @@ Ainda precisam ser definidos:
 - a lista de Competências do sistema;
 - quais antigos Trunfos serão convertidos em Competências ou Capacidades;
 - quais antigos Trunfos serão removidos ou transformados em outros elementos do sistema.
+
+## Material para análise
+
+- [Trunfos não convertidos em Privilégios](Trunfos%20n%C3%A3o%20convertidos%20em%20Privil%C3%A9gios.md)

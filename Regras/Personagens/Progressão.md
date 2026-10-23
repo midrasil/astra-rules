@@ -27,6 +27,7 @@ O XP pode ser utilizado para:
 - aumentar [Atributos](Atributos.md);
 - aumentar [Perícias](Per%C3%ADcias.md);
 - adquirir ou aumentar [Privilégios](Privil%C3%A9gios/Privil%C3%A9gios.md);
+- adquirir ou aumentar [Competências](Compet%C3%AAncias/Compet%C3%AAncias.md);
 - adquirir [Trunfos legados](Trunfos/Trunfos.md), enquanto ainda não forem substituídos pelas Competências;
 - adquirir ou desenvolver capacidades específicas de um cenário ou módulo.
 
@@ -46,6 +47,7 @@ Quando um Atributo aumenta, todos os valores derivados dele, como Vida, Vontade,
 | Aumentar uma **Perícia** | novo nível × 3 XP |
 | Adquirir ou aumentar um **Privilégio** | 3 XP por nível |
 | Adquirir uma **Especialização de Privilégio** | 3 XP |
+| Adquirir ou aumentar uma **Competência** | novo nível × 5 XP |
 | Adquirir um **Trunfo legado** | determinado pelo Estágio do Trunfo |
 | Outras capacidades | determinado pela regra, cenário ou módulo |
 
@@ -59,12 +61,20 @@ Quando um Atributo aumenta, todos os valores derivados dele, como Vida, Vontade,
 - Adquirir `Fama 1` custa **3 XP**.
 - Aumentar `Fama 2` para `Fama 3` custa **3 XP**.
 - Adquirir uma Especialização de Privilégio custa **3 XP**.
+- Adquirir uma Competência no Nível 1 custa **5 XP** e concede sua primeira Capacidade.
+- Aumentar uma Competência do Nível 2 para o Nível 3 custa **15 XP** e concede uma nova Capacidade.
 
 ## Adquirindo e aumentando Privilégios
 
 Cada novo [Nível de Privilégio](Privil%C3%A9gios/Privil%C3%A9gios.md#n%C3%ADvel) custa **3 XP**, independentemente do valor atual. Adquirir o primeiro Nível e aumentar um Privilégio existente utilizam o mesmo custo.
 
 Cada Especialização de Privilégio também custa **3 XP**. Aumentar o Nível não concede Especializações automaticamente.
+
+## Adquirindo e aumentando Competências
+
+Adquirir ou aumentar uma [Competência](Compet%C3%AAncias/Compet%C3%AAncias.md) custa **5 × o novo Nível em XP**.
+
+Cada aumento concede uma nova Capacidade da Competência. A Capacidade faz parte do custo do Nível e precisa respeitar o limite de Nível e quaisquer requisitos descritos em sua entrada.
 
 ## Adquirindo Trunfos
 
@@ -92,7 +102,7 @@ Trunfos da categoria **Lendárias** pertencem sempre ao Estágio Lendário.
 
 A progressão por experiência permite que personagens que participaram das mesmas aventuras se desenvolvam de maneiras diferentes.
 
-Um personagem pode concentrar seu XP no domínio de poucas capacidades, enquanto outro pode distribuí-lo entre diferentes Perícias, Trunfos e outras opções.
+Um personagem pode concentrar seu XP no domínio de poucas capacidades, enquanto outro pode distribuí-lo entre diferentes Perícias, Privilégios, Competências e outras opções.
 
 O gasto de XP representa como as experiências vividas durante a campanha transformaram especificamente o personagem.
 

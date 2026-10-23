@@ -76,9 +76,23 @@
               "icon": "lucide-file",
               "title": "Fundamento"
             }
+          },
+          {
+            "id": "17d1a4dbe5d6c32d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reestruturação/Competências/Competências/Arqueiro.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arqueiro"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -280,11 +294,22 @@
   },
   "active": "7bb9e680937df06c",
   "lastOpenFiles": [
-    "Criação de Personagem/4 - Privilégios e Complicações.md",
+    "Regras/Personagens/Competências/Competências.md",
+    "Reestruturação/Competências/Competências/Arqueiro.md",
+    "Reestruturação/Competências/Competências",
+    "Regras/Personagens/Privilégios/Privilégios.md",
     "Reestruturação/Competências/Fundamento.md",
+    "Reestruturação/Competências/Trunfos não convertidos em Privilégios.md",
+    "Criação de Personagem/0 - Criação de Personagem.md",
+    "Criação de Personagem/1 - Identidade.md",
+    "Criação de Personagem/2 - Atributos e Perícias.md",
+    "Criação de Personagem/3 - Características Derivadas.md",
+    "Criação de Personagem/4 - Privilégios e Complicações.md",
+    "Criação de Personagem/5 - Competências.md",
+    "Criação de Personagem/6 - Equipamento Inicial.md",
+    "Regras/Personagens/Competências",
     "Reestruturação/Competências",
     "Regras/Personagens/Privilégios/Lista de Privilégios.md",
-    "Regras/Personagens/Privilégios/Privilégios.md",
     "Reestruturação/Privilégios/Análise de Especializações.md",
     "Regras/Personagens/Privilégios",
     "Reestruturação/Privilégios/Identidade dos Privilégios.md",
@@ -297,24 +322,13 @@
     "Reestruturação/Complicações",
     "Readme.md",
     "Reestruturação",
-    "Criação de Personagem/1 - Identidade.md",
     "Regras/Personagens/Trunfos/Características de NPC.md",
     "Regras/Personagens/Trunfos/Estranhas.md",
     "Regras/Personagens/Trunfos/Lendárias.md",
     "Regras/Personagens/Trunfos/Liderança.md",
     "Regras/Personagens/Trunfos/Poder.md",
-    "Regras/Personagens/Trunfos/Profissionais.md",
-    "Regras/Personagens/Trunfos/Sociais.md",
-    "Regras/Personagens/Trunfos/Trunfos.md",
-    "Regras/Personagens/Ambição e Desejo.md",
-    "Regras/Personagens/Trunfos/Combate.md",
-    "Regras/Personagens/Trunfos/Antecedentes.md",
-    "Regras/Personagens/Progressão.md",
-    "Criação de Personagem/3 - Características Derivadas.md",
     "Regras/Condições",
     "Regras/Personagens/Complicações",
-    "Criação de Personagem",
-    "Regras/Resistência e Vulnerabilidade",
-    "Regras/Personagens/Trunfos"
+    "Criação de Personagem"
   ]
 }

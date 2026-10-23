@@ -36,4 +36,5 @@ O núcleo está organizado em sete áreas principais:
 - [Atributos e Perícias](Cria%C3%A7%C3%A3o%20de%20Personagem/2%20-%20Atributos%20e%20Per%C3%ADcias.md) — array fixo de Atributos e perfis de Perícias.
 - [Características Derivadas](Cria%C3%A7%C3%A3o%20de%20Personagem/3%20-%20Caracter%C3%ADsticas%20Derivadas.md) — Vida, Vontade, Iniciativa e Carga máxima.
 - [Privilégios e Complicações](Cria%C3%A7%C3%A3o%20de%20Personagem/4%20-%20Privilégios%20e%20Complica%C3%A7%C3%B5es.md) — 7 Pontos de Privilégio e 4 Pontos de Complicação.
-- [Equipamento Inicial](Cria%C3%A7%C3%A3o%20de%20Personagem/5%20-%20Equipamento%20Inicial.md) — equipamento inicial definido pelo cenário.
+- [Competências](5%20-%20Competências.md) — 3 Pontos de Competência.
+- [Equipamento Inicial](6%20-%20Equipamento%20Inicial.md) — equipamento inicial definido pelo cenário.

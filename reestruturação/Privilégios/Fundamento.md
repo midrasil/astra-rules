@@ -115,7 +115,7 @@ Cada ponto utilizado em um Privilégio pode adquirir:
 
 Assim, aumentar um Privilégio do Nível 0 para o Nível 3 durante a criação custa 3 pontos. Adquirir duas Especializações custa mais 2 pontos.
 
-As Competências serão distribuídas por uma regra própria e não utilizam Pontos de Privilégio.
+As Competências são distribuídas por uma regra própria e não utilizam Pontos de Privilégio.
 
 ## Limite entre Privilégios e capacidades mecânicas
 
@@ -159,4 +159,4 @@ Essa avaliação pode ser realizada antes da definição das Competências. Capa
 
 As antigas versões narrativas foram removidas da lista de Trunfos e o orçamento de Privilégios foi incorporado à criação de personagem.
 
-As referências às capacidades mecânicas mantidas como Trunfos legados serão substituídas quando as Competências forem definidas.
+As referências às capacidades mecânicas mantidas como Trunfos legados serão substituídas depois da criação da lista de Competências e da conclusão da migração.
