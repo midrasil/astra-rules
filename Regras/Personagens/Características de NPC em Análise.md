@@ -1,4 +1,4 @@
-Rascunho de trabalho. Lista as habilidades de criaturas do livro de monstros que serviu de referência, resumidas e já pensadas com as regras do Astra, para decidirmos uma a uma como entram como **Características de NPC**: Trunfos que, por padrão, só NPCs usam.
+Rascunho de trabalho. Lista as habilidades de criaturas do livro de monstros que serviu de referência, resumidas e já pensadas com as regras do Astra, para decidirmos uma a uma como entram como **Características de NPC**, capacidades próprias de criaturas e inimigos.
 
 > [!success] Compatibilidade revisada
 > As Características foram conferidas para as Reservas vinculadas. Testes expressos com dois Atributos foram mantidos; Teia e Emboscada Subterrânea receberam fórmulas completas.
@@ -103,4 +103,4 @@ Ficam de fora, por serem de cenário ou dependerem de regras que o Astra não te
 - **Medo** é acumulável. Cada acúmulo impõe **-1 dado** em todas as Reservas do personagem.
 - No **fim de cada turno do personagem afetado**, ele perde 1 acúmulo.
 - A quantidade de acúmulos da Aterrorizante, como todos os valores das características, é configurável em cada criatura; o padrão é igual à Potência.
-- Texto final em [Características de NPC](Trunfos/Caracter%C3%ADsticas%20de%20NPC.md).
+- Texto final em [Características de NPC](Características%20de%20NPC.md).

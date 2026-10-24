@@ -1,16 +1,16 @@
-**Características de NPC** são Trunfos usados, por padrão, apenas por NPCs, criaturas e inimigos. Elas entram na ficha como qualquer Trunfo e não exigem requisitos (nenhum NPC precisa cumprir requisitos de Trunfo).
+**Características de NPC** são capacidades próprias de NPCs, criaturas e inimigos. Elas são definidas diretamente na ficha da criatura e não pertencem ao sistema de Competências dos personagens.
 
 ## Valores configuráveis
 
 Cada característica traz **valores padrão** entre parênteses, como a **Potência**, a Reserva usada para resistir, a duração ou a quantidade de acúmulos. Esses valores são **configuráveis em cada criatura**: duas criaturas com a mesma característica podem ter valores diferentes.
 
-A **Potência** é a [Dificuldade](../../Mec%C3%A2nica%20B%C3%A1sica/Reserva%20de%20Dados.md#escala-de-dificuldade) do teste que o alvo faz para resistir, quando a característica pede um.
+A **Potência** é a [Dificuldade](../Mec%C3%A2nica%20B%C3%A1sica/Reserva%20de%20Dados.md#escala-de-dificuldade) do teste que o alvo faz para resistir, quando a característica pede um.
 
 Quando uma Característica menciona uma Perícia sem escrever a Reserva completa, ela utiliza o Atributo vinculado da Perícia. Reservas formadas expressamente por dois Atributos, como Vigor + Determinação, permanecem inalteradas.
 
 ## Movimentos especiais
 
-Nadar e escalar são [Movimentação Especial](../../Movimento/Movimenta%C3%A7%C3%A3o.md#movimenta%C3%A7%C3%A3o-especial) e custam 2 pontos de Movimentação por quadrado. Com uma destas características, a criatura usa aquele movimento pelo **custo normal**, 1 ponto por quadrado, e escolhe no seu turno se usa a Movimentação com o movimento normal ou com o especial.
+Nadar e escalar são [Movimentação Especial](../Movimento/Movimenta%C3%A7%C3%A3o.md#movimenta%C3%A7%C3%A3o-especial) e custam 2 pontos de Movimentação por quadrado. Com uma destas características, a criatura usa aquele movimento pelo **custo normal**, 1 ponto por quadrado, e escolhe no seu turno se usa a Movimentação com o movimento normal ou com o especial.
 
 ### Aquática
 
@@ -18,7 +18,7 @@ Nadar e escalar são [Movimentação Especial](../../Movimento/Movimenta%C3%A7%C
 
 ### Voadora
 
-- **Descrição:** voa pelo custo normal (ver [Voo](../../Movimento/Movimenta%C3%A7%C3%A3o.md#voo)) e ignora Terreno Difícil no chão. Se ficar [Caída](../../Condi%C3%A7%C3%B5es/Ca%C3%ADdo.md) ou [Agarrada](../../Condi%C3%A7%C3%B5es/Agarrado.md) no ar, cai.
+- **Descrição:** voa pelo custo normal (ver [Voo](../Movimento/Movimenta%C3%A7%C3%A3o.md#voo)) e ignora Terreno Difícil no chão. Se ficar [Caída](../Condi%C3%A7%C3%B5es/Ca%C3%ADdo.md) ou [Agarrada](../Condi%C3%A7%C3%B5es/Agarrado.md) no ar, cai.
 
 ### Escavadora
 
@@ -34,15 +34,15 @@ Quando a criatura **vence um Ataque com um ataque natural corpo a corpo**, o alv
 
 ### Venenosa (Potência 2; Vigor + Determinação)
 
-- **Descrição:** o alvo que falhar fica [Envenenado](../../Condi%C3%A7%C3%B5es/Envenenado.md) por um número de turnos igual à Potência.
+- **Descrição:** o alvo que falhar fica [Envenenado](../Condi%C3%A7%C3%B5es/Envenenado.md) por um número de turnos igual à Potência.
 
 ### Paralisante (Potência 2; Vigor + Força)
 
-- **Descrição:** o alvo que falhar fica [Paralisado](../../Condi%C3%A7%C3%B5es/Paralisado.md) por 1 turno.
+- **Descrição:** o alvo que falhar fica [Paralisado](../Condi%C3%A7%C3%B5es/Paralisado.md) por 1 turno.
 
 ### Atordoante (Potência 2; Determinação + Astúcia)
 
-- **Descrição:** o alvo que falhar fica [Atordoado](../../Condi%C3%A7%C3%B5es/Atordoado.md) por 1 turno.
+- **Descrição:** o alvo que falhar fica [Atordoado](../Condi%C3%A7%C3%B5es/Atordoado.md) por 1 turno.
 
 ### Infecciosa
 
@@ -61,7 +61,7 @@ Quando a criatura **vence um Ataque com um ataque natural corpo a corpo**, o alv
 
 ### Sopro (Dano; Tipo de Dano)
 
-- **Descrição:** com sua Ação, a criatura cria uma [Zona](../../Cenas%20e%20Conflitos/Zonas.md) instantânea em um cone de 3 quadrados. A Zona possui o Dano e o Tipo de Dano definidos na criatura. O Sopro não pode ser usado em turnos seguidos.
+- **Descrição:** com sua Ação, a criatura cria uma [Zona](../Cenas%20e%20Conflitos/Zonas.md) instantânea em um cone de 3 quadrados. A Zona possui o Dano e o Tipo de Dano definidos na criatura. O Sopro não pode ser usado em turnos seguidos.
 
 ### Investida (+2 de Dano; 4 quadros)
 
@@ -73,15 +73,15 @@ Quando a criatura **vence um Ataque com um ataque natural corpo a corpo**, o alv
 
 ### Constritora (Margem 2)
 
-- **Descrição:** ao vencer um Ataque com Margem 2 ou mais, o alvo também fica [Agarrado](../../Condi%C3%A7%C3%B5es/Agarrado.md). No começo de cada turno da criatura, quem ela estiver agarrando sofre o Dano do seu ataque natural.
+- **Descrição:** ao vencer um Ataque com Margem 2 ou mais, o alvo também fica [Agarrado](../Condi%C3%A7%C3%B5es/Agarrado.md). No começo de cada turno da criatura, quem ela estiver agarrando sofre o Dano do seu ataque natural.
 
 ### Aterrorizante (Potência 2; Determinação + Astúcia; acúmulos iguais à Potência)
 
-- **Descrição:** quem vê a criatura pela primeira vez na cena faz o teste para resistir. Quem falhar recebe acúmulos de [Medo](../../Condi%C3%A7%C3%B5es/Medo.md). Acontece uma vez por cena para cada personagem.
+- **Descrição:** quem vê a criatura pela primeira vez na cena faz o teste para resistir. Quem falhar recebe acúmulos de [Medo](../Condi%C3%A7%C3%B5es/Medo.md). Acontece uma vez por cena para cada personagem.
 
 ### Teia (Potência 2; ataque: Agilidade + Atirar; escapar: Força + Atletismo)
 
-- **Descrição:** a criatura realiza um Ataque à distância com **Agilidade + Atirar**. Uma ficha pode estabelecer expressamente outro Atributo de Ataque para sua Teia. Ao vencer, deixa o alvo [Agarrado](../../Condi%C3%A7%C3%B5es/Agarrado.md) pela teia. Para se soltar, o alvo usa sua Ação e testa **Força + Atletismo** contra a Potência.
+- **Descrição:** a criatura realiza um Ataque à distância com **Agilidade + Atirar**. Uma ficha pode estabelecer expressamente outro Atributo de Ataque para sua Teia. Ao vencer, deixa o alvo [Agarrado](../Condi%C3%A7%C3%B5es/Agarrado.md) pela teia. Para se soltar, o alvo usa sua Ação e testa **Força + Atletismo** contra a Potência.
 
 ### Emboscada Subterrânea
 
@@ -96,8 +96,8 @@ Quando a criatura **vence um Ataque com um ataque natural corpo a corpo**, o alv
 
 ### Visão no Escuro (12 quadros)
 
-- **Descrição:** como no D&D, até o alcance a criatura enxerga no **Escuro** como se fosse **Penumbra** e na **Penumbra** como se fosse **Claro**, sem distinguir cores. Além do alcance, a [Iluminação](../../Cenas%20e%20Conflitos/Ilumina%C3%A7%C3%A3o.md) vale normalmente. O **Breu**, a escuridão mágica, bloqueia a Visão no Escuro.
+- **Descrição:** como no D&D, até o alcance a criatura enxerga no **Escuro** como se fosse **Penumbra** e na **Penumbra** como se fosse **Claro**, sem distinguir cores. Além do alcance, a [Iluminação](../Cenas%20e%20Conflitos/Ilumina%C3%A7%C3%A3o.md) vale normalmente. O **Breu**, a escuridão mágica, bloqueia a Visão no Escuro.
 
 ---
 
-← [Voltar para Trunfos](Trunfos.md)
+← [Voltar para Personagens](Personagens.md)

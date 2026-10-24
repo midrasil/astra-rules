@@ -13,7 +13,7 @@ Todos os acúmulos são perdidos se, antes de atacar, o personagem:
 - for atacado;
 - ficar [Caído](Ca%C3%ADdo.md).
 
-Realizar o Ataque também encerra a Mira, exceto para quem tem o Trunfo [Atirador](../Personagens/Trunfos/Combate.md#atirador).
+Realizar o Ataque também encerra a Mira, salvo quando uma Capacidade disser expressamente o contrário.
 
 O sistema retira esta Condição sozinho nesses casos e no fim do combate.
 

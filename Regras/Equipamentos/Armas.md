@@ -31,9 +31,7 @@ Todo personagem possui uma arma natural, o **Desarmado**: socos, chutes, cotovel
 
 O Desarmado é de Origem **Natural** e Material **Orgânico**: está **sempre disponível**, não precisa ser equipado e não ocupa as mãos. Além disso, não pode ser removido, vendido ou perdido. Quando o personagem ataca sem nenhuma arma em mãos, ele usa o Desarmado.
 
-Por padrão, o dano do Desarmado é **superficial** (ver [Gravidade do Dano](../Personagens/Vida.md#gravidade-do-dano)). Como seu bônus de dano é +0, um empate em um Confronto desarmado não causa dano.
-
-O Trunfo [Artista Marcial](../Personagens/Trunfos/Combate.md#artista-marcial) muda o Desarmado do personagem: Dano 2, Propriedade Leve e dano agravado.
+Por padrão, o dano do Desarmado é **superficial** (ver [Gravidade do Dano](../Personagens/Vida.md#gravidade-do-dano)). Como seu bônus de dano é +0, um empate em um Confronto desarmado não causa dano. Capacidades podem modificar essas características quando seu efeito disser expressamente.
 
 ## Propriedades
 
@@ -81,17 +79,11 @@ O Material é considerado junto ao Tipo de Dano ao aplicar [Resistências, Vulne
 
 As Propriedades são traços simples da arma: como ela é empunhada, que tipo de dano causa e como pode ser usada. Capacidades especiais pertencem às [Maestrias](#maestria).
 
-### Personagem (opcional)
-
-- **Predileta** — a arma escolhida pelo Trunfo [Arma Predileta](../Personagens/Trunfos/Combate.md#arma-predileta). Quem tem o Trunfo ganha bônus ao usá-la.
-
 Módulos e cenários podem adicionar novas propriedades, origens, materiais e armas ao catálogo do núcleo.
 
 ## Maestria
 
-A **Maestria** é uma técnica que o personagem domina com uma arma específica. Ela não pertence à arma: é o personagem quem escolhe qual Maestria aplica à sua arma ao adquirir o [Trunfo Maestria com Arma](../Personagens/Trunfos/Combate.md#maestria-com-arma).
-
-Cada cópia do Trunfo vale para **uma** arma Predileta do personagem e lhe dá **uma** Maestria. Qualquer Maestria pode ser escolhida para qualquer arma. Se a arma Predileta for perdida, a Maestria passa para a substituta junto com a Predileta, no mesmo prazo.
+A **Maestria** é uma técnica especial vinculada ao uso de armas. Sua forma de aquisição e seu vínculo com armas serão redesenhados; até essa definição, o catálogo permanece como referência e as Maestrias não são opções disponíveis por padrão aos personagens.
 
 Toda Maestria é ativada ao **vencer um Ataque** com a arma. Em empate ela não ativa. Cada Maestria diz o que mais é preciso e se tem custo.
 

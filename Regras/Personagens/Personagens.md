@@ -26,7 +26,6 @@ Esta seção reúne os elementos que definem as capacidades, recursos, motivaç�
 - [Convicções e Pilares](Convic%C3%A7%C3%B5es%20e%20Pilares.md) — princípios que o personagem defende e o que os sustenta.
 - [Privilégios](Privil%C3%A9gios/Privil%C3%A9gios.md) — relações, reconhecimento, posição social, propriedades e recursos do personagem.
 - [Competências](Compet%C3%AAncias/Compet%C3%AAncias.md) — conjuntos de Capacidades que modificam aquilo que o personagem consegue fazer.
-- [Trunfos — sistema legado](Trunfos/Trunfos.md) — capacidades mecânicas mantidas temporariamente até a criação da lista de Competências.
 - [Complicações](Complica%C3%A7%C3%B5es/Complica%C3%A7%C3%B5es.md) — problemas narrativos que criam situações e consequências na história.
 
 ## Progressão

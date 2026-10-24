@@ -1,3 +1,5 @@
+# Arqueiro
+
 **Descrição:** O personagem domina o uso de arcos e desenvolveu técnicas que vão além de disparos comuns. Esta Competência reúne Capacidades relacionadas à precisão, ao alcance, à cadência de disparos, à escolha de alvos e ao uso do arco em situações incomuns de combate.
 
 | Nível | Capacidade |
@@ -137,3 +139,7 @@ Ao vencer um ataque com arco, você pode fazer com que todo o dano causado seja 
 Uma vez por turno, antes de realizar um ataque com arco, você pode sofrer uma quantidade de dano superficial de Vontade limitada pelo seu nível de Arqueiro. Para cada ponto sofrido, recebe imediatamente um acúmulo de Mirando sem gastar sua Ação. Esses acúmulos podem ser utilizados no ataque que ativou esta Capacidade.
 
 O limite normal de acúmulos de Mirando determinado pela Astúcia continua sendo aplicado. Você não pode sofrer mais pontos de dano superficial de Vontade do que a quantidade de espaços vazios em sua trilha nem adquirir acúmulos acima desse limite.
+
+---
+
+← [Voltar para Competências](Compet%C3%AAncias.md)

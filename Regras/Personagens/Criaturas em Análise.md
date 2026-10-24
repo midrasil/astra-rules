@@ -1,4 +1,4 @@
-Rascunho de trabalho. Adapta as criaturas do livro de monstros de referência para o Astra, usando as [Características de NPC](Trunfos/Caracter%C3%ADsticas%20de%20NPC.md) e as regras do sistema. Primeiro definimos a **conversão**; depois cada criatura é convertida com ela.
+Rascunho de trabalho. Adapta as criaturas do livro de monstros de referência para o Astra, usando as [Características de NPC](Características%20de%20NPC.md) e as regras do sistema. Primeiro definimos a **conversão**; depois cada criatura é convertida com ela.
 
 > [!success] Migração das Reservas
 > As criaturas que já possuem ficha nesta nota foram migradas para os Atributos vinculados. Os números apresentados em **Reservas** já incluem Atributo + Perícia, mas não incluem modificadores circunstanciais. As categorias ainda não convertidas deverão seguir estas regras quando receberem suas fichas.
@@ -60,7 +60,7 @@ Efeitos em área, como o Sopro, seguem a regra de [Zonas](../Cenas%20e%20Conflit
 | Tecer (teia) | Teia |
 | Visão no Escuro, Infravisão | Visão no Escuro |
 | Ligeiro | já incluído na Movimentação da criatura |
-| Regeneração Rápida / Lenta | Trunfos Regeneração / Cura Rápida |
+| Regeneração Rápida / Lenta | característica própria da criatura, sem depender de uma opção de personagem |
 | Fraqueza, Imunidade, Invulnerabilidade, Etéreo, Construto, Elemental, Morto-Vivo | Resistências, Vulnerabilidades e Imunidades por Tipo de Dano e Material, e o Tipo de Criatura |
 
 Ficam de fora: feitiços, erguer mortos, cria de vampiro, enfeitiçar, mudança de forma, névoa, convocar animais, cartas de ação (Focado, Rápida) e Robusto.
@@ -91,7 +91,7 @@ Conversão das fichas atuais. Atributos na ordem **For / Agi / Vig / Car / Ast /
 | Enxame | 3 / 4 / 4 / 1 / 1 / 5 | Acrobacia 4, Perceber 2 | 10 | Grande | — | Esquiva/Zona 8 | 0 | Enxame (4 de dano, −1 por criatura além da primeira, mínimo 1, superficial), Imune a Corte e Perfurante |
 
 Decisões desta leva:
-- O **Ligeiro** dos animais no livro só troca o dado de corrida. No Astra, Correr dobra a Movimentação, então ele já está na Movimentação de cada um e não vira o Trunfo Ligeiro.
+- O **Ligeiro** dos animais no livro só troca o dado de corrida. No Astra, Correr dobra a Movimentação, então ele já está na Movimentação de cada um e não exige uma Capacidade adicional.
 - **Nadar** e **Escalar** viram Atletismo, mas não são usados para Esquivar ou resistir a Zonas.
 - **Acrobacia** foi distribuída pela mobilidade de cada animal. O antigo Acrobata do gato é representado por Acrobacia 4; o Atletismo elevado da Aranha Gigante, antes vindo da escalada, foi transferido para Acrobacia porque Escaladora já resolve sua escalada sem teste.
 - Ficam de fora: Rápida da serpente (cartas de ação), Robusto do tubarão e os modificadores de ataque "Pequeno" e "Grande", que o Tamanho já cobre.

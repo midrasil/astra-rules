@@ -159,4 +159,4 @@ Essa avaliação pode ser realizada antes da definição das Competências. Capa
 
 As antigas versões narrativas foram removidas da lista de Trunfos e o orçamento de Privilégios foi incorporado à criação de personagem.
 
-As referências às capacidades mecânicas mantidas como Trunfos legados serão substituídas depois da criação da lista de Competências e da conclusão da migração.
+As capacidades mecânicas que permaneciam como Trunfos legados foram removidas das regras oficiais. Seus conceitos podem ser reavaliados futuramente como Capacidades de Competências.

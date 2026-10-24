@@ -20,13 +20,13 @@ Se o personagem que iniciou a Manobra obtiver mais Sucessos, o efeito da Manobra
 
 Em caso de empate, nada acontece.
 
-## Manobras e Trunfos
+## Manobras e Capacidades
 
 As Manobras apresentadas nesta seção representam opções disponíveis para qualquer personagem.
 
-Alguns **Trunfos** podem melhorar uma Manobra, modificar seu funcionamento ou permitir formas especiais de utilizá-la.
+Algumas **Capacidades** podem melhorar uma Manobra, modificar seu funcionamento ou permitir formas especiais de utilizá-la.
 
-Trunfos não são necessários para tentar Manobras básicas, mas podem tornar um personagem especialmente eficiente ao utilizá-las.
+Capacidades não são necessárias para tentar Manobras básicas, mas podem tornar um personagem especialmente eficiente ao utilizá-las.
 
 ## Manobras Narrativas
 

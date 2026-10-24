@@ -1,4 +1,4 @@
-Este documento reúne os antigos Trunfos que **não foram convertidos em Privilégios**. Ele serve apenas como material de leitura e análise para a criação das Competências; sua presença aqui não determina que um Trunfo será mantido ou convertido.
+Este documento arquiva os antigos Trunfos que **não foram convertidos em Privilégios**. O sistema oficial de Trunfos foi removido. Este material serve apenas como fonte histórica para a criação das Competências; alguns conceitos podem retornar futuramente como Capacidades, mas nenhuma entrada abaixo está disponível por padrão.
 
 > [!info] Compatibilidade
 > As referências deste material foram ajustadas às Reservas vinculadas, a Arremessar e à nova Iniciativa. Isso não representa uma decisão de converter ou manter cada Trunfo como Capacidade.

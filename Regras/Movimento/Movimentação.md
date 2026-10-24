@@ -28,7 +28,7 @@ Por exemplo, um personagem com 6 pontos de Movimentação poderia atravessar nor
 
 Mover-se para fora do alcance de um inimigo não provoca, por padrão, ataques ou outras penalidades.
 
-Determinadas habilidades, efeitos ou **Trunfos** podem criar exceções a essa regra, permitindo que um personagem puna ou interfira na movimentação de seus adversários.
+Determinadas habilidades, efeitos ou **Capacidades** podem criar exceções a essa regra, permitindo que um personagem puna ou interfira na movimentação de seus adversários.
 
 ## Movimentação Especial
 

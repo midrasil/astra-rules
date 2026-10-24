@@ -10,6 +10,8 @@ Os pontos podem ser distribuídos entre diferentes Competências ou concentrados
 
 Pontos de Competência não utilizados não são convertidos em XP nem podem ser transferidos para Privilégios ou Complicações.
 
+Consulte a [lista de Competências](../Regras/Personagens/Compet%C3%AAncias/Compet%C3%AAncias.md#lista-de-compet%C3%AAncias) para conhecer as opções disponíveis.
+
 ---
 
 ← [Voltar para Criação de Personagem](0%20-%20Cria%C3%A7%C3%A3o%20de%20Personagem.md)

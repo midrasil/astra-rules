@@ -3,7 +3,7 @@
 Este documento resume a direção discutida para os **Atributos**, as **Perícias**, os ataques, as propriedades de armas e as substituições concedidas por Capacidades. Também registra as partes do sistema que precisarão ser revisadas antes que essa mudança seja incorporada às regras oficiais.
 
 > [!warning] Estado do documento
-> As **Etapas 1 a 6** foram incorporadas: Reserva de Dados, Atributos, Perícias, criação, Iniciativa, características derivadas, Confrontos, Manobras, Agarrado, Zonas, Mira, Armas, Pesado, catálogo, Trunfos legados, Arqueiro, criaturas e NPCs. As categorias de criaturas ainda sem ficha deverão ser criadas diretamente com as novas fórmulas. Ficha digital e automações permanecem como uma implementação separada, caso existam.
+> As **Etapas 1 a 6** foram incorporadas: Reserva de Dados, Atributos, Perícias, criação, Iniciativa, características derivadas, Confrontos, Manobras, Agarrado, Zonas, Mira, Armas, Pesado, catálogo, remoção dos Trunfos legados, Arqueiro, criaturas e NPCs. As categorias de criaturas ainda sem ficha deverão ser criadas diretamente com as novas fórmulas. Ficha digital e automações permanecem como uma implementação posterior.
 
 ## Estado da implementação
 
@@ -11,7 +11,7 @@ Este documento resume a direção discutida para os **Atributos**, as **Perícia
 - [x] Etapa 2 — Iniciativa e características derivadas.
 - [x] Etapa 3 — Confrontos, Manobras, Agarrado e Zonas.
 - [x] Etapa 4 — Armas, Pesado e catálogo.
-- [x] Etapa 5 — Mira, Trunfos legados e Competências.
+- [x] Etapa 5 — Mira, remoção dos Trunfos legados e Competências.
 - [x] Etapa 6 — Criaturas, NPCs e migração de fichas.
 
 ## Objetivo da mudança
@@ -331,7 +331,7 @@ Também será necessário:
 - remover a menção de que armas de arremesso utilizam Atirar;
 - manter Astúcia como limite de acúmulos, salvo decisão posterior.
 
-#### `reestruturação/Competências/Competências/Arqueiro.md`
+#### `Regras/Personagens/Competências/Arqueiro.md`
 
 A Competência já utiliza principalmente “ataque com arco”, portanto funciona tanto com arcos de Agilidade quanto com arcos Pesados de Força. Ainda assim, deve ser conferido:
 
@@ -370,18 +370,13 @@ A fórmula atual já utiliza Força e Atletismo de maneira coerente com a nova v
 - esclarecer, em testes narrativos de natação ou escalada, que a Reserva padrão é Força + Atletismo;
 - testes prolongados de exaustão podem continuar utilizando Vigor separadamente.
 
-### 10. Trunfos legados e futuras Competências
+### 10. Material legado e futuras Competências
 
-#### `Regras/Personagens/Trunfos/Combate.md`
+Os Trunfos foram removidos das regras oficiais. [[Competências/Trunfos não convertidos em Privilégios]] permanece apenas como arquivo histórico: conceitos selecionados podem retornar futuramente como Capacidades, depois de reescritos para a estrutura atual.
 
-#### `reestruturação/Competências/Trunfos não convertidos em Privilégios.md`
+A Esquiva permanece em **Agilidade + Acrobacia** e não será criada uma Capacidade geral de Evasão Explosiva. Capacidades ainda podem estabelecer outros Atributos de Ataque ou substituir fórmulas específicas quando seu texto disser expressamente.
 
-- substituir referências que tratam armas arremessadas como Atirar;
-- revisar Atirador, Mirando, Esquiva e capacidades relacionadas à Iniciativa;
-- converter alternativas de Reserva em Capacidades explícitas;
-- considerar uma Capacidade semelhante a **Evasão Explosiva**;
-- considerar Capacidades que estabeleçam Força, Astúcia, Carisma ou Determinação como Atributo de Ataque;
-- revisar capacidades que somem novamente ao dano o mesmo Atributo já utilizado no Ataque.
+A aquisição e o vínculo das **Maestrias de arma** precisam ser redesenhados separadamente antes de voltarem a ser opções disponíveis aos personagens.
 
 As substituições diretas podem ser utilizadas para criar identidades completas, não apenas exceções circunstanciais. Exemplos:
 
@@ -444,7 +439,7 @@ Caso a ficha digital ou o Foundry já automatizem essas regras, também será ne
 3. **Atualizar criação e progressão:** lista de Perícias, pontos iniciais e recálculo.
 4. **Atualizar combate:** Confrontar, Esquivar, Manobras, Agarrado e Zonas.
 5. **Atualizar equipamentos:** propriedades, catálogo e armas arremessadas.
-6. **Atualizar Mira, Trunfos legados e Competências.**
+6. **Atualizar Mira, remover os Trunfos legados e desenvolver Competências.**
 7. **Migrar criaturas e NPCs**, recalculando Reservas.
 8. **Atualizar ficha e automações**, se aplicável.
 9. **Realizar testes de criação e combate** antes de considerar a mudança finalizada.
@@ -461,7 +456,6 @@ A implementação deve ser testada com pelo menos estes arquétipos:
 - arremessador ágil por Capacidade;
 - defensor de escudo;
 - acrobata especializado em Esquiva;
-- atleta de Força com Evasão Explosiva;
 - personagem social de Carisma;
 - Mentalista que substitui Carisma por Astúcia;
 - criatura forte e lenta;
@@ -486,7 +480,9 @@ Os testes devem comparar:
 - [x] Fazer Mirar beneficiar qualquer Ataque à distância, incluindo Arremessar.
 - [x] Montar uma lista separada de Manobras e Reservas em [[Manobras e Reservas]].
 - [x] Alterar a Iniciativa para Astúcia + Determinação.
-- [ ] Conversar posteriormente sobre os pontos iniciais de Perícia; por enquanto, não os alterar.
+- [x] Manter os pontos iniciais de Perícia sem alteração.
 - [x] Capacidades sempre prevalecem sobre Pesado e outras regras anteriores que estabeleçam o Atributo do Ataque.
-- [ ] Conversar posteriormente sobre uma Capacidade que permita usar Força + Atletismo para Esquivar, como **Evasão Explosiva**; por enquanto, não adicioná-la.
-- [ ] Revisar a distribuição de Perícias e funções entre os seis Atributos depois dos primeiros testes.
+- [x] Manter **Agilidade + Acrobacia** como Esquiva e não adicionar **Evasão Explosiva**.
+- [x] Manter a distribuição atual de Perícias e funções entre os seis Atributos.
+- [ ] Realizar os testes de jogo posteriormente.
+- [ ] Sincronizar estas decisões com o Foundry posteriormente.

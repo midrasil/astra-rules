@@ -80,7 +80,7 @@ O personagem não pode aumentar uma Competência que já esteja maximizada.
 
 ## Criação de personagem
 
-Durante a [criação de personagem](5%20-%20Competências.md), cada personagem recebe **3 Pontos de Competência**.
+Durante a [[Criação de Personagem/5 - Competências|criação de personagem]], cada personagem recebe **3 Pontos de Competência**.
 
 Cada ponto aumenta uma Competência em **1 Nível** e concede uma Capacidade apropriada ao novo Nível alcançado. Os pontos podem ser distribuídos entre diferentes Competências ou concentrados em uma mesma Competência, respeitando a maximização e os requisitos das Capacidades.
 
@@ -117,7 +117,7 @@ Cada Capacidade apresenta:
 
 ## Lista de Competências
 
-A lista de Competências do Astra será desenvolvida separadamente. A ausência da lista não altera as regras fundamentais apresentadas neste documento.
+- [Arqueiro](Arqueiro.md) — domínio de arcos, precisão, alcance, cadência de disparos, controle e técnicas de Mira.
 
 ---
 

@@ -1,8 +1,9 @@
 # Maestrias
 
-Uma **Maestria** é uma técnica que o personagem domina com uma arma específica. Ela não pertence à arma: é escolhida pelo personagem ao adquirir o Trunfo [Maestria com Arma](../Personagens/Trunfos/Combate.md#maestria-com-arma).
+Uma **Maestria** é uma técnica especial vinculada ao uso de armas.
 
-Cada cópia do Trunfo vale para uma Arma Predileta e concede uma Maestria. Qualquer Maestria deste catálogo pode ser escolhida para qualquer arma. Se a Arma Predileta for perdida, a Maestria passa para a substituta junto com ela, no mesmo prazo.
+> [!warning] Aquisição em revisão
+> O antigo Trunfo **Maestria com Arma** foi removido. A forma de adquirir Maestrias e vinculá-las às armas será redesenhada. Até essa definição, este catálogo permanece como referência e as Maestrias não são opções disponíveis por padrão aos personagens.
 
 Toda Maestria é ativada ao **vencer um Ataque** com a arma. Ela não é ativada em um empate. Cada entrada determina seus demais requisitos e custos.
 

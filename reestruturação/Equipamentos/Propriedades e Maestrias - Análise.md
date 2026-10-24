@@ -1,5 +1,5 @@
 > [!archive] Implementado
-> As decisões finais estão em [[Regras/Equipamentos/Armas|Armas]] e [[Regras/Equipamentos/Maestrias|Maestrias]]. Este arquivo permanece apenas como histórico das referências e adaptações consideradas.
+> As propriedades e os catálogos finais estão em [[Regras/Equipamentos/Armas|Armas]] e [[Regras/Equipamentos/Maestrias|Maestrias]]. Este arquivo permanece apenas como histórico das referências e adaptações consideradas. A antiga forma de aquisição por **Maestria com Arma** foi removida e precisa ser redesenhada antes de as Maestrias voltarem a ser opções disponíveis aos personagens.
 
 Rascunho de trabalho. Lista as versões brutas, ainda em inglês, de propriedades e maestrias de armas candidatas, para analisarmos uma a uma e decidir como cada uma entra como **Propriedade**, **Maestria** ou descarte.
 

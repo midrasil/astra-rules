@@ -1,6 +1,6 @@
 Uma **Condição** representa um estado que afeta um personagem durante uma Cena, impondo efeitos mecânicos enquanto permanecer ativa.
 
-As Condições são aplicadas por Ações, Manobras, Trunfos ou outras regras. Todas ficam reunidas aqui como referência única do núcleo.
+As Condições são aplicadas por Ações, Manobras, Capacidades ou outras regras. Todas ficam reunidas aqui como referência única do núcleo.
 
 ## Condições
 

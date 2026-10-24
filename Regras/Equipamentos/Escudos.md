@@ -32,6 +32,4 @@ Com Força abaixo da Força mínima do escudo empunhado, o personagem tem **-2 d
 
 Um Escudo Pesado também impõe **-1 dado ao Atacar** enquanto estiver empunhado.
 
-## Trunfos de escudo
-
-[Abrigo do Escudo](../Personagens/Trunfos/Combate.md#abrigo-do-escudo), [Guardião](../Personagens/Trunfos/Combate.md#guardi%C3%A3o), [Baluarte](../Personagens/Trunfos/Combate.md#baluarte) e [Guardião Aprimorado](../Personagens/Trunfos/Combate.md#guardi%C3%A3o-aprimorado) usam a Proteção do Escudo contra dano em área e para proteger aliados adjacentes.
+Capacidades podem modificar a forma de utilizar um Escudo ou permitir que sua Proteção seja aplicada em outras situações quando seu efeito disser expressamente.

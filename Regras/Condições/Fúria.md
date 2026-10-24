@@ -1,4 +1,4 @@
-Um personagem em **Fúria** ataca sem medir as consequências. A Fúria só acontece **durante um combate** e normalmente vem do Trunfo [Furioso](../Personagens/Trunfos/Combate.md#furioso).
+Um personagem em **Fúria** ataca sem medir as consequências. A Fúria só acontece **durante um combate** e é aplicada por uma Capacidade ou outro efeito que faça referência a esta Condição.
 
 Enquanto estiver em Fúria, o personagem recebe:
 

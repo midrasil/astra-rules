@@ -28,7 +28,6 @@ O XP pode ser utilizado para:
 - aumentar [Perícias](Per%C3%ADcias.md);
 - adquirir ou aumentar [Privilégios](Privil%C3%A9gios/Privil%C3%A9gios.md);
 - adquirir ou aumentar [Competências](Compet%C3%AAncias/Compet%C3%AAncias.md);
-- adquirir [Trunfos legados](Trunfos/Trunfos.md), enquanto ainda não forem substituídos pelas Competências;
 - adquirir ou desenvolver capacidades específicas de um cenário ou módulo.
 
 Aumentar uma característica significa comprar seu **próximo nível**. Não é possível ignorar níveis intermediários.
@@ -50,7 +49,6 @@ Se uma Capacidade substituiu o Atributo de uma fórmula, o valor passa a acompan
 | Adquirir ou aumentar um **Privilégio** | 3 XP por nível |
 | Adquirir uma **Especialização de Privilégio** | 3 XP |
 | Adquirir ou aumentar uma **Competência** | novo nível × 5 XP |
-| Adquirir um **Trunfo legado** | determinado pelo Estágio do Trunfo |
 | Outras capacidades | determinado pela regra, cenário ou módulo |
 
 ### Exemplos
@@ -77,28 +75,6 @@ Cada Especialização de Privilégio também custa **3 XP**. Aumentar o Nível n
 Adquirir ou aumentar uma [Competência](Compet%C3%AAncias/Compet%C3%AAncias.md) custa **5 × o novo Nível em XP**.
 
 Cada aumento concede uma nova Capacidade da Competência. A Capacidade faz parte do custo do Nível e precisa respeitar o limite de Nível e quaisquer requisitos descritos em sua entrada.
-
-## Adquirindo Trunfos
-
-Estas regras são mantidas temporariamente para as capacidades mecânicas que ainda não foram convertidas em Competências. Trunfos não fazem mais parte do orçamento da criação de personagem.
-
-Cada Trunfo possui um Estágio. O Estágio determina somente seu custo em XP durante a campanha e não restringe quais Trunfos o personagem pode adquirir.
-
-| Estágio do Trunfo | Custo |
-|---|---:|
-| **Novato** | 6 XP |
-| **Experiente** | 12 XP |
-| **Veterano** | 18 XP |
-| **Heroico** | 24 XP |
-| **Lendário** | 30 XP |
-
-Um personagem pode adquirir um Trunfo de qualquer Estágio sempre que possuir o XP necessário e cumprir todos os requisitos descritos na entrada.
-
-Quando um Trunfo exigir outro Trunfo, o requisito precisa ter sido adquirido previamente. Cada Trunfo da sequência possui seu próprio custo em XP.
-
-Trunfos não exigem valores mínimos de Atributos ou Perícias. Eles ainda podem possuir condições narrativas, incompatibilidades ou requisitos específicos de um cenário ou módulo.
-
-Trunfos da categoria **Lendárias** pertencem sempre ao Estágio Lendário.
 
 ## Desenvolvimento do Personagem
 

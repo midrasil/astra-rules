@@ -1,6 +1,6 @@
 Este documento registra as decisões fundamentais para o novo sistema de **Competências**.
 
-As regras fundamentais foram aprovadas e incorporadas ao sistema oficial. A lista de Competências e a substituição completa dos antigos Trunfos serão realizadas posteriormente.
+As regras fundamentais foram aprovadas e incorporadas ao sistema oficial. Os antigos Trunfos foram removidos do sistema; alguns de seus conceitos podem retornar futuramente como Capacidades, mas não permanecem disponíveis enquanto isso.
 
 ## Substituição dos Perfis
 
@@ -145,8 +145,15 @@ O campo **Requisito** somente será utilizado nas Capacidades que dependerem de 
 Ainda precisam ser definidos:
 
 - a lista de Competências do sistema;
-- quais antigos Trunfos serão convertidos em Competências ou Capacidades;
-- quais antigos Trunfos serão removidos ou transformados em outros elementos do sistema.
+- quais conceitos do material histórico merecem retornar como Capacidades;
+- uma nova forma de adquirir e vincular **Maestrias de arma**, sem reutilizar automaticamente o antigo Trunfo Maestria com Arma.
+
+Permanecem como decisões fechadas:
+
+- os pontos iniciais de Perícia não serão alterados;
+- a Esquiva permanece em **Agilidade + Acrobacia**, sem uma Capacidade geral de **Evasão Explosiva**;
+- a distribuição atual de Perícias e funções entre os seis Atributos será mantida;
+- testes de jogo e a sincronização com o Foundry serão realizados posteriormente.
 
 ## Material para análise
 

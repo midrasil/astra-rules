@@ -14,7 +14,7 @@ A propriedade [Pesado](../../Equipamentos/Armas.md#uso-opcional) substitui Agili
 
 ## Combate com Duas Armas
 
-Todo personagem pode usar uma arma em cada mão por padrão. Quando não possui o Trunfo [Lutar com Duas Armas](../../Personagens/Trunfos/Combate.md#lutar-com-duas-armas), o único benefício disso é ter duas armas com tipos e propriedades diferentes à sua disposição.
+Todo personagem pode usar uma arma em cada mão por padrão. Isso permite manter duas armas com tipos e propriedades diferentes à disposição, mas não concede dados, dano ou ataques adicionais por si só.
 
 Em outras palavras, a cada Confronto — seja atacando ou contra-atacando — o personagem pode escolher qual das duas armas irá utilizar.
 
