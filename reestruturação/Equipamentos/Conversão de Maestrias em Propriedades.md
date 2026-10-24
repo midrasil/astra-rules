@@ -29,6 +29,7 @@ As Propriedades foram definidas em [[Regras/Equipamentos/Armas#especial-opcional
 - armas especialmente perigosas em golpes precisos ou decisivos receberam **Letal**;
 - armas de Contusão voltadas a desorientar receberam **Debilitante (Abalado)**;
 - armas capazes de prender, enganchar ou limitar o movimento receberam **Debilitante (Lento)**;
+- Varredura e Debilitante exigem abrir mão do **Dano da arma**, preservando a Margem obtida no Ataque;
 - uma arma nunca recebeu mais de uma Propriedade Especial.
 
 ## Textos anteriores para referência
