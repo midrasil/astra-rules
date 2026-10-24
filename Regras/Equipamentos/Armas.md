@@ -85,6 +85,13 @@ Cada arma pode possuir no máximo **uma Propriedade Especial**. Essas Propriedad
 
 Técnicas aprendidas pelo personagem continuam pertencendo às **Capacidades**. Uma Propriedade Especial descreve o que a arma faz; uma Capacidade descreve o que o personagem sabe fazer com ela.
 
+Uma Propriedade Especial que diga **ao vencer um Ataque** não é ativada em caso de empate. Quando o efeito exige abrir mão da Margem, o atacante decide depois de vencer e antes de calcular o dano; o alvo sofre somente o Dano da arma, além dos demais efeitos indicados.
+
+- **Letal** — ao vencer um Ataque, cada par de dados que mostrem **10** na rolagem do atacante soma o **Dano da arma** mais uma vez ao dano causado.
+- **Varredura** — ao vencer um Ataque corpo a corpo, o atacante pode abrir mão da Margem. O alvo original sofre somente o Dano da arma, e um segundo alvo à escolha do atacante sofre o mesmo Dano como dano superficial. O segundo alvo precisa estar ao alcance da arma e adjacente ao alvo original; ele não realiza outra rolagem para responder.
+- **Debilitante (Abalado)** — ao vencer um Ataque, o atacante pode abrir mão da Margem. O alvo sofre somente o Dano da arma e fica [Abalado](../Condi%C3%A7%C3%B5es/Abalado.md).
+- **Debilitante (Lento)** — ao vencer um Ataque, o atacante pode abrir mão da Margem. O alvo sofre somente o Dano da arma e fica [Lento](../Condi%C3%A7%C3%B5es/Lento.md).
+
 Módulos e cenários podem adicionar novas propriedades, origens, materiais e armas ao catálogo do núcleo.
 
 ## Tipos de Dano

@@ -145,8 +145,7 @@ O campo **Requisito** somente será utilizado nas Capacidades que dependerem de 
 Ainda precisam ser definidos:
 
 - a lista de Competências do sistema;
-- quais conceitos do material histórico merecem retornar como Capacidades;
-- converter os efeitos das antigas Maestrias em **Propriedades Especiais**, Capacidades ou descartes, conforme [[reestruturação/Equipamentos/Conversão de Maestrias em Propriedades]].
+- quais conceitos do material histórico merecem retornar como Capacidades.
 
 Permanecem como decisões fechadas:
 
@@ -154,6 +153,7 @@ Permanecem como decisões fechadas:
 - a Esquiva permanece em **Agilidade + Acrobacia**, sem uma Capacidade geral de **Evasão Explosiva**;
 - a distribuição atual de Perícias e funções entre os seis Atributos será mantida;
 - Maestrias de arma não constituem mais um subsistema; efeitos próprios das armas serão Propriedades Especiais;
+- as antigas Maestrias foram convertidas ou encaminhadas, e as Propriedades Especiais foram distribuídas no catálogo de armas;
 - testes de jogo e a sincronização com o Foundry serão realizados posteriormente.
 
 ## Material para análise

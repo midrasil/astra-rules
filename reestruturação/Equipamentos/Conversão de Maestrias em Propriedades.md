@@ -17,11 +17,19 @@ Os efeitos que pertencem à identidade de uma arma serão convertidos em **Propr
 |---|---|
 | **Golpe Tático** | removida como opção ampla; a propriedade **Manobra** já atribui individualmente Reposicionar, Derrubar ou Desarmar às armas apropriadas |
 | **Embalo** | reservada para uma futura Capacidade, pois representa a técnica e o ritmo do combatente |
-| **Varredura** | candidata a Propriedade Especial de armas apropriadas para golpes amplos |
-| **Golpe Letal** | candidata a Propriedade Especial de armas particularmente perigosas |
-| **Golpe Debilitante** | será dividida em efeitos mais concretos e atribuída apenas às armas cujo funcionamento justifique Lento ou Abalado |
+| **Varredura** | convertida na Propriedade Especial **Varredura** |
+| **Golpe Letal** | convertido na Propriedade Especial **Letal** |
+| **Golpe Debilitante** | dividido em **Debilitante (Abalado)** e **Debilitante (Lento)** |
 
-A atribuição das novas Propriedades Especiais a cada arma será feita durante uma revisão própria do [[Regras/Equipamentos/Catálogo de Armas|Catálogo de Armas]].
+As Propriedades foram definidas em [[Regras/Equipamentos/Armas#especial-opcional-no-máximo-uma-por-arma|Armas]] e distribuídas no [[Regras/Equipamentos/Catálogo de Armas|Catálogo de Armas]]. Armas simples ou que já concentram sua identidade em outras características podem permanecer sem Propriedade Especial.
+
+## Critério utilizado no catálogo
+
+- armas de golpes amplos ou circulares receberam **Varredura**;
+- armas especialmente perigosas em golpes precisos ou decisivos receberam **Letal**;
+- armas de Contusão voltadas a desorientar receberam **Debilitante (Abalado)**;
+- armas capazes de prender, enganchar ou limitar o movimento receberam **Debilitante (Lento)**;
+- uma arma nunca recebeu mais de uma Propriedade Especial.
 
 ## Textos anteriores para referência
 

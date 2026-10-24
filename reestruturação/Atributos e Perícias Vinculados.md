@@ -376,7 +376,7 @@ Os Trunfos foram removidos das regras oficiais. [[Competências/Trunfos não con
 
 A Esquiva permanece em **Agilidade + Acrobacia** e não será criada uma Capacidade geral de Evasão Explosiva. Capacidades ainda podem estabelecer outros Atributos de Ataque ou substituir fórmulas específicas quando seu texto disser expressamente.
 
-O subsistema de **Maestrias de arma** foi removido. Seus efeitos serão distribuídos entre Propriedades Especiais, Capacidades e descartes, conforme a identidade de cada um.
+O subsistema de **Maestrias de arma** foi removido. Seus efeitos foram distribuídos entre Propriedades Especiais, futuras Capacidades e descartes, conforme a identidade de cada um.
 
 As substituições diretas podem ser utilizadas para criar identidades completas, não apenas exceções circunstanciais. Exemplos:
 
