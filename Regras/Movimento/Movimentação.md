@@ -42,6 +42,8 @@ Cada quadrado percorrido utilizando uma Movimentação Especial custa **2 pontos
 
 Os custos se somam. Um quadrado de Terreno Difícil percorrido com Movimentação Especial custa **4 pontos de Movimentação**.
 
+Normalmente, nadar e escalar não exigem rolagem. Quando o risco, a pressão ou a dificuldade da situação exigirem um teste, a Reserva padrão é **Força + Atletismo**. Provas prolongadas de resistência ou exaustão podem exigir um teste separado de **Vigor**, conforme a situação.
+
 ### Voo
 
 O **Voo** não utiliza as regras de Movimentação Especial.

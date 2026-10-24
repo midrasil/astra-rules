@@ -15,12 +15,18 @@
 | 2 | [[#Alcance Excepcional\|Alcance Excepcional]] |
 | 3 | [[#Mira Instintiva\|Mira Instintiva]] |
 | 3 | [[#Foco Imperturbável\|Foco Imperturbável]] |
-| 3 | [[#Puxada Poderosa\|Puxada Poderosa]] |
 | 3 | [[#Flecha Debilitante\|Flecha Debilitante]] |
 | 3 | [[#Chuva de Flechas\|Chuva de Flechas]] |
 | 3 | [[#Tiro de Cobertura\|Tiro de Cobertura]] |
 | 3 | [[#Flecha Transfixante\|Flecha Transfixante]] |
 | 3 | [[#Disparo Imobilizante\|Disparo Imobilizante]] |
+| 4 | [[#Concentração Fulminante\|Concentração Fulminante]] |
+
+## Reserva de ataque com arco
+
+As Capacidades desta Competência que mencionam um **ataque com arco** utilizam a Reserva determinada pela própria arma. Normalmente, um arco utiliza **Agilidade + Atirar**; se possuir a propriedade [Pesado](../../../Regras/Equipamentos/Armas.md#uso-opcional), utiliza **Força + Atirar**. Uma Capacidade que estabeleça expressamente outro Atributo do Ataque sempre prevalece.
+
+Passo do Arqueiro e Recuo Tático continuam usando **Agilidade**, pois medem o deslocamento do personagem e não o Atributo usado para atacar com o arco.
 
 ---
 ## Capacidades de Nível 1
@@ -28,7 +34,7 @@
 ---
 ### Precisão Treinada
 
-Enquanto estiver usando um arco, você recebe +1 dado nos ataques à distância.
+Você recebe +1 dado nos Ataques realizados com um arco.
 
 ### Postura de Tiro
 
@@ -56,7 +62,7 @@ Você ignora a primeira penalidade de −2 dados por atacar além do alcance nor
 ---
 ### Tiro Rápido
 
-Você pode atacar até uma quantidade de alvos igual ao nível de Arqueiro. Para cada alvo incluído, reduza em 1 dado a Reserva de Dados e realize uma única rolagem. Cada alvo responde ao Confronto separadamente. A Margem e o dano são calculados separadamente contra cada alvo.
+Ao realizar um Ataque com arco, você pode atacar até uma quantidade de alvos igual ao nível de Arqueiro. Para cada alvo incluído, reduza em 1 dado a Reserva de Dados e realize uma única rolagem. Cada alvo responde ao Confronto separadamente. A Margem e o dano são calculados separadamente contra cada alvo.
 
 ### Flecha Perfurante
 
@@ -96,10 +102,6 @@ No começo do seu turno, caso não esteja Mirando, você recebe um acúmulo de M
 
 Ser atacado não faz com que você perca seus acúmulos de Mirando. Você ainda perde a Mira caso o ataque cause dano ou outra condição normal para perdê-la aconteça.
 
-### Puxada Poderosa
-
-Antes de realizar um ataque com arco, você pode retirar da Reserva uma quantidade de dados limitada pela sua Força. A Reserva não pode ser reduzida abaixo de 1 dado. Se vencer o Confronto, adicione a quantidade retirada ao Dano da arma.
-
 ### Flecha Debilitante
 
 Quando vence um ataque com arco, você pode converter 1 ponto de Vontade em dano superficial para deixar o alvo Lento ou Abalado até o começo do seu próximo turno.
@@ -123,3 +125,15 @@ Ao vencer um ataque com arco, você causa dano superficial igual ao Dano da arma
 ### Disparo Imobilizante
 
 Ao vencer um ataque com arco, você pode fazer com que todo o dano causado seja superficial para prender o alvo ao chão ou a uma superfície próxima. A Movimentação do alvo é reduzida pela metade até o final do próximo turno dele.
+
+---
+## Capacidades de Nível 4
+
+---
+### Concentração Fulminante
+
+**Requisito:** Mira Instintiva.
+
+Uma vez por turno, antes de realizar um ataque com arco, você pode sofrer uma quantidade de dano superficial de Vontade limitada pelo seu nível de Arqueiro. Para cada ponto sofrido, recebe imediatamente um acúmulo de Mirando sem gastar sua Ação. Esses acúmulos podem ser utilizados no ataque que ativou esta Capacidade.
+
+O limite normal de acúmulos de Mirando determinado pela Astúcia continua sendo aplicado. Você não pode sofrer mais pontos de dano superficial de Vontade do que a quantidade de espaços vazios em sua trilha nem adquirir acúmulos acima desse limite.

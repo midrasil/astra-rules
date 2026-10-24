@@ -12,7 +12,13 @@ Quando sofre dano, o jogador marca uma quantidade de espaços correspondente ao 
 
 Os espaços são preenchidos da esquerda para a direita.
 
-A trilha de Vida de um personagem é composta por **3 + Vigor** espaços. Cenários e regras de criação de personagem podem ajustar esse valor.
+A trilha de Vida de um personagem é composta por:
+
+> **3 + Vigor** espaços
+
+Vigor é o **Atributo da Vida** por padrão. Cenários, Capacidades e outras regras podem ajustar esse valor ou substituir o Atributo utilizado na fórmula.
+
+Quando uma Capacidade substituir Vigor, a quantidade de espaços é recalculada imediatamente a partir do novo Atributo. A substituição afeta somente o tamanho da trilha: recuperação, testes de Vigor e outras regras não são alterados, salvo quando a própria Capacidade disser o contrário.
 
 ## Gravidade do Dano
 

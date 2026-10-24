@@ -1,12 +1,16 @@
 Um **Confronto** ocorre quando um personagem decide atacar outro personagem durante uma Cena Tática.
 
-Ao iniciar um Confronto, o atacante monta uma **Reserva de Dados** de acordo com a forma utilizada para realizar o ataque.
+Ao iniciar um Confronto, o atacante monta uma **Reserva de Dados** de acordo com a forma de ataque utilizada.
 
-Por exemplo, um ataque corpo a corpo desarmado poderia utilizar:
+| Forma de ataque | Reserva padrão |
+| --- | --- |
+| Corpo a corpo | **Agilidade + Lutar** |
+| Arma de disparo | **Agilidade + Atirar** |
+| Arma arremessada | **Força + Arremessar** |
 
-> **Força + Lutar**
+A arma, uma Capacidade ou outra regra pode estabelecer um Atributo ou uma Reserva diferente. Capacidades sempre prevalecem sobre as demais substituições.
 
-A combinação utilizada pode variar de acordo com a arma, a situação, o cenário ou a forma como o personagem está realizando o ataque.
+A propriedade [Pesado](../../Equipamentos/Armas.md#uso-opcional) substitui Agilidade por Força sem trocar a Perícia: uma arma Pesada corpo a corpo utiliza **Força + Lutar**, enquanto uma arma Pesada de disparo utiliza **Força + Atirar**. Ela não acrescenta Força ao dano.
 
 ## Combate com Duas Armas
 
@@ -56,10 +60,6 @@ Um personagem equipado com um **Escudo** pode escolher Defender.
 
 Nesse caso, ele realiza uma rolagem oposta ao ataque. A Reserva de Dados utilizada é:
 
-> **Força + Atletismo**
-
-ou
-
 > **Força + Lutar**
 
 À Reserva de Dados é adicionada a **Proteção** do [Escudo](../../Equipamentos/Escudos.md).
@@ -76,15 +76,11 @@ Defender não representa um contra-ataque. Mesmo quando vence a rolagem, o perso
 
 Um personagem pode escolher **Esquivar** para tentar evitar completamente o ataque.
 
-A Reserva de Dados utilizada normalmente é formada por:
+A Reserva de Dados utilizada é:
 
-> **Atletismo + Agilidade**
+> **Agilidade + Acrobacia**
 
-ou
-
-> **Atletismo + Força**
-
-A combinação utilizada depende da forma como o personagem está evitando o ataque e pode ser adaptada pelo Narrador conforme a situação.
+Capacidades e outras regras podem substituir essa Reserva. Descrever a Esquiva de outra forma não permite utilizar livremente outro Atributo ou Perícia.
 
 Se o personagem obtiver mais Sucessos que o atacante, ele evita completamente o dano e pode se deslocar imediatamente até:
 

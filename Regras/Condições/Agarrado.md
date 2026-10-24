@@ -14,7 +14,13 @@ O personagem que mantém o agarrão pode arrastar ou carregar o alvo enquanto se
 
 Durante seu Turno, um personagem Agarrado pode utilizar sua **Ação** para tentar escapar.
 
-Para isso, realiza uma nova rolagem oposta contra o personagem que mantém o agarrão. As Reservas de Dados são determinadas normalmente de acordo com a forma como cada personagem tenta manter ou romper o agarrão.
+Para isso, realiza uma nova rolagem oposta contra o personagem que mantém o agarrão:
+
+> **Personagem Agarrado: Força + Atletismo**
+
+> **Personagem que mantém o agarrão: Força + Atletismo**
+
+Capacidades e outras regras podem substituir essas Reservas. A forma como a tentativa é descrita não permite trocar livremente o Atributo ou a Perícia.
 
 Se o personagem Agarrado obtiver mais Sucessos, a condição **Agarrado** é encerrada. Em caso de empate ou vitória do personagem que mantém o agarrão, a condição permanece.
 

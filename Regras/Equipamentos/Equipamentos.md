@@ -5,10 +5,20 @@ Atualmente o núcleo do Astra organiza os equipamentos em **quatro tipos**:
 - [Armas](Armas.md) — equipamentos utilizados para atacar.
 - [Armaduras](Armaduras.md) — equipamentos utilizados para proteção.
 - [Escudos](Escudos.md) — equipamentos utilizados para defesa.
-
 - **Itens comuns** — objetos de uso cotidiano, como mochilas, cordas e ferramentas.
 
+Os equipamentos disponíveis no núcleo estão reunidos em:
+
+- [Catálogo de Armas](Cat%C3%A1logo%20de%20Armas.md);
+- [Catálogo de Armaduras](Cat%C3%A1logo%20de%20Armaduras.md);
+- [Catálogo de Escudos](Cat%C3%A1logo%20de%20Escudos.md);
+- [Maestrias](Maestrias.md).
+
 Novos tipos de equipamento podem ser adicionados futuramente, através de módulos ou cenários específicos.
+
+## Valor
+
+Todo equipamento possui um **Valor**, usado para comparar preços e montar orçamentos. O Valor é um número abstrato e pode conter casas decimais; o cenário determina o nome da moeda, sua disponibilidade e as regras de compra.
 
 ## Uso durante cenas
 
@@ -23,7 +33,11 @@ Cada equipamento possui um valor de **Carga**, que indica quantos slots ocupa. I
 
 ### Carga máxima
 
-A **Carga máxima** de um personagem é de **5 + Força** slots — o total de Carga que ele consegue carregar sem penalidades.
+A **Carga máxima** de um personagem é o total de Carga que ele consegue carregar sem penalidades. Sua fórmula padrão é:
+
+> **5 + Força** slots
+
+Força é o **Atributo da Carga** por padrão. Capacidades e outras regras podem substituí-la nessa fórmula. Quando isso acontecer, a Carga máxima é recalculada imediatamente a partir do novo Atributo, sem alterar testes de Força ou outras regras.
 
 ### Sobrecarga
 

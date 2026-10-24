@@ -1,6 +1,9 @@
 Rascunho de trabalho. Lista as habilidades de criaturas do livro de monstros que serviu de referência, resumidas e já pensadas com as regras do Astra, para decidirmos uma a uma como entram como **Características de NPC**: Trunfos que, por padrão, só NPCs usam.
 
-O foco agora é adaptar as habilidades. As criaturas serão adaptadas depois, a partir delas e das regras do Astra.
+> [!success] Compatibilidade revisada
+> As Características foram conferidas para as Reservas vinculadas. Testes expressos com dois Atributos foram mantidos; Teia e Emboscada Subterrânea receberam fórmulas completas.
+
+Este documento registra as decisões usadas nas Características oficiais e na conversão das criaturas atuais.
 
 Legenda do status: ⬜ não analisado · 🟨 em discussão · ✅ decidido · ❌ descartado · ⏸️ adiado
 
@@ -88,8 +91,8 @@ Cada um com tratamento próprio:
 | **Ir para a Garganta** | Ao vencer com Margem 3 ou mais, o dano ignora a Absorção da armadura do alvo. |
 | **Constritora** (Constrição, Abraço, Rolar) | Ao vencer com Margem 2 ou mais, o alvo também fica Agarrado. No começo de cada turno da criatura, o alvo Agarrado por ela sofre o Dano do ataque natural. |
 | **Aterrorizante (Potência)** (Medo) | Quem vê a criatura pela primeira vez na cena testa Determinação + Astúcia contra a Potência; se falhar, recebe acúmulos da Condição **Medo**. Uma vez por cena para cada personagem. |
-| **Teia (Potência)** | Ataque à distância que, ao vencer, deixa o alvo Agarrado pela teia. Para se soltar, o alvo usa a Ação num teste de Força + Atletismo contra a Potência. |
-| **Emboscada Subterrânea** (da Escavadora) | Ao sair da terra para atacar, faz um teste oposto de Furtividade contra o Perceber do alvo; se vencer, recebe +2 dados no Ataque. |
+| **Teia (Potência)** | Ataque à distância com Agilidade + Atirar que, ao vencer, deixa o alvo Agarrado pela teia. A ficha pode estabelecer expressamente outro Atributo de Ataque. Para se soltar, o alvo usa a Ação num teste de Força + Atletismo contra a Potência. |
+| **Emboscada Subterrânea** (da Escavadora) | Ao sair da terra para atacar, testa Agilidade + Furtividade contra Astúcia + Perceber do alvo; se vencer, recebe +2 dados no Ataque. |
 
 ## Fora desta leva
 

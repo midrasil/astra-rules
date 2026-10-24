@@ -14,7 +14,13 @@ Quando o personagem sofre **dano de Vontade**, esse dano é registrado na trilha
 
 Os espaços são preenchidos da esquerda para a direita.
 
-A trilha de Vontade de um personagem é composta por **3 + Determinação** espaços. Cenários e regras de criação de personagem podem ajustar esse valor.
+A trilha de Vontade de um personagem é composta por:
+
+> **3 + Determinação** espaços
+
+Determinação é o **Atributo da Vontade** por padrão. Cenários, Capacidades e outras regras podem ajustar esse valor ou substituir o Atributo utilizado na fórmula.
+
+Quando uma Capacidade substituir Determinação, a quantidade de espaços é recalculada imediatamente a partir do novo Atributo. A substituição afeta somente o tamanho da trilha: testes de Determinação, a Iniciativa e outras regras não são alterados, salvo quando a própria Capacidade disser o contrário.
 
 ## Dano de Vontade
 

@@ -15,7 +15,7 @@ As Condições são aplicadas por Ações, Manobras, Trunfos ou outras regras. T
 - [Atordoado](Atordoado.md) — sem Ação.
 - [Medo](Medo.md) — penalidade acumulável em todas as Reservas.
 - [Fúria](F%C3%BAria.md) — só em combate; ataca com mais força e se defende pior.
-- [Mirando](Mirando.md) — acumula o bônus da Manobra Mirar para o próximo Ataque com Atirar.
+- [Mirando](Mirando.md) — acumula o bônus da Manobra Mirar para o próximo Ataque à distância.
 
 ## Relações
 

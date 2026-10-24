@@ -1,3 +1,6 @@
+> [!archive] Implementado
+> Este planejamento foi consolidado em [[Regras/Equipamentos/Catálogo de Armaduras|Catálogo de Armaduras]], [[Regras/Equipamentos/Catálogo de Escudos|Catálogo de Escudos]] e [[Regras/Equipamentos/Catálogo de Armas|Catálogo de Armas]]. O arquivo permanece apenas como histórico.
+
 Rascunho de trabalho. Regras de categoria para armaduras e escudos, a proposta do catálogo do núcleo para o compêndio de **Equipamentos** e o **Valor** de todos os equipamentos.
 
 Legenda do status: ⬜ não analisado · 🟨 em discussão · ✅ decidido · ❌ descartado

@@ -1,6 +1,8 @@
 Um personagem **Mirando** usou a Manobra [Mirar](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Manobras.md#mirar) e se concentra no alvo. Cada acúmulo dá:
 
-> **+2 dados no próximo Ataque com Atirar**, inclusive com armas de arremesso
+> **+2 dados no próximo Ataque à distância**
+
+O benefício se aplica independentemente de o Ataque utilizar Atirar, Arremessar ou outro Atributo estabelecido por uma regra.
 
 O personagem acumula no máximo um número de acúmulos igual à sua **Astúcia**.
 

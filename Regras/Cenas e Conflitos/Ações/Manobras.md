@@ -10,17 +10,11 @@ As Manobras mais comuns possuem regras próprias, mas o Narrador também pode ut
 
 Realizar uma Manobra exige uma **Ação**.
 
-Na maioria dos casos, a Manobra é resolvida através de uma **rolagem oposta** entre o personagem que a inicia e seu alvo. Manobras que não têm um alvo, como **Mirar**, não exigem rolagem: seu efeito é aplicado conforme sua própria descrição.
+Na maioria dos casos, a Manobra é resolvida através de uma **rolagem oposta** entre o personagem que a inicia e seu alvo. Cada Manobra determina a Reserva de quem a inicia e a Reserva utilizada para resistir. Manobras que não têm um alvo, como **Mirar**, não exigem rolagem: seu efeito é aplicado conforme sua própria descrição.
 
-A Reserva de Dados utilizada depende da forma como a Manobra está sendo realizada.
+As Reservas são fixas. Descrever a Manobra de outra forma não permite trocar livremente seu Atributo ou sua Perícia. Capacidades, equipamentos e outras regras podem estabelecer substituições expressas, e Capacidades sempre prevalecem.
 
-Por exemplo, um personagem tentando empurrar outro utilizando força bruta poderia realizar um teste de:
-
-> **Força + Atletismo**
-
-Enquanto o alvo poderia resistir utilizando uma combinação semelhante.
-
-Essas combinações não são fixas. O Narrador pode utilizar outros Atributos ou Perícias quando representarem melhor a forma como os personagens estão realizando ou resistindo à Manobra.
+A propriedade [Manobra (X)](../../Equipamentos/Armas.md#uso-opcional) permite realizar a Manobra indicada até o Alcance da arma, mas não altera sua Reserva nem concede bônus. [Pesado](../../Equipamentos/Armas.md#uso-opcional) modifica somente Ataques e, por isso, também não altera uma Manobra realizada com a arma.
 
 Se o personagem que iniciou a Manobra obtiver mais Sucessos, o efeito da Manobra é aplicado.
 
@@ -40,7 +34,7 @@ As Manobras descritas nesta seção não representam todas as formas possíveis 
 
 Quando um jogador tentar realizar algo semelhante que não esteja contemplado por uma Manobra específica, o Narrador pode tratá-lo como uma **Manobra Narrativa**.
 
-Nesse caso, o Narrador determina a Reserva de Dados apropriada, a forma de resistência e as consequências de uma vitória, utilizando as Manobras existentes como referência.
+Nesse caso, o Narrador determina uma Reserva de Dados, a forma de resistência e as consequências de uma vitória, utilizando os Atributos vinculados e as Manobras existentes como referência. Se a mesma tentativa se tornar recorrente, ela deve receber uma fórmula fixa. A descrição narrativa não permite apenas trocar o Atributo de uma Perícia existente.
 
 ### Lista de Manobras
 
@@ -50,13 +44,13 @@ Ao utilizar a Manobra **Reposicionar**, o personagem usa sua **Ação** para ten
 
 Para realizar a Manobra, o personagem precisa estar em **alcance suficiente para interagir fisicamente com o alvo**. Normalmente, isso significa estar adjacente ou dentro do alcance apropriado para a forma como o reposicionamento está sendo realizado.
 
-A Reserva de Dados utilizada normalmente é:
+A Reserva de Dados de quem inicia é:
 
 > **Força + Atletismo**
 
-O alvo realiza uma rolagem oposta para resistir.
+O alvo resiste com:
 
-As combinações utilizadas por ambos os personagens podem ser alteradas de acordo com a situação e com a forma como a Manobra está sendo realizada. O Narrador determina quando outro Atributo ou Perícia representa melhor a abordagem utilizada.
+> **Força + Atletismo**
 
 Se o personagem que iniciou a Manobra obtiver mais Sucessos, ele pode deslocar o alvo em **1 quadrado**, escolhendo a direção do movimento.
 
@@ -88,13 +82,13 @@ Ao utilizar a Manobra **Derrubar**, o personagem usa sua **Ação** para tentar 
 
 Para realizar a Manobra, o personagem precisa estar em **alcance suficiente para interagir fisicamente com o alvo**.
 
-A Reserva de Dados utilizada normalmente é:
+A Reserva de Dados de quem inicia é:
 
 > **Força + Atletismo**
 
-O alvo realiza uma rolagem oposta para resistir.
+O alvo resiste com:
 
-As combinações utilizadas por ambos os personagens podem ser alteradas de acordo com a situação e com a forma como a Manobra está sendo realizada. O Narrador determina quando outro Atributo ou Perícia representa melhor a abordagem utilizada.
+> **Força + Atletismo**
 
 Se o personagem que iniciou a Manobra obtiver mais Sucessos, o alvo recebe a condição **Caído**.
 
@@ -108,13 +102,13 @@ Ao utilizar a Manobra **Agarrar**, o personagem usa sua **Ação** para tentar i
 
 Para realizar a Manobra, o personagem precisa estar em **alcance suficiente para interagir fisicamente com o alvo**.
 
-A Reserva de Dados utilizada normalmente é:
+A Reserva de Dados de quem inicia é:
 
 > **Força + Atletismo**
 
-O alvo realiza uma rolagem oposta para resistir.
+O alvo resiste com:
 
-As combinações utilizadas por ambos os personagens podem ser alteradas de acordo com a situação e com a forma como a Manobra está sendo realizada. O Narrador determina quando outro Atributo ou Perícia representa melhor a abordagem utilizada.
+> **Força + Atletismo**
 
 Se o personagem que iniciou a Manobra obtiver mais Sucessos, o alvo recebe a condição **Agarrado**.
 
@@ -128,19 +122,13 @@ Ao utilizar a Manobra **Desarmar**, o personagem usa sua **Ação** para tentar 
 
 Para realizar a Manobra, o personagem precisa estar em **alcance suficiente para interagir com o alvo e com o equipamento que deseja desarmar**.
 
-A Reserva de Dados utilizada normalmente pode ser formada por:
-
-> **Força + Lutar**
-
-ou
+A Reserva de Dados de quem inicia é:
 
 > **Agilidade + Lutar**
 
-A combinação depende da forma como o personagem realiza a Manobra.
+O alvo resiste com:
 
-O alvo realiza uma rolagem oposta para resistir.
-
-As combinações utilizadas por ambos os personagens podem ser alteradas de acordo com a situação e com a abordagem adotada. O Narrador determina quando outro Atributo ou Perícia representa melhor a tentativa de desarmar ou resistir.
+> **Agilidade + Lutar**
 
 Se o personagem que iniciou a Manobra obtiver mais Sucessos, o alvo deixa cair o equipamento escolhido em seu próprio quadrado.
 
@@ -154,11 +142,11 @@ Pegar a arma do chão funciona como a ação de Trocar Equipamento.
 
 ## Mirar
 
-Ao utilizar a Manobra **Mirar**, o personagem usa sua **Ação** para preparar um ataque à distância, concentrando-se no alvo antes de atacar.
+Ao utilizar a Manobra **Mirar**, o personagem usa sua **Ação** para preparar um Ataque à distância, concentrando-se no alvo antes de atacar.
 
 Para cada Ação utilizada para Mirar, o personagem acumula:
 
-> **+2 dados na Reserva de Dados do próximo ataque à distância**
+> **+2 dados na Reserva de Dados do próximo Ataque à distância**
 
 O personagem pode utilizar Mirar durante mais de um Turno, acumulando o bônus enquanto continuar mantendo sua posição e sua concentração.
 
@@ -168,7 +156,7 @@ Por exemplo, um personagem que utilizar Mirar durante dois Turnos acumula:
 
 > **+4 dados na Reserva de Dados**
 
-O bônus acumulado é aplicado ao próximo ataque à distância realizado pelo personagem.
+O bônus acumulado é aplicado ao próximo Ataque à distância realizado pelo personagem, independentemente de utilizar Atirar, Arremessar ou outro Atributo estabelecido por uma regra.
 
 ### Movimentação
 

@@ -9,12 +9,13 @@ Cada arma é descrita pelos seguintes campos:
 | **Dano** | modificador flat (1, 2, 3…) somado ao dano em um Confronto |
 | **Tipo de Dano** | o tipo de dano causado pela arma — Corte, Perfurante, Contusão, Fogo etc. (ver [Tipos de Dano](#tipos-de-dano)) |
 | **Propriedades** | Origem, Material e as características especiais da arma (ver [Propriedades](#propriedades)) |
-| **Maestria** | efeito especial da arma para quem a domina, se houver (ver [Maestria](#maestria)) |
 | **Alcance** | o alcance, em quadrados, no qual a arma pode atingir seus alvos |
 | **Carga** | quantos slots a arma ocupa |
 | **Valor** | o custo da arma |
 
 O **Dano** de uma arma corresponde ao **bônus da arma** aplicado em um Confronto, somado à Margem de Sucessos (ver [Confrontar](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Confrontar.md)).
+
+As armas disponíveis no núcleo estão em [Catálogo de Armas](Cat%C3%A1logo%20de%20Armas.md).
 
 ## Desarmado
 
@@ -70,11 +71,13 @@ O Material é considerado junto ao Tipo de Dano ao aplicar [Resistências, Vulne
 
 ### Uso (opcional)
 
-- **Arremesso (valor)** — arma que pode ser lançada como um ataque à distância. A Propriedade acompanha sempre um valor, que indica o **Alcance de arremesso** da arma, medido em quadrados — por exemplo, **Arremesso (6)** indica que a arma pode ser lançada a até 6 quadrados. Ataques de arremesso utilizam a Perícia **Atirar**. O campo **Alcance** da arma continua valendo para seu uso corpo a corpo. Em um [Confronto](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Confrontar.md), a arma pode ser utilizada para **Aceitar o Confronto** contra um atacante à distância, desde que ele esteja dentro do Alcance de arremesso.
+- **Pesado** — Ataques realizados com esta arma utilizam **Força no lugar de Agilidade**, mantendo a Perícia determinada pela forma do ataque. Uma arma Pesada corpo a corpo utiliza **Força + Lutar**; uma arma Pesada de disparo utiliza **Força + Atirar**. Essa substituição é obrigatória, não acrescenta dados nem Dano e não faz Força contribuir novamente para o dano. Pesado modifica somente Ataques: não altera as Reservas de Manobras realizadas com a arma. Uma Capacidade que estabeleça expressamente o Atributo do Ataque sempre prevalece sobre Pesado.
+
+- **Arremesso (valor)** — arma que pode ser lançada como um ataque à distância. A Propriedade acompanha sempre um valor, que indica o **Alcance de arremesso** da arma, medido em quadrados — por exemplo, **Arremesso (6)** indica que a arma pode ser lançada a até 6 quadrados. Ataques de arremesso utilizam **Força + Arremessar**, salvo substituição explícita. O campo **Alcance** da arma continua valendo para seu uso corpo a corpo. Em um [Confronto](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Confrontar.md), a arma pode ser utilizada para **Aceitar o Confronto** contra um atacante à distância, desde que ele esteja dentro do Alcance de arremesso.
 
 - **Versátil (tipo de dano)** — arma que tem um segundo Tipo de Dano, indicado na Propriedade. O atacante escolhe qual usar a cada Ataque. Por exemplo, uma arma Perfurante com **Versátil (Corte)**.
 - **Não letal** — o dano da arma é sempre **superficial** (ver [Gravidade do Dano](../Personagens/Vida.md#gravidade-do-dano)). Para causar dano agravado com ela, o atacante sofre **-2 dados** no Ataque.
-- **Manobra (Reposicionar, Derrubar ou Desarmar)** — a arma pode ser usada para realizar a [Manobra](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Manobras.md) indicada até o **Alcance** da arma, em vez de exigir contato físico. A Manobra não recebe bônus da arma.
+- **Manobra (Reposicionar, Derrubar ou Desarmar)** — a arma pode ser usada para realizar a [Manobra](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Manobras.md) indicada até o **Alcance** da arma, em vez de exigir contato físico. A Manobra não recebe bônus da arma e conserva sua Reserva própria; inclusive, a propriedade Pesado não altera essa Reserva.
 
 As Propriedades são traços simples da arma: como ela é empunhada, que tipo de dano causa e como pode ser usada. Capacidades especiais pertencem às [Maestrias](#maestria).
 
@@ -82,7 +85,7 @@ As Propriedades são traços simples da arma: como ela é empunhada, que tipo de
 
 - **Predileta** — a arma escolhida pelo Trunfo [Arma Predileta](../Personagens/Trunfos/Combate.md#arma-predileta). Quem tem o Trunfo ganha bônus ao usá-la.
 
-Catálogos e módulos podem adicionar novas propriedades, origens e materiais, e definir os valores específicos de cada arma (Nome, Dano, Tipo de Dano, Alcance e demais campos).
+Módulos e cenários podem adicionar novas propriedades, origens, materiais e armas ao catálogo do núcleo.
 
 ## Maestria
 
@@ -94,11 +97,7 @@ Toda Maestria é ativada ao **vencer um Ataque** com a arma. Em empate ela não 
 
 ### Lista de Maestrias
 
-- **Golpe Tático** — ao vencer o Ataque, o personagem pode **abrir mão da Margem**: causa só o Dano da arma e aplica ao alvo o efeito de uma destas Manobras, à sua escolha: [Reposicionar](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Manobras.md#reposicionar), [Derrubar](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Manobras.md#derrubar) ou [Desarmar](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Manobras.md#desarmar). O alvo não faz outra rolagem para resistir.
-- **Embalo** — ao vencer o Ataque, o personagem ganha um acúmulo de [Embalo](../Condi%C3%A7%C3%B5es/Embalo.md) contra aquele alvo. Cada acúmulo dá **+1 dado** nos Ataques contra o mesmo alvo.
-- **Varredura** — ao vencer o Ataque, o personagem também causa o **Dano da arma**, como dano **superficial**, em outro alvo adjacente ao primeiro.
-- **Golpe Letal** — funciona como um acerto crítico: ao vencer o Ataque, cada **par de 10** da rolagem do atacante soma o **Dano da arma** mais uma vez ao dano.
-- **Golpe Debilitante** — ao vencer o Ataque, o personagem aplica ao alvo, à sua escolha, a condição [Lento](../Condi%C3%A7%C3%B5es/Lento.md) ou [Abalado](../Condi%C3%A7%C3%B5es/Abalado.md), até o começo do seu próximo Turno.
+As opções disponíveis no núcleo estão no [Catálogo de Maestrias](Maestrias.md#cat%C3%A1logo).
 
 ## Tipos de Dano
 

@@ -6,6 +6,8 @@ Cada característica traz **valores padrão** entre parênteses, como a **Potên
 
 A **Potência** é a [Dificuldade](../../Mec%C3%A2nica%20B%C3%A1sica/Reserva%20de%20Dados.md#escala-de-dificuldade) do teste que o alvo faz para resistir, quando a característica pede um.
 
+Quando uma Característica menciona uma Perícia sem escrever a Reserva completa, ela utiliza o Atributo vinculado da Perícia. Reservas formadas expressamente por dois Atributos, como Vigor + Determinação, permanecem inalteradas.
+
 ## Movimentos especiais
 
 Nadar e escalar são [Movimentação Especial](../../Movimento/Movimenta%C3%A7%C3%A3o.md#movimenta%C3%A7%C3%A3o-especial) e custam 2 pontos de Movimentação por quadrado. Com uma destas características, a criatura usa aquele movimento pelo **custo normal**, 1 ponto por quadrado, e escolhe no seu turno se usa a Movimentação com o movimento normal ou com o especial.
@@ -77,14 +79,14 @@ Quando a criatura **vence um Ataque com um ataque natural corpo a corpo**, o alv
 
 - **Descrição:** quem vê a criatura pela primeira vez na cena faz o teste para resistir. Quem falhar recebe acúmulos de [Medo](../../Condi%C3%A7%C3%B5es/Medo.md). Acontece uma vez por cena para cada personagem.
 
-### Teia (Potência 2; Força + Atletismo)
+### Teia (Potência 2; ataque: Agilidade + Atirar; escapar: Força + Atletismo)
 
-- **Descrição:** ataque à distância que, ao vencer, deixa o alvo [Agarrado](../../Condi%C3%A7%C3%B5es/Agarrado.md) pela teia. Para se soltar, o alvo usa a sua Ação num teste contra a Potência.
+- **Descrição:** a criatura realiza um Ataque à distância com **Agilidade + Atirar**. Uma ficha pode estabelecer expressamente outro Atributo de Ataque para sua Teia. Ao vencer, deixa o alvo [Agarrado](../../Condi%C3%A7%C3%B5es/Agarrado.md) pela teia. Para se soltar, o alvo usa sua Ação e testa **Força + Atletismo** contra a Potência.
 
 ### Emboscada Subterrânea
 
 - **Requisito:** Escavadora
-- **Descrição:** ao sair da terra para atacar, a criatura faz um teste oposto de Furtividade contra o Perceber do alvo. Se vencer, recebe **+2 dados** no Ataque.
+- **Descrição:** ao sair da terra para atacar, a criatura testa **Agilidade + Furtividade** contra **Astúcia + Perceber** do alvo. Se vencer, recebe **+2 dados** no Ataque.
 
 ### Enxame (dano pelo Tamanho)
 

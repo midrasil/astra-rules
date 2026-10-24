@@ -1,5 +1,8 @@
 Este documento reúne os antigos Trunfos que **não foram convertidos em Privilégios**. Ele serve apenas como material de leitura e análise para a criação das Competências; sua presença aqui não determina que um Trunfo será mantido ou convertido.
 
+> [!info] Compatibilidade
+> As referências deste material foram ajustadas às Reservas vinculadas, a Arremessar e à nova Iniciativa. Isso não representa uma decisão de converter ou manter cada Trunfo como Capacidade.
+
 As antigas categorias sem entradas foram omitidas. Os antigos Trunfos narrativos de Influência, Refúgio, Seguidores, Fama, Prestígio e Aparência também foram omitidos porque já foram substituídos pelos Privilégios.
 
 ## Trunfos de Antecedentes
@@ -75,28 +78,28 @@ As antigas categorias sem entradas foram omitidas. Os antigos Trunfos narrativos
 - **Estágio:** Experiente
 - **Requisito:** Arma Predileta
 - **Repetível:** sim, uma cópia para cada arma Predileta
-- **Descrição:** o personagem domina uma técnica com uma de suas armas Prediletas. Ao adquirir o Trunfo, ele escolhe essa arma e uma [Maestria](../../Regras/Equipamentos/Armas.md#maestria), que passa a poder usar com ela. Qualquer Maestria pode ser escolhida. Se a arma for perdida, a Maestria passa para a substituta junto com a Arma Predileta, no mesmo prazo.
+- **Descrição:** o personagem domina uma técnica com uma de suas armas Prediletas. Ao adquirir o Trunfo, ele escolhe essa arma e uma opção do catálogo de [Maestrias](../../Regras/Equipamentos/Maestrias.md), que passa a poder usar com ela. Qualquer Maestria pode ser escolhida. Se a arma for perdida, a Maestria passa para a substituta junto com a Arma Predileta, no mesmo prazo.
 
 ### Tiro à Queima-Roupa
 
 - **Categoria:** Combate
 - **Estágio:** Novato
 - **Requisito:** nenhum
-- **Descrição:** o personagem sabe disparar mesmo com o inimigo em cima dele. Ele pode **Aceitar o [Confronto](../../Regras/Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Confrontar.md)** de um ataque corpo a corpo usando uma arma à distância.
+- **Descrição:** o personagem sabe atacar à distância mesmo com o inimigo em cima dele. Ele pode **Aceitar o [Confronto](../../Regras/Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Confrontar.md)** de um ataque corpo a corpo usando uma arma de disparo ou uma arma de arremesso, com a Reserva correspondente.
 
 ### Olho de Águia
 
 - **Categoria:** Combate
 - **Estágio:** Novato
 - **Requisito:** nenhum
-- **Descrição:** o personagem calcula bem a distância dos disparos. Ao atacar além do Alcance da arma, ele **ignora a primeira faixa** de penalidade: só perde os -2 dados a partir da segunda faixa.
+- **Descrição:** o personagem calcula bem a distância dos seus ataques. Ao realizar um Ataque à distância além do Alcance da arma, ele **ignora a primeira faixa** de penalidade: só perde os -2 dados a partir da segunda faixa. Para armas de arremesso, utilize o Alcance de arremesso.
 
 ### Olho de Águia Aprimorado
 
 - **Categoria:** Combate
 - **Estágio:** Experiente
 - **Requisito:** Olho de Águia
-- **Descrição:** ao atacar além do Alcance da arma, o personagem **ignora as duas primeiras faixas** de penalidade: só perde os -2 dados a partir da terceira faixa.
+- **Descrição:** ao realizar um Ataque à distância além do Alcance da arma, o personagem **ignora as duas primeiras faixas** de penalidade: só perde os -2 dados a partir da terceira faixa. Para armas de arremesso, utilize o Alcance de arremesso.
 
 ### Golpe de Misericórdia
 
@@ -124,7 +127,7 @@ As antigas categorias sem entradas foram omitidas. Os antigos Trunfos narrativos
 - **Categoria:** Combate
 - **Estágio:** Veterano
 - **Requisito:** Emboscador
-- **Descrição:** no Emboscador, o personagem passa a somar a sua **Reserva de Iniciativa inteira** (Agilidade + Astúcia), em vez dos Sucessos que tirou nela.
+- **Descrição:** no Emboscador, o personagem passa a somar a sua **Reserva de Iniciativa inteira** (Astúcia + Determinação), em vez dos Sucessos que tirou nela.
 
 ### Furioso
 
@@ -180,7 +183,7 @@ As antigas categorias sem entradas foram omitidas. Os antigos Trunfos narrativos
 - **Categoria:** Combate
 - **Estágio:** Experiente
 - **Requisito:** nenhum
-- **Descrição:** o personagem dispara com controle e precisão. No começo de cada turno em que não está [Mirando](../../Regras/Condi%C3%A7%C3%B5es/Mirando.md), ele recebe essa Condição **sem gastar a Ação**, e fazer um Ataque **não encerra** a Mira. Ela continua acumulando com a Manobra [Mirar](../../Regras/Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Manobras.md#mirar), até o limite pela Astúcia, e só é perdida quando o personagem se move, é deslocado à força, é atacado ou fica Caído. Vale para Atirar, inclusive com armas de arremesso.
+- **Descrição:** o personagem ataca à distância com controle e precisão. No começo de cada turno em que não está [Mirando](../../Regras/Condi%C3%A7%C3%B5es/Mirando.md), ele recebe essa Condição **sem gastar a Ação**, e fazer um Ataque **não encerra** a Mira. Ela continua acumulando com a Manobra [Mirar](../../Regras/Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Manobras.md#mirar), até o limite pela Astúcia, e só é perdida quando o personagem se move, é deslocado à força, é atacado ou fica Caído. Vale para qualquer Ataque à distância, inclusive com armas de arremesso.
 
 ### Bloquear
 
@@ -215,7 +218,7 @@ As antigas categorias sem entradas foram omitidas. Os antigos Trunfos narrativos
 - **Categoria:** Combate
 - **Estágio:** Experiente
 - **Requisito:** nenhum
-- **Descrição:** o personagem sabe sair do caminho do perigo. Ele ganha **+1 dado ao [Esquivar](../../Regras/Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Confrontar.md#esquivar)** e, quando vence, pode se deslocar até a **Movimentação base inteira**, em vez da metade.
+- **Descrição:** o personagem sabe sair do caminho do perigo. Ele ganha **+1 dado na Reserva usada para [Esquivar](../../Regras/Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Confrontar.md#esquivar)** e, quando vence, pode se deslocar até a **Movimentação base inteira**, em vez da metade. O bônus continua válido se uma Capacidade substituir Agilidade + Acrobacia por outra Reserva.
 
 ### Esquiva Aprimorada
 
@@ -340,14 +343,14 @@ Quando a criatura **vence um Ataque com um ataque natural corpo a corpo**, o alv
 
 - **Descrição:** quem vê a criatura pela primeira vez na cena faz o teste para resistir. Quem falhar recebe acúmulos de [Medo](../../Regras/Condi%C3%A7%C3%B5es/Medo.md). Acontece uma vez por cena para cada personagem.
 
-#### Teia (Potência 2; Força + Atletismo)
+#### Teia (Potência 2; ataque: Agilidade + Atirar; escapar: Força + Atletismo)
 
-- **Descrição:** ataque à distância que, ao vencer, deixa o alvo [Agarrado](../../Regras/Condi%C3%A7%C3%B5es/Agarrado.md) pela teia. Para se soltar, o alvo usa a sua Ação num teste contra a Potência.
+- **Descrição:** a criatura realiza um Ataque à distância com **Agilidade + Atirar**. Uma ficha pode estabelecer expressamente outro Atributo de Ataque para sua Teia. Ao vencer, deixa o alvo [Agarrado](../../Regras/Condi%C3%A7%C3%B5es/Agarrado.md) pela teia. Para se soltar, o alvo usa sua Ação e testa **Força + Atletismo** contra a Potência.
 
 #### Emboscada Subterrânea
 
 - **Requisito:** Escavadora
-- **Descrição:** ao sair da terra para atacar, a criatura faz um teste oposto de Furtividade contra o Perceber do alvo. Se vencer, recebe **+2 dados** no Ataque.
+- **Descrição:** ao sair da terra para atacar, a criatura testa **Agilidade + Furtividade** contra **Astúcia + Perceber** do alvo. Se vencer, recebe **+2 dados** no Ataque.
 
 #### Enxame (dano pelo Tamanho)
 

@@ -10,7 +10,7 @@ Por padrão, uma Zona afeta todas as criaturas em seu interior, incluindo aliado
 
 Quando uma criatura é atingida por uma Zona de dano, ela realiza um teste de:
 
-> **Agilidade + Atletismo**
+> **Agilidade + Acrobacia**
 
 A regra ou habilidade que criou a Zona pode determinar outra Reserva de Dados.
 
@@ -34,6 +34,7 @@ Uma criatura é atingida por uma Zona de Dano 4.
 ## Interações
 
 - Uma Zona não é um Ataque nem um Confronto. As Respostas Aceitar o Confronto, Defender e Esquivar não são utilizadas.
+- Resistir a uma Zona não é Esquivar. Bônus, penalidades e substituições específicos de Esquivar não se aplicam, salvo quando uma regra disser o contrário.
 - Resistir a uma Zona não movimenta a criatura.
 - A Absorção base e a concedida por armaduras não se aplicam ao dano de uma Zona.
 - [Resistências](../Resist%C3%AAncia%20e%20Vulnerabilidade/Resist%C3%AAncia.md) ao Tipo de Dano e ao Material da Zona, quando houver, contam como Sucessos automáticos no teste para resistir.

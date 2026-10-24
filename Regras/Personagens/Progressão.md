@@ -37,7 +37,9 @@ Quando uma regra utilizar o termo **novo nível**, considere o valor que a carac
 
 > **Exemplo:** aumentar uma Perícia do nível 2 para o nível 3 utiliza **3** como novo nível para calcular o custo.
 
-Quando um Atributo aumenta, todos os valores derivados dele, como Vida, Vontade, Carga e Iniciativa, são **recalculados imediatamente** (ver [Características Derivadas](../../Cria%C3%A7%C3%A3o%20de%20Personagem/3%20-%20Caracter%C3%ADsticas%20Derivadas.md)).
+Quando um Atributo aumenta, todos os valores derivados cuja fórmula **utilize atualmente esse Atributo**, como Vida, Vontade, Carga e Iniciativa, são recalculados imediatamente (ver [Características Derivadas](../../Cria%C3%A7%C3%A3o%20de%20Personagem/3%20-%20Caracter%C3%ADsticas%20Derivadas.md)).
+
+Se uma Capacidade substituiu o Atributo de uma fórmula, o valor passa a acompanhar o substituto. Por exemplo, se a Vida do personagem utiliza Astúcia no lugar de Vigor, aumentar Astúcia recalcula sua Vida, enquanto aumentar Vigor não altera essa característica. A substituição continua limitada à fórmula indicada pela Capacidade.
 
 ## Custos de Experiência
 

@@ -1,5 +1,7 @@
 **Armaduras** são equipamentos utilizados para proteger o personagem.
 
+As armaduras disponíveis no núcleo estão em [Catálogo de Armaduras](Cat%C3%A1logo%20de%20Armaduras.md).
+
 Cada armadura é descrita pelos seguintes campos:
 
 | Campo            | Descrição                                                           |
@@ -27,13 +29,13 @@ Resistências e Vulnerabilidades a [Tipos de Dano](Armas.md#tipos-de-dano) espec
 
 ## Categorias
 
-Toda armadura tem uma **Categoria**, que define o seu custo.
+Toda armadura tem uma **Categoria**, que organiza sua Absorção, penalidade ao Esquivar, Força mínima e Carga típica.
 
-| Categoria | Absorção | Ao Esquivar | Força mínima |
-|---|---|---|---|
-| **Leve** | 1 | sem penalidade | — |
-| **Média** | 2 a 3 | -2 a -3 dados | 2 |
-| **Pesada** | 4 a 5 | -4 a -5 dados | 3 |
+| Categoria | Absorção | Ao Esquivar | Força mínima | Carga |
+|---|---|---|---|---|
+| **Leve** | 1 | sem penalidade | — | 1 |
+| **Média** | 2 a 3 | -2 a -3 dados | 2 | 2 |
+| **Pesada** | 4 a 5 | -4 a -5 dados | 3 | 3 a 4 |
 
 - **Esquivar:** com armadura Média ou Pesada, a Reserva de Esquivar perde dados iguais à **Absorção da armadura**. A Absorção base do personagem e as Resistências não contam.
 - **Força mínima:** com Força abaixo da Força mínima da armadura vestida, o personagem tem **-2 de Movimentação**.
@@ -45,4 +47,4 @@ As **Propriedades** representam características especiais de uma armadura. A li
 - **Resistência a [Tipo] (valor)** — a armadura concede [Resistência](../Resist%C3%AAncia%20e%20Vulnerabilidade/Resist%C3%AAncia.md) ao [Tipo de Dano](Armas.md#tipos-de-dano) indicado. O valor é somado à [Absorção Efetiva](../Resist%C3%AAncia%20e%20Vulnerabilidade/Resist%C3%AAncia%20e%20Vulnerabilidade.md#absor%C3%A7%C3%A3o-efetiva) contra aquele Tipo — por exemplo, uma armadura com **Absorção 2** e **Resistência a Corte (1)** tem Absorção Efetiva 3 contra Corte e 2 contra os demais Tipos.
 - **Vulnerabilidade a [Tipo] (valor)** — a armadura deixa o portador [vulnerável](../Resist%C3%AAncia%20e%20Vulnerabilidade/Resist%C3%AAncia%20e%20Vulnerabilidade.md) ao Tipo de Dano indicado. O valor é subtraído da [Absorção Efetiva](../Resist%C3%AAncia%20e%20Vulnerabilidade/Resist%C3%AAncia%20e%20Vulnerabilidade.md#absor%C3%A7%C3%A3o-efetiva) contra aquele Tipo — por exemplo, as armaduras de metal têm **Vulnerabilidade a Elétrico (1)**: uma Cota de Malha com Absorção 4 fica com 3 contra Elétrico.
 
-Catálogos e módulos podem adicionar novas propriedades e definir os valores específicos de cada armadura.
+Módulos e cenários podem adicionar novas propriedades e armaduras ao catálogo do núcleo.

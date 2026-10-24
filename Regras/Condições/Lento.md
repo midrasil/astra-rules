@@ -4,7 +4,7 @@ Um personagem **Lento** tem sua Movimentação reduzida em:
 
 A condição dura até o começo do próximo Turno de quem a aplicou e então termina sozinha. Aplicar Lento de novo não acumula a penalidade: só renova a duração.
 
-A condição é aplicada pela Maestria **Golpe Debilitante** (ver [Maestria](../Equipamentos/Armas.md#maestria)).
+A condição é aplicada pela Maestria [Golpe Debilitante](../Equipamentos/Maestrias.md#golpe-debilitante).
 
 ---
 

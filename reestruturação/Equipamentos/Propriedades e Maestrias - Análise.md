@@ -1,4 +1,7 @@
-Rascunho de trabalho. Lista as versões brutas, ainda em inglês, de propriedades e maestrias de armas candidatas, para analisarmos uma a uma e decidir como cada uma entra em [Armas](Armas.md): se vira **Propriedade**, **Maestria** ou se é descartada.
+> [!archive] Implementado
+> As decisões finais estão em [[Regras/Equipamentos/Armas|Armas]] e [[Regras/Equipamentos/Maestrias|Maestrias]]. Este arquivo permanece apenas como histórico das referências e adaptações consideradas.
+
+Rascunho de trabalho. Lista as versões brutas, ainda em inglês, de propriedades e maestrias de armas candidatas, para analisarmos uma a uma e decidir como cada uma entra como **Propriedade**, **Maestria** ou descarte.
 
 As entradas parecidas estão agrupadas para tratarmos juntas e, se fizer sentido, fundirmos em uma só. Slow e Nick vieram duplicados na lista original e aparecem uma vez cada.
 
@@ -46,16 +49,17 @@ Implementar depois que todos os grupos forem analisados, porque a base serve par
 6. **Varredura no card:** um segundo dano, superficial e igual ao Dano da arma, para um alvo adjacente ao primeiro.
 7. **Propriedade "Manobra (X)":** entra na lista de Propriedades da arma, no grupo Uso. A Reserva da Manobra passa a oferecer as armas com essa Propriedade, e o Alcance vem da arma, sem bônus de dados.
 8. Atualizar [Maestria](Armas.md#maestria) e [Propriedades](Armas.md#propriedades) com o texto final.
+9. **Propriedade Pesado:** incorporada ao grupo Uso. Ela substitui Agilidade por Força somente nos Ataques com a arma; Capacidades que estabeleçam o Atributo do Ataque prevalecem.
 
 ## Grupo 1 — Manobras com a arma
 
 **Direção decidida:** as duas coisas, cada uma de um lado.
-- **Propriedade "Manobra (Reposicionar / Derrubar / Desarmar)"**, a partir de Shove, Trip e Disarm: a manobra indicada pode ser feita com a arma, usando o Alcance dela e um bônus da arma na Reserva.
+- **Propriedade "Manobra (Reposicionar / Derrubar / Desarmar)"**, a partir de Shove, Trip e Disarm: a manobra indicada pode ser feita com a arma, usando o Alcance dela e sem receber bônus da arma na Reserva.
 - **Maestria única "Golpe Tático"** (nome provisório), a partir de Push e Topple: ao vencer um Ataque com a arma, o personagem pode abrir mão da Margem para aplicar o efeito de uma destas Manobras, à sua escolha: **Reposicionar, Derrubar ou Desarmar**. Agarrar não entra. O custo em dano é equilibrado pela versatilidade.
 - Propriedade sem bônus na Reserva: só permite fazer a manobra com o Alcance da arma, seguindo o princípio das Propriedades.
 - Golpe Tático: ao vencer o Ataque, o personagem escolhe entre o dano normal (Margem + Dano da arma) e abrir mão da Margem, causando só o Dano da arma e aplicando o efeito da Manobra escolhida (Reposicionar, Derrubar ou Desarmar). Em empate não ativa.
 
-Ligam a arma às [Manobras](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Manobras.md) que já existem: [Reposicionar](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Manobras.md#reposicionar), [Derrubar](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Manobras.md#derrubar) e [Desarmar](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Manobras.md#desarmar). Cada par tem uma versão "permite a manobra com a arma" e uma versão "a manobra acontece ao acertar".
+Ligam a arma às [Manobras](Manobras.md) que já existem: [Reposicionar](Manobras.md#reposicionar), [Derrubar](Manobras.md#derrubar) e [Desarmar](Manobras.md#desarmar). Cada par tem uma versão "permite a manobra com a arma" e uma versão "a manobra acontece ao acertar".
 
 ### 1a. Empurrar — Shove + Push ✅
 
@@ -117,7 +121,7 @@ Bônus que dependem de já ter atacado no turno, de ter errado ou de ter acertad
 
 Relaciona-se com a Propriedade **Leve** e com o Trunfo Lutar com Duas Armas.
 
-- Tipo: descartado. É o ataque extra da arma Leve, e no Astra o [Trunfo](../Personagens/Trunfos/Trunfos.md) Lutar com Duas Armas já soma o Dano da outra arma, sem ataque extra.
+- Tipo: descartado. É o ataque extra da arma Leve, e no Astra o [Trunfo](Trunfos.md) Lutar com Duas Armas já soma o Dano da outra arma, sem ataque extra.
 
 ## Grupo 3 — Golpes fortes
 
@@ -148,7 +152,7 @@ Efeitos que atrapalham o alvo depois de um acerto.
   - **Lento**: −2 de Movimentação (Slow; 10 pés viram 2 quadrados).
   - **Abalado**: −2 dados no próximo Ataque (Sap; Desvantagem vira −2 dados).
 - Os efeitos não se acumulam: aplicar de novo só renova a duração.
-- Pendência: criar as Condições **Lento** e **Abalado** em [Condições](../Condi%C3%A7%C3%B5es/Condi%C3%A7%C3%B5es.md), que saem sozinhas no começo do próximo turno do atacante.
+- Pendência: criar as Condições **Lento** e **Abalado** em [Condições](Condições.md), que saem sozinhas no começo do próximo turno do atacante.
 
 ## Grupo 5 — Defesa
 
@@ -203,7 +207,17 @@ Mistura investida (mover antes de atacar) e empunhadura (Duas mãos vira uma mã
 
 **Nonlethal.** An effect with this trait is nonlethal. Damage from a nonlethal effect knocks a creature out rather than killing it. Attacks with this weapon are nonlethal, and are used to knock creatures unconscious instead of kill them. You can use a nonlethal weapon to make a lethal attack with a –2 circumstance penalty.
 
-Conversa com a gravidade do dano (superficial ou agravado) em [Gravidade do Dano](../Personagens/Vida.md#gravidade-do-dano).
+Conversa com a gravidade do dano (superficial ou agravado) em [Gravidade do Dano](Vida.md#gravidade-do-dano).
 
 - Tipo: Propriedade **Não letal**.
 - Adaptação: o dano da arma é sempre superficial. Para causar dano agravado com ela, o atacante sofre −2 dados no Ataque.
+
+## Grupo 9 — Atributo do Ataque
+
+### 9a. Pesado ✅
+
+- Tipo: Propriedade de Uso **Pesado**.
+- Adaptação: Ataques realizados com a arma utilizam **Força no lugar de Agilidade**, mantendo a Perícia da forma de ataque. Assim, uma arma Pesada corpo a corpo usa Força + Lutar e uma arma Pesada de disparo usa Força + Atirar.
+- A substituição é obrigatória e não adiciona dados, Dano ou Força ao dano.
+- Pesado modifica apenas Ataques. Ele não altera as Reservas de Reposicionar, Derrubar, Agarrar ou Desarmar, mesmo quando a arma possui Manobra (X).
+- Uma Capacidade que estabeleça expressamente o Atributo do Ataque sempre prevalece sobre Pesado.

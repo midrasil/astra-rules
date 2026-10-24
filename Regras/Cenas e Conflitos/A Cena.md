@@ -18,9 +18,11 @@ Depois que todos os participantes tiverem realizado seus Turnos, uma nova Rodada
 
 A **Iniciativa** determina a ordem em que os participantes realizam seus Turnos durante a cena.
 
-No início da cena, cada participante rola uma [Reserva de Dados](../Mec%C3%A2nica%20B%C3%A1sica/Reserva%20de%20Dados.md) formada por **Agilidade** e **Astúcia** e conta os Sucessos normalmente.
+No início da cena, cada participante rola uma [Reserva de Dados](../Mec%C3%A2nica%20B%C3%A1sica/Reserva%20de%20Dados.md) formada por **Astúcia** e **Determinação** e conta os Sucessos normalmente. Astúcia representa perceber e compreender rapidamente o início do conflito, enquanto Determinação representa prontidão, foco e decisão para agir.
 
-> **Agilidade + Astúcia = Reserva de Iniciativa**
+> **Astúcia + Determinação = Reserva de Iniciativa**
+
+Capacidades e outras regras podem substituir um dos Atributos da Iniciativa ou estabelecer uma Reserva diferente. Quando uma Capacidade fizer isso, ela prevalece sobre a fórmula padrão.
 
 Os participantes agem do maior número de Sucessos para o menor. Se a Reserva de Iniciativa ficar abaixo de 1 dado, o resultado é **1 Sucesso**.
 

@@ -1,4 +1,4 @@
-**Embalo** é uma condição positiva e acumulável, ligada a um alvo. O personagem ganha um acúmulo cada vez que vence um Ataque contra esse alvo com a arma em que tem a Maestria **Embalo** (ver [Maestria](../Equipamentos/Armas.md#maestria)).
+**Embalo** é uma condição positiva e acumulável, ligada a um alvo. O personagem ganha um acúmulo cada vez que vence um Ataque contra esse alvo com a arma em que tem a Maestria [Embalo](../Equipamentos/Maestrias.md#embalo).
 
 Cada acúmulo dá:
 

@@ -10,7 +10,7 @@ Enquanto estiver em Fúria, o personagem recebe:
 
 Ele também **ignora a penalidade de [Debilitado](Debilitado.md)**.
 
-Em Fúria, o personagem não consegue se concentrar: não usa ações que exigem foco, como Atirar, Mentir ou Persuadir, mas pode **Intimidar**.
+Em Fúria, o personagem não consegue se concentrar: não usa ações que exigem foco, como realizar Ataques com armas de disparo, Mentir ou Persuadir, mas pode **Intimidar**. Ataques com armas de arremesso não são proibidos apenas por utilizarem Arremessar.
 
 **Imprudente:** se um ataque corpo a corpo não tiver **nenhum Sucesso**, o golpe acerta outro alvo adjacente aleatório, aliado ou inimigo.
 
