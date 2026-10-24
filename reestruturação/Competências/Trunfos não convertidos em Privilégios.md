@@ -78,7 +78,7 @@ As antigas categorias sem entradas foram omitidas. Os antigos Trunfos narrativos
 - **Estágio:** Experiente
 - **Requisito:** Arma Predileta
 - **Repetível:** sim, uma cópia para cada arma Predileta
-- **Descrição:** o personagem domina uma técnica com uma de suas armas Prediletas. Ao adquirir o Trunfo, ele escolhe essa arma e uma opção do catálogo de [Maestrias](../../Regras/Equipamentos/Maestrias.md), que passa a poder usar com ela. Qualquer Maestria pode ser escolhida. Se a arma for perdida, a Maestria passa para a substituta junto com a Arma Predileta, no mesmo prazo.
+- **Descrição histórica:** o personagem dominava uma técnica com uma de suas armas Prediletas. Esse modelo foi removido; consulte [[reestruturação/Equipamentos/Conversão de Maestrias em Propriedades]].
 
 ### Tiro à Queima-Roupa
 

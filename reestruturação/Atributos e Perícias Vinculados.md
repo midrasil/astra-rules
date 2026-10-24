@@ -317,7 +317,7 @@ Também será necessário:
 - diferenciar claramente Arco Curto, Arco Longo e Besta;
 - revisar as tabelas para que propriedades de armas à distância sejam exibidas corretamente.
 
-#### `Regras/Equipamentos/Armas.md` e `Regras/Equipamentos/Maestrias.md`
+#### `Regras/Equipamentos/Armas.md` e `reestruturação/Equipamentos/Conversão de Maestrias em Propriedades.md`
 
 - adicionar Pesado à análise das propriedades;
 - revisar as propriedades Manobra, pois as Manobras deixarão de aceitar combinações abertas;
@@ -376,7 +376,7 @@ Os Trunfos foram removidos das regras oficiais. [[Competências/Trunfos não con
 
 A Esquiva permanece em **Agilidade + Acrobacia** e não será criada uma Capacidade geral de Evasão Explosiva. Capacidades ainda podem estabelecer outros Atributos de Ataque ou substituir fórmulas específicas quando seu texto disser expressamente.
 
-A aquisição e o vínculo das **Maestrias de arma** precisam ser redesenhados separadamente antes de voltarem a ser opções disponíveis aos personagens.
+O subsistema de **Maestrias de arma** foi removido. Seus efeitos serão distribuídos entre Propriedades Especiais, Capacidades e descartes, conforme a identidade de cada um.
 
 As substituições diretas podem ser utilizadas para criar identidades completas, não apenas exceções circunstanciais. Exemplos:
 

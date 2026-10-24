@@ -146,13 +146,14 @@ Ainda precisam ser definidos:
 
 - a lista de Competências do sistema;
 - quais conceitos do material histórico merecem retornar como Capacidades;
-- uma nova forma de adquirir e vincular **Maestrias de arma**, sem reutilizar automaticamente o antigo Trunfo Maestria com Arma.
+- converter os efeitos das antigas Maestrias em **Propriedades Especiais**, Capacidades ou descartes, conforme [[reestruturação/Equipamentos/Conversão de Maestrias em Propriedades]].
 
 Permanecem como decisões fechadas:
 
 - os pontos iniciais de Perícia não serão alterados;
 - a Esquiva permanece em **Agilidade + Acrobacia**, sem uma Capacidade geral de **Evasão Explosiva**;
 - a distribuição atual de Perícias e funções entre os seis Atributos será mantida;
+- Maestrias de arma não constituem mais um subsistema; efeitos próprios das armas serão Propriedades Especiais;
 - testes de jogo e a sincronização com o Foundry serão realizados posteriormente.
 
 ## Material para análise

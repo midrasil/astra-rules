@@ -52,7 +52,7 @@ Efeitos em área, como o Sopro, seguem a regra de [Zonas](../Cenas%20e%20Conflit
 | Infecção | Infecciosa |
 | Medo / Medo -2 | Aterrorizante (Potência 2 / 3) |
 | Frenesi / Frenesi Aprimorado | Frenesi / Frenesi Aprimorado |
-| Varredura / Varrer Aprimorado | Frenesi (ou a Maestria Varredura) |
+| Varredura / Varrer Aprimorado | Frenesi ou uma futura Propriedade Especial de Varredura |
 | Sopro de Fogo, Ataque de Chamas, Tromba d'Água, Rajada de Vento | Sopro, com o Tipo de Dano de cada um |
 | Bote, Espetar | Investida |
 | Ir para a Garganta | Ir para a Garganta |

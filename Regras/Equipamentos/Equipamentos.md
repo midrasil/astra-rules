@@ -11,8 +11,7 @@ Os equipamentos disponíveis no núcleo estão reunidos em:
 
 - [Catálogo de Armas](Cat%C3%A1logo%20de%20Armas.md);
 - [Catálogo de Armaduras](Cat%C3%A1logo%20de%20Armaduras.md);
-- [Catálogo de Escudos](Cat%C3%A1logo%20de%20Escudos.md);
-- [Maestrias](Maestrias.md).
+- [Catálogo de Escudos](Cat%C3%A1logo%20de%20Escudos.md).
 
 Novos tipos de equipamento podem ser adicionados futuramente, através de módulos ou cenários específicos.
 

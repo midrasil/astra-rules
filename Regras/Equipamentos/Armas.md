@@ -35,7 +35,7 @@ Por padrão, o dano do Desarmado é **superficial** (ver [Gravidade do Dano](../
 
 ## Propriedades
 
-As **Propriedades** de uma arma são organizadas em quatro categorias. Toda arma tem exatamente uma **Origem** e um **Material**; as propriedades de **Empunhadura** e **Uso** são opcionais e podem ser combinadas.
+As **Propriedades** de uma arma são organizadas em cinco categorias. Toda arma tem exatamente uma **Origem** e um **Material**; as propriedades de **Empunhadura**, **Uso** e **Especial** são opcionais e podem ser combinadas conforme a entrada da arma.
 
 ### Origem (obrigatória, uma por arma)
 
@@ -77,19 +77,15 @@ O Material é considerado junto ao Tipo de Dano ao aplicar [Resistências, Vulne
 - **Não letal** — o dano da arma é sempre **superficial** (ver [Gravidade do Dano](../Personagens/Vida.md#gravidade-do-dano)). Para causar dano agravado com ela, o atacante sofre **-2 dados** no Ataque.
 - **Manobra (Reposicionar, Derrubar ou Desarmar)** — a arma pode ser usada para realizar a [Manobra](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Manobras.md) indicada até o **Alcance** da arma, em vez de exigir contato físico. A Manobra não recebe bônus da arma e conserva sua Reserva própria; inclusive, a propriedade Pesado não altera essa Reserva.
 
-As Propriedades são traços simples da arma: como ela é empunhada, que tipo de dano causa e como pode ser usada. Capacidades especiais pertencem às [Maestrias](#maestria).
+### Especial (opcional, no máximo uma por arma)
+
+Uma Propriedade Especial concede um efeito característico do modelo da arma. Ela pertence à própria arma, não precisa ser adquirida separadamente e pode ser utilizada por qualquer personagem que empunhe a arma.
+
+Cada arma pode possuir no máximo **uma Propriedade Especial**. Essas Propriedades podem criar efeitos ao vencer um Ataque, modificar uma interação específica ou representar uma vantagem que não cabe nas categorias estruturais anteriores.
+
+Técnicas aprendidas pelo personagem continuam pertencendo às **Capacidades**. Uma Propriedade Especial descreve o que a arma faz; uma Capacidade descreve o que o personagem sabe fazer com ela.
 
 Módulos e cenários podem adicionar novas propriedades, origens, materiais e armas ao catálogo do núcleo.
-
-## Maestria
-
-A **Maestria** é uma técnica especial vinculada ao uso de armas. Sua forma de aquisição e seu vínculo com armas serão redesenhados; até essa definição, o catálogo permanece como referência e as Maestrias não são opções disponíveis por padrão aos personagens.
-
-Toda Maestria é ativada ao **vencer um Ataque** com a arma. Em empate ela não ativa. Cada Maestria diz o que mais é preciso e se tem custo.
-
-### Lista de Maestrias
-
-As opções disponíveis no núcleo estão no [Catálogo de Maestrias](Maestrias.md#cat%C3%A1logo).
 
 ## Tipos de Dano
 
