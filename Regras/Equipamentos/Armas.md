@@ -85,10 +85,10 @@ Cada arma pode possuir no máximo **uma Propriedade Especial**. Essas Propriedad
 
 Técnicas aprendidas pelo personagem continuam pertencendo às **Capacidades**. Uma Propriedade Especial descreve o que a arma faz; uma Capacidade descreve o que o personagem sabe fazer com ela.
 
-Uma Propriedade Especial que diga **ao vencer um Ataque** não é ativada em caso de empate. Quando o efeito exige abrir mão do Dano da arma, o atacante decide depois de vencer e antes de calcular o dano; o alvo sofre somente a Margem, além dos demais efeitos indicados.
+Uma Propriedade Especial que diga **ao vencer um Ataque** não é ativada em caso de empate. Quando o efeito exige abrir mão de uma parte do dano, o atacante decide depois de vencer e antes de calculá-lo.
 
 - **Letal** — ao vencer um Ataque, cada par de dados que mostrem **10** na rolagem do atacante soma o **Dano da arma** mais uma vez ao dano causado.
-- **Varredura** — ao vencer um Ataque corpo a corpo, o atacante pode abrir mão do Dano da arma. O alvo original sofre somente a Margem, e um segundo alvo à escolha do atacante sofre o Dano da arma como dano superficial. O segundo alvo precisa estar ao alcance da arma e adjacente ao alvo original; ele não realiza outra rolagem para responder.
+- **Varredura** — ao vencer um Ataque corpo a corpo, o atacante pode abrir mão da Margem. O alvo original sofre somente o Dano da arma, e um segundo alvo à escolha do atacante sofre o mesmo Dano como dano superficial. O segundo alvo precisa estar ao alcance da arma e adjacente ao alvo original; ele não realiza outra rolagem para responder.
 - **Debilitante (Abalado)** — ao vencer um Ataque, o atacante pode abrir mão do Dano da arma. O alvo sofre somente a Margem e fica [Abalado](../Condi%C3%A7%C3%B5es/Abalado.md).
 - **Debilitante (Lento)** — ao vencer um Ataque, o atacante pode abrir mão do Dano da arma. O alvo sofre somente a Margem e fica [Lento](../Condi%C3%A7%C3%B5es/Lento.md).
 
