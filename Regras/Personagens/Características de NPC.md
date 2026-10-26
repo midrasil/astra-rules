@@ -92,6 +92,13 @@ Quando a criatura **vence um Ataque com um ataque natural corpo a corpo**, o alv
 
 - **Descrição:** a criatura é um enxame de bichos pequenos, tratado como uma só. No **começo de cada turno** dela, todas as criaturas **dentro do token ou adjacentes** sofrem **dano superficial**, sem rolagem de ataque. O dano base vem do Tamanho (**Médio 2, Grande 4, Enorme 6**) e cai **1 para cada criatura atingida além da primeira**, até o mínimo de 1. Efeitos ao acertar da criatura, como [Venenosa](#venenosa-pot%C3%AAncia-2-vigor--determina%C3%A7%C3%A3o), valem para cada atingido. O dano base pode mudar em cada criatura. Costuma ser **Imune a Corte e Perfurante**.
 
+## Recuperação
+
+### Regeneração (2; interrompida pelo Tipo de Dano ou Material definido na criatura)
+
+- **Descrição:** ao **final de cada turno** da criatura, ela converte um número de pontos de dano agravado em superficial igual ao valor da Regeneração, sem precisar de tratamento. O valor é configurável em cada criatura.
+- **Interrupção:** cada criatura lista os Tipos de Dano ou Materiais que interrompem a sua Regeneração. Se ela sofrer dano de um deles desde o fim do seu último turno, **não regenera nesse turno**. A interrupção vale só por esse turno: no turno seguinte, sem novo dano daquele tipo, a Regeneração volta.
+
 ## Sentidos
 
 ### Visão no Escuro (12 quadros)

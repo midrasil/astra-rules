@@ -94,6 +94,15 @@ Cada um com tratamento próprio:
 | **Teia (Potência)** | Ataque à distância com Agilidade + Atirar que, ao vencer, deixa o alvo Agarrado pela teia. A ficha pode estabelecer expressamente outro Atributo de Ataque. Para se soltar, o alvo usa a Ação num teste de Força + Atletismo contra a Potência. |
 | **Emboscada Subterrânea** (da Escavadora) | Ao sair da terra para atacar, testa Agilidade + Furtividade contra Astúcia + Perceber do alvo; se vencer, recebe +2 dados no Ataque. |
 
+## Grupo 7 — Recuperação ✅
+
+| Característica | Proposta |
+|---|---|
+| **Regeneração (valor)** | Ao final de cada turno da criatura, converte pontos de dano agravado em superficial iguais ao valor, sem tratamento. Cada criatura lista os Tipos de Dano ou Materiais que a interrompem: sofrendo dano de um deles desde o fim do seu último turno, não regenera nesse turno, e só nesse. |
+
+- A antiga Regeneração era um Trunfo de personagem, ligado ao Descanso Prolongado. Como criatura, ela passa a valer em combate e por turno, com valor próprio.
+- A interrupção é uma **lista explícita** em cada criatura, não as Vulnerabilidades dela: Vulnerabilidade também aumenta o dano sofrido, e nem toda criatura que a Regeneração deve temer é Vulnerável àquele tipo. O Troll é o caso: Regeneração 2, interrompida por Fogo, sem Vulnerabilidade a Fogo.
+
 ## Fora desta leva
 
 Ficam de fora, por serem de cenário ou dependerem de regras que o Astra não tem: feitiços e magias, erguer mortos, cria de vampiro, enfeitiçar, mudança de forma, névoa, convocar animais, cartas de ação (Focado, Rápida) e a escala de Força em dados.
