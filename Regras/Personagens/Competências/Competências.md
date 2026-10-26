@@ -77,6 +77,7 @@ Um Nível pode conceder mais de um efeito quando todos fizerem parte do mesmo av
 ## Lista de Competências
 
 - [Atirador](Atirador.md) — preparação, conservação da Mira, precisão e disparos a distância com a Perícia Atirar.
+- [Furioso](Furioso.md) — Fúria, agressão corpo a corpo e dano que cresce com os ferimentos sofridos.
 
 ---
 
