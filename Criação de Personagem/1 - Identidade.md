@@ -1,4 +1,4 @@
-Antes e além dos números, um personagem é definido por **quem ele é**: seu conceito e o que o move. Esta subsessão reúne essas escolhas.
+Antes e além dos números, um personagem é definido por **quem ele é**: seu conceito e o que o move. Esta subseção reúne essas escolhas.
 
 ## Conceito
 

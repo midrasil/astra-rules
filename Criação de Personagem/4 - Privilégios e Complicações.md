@@ -40,7 +40,7 @@ Cada Complicação deve ser personalizada para o personagem. O jogador e o Narra
 
 Complicações possuem natureza narrativa. Elas criam situações e consequências na história, mas não aplicam penalidades ou modificadores mecânicos.
 
-Complicações comportamentais orientam a interpretação do personagem. Quando ele tentar agir contra esse comportamento sob pressão, o Narrador pode exigir um teste apropriado para resistir, com Dificuldade definida pelas circunstâncias da cena. Consulte as [regras de Complicações](../Regras/Personagens/Complica%C3%A7%C3%B5es/Complica%C3%A7%C3%B5es.md#complica%C3%A7%C3%B5es-comportamentais).
+Complicações comportamentais orientam a interpretação do personagem. Quando a situação pressionar esse comportamento e o jogador quiser agir contra ele, o personagem pode resistir sofrendo **1 ponto de dano superficial de Vontade**, sem rolagem. Consulte as [regras de Complicações](../Regras/Personagens/Complica%C3%A7%C3%B5es/Complica%C3%A7%C3%B5es.md#complica%C3%A7%C3%B5es-comportamentais).
 
 Os Pontos de Complicação são separados dos Pontos de Privilégio. Adquirir Complicações não concede Privilégios adicionais, e pontos não utilizados não podem ser transferidos entre os dois orçamentos.
 

@@ -54,3 +54,7 @@ Como possui Atletismo 3, ele pode aproveitar até **3 quadrados de Impulso**. Ca
 Caso percorra apenas 1 quadrado antes do salto, alcançará **3 quadrados**.
 
 Em um Salto Vertical com os mesmos 3 quadrados de Impulso, alcançaria **2 quadrados** de altura.
+
+---
+
+← [Voltar para Movimento](Movimento.md)

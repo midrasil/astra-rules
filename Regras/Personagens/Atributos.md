@@ -11,7 +11,7 @@ Cada Atributo pertence a uma **categoria**: **Físico** ou **Espiritual**.
 | Categoria  | Atributos                      |
 | ---------- | ------------------------------ |
 | Físico     | Força, Agilidade, Vigor        |
-| Espiritual | Carisma, Astúcia, Determinação |
+| Espiritual | Carisma, Determinação, Astúcia |
 
 Algumas regras afetam apenas rolagens de uma categoria, como as penalidades de [Debilitado](../Condi%C3%A7%C3%B5es/Debilitado.md), [Sobrecarga](../Equipamentos/Equipamentos.md#sobrecarga) e [Vontade preenchida](Vontade.md#vontade-preenchida). Nesses casos, vale a categoria do **Atributo efetivamente utilizado** na Reserva de Dados. Se uma regra substituir o Atributo, passa a valer a categoria do substituto. Se a Reserva usar dois Atributos de categorias diferentes, valem as penalidades das duas categorias.
 
@@ -59,4 +59,8 @@ Representa foco, disciplina, estabilidade emocional e força mental.
 
 Representa conhecimento, raciocínio, rapidez de pensamento e percepção.
 
-É utilizada para compreender problemas, pesquisar, lembrar informações, perceber o ambiente, improvisar e encontrar soluções — inclusive sob pressão de tempo. Está vinculada a Curar, Erudição, Navegar, Ocultismo, Perceber, Pesquisar e Sobrevivência. Também participa da Iniciativa e limita os acúmulos normais de Mirando.
+É utilizada para compreender problemas, pesquisar, lembrar informações, perceber o ambiente, improvisar e encontrar soluções — inclusive sob pressão de tempo. Está vinculada a Conhecimento Geral, Consertar, Curar, Erudição, Navegar, Ocultismo, Perceber, Pesquisar e Sobrevivência. Também participa da Iniciativa e limita os acúmulos normais de Mirando.
+
+---
+
+← [Voltar para Personagens](Personagens.md)

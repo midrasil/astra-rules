@@ -1,5 +1,3 @@
-# Catálogo de Escudos
-
 Este é o catálogo de escudos do núcleo do Astra. Consulte [Escudos](Escudos.md) para as regras de Proteção, Categoria e Força mínima.
 
 O **Valor** é abstrato e não possui nome de moeda.
@@ -10,4 +8,8 @@ O **Valor** é abstrato e não possui nome de moeda.
 | Escudo | Médio | 2 | 2 | 1 | 10 |
 | Escudo de Corpo | Pesado | 3 | 3 | 2 | 40 |
 
-Um Escudo Pesado impõe **−1 dado ao Atacar**. Estar abaixo da Força mínima do escudo impõe **−2 de Movimentação**, conforme as regras de [Escudos](Escudos.md#categorias).
+Um Escudo Pesado impõe **-1 dado ao Atacar**. Estar abaixo da Força mínima do escudo impõe **-2 de Movimentação**, conforme as regras de [Escudos](Escudos.md#categorias).
+
+---
+
+← [Voltar para Equipamentos](Equipamentos.md)

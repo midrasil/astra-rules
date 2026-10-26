@@ -19,4 +19,4 @@ Por enquanto, o Tipo de Criatura **não possui efeito mecânico**. Ele serve com
 
 ---
 
-← [Voltar a Personagens](Personagens.md)
+← [Voltar para Personagens](Personagens.md)

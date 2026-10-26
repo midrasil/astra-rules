@@ -10,7 +10,7 @@ Quando uma Ação possuir uma regra específica, essa regra determina como ela d
 
 Nem toda Ação realizada durante uma Cena Tática precisa possuir uma regra própria.
 
-Um personagem pode tentar abrir uma porta, puxar uma alavanca, tirar uma poção da bolsa e bebe-la, [ajudar alguém](../Mec%C3%A2nica%20B%C3%A1sica/Reserva%20de%20Dados.md#ajuda), manipular um objeto ou realizar qualquer outra atividade compatível com a situação.
+Um personagem pode tentar abrir uma porta, puxar uma alavanca, tirar uma poção da bolsa e bebê-la, [ajudar alguém](../Mec%C3%A2nica%20B%C3%A1sica/Reserva%20de%20Dados.md#ajuda), manipular um objeto ou realizar qualquer outra atividade compatível com a situação.
 
 Nesses casos, o Narrador determina se a atividade pode ser realizada com uma única Ação e se algum teste é necessário para concluí-la.
 
@@ -62,3 +62,7 @@ As Ações Básicas, porém, não representam tudo o que um personagem pode tent
 - [Aguardar](A%C3%A7%C3%B5es/Aguardar.md)
 - [Trocar Equipamento](../Equipamentos/Trocar%20Equipamento.md)
 - [Manobras](A%C3%A7%C3%B5es/Manobras.md)
+
+---
+
+← [Voltar para Cenas e Conflitos](Cenas%20e%20Conflitos.md)

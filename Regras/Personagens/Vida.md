@@ -47,9 +47,9 @@ Perfurações profundas, queimaduras severas, eletricidade letal e outras formas
 
 Essa gravidade de dano representa consequências mais sérias e normalmente é mais difícil de recuperar do que dano superficial.
 
-Determinados equipamentos, habilidades ou efeitos podem transformar **dano agravado em dano superficial**.
+Determinados equipamentos, Capacidades ou efeitos podem transformar **dano agravado em dano superficial**.
 
-**Por padrão, todo dano é agravado** — a menos que a própria fonte do dano (arma, ataque, efeito) especifique o contrário. É o caso da maioria dos ataques, especialmente os desferidos com armas. [Armaduras](../Equipamentos/Armaduras.md) e [Resistências](../Resist%C3%AAncia%20e%20Vulnerabilidade/Resist%C3%AAncia.md) podem converter dano agravado em superficial (ver [Resistência e Vulnerabilidade](../Resist%C3%AAncia%20e%20Vulnerabilidade/Resist%C3%AAncia%20e%20Vulnerabilidade.md)).
+**Por padrão, todo dano é agravado** — a menos que a própria fonte do dano (arma, Ataque, efeito) especifique o contrário. É o caso da maioria dos Ataques, especialmente os desferidos com armas. [Armaduras](../Equipamentos/Armaduras.md) e [Resistências](../Resist%C3%AAncia%20e%20Vulnerabilidade/Resist%C3%AAncia.md) podem converter dano agravado em superficial (ver [Resistência e Vulnerabilidade](../Resist%C3%AAncia%20e%20Vulnerabilidade/Resist%C3%AAncia%20e%20Vulnerabilidade.md)).
 
 A principal exceção é o **combate desarmado**, que causa **dano superficial** por padrão — socos, chutes e agarrões raramente são fatais. O Narrador também pode determinar que outras fontes de dano causam superficial quando a situação assim pedir.
 
@@ -73,3 +73,7 @@ A recuperação depende da **gravidade** do dano sofrido.
 O tratamento é uma **cena de cuidados** que exige condições mínimas: material de Curar, higiene e algum conforto. Quem trata rola **Astúcia + Curar** (o próprio personagem ou outro). **Cada sucesso converte 1 ponto** de dano agravado em superficial. Sem nenhum sucesso, o tratamento não converte nada. Um personagem pode receber um tratamento **por dia em jogo**.
 
 Se o personagem estiver **hospitalizado**, em instalações adequadas, nenhuma rolagem é necessária: ele converte 1 ponto de dano agravado em superficial por dia de jogo, até a recuperação total.
+
+---
+
+← [Voltar para Personagens](Personagens.md)

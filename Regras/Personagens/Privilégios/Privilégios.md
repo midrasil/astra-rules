@@ -77,7 +77,7 @@ Um personagem que utilize sua Influência repetidamente de maneira comprometedor
 
 Cada Privilégio utiliza o seguinte formato:
 
-- **Nome — Nível**
+- **Nome** — na ficha, o nome é acompanhado do Nível adquirido, como **Aliado — 2**.
 - **Descrição** — apresenta o conceito, orienta as capacidades dos diferentes Níveis e indica os elementos que devem ser personalizados.
 - **Especializações** — apresenta as opções disponíveis, quando existirem.
 

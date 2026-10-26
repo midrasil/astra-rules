@@ -33,3 +33,7 @@ Com Força abaixo da Força mínima do escudo empunhado, o personagem tem **-2 d
 Um Escudo Pesado também impõe **-1 dado ao Atacar** enquanto estiver empunhado.
 
 Capacidades podem modificar a forma de utilizar um Escudo ou permitir que sua Proteção seja aplicada em outras situações quando seu efeito disser expressamente.
+
+---
+
+← [Voltar para Equipamentos](Equipamentos.md)

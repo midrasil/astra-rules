@@ -10,12 +10,12 @@ Todos os acúmulos são perdidos se, antes de atacar, o personagem:
 
 - utilizar sua Movimentação depois de Mirar;
 - for deslocado à força;
-- for atacado;
+- sofrer dano;
 - ficar [Caído](Ca%C3%ADdo.md).
 
 Realizar o Ataque também encerra a Mira, salvo quando uma Capacidade disser expressamente o contrário.
 
-O sistema retira esta Condição sozinho nesses casos e no fim do combate.
+A Condição também termina no fim do combate.
 
 ---
 

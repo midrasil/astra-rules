@@ -112,7 +112,7 @@ A Dificuldade de um teste define quantos Sucessos são necessários para a açã
 | 1           | Rotina — quase sempre dá certo              |
 | 2           | Básico — padrão para a maioria dos testes   |
 | 3           | Desafiador — exige um pouco de esforço      |
-| 4           | Difícil — exige um bom pool                 |
+| 4           | Difícil — exige uma boa Reserva             |
 | 5           | Muito difícil — poucos tentam               |
 | 6+          | Proeza — reservado a feitos extraordinários |
 
@@ -138,7 +138,7 @@ Por exemplo, os resultados:
 
 geram **5 Sucessos**: o par de 10 gera 3 Sucessos (2 + 1 extra), o terceiro 10 gera 1 Sucesso e o resultado 7 gera mais 1 Sucesso.
 
-### Exemplo
+### Exemplo de Contagem de Sucessos
 
 Um personagem realiza um teste com uma Reserva de Dados de **5 dados** e obtém:
 
@@ -175,3 +175,7 @@ Não há limite de ajudantes, mas o bônus **não se acumula**: o teste recebe n
 Em uma Cena Tática, ajudar consome a **Ação** do ajudante.
 
 > **Exemplo:** um personagem com **Pesquisar 2** procura uma informação em uma biblioteca com dois aliados ajudando. Sua Reserva recebe **+1 dado**.
+
+---
+
+← [Voltar para Mecânica Básica](Mec%C3%A2nica%20B%C3%A1sica.md)

@@ -1,6 +1,6 @@
-Durante seu turno, um personagem pode se deslocar pelo campo de batalha utilizando sua **Movimentação**.
+Durante seu Turno, um personagem pode se deslocar pelo campo de batalha utilizando sua **Movimentação**.
 
-Por padrão, todo personagem possui uma **Movimentação base** de **6 quadrados por turno**.
+Por padrão, todo personagem possui uma **Movimentação base** de **6 quadrados por Turno**.
 
 > **Movimentação base: 6 quadrados**
 
@@ -26,9 +26,9 @@ Por exemplo, um personagem com 6 pontos de Movimentação poderia atravessar nor
 
 ## Movimentação e Inimigos
 
-Mover-se para fora do alcance de um inimigo não provoca, por padrão, ataques ou outras penalidades.
+Mover-se para fora do alcance de um inimigo não provoca, por padrão, Ataques ou outras penalidades.
 
-Determinadas habilidades, efeitos ou **Capacidades** podem criar exceções a essa regra, permitindo que um personagem puna ou interfira na movimentação de seus adversários.
+Determinadas **Capacidades**, Características ou efeitos podem criar exceções a essa regra, permitindo que um personagem puna ou interfira na movimentação de seus adversários.
 
 ## Movimentação Especial
 
@@ -48,10 +48,14 @@ Normalmente, nadar e escalar não exigem rolagem. Quando o risco, a pressão ou 
 
 O **Voo** não utiliza as regras de Movimentação Especial.
 
-A forma como um personagem voa, sua velocidade, limitações, custos e demais propriedades são determinadas diretamente pela **Característica, Habilidade, Item, efeito ou outra fonte** responsável por conceder essa capacidade.
+A forma como um personagem voa, sua velocidade, limitações, custos e demais propriedades são determinadas diretamente pela **Capacidade, Característica, equipamento, efeito ou outra fonte** responsável por conceder essa capacidade.
 
 Dessa forma, diferentes formas de voo podem funcionar de maneiras distintas, de acordo com sua origem.
 
 ## Salto
 
 O **Salto** é realizado utilizando uma **Ação** e possui regras próprias. Consulte [Saltar](Saltar.md).
+
+---
+
+← [Voltar para Movimento](Movimento.md)

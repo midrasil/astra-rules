@@ -2,7 +2,7 @@ Um personagem **Agarrado** sofre os seguintes efeitos.
 
 > Movimentação 0
 
-Ao realizar um ataque contra qualquer alvo que não seja o personagem que o está agarrando, o personagem Agarrado recebe:
+Ao realizar um Ataque contra qualquer alvo que não seja o personagem que o está agarrando, o personagem Agarrado recebe:
 
 > **-2 dados na Reserva de Dados**
 
@@ -22,7 +22,7 @@ Para isso, realiza uma nova rolagem oposta contra o personagem que mantém o aga
 
 Capacidades e outras regras podem substituir essas Reservas. A forma como a tentativa é descrita não permite trocar livremente o Atributo ou a Perícia.
 
-Se o personagem Agarrado obtiver mais Sucessos, a condição **Agarrado** é encerrada. Em caso de empate ou vitória do personagem que mantém o agarrão, a condição permanece.
+Se o personagem Agarrado obtiver mais Sucessos, a Condição **Agarrado** é encerrada. Em caso de empate ou vitória do personagem que mantém o agarrão, a condição permanece.
 
 ---
 

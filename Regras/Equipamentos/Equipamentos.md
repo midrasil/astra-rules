@@ -43,7 +43,7 @@ Força é o **Atributo da Carga** por padrão. Capacidades e outras regras podem
 Carregar além da **Carga máxima** deixa o personagem em **Sobrecarga**. Enquanto estiver em Sobrecarga, ele:
 
 - tem sua **Movimentação base** reduzida à **metade** (ver [Movimentação](../Movimento/Movimenta%C3%A7%C3%A3o.md));
-- sofre **−2 dados** em rolagens que utilizem um [Atributo Físico](../Personagens/Atributos.md#categorias).
+- sofre **-2 dados** em rolagens que utilizem um [Atributo Físico](../Personagens/Atributos.md#categorias).
 
 A Sobrecarga termina assim que a Carga volta a ficar dentro do limite.
 

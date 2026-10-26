@@ -1,5 +1,3 @@
-# Catálogo de Armas
-
 Este é o catálogo de armas do núcleo do Astra. As regras dos campos e das Propriedades estão em [Armas](Armas.md).
 
 Todas as armas são de Origem **Fabricada**, exceto a Arma Improvisada. Quando nenhuma Propriedade de Empunhadura aparece, a arma utiliza uma mão. O **Valor** é abstrato, não possui nome de moeda e pode conter casas decimais. Um travessão na coluna **Especial** indica que a arma não possui Propriedade Especial.
@@ -13,11 +11,11 @@ Todas as armas são de Origem **Fabricada**, exceto a Arma Improvisada. Quando n
 | Machadinha | 1 | Corte | Leve | 1 | Arremesso (4) | — | Metal comum | 1 | 5 |
 | Porrete | 1 | Contusão | Leve | 1 | Não letal | Debilitante (Abalado) | Madeira | 1 | 0,1 |
 | Lança Curta | 1 | Perfurante | Leve | 1 | Arremesso (4) | Letal | Metal comum | 1 | 1 |
-| Cimitarra | 2 | Corte | Uma mão | 1 | Versátil (Perfurante) | Varredura | Metal comum | 1 | 25 |
+| Cimitarra | 2 | Corte | — | 1 | Versátil (Perfurante) | Varredura | Metal comum | 1 | 25 |
 | Espada Longa | 2 | Corte | Flexível | 1 | Versátil (Perfurante) | Letal | Metal comum | 2 | 15 |
-| Maça | 2 | Contusão | Uma mão | 1 | Pesado | Debilitante (Abalado) | Metal comum | 1 | 5 |
+| Maça | 2 | Contusão | — | 1 | Pesado | Debilitante (Abalado) | Metal comum | 1 | 5 |
 | Martelo de Guerra | 2 | Contusão | Flexível | 1 | Pesado, Manobra (Derrubar) | Debilitante (Abalado) | Metal comum | 2 | 15 |
-| Mangual | 2 | Contusão | Uma mão | 1 | Pesado, Manobra (Desarmar) | Debilitante (Lento) | Metal comum | 1 | 10 |
+| Mangual | 2 | Contusão | — | 1 | Pesado, Manobra (Desarmar) | Debilitante (Lento) | Metal comum | 1 | 10 |
 | Machado de Batalha | 2 | Corte | Flexível | 1 | Pesado | Varredura | Metal comum | 2 | 10 |
 | Montante | 4 | Corte | Duas mãos | 1 | Pesado | Varredura | Metal comum | 2 | 50 |
 | Machado Grande | 4 | Corte | Duas mãos | 1 | Pesado | Letal | Metal comum | 2 | 30 |
@@ -47,6 +45,10 @@ Arco Curto, Besta e Funda utilizam **Agilidade + Atirar**. O Arco Longo possui P
 
 | Arma | Dano | Tipo | Empunhadura | Alcance | Origem | Especial | Material | Carga | Valor |
 |---|---:|---|---|---:|---|---|---|---:|---:|
-| Arma Improvisada | 1 | Contusão | Uma mão | 1 | Improvisada | — | Madeira | 1 | 0 |
+| Arma Improvisada | 1 | Contusão | — | 1 | Improvisada | — | Madeira | 1 | 0 |
 
 Os valores representam um objeto comum de uma mão. O Narrador pode alterar Tipo de Dano, Material, Carga e Propriedades conforme o objeto. Uma Arma Improvisada recebe **Pesado** quando sua massa, alavanca ou forma justificarem.
+
+---
+
+← [Voltar para Equipamentos](Equipamentos.md)

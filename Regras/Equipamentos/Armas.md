@@ -6,7 +6,7 @@ Cada arma é descrita pelos seguintes campos:
 |---|---|
 | **Nome** | o nome da arma |
 | **Descrição** | uma descrição breve da arma |
-| **Dano** | modificador flat (1, 2, 3…) somado ao dano em um Confronto |
+| **Dano** | modificador fixo (1, 2, 3…) somado ao dano em um Confronto |
 | **Tipo de Dano** | o tipo de dano causado pela arma — Corte, Perfurante, Contusão, Fogo etc. (ver [Tipos de Dano](#tipos-de-dano)) |
 | **Propriedades** | Origem, Material e as características especiais da arma (ver [Propriedades](#propriedades)) |
 | **Alcance** | o alcance, em quadrados, no qual a arma pode atingir seus alvos |
@@ -23,7 +23,6 @@ Todo personagem possui uma arma natural, o **Desarmado**: socos, chutes, cotovel
 
 | Campo | Valor |
 |---|---|
-| **Uso** | Corpo a corpo |
 | **Dano** | +0 |
 | **Tipo de Dano** | Contusão |
 | **Alcance** | 1 |
@@ -31,7 +30,7 @@ Todo personagem possui uma arma natural, o **Desarmado**: socos, chutes, cotovel
 
 O Desarmado é de Origem **Natural** e Material **Orgânico**: está **sempre disponível**, não precisa ser equipado e não ocupa as mãos. Além disso, não pode ser removido, vendido ou perdido. Quando o personagem ataca sem nenhuma arma em mãos, ele usa o Desarmado.
 
-Por padrão, o dano do Desarmado é **superficial** (ver [Gravidade do Dano](../Personagens/Vida.md#gravidade-do-dano)). Como seu bônus de dano é +0, um empate em um Confronto desarmado não causa dano. Capacidades podem modificar essas características quando seu efeito disser expressamente.
+Por padrão, o dano do Desarmado é **superficial** (ver [Gravidade do Dano](../Personagens/Vida.md#gravidade-do-dano)). Como seu Dano é +0, um empate em um Confronto desarmado não causa dano. Capacidades podem modificar essas características quando seu efeito disser expressamente.
 
 ## Propriedades
 
@@ -69,9 +68,9 @@ O Material é considerado junto ao Tipo de Dano ao aplicar [Resistências, Vulne
 
 ### Uso (opcional)
 
-- **Pesado** — Ataques realizados com esta arma utilizam **Força no lugar de Agilidade**, mantendo a Perícia determinada pela forma do ataque. Uma arma Pesada corpo a corpo utiliza **Força + Lutar**; uma arma Pesada de disparo utiliza **Força + Atirar**. Essa substituição é obrigatória, não acrescenta dados nem Dano e não faz Força contribuir novamente para o dano. Pesado modifica somente Ataques: não altera as Reservas de Manobras realizadas com a arma. Uma Capacidade que estabeleça expressamente o Atributo do Ataque sempre prevalece sobre Pesado.
+- **Pesado** — Ataques realizados com esta arma utilizam **Força no lugar de Agilidade**, mantendo a Perícia determinada pela forma do Ataque. Uma arma Pesada corpo a corpo utiliza **Força + Lutar**; uma arma Pesada de disparo utiliza **Força + Atirar**. Essa substituição é obrigatória, não acrescenta dados nem Dano e não faz Força contribuir novamente para o dano. Pesado modifica somente Ataques: não altera as Reservas de Manobras realizadas com a arma. Uma Capacidade que estabeleça expressamente o Atributo do Ataque sempre prevalece sobre Pesado.
 
-- **Arremesso (valor)** — arma que pode ser lançada como um ataque à distância. A Propriedade acompanha sempre um valor, que indica o **Alcance de arremesso** da arma, medido em quadrados — por exemplo, **Arremesso (6)** indica que a arma pode ser lançada a até 6 quadrados. Ataques de arremesso utilizam **Força + Arremessar**, salvo substituição explícita. O campo **Alcance** da arma continua valendo para seu uso corpo a corpo. Em um [Confronto](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Confrontar.md), a arma pode ser utilizada para **Aceitar o Confronto** contra um atacante à distância, desde que ele esteja dentro do Alcance de arremesso.
+- **Arremesso (valor)** — arma que pode ser lançada como um Ataque à distância. A Propriedade acompanha sempre um valor, que indica o **Alcance de arremesso** da arma, medido em quadrados — por exemplo, **Arremesso (6)** indica que a arma pode ser lançada a até 6 quadrados. Ataques de arremesso utilizam **Força + Arremessar**, salvo substituição explícita. O campo **Alcance** da arma continua valendo para seu uso corpo a corpo. Em um [Confronto](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Confrontar.md), a arma pode ser utilizada para **Aceitar o Confronto** contra um atacante à distância, desde que ele esteja dentro do Alcance de arremesso.
 
 - **Versátil (tipo de dano)** — arma que tem um segundo Tipo de Dano, indicado na Propriedade. O atacante escolhe qual usar a cada Ataque. Por exemplo, uma arma Perfurante com **Versátil (Corte)**.
 - **Não letal** — o dano da arma é sempre **superficial** (ver [Gravidade do Dano](../Personagens/Vida.md#gravidade-do-dano)). Para causar dano agravado com ela, o atacante sofre **-2 dados** no Ataque.
@@ -105,3 +104,7 @@ A lista inicial de tipos de dano é:
 - **Mágico:** Mágico
 
 Cada fonte de dano define seu Tipo de Dano — por exemplo, uma espada causa Corte, uma maça causa Contusão e uma magia de fogo causa Fogo. Catálogos e módulos podem adicionar novos tipos de dano.
+
+---
+
+← [Voltar para Equipamentos](Equipamentos.md)

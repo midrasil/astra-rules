@@ -1,5 +1,3 @@
-# Competências
-
 **Competências** representam formas desenvolvidas de agir, lutar, pensar ou interagir com o mundo. Cada uma possui identidade própria e uma progressão fixa, semelhante a uma classe modular.
 
 Um personagem pode desenvolver várias Competências e combinar suas progressões livremente.
@@ -39,7 +37,7 @@ Esse valor não é um Nível global do personagem. Ele existe para determinar o 
 
 ## Criação de personagem
 
-Durante a [[Criação de Personagem/5 - Competências|criação de personagem]], cada personagem recebe **2 Pontos de Competência**.
+Durante a [criação de personagem](../../../Cria%C3%A7%C3%A3o%20de%20Personagem/5%20-%20Compet%C3%AAncias.md), cada personagem recebe **2 Pontos de Competência**.
 
 Cada ponto aumenta uma Competência em 1 Nível e concede automaticamente o conteúdo daquele Nível. Os pontos podem ser utilizados para começar com:
 
@@ -52,17 +50,17 @@ Pontos de Competência não utilizados não são convertidos em XP nem podem ser
 
 Para adquirir qualquer novo Nível de Competência, o personagem paga um custo baseado no **novo Nível Total de Competências**:
 
-> **Custo em XP = novo Nível Total de Competências × 2.**
+> **Custo em XP = novo Nível Total de Competências × 3.**
 
 Depois do pagamento, o personagem aumenta em 1 o Nível de uma Competência que já possui ou adquire o Nível 1 de uma nova Competência. O conteúdo do novo Nível é recebido automaticamente e não exige outro gasto de XP.
 
 | Nível Total atual | Novo Nível Total | Custo |
 |---:|---:|---:|
-| 2 | 3 | 6 XP |
-| 3 | 4 | 8 XP |
-| 4 | 5 | 10 XP |
-| 5 | 6 | 12 XP |
-| 6 | 7 | 14 XP |
+| 2 | 3 | 9 XP |
+| 3 | 4 | 12 XP |
+| 4 | 5 | 15 XP |
+| 5 | 6 | 18 XP |
+| 6 | 7 | 21 XP |
 
 Não existe um limite para o Nível Total de Competências. O aumento progressivo do custo em XP limita naturalmente a quantidade de Níveis acumulados.
 

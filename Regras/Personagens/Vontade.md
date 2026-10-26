@@ -74,11 +74,11 @@ Após a resolução final do evento que causou o colapso, se suas consequências
 
 A **Vontade** pode ser utilizada para permitir que um personagem ultrapasse momentaneamente seus próprios limites.
 
-Ao utilizar Vontade, o personagem sofre **1 ponto de dano superficial de Vontade** e escolhe um dos efeitos abaixo.
+Ao utilizar Vontade, o personagem sofre **1 ponto de dano superficial de Vontade** e escolhe um dos efeitos abaixo. O mesmo custo permite resistir a uma [Complicação comportamental](Complica%C3%A7%C3%B5es/Complica%C3%A7%C3%B5es.md#complica%C3%A7%C3%B5es-comportamentais).
 
 Um personagem com a trilha de Vontade cheia não pode utilizar Vontade, exceto para [Romper Limite](#romper-limite).
 
-Uma vez por sessão, uma **Convicção** permite utilizar Vontade sem sofrer o dano superficial, mesmo com a trilha cheia (ver [Convicções e Pilares](Convic%C3%A7%C3%B5es%20e%20Pilares.md)).
+Uma vez por sessão, no total, uma **Convicção** permite utilizar Vontade sem sofrer o dano superficial, mesmo com a trilha cheia (ver [Convicções e Pilares](Convic%C3%A7%C3%B5es%20e%20Pilares.md)).
 
 Algumas Capacidades concedidas por Competências exigem o uso de Vontade para serem ativadas.
 
@@ -94,25 +94,27 @@ Em uma rolagem oposta, quem iniciou a ação (por exemplo, o atacante em um Conf
 
 Esse recurso permite ao personagem insistir em uma ação importante, mesmo quando a primeira tentativa não produziu o resultado desejado.
 
-#### Romper Limite
-
-Quando a trilha de Vontade estiver cheia e ainda houver dano superficial nela, o personagem pode continuar a **Rerrolar Dados** ou a resistir a uma [Complicação comportamental](Complica%C3%A7%C3%B5es/Complica%C3%A7%C3%B5es.md#complica%C3%A7%C3%B5es-comportamentais) ao **Romper Limite**.
-
-Cada uso de Romper Limite converte **1 ponto de dano superficial de Vontade** em **dano agravado**, no lugar do dano superficial normal.
-
-Com a trilha inteiramente preenchida por dano agravado, não é possível Romper Limite.
-
 ### Ignorar Penalidades Físicas
 
 O personagem também pode sofrer **1 ponto de dano superficial de Vontade** para ignorar, na rolagem em que a Vontade for utilizada, as penalidades em dados provocadas por sua condição física, como as de [Debilitado](../Condi%C3%A7%C3%B5es/Debilitado.md), [Caído](../Condi%C3%A7%C3%B5es/Ca%C3%ADdo.md), [Agarrado](../Condi%C3%A7%C3%B5es/Agarrado.md) e [Sobrecarga](../Equipamentos/Equipamentos.md#sobrecarga).
 
 Isso inclui penalidades causadas pelo preenchimento de sua **trilha de Vida**.
 
-Por exemplo, um personagem **Debilitado** normalmente sofre **−2 dados em rolagens que utilizem um Atributo Físico**. Ao utilizar Vontade, ele pode ignorar essa penalidade naquela rolagem.
+Por exemplo, um personagem **Debilitado** normalmente sofre **-2 dados em rolagens que utilizem um Atributo Físico**. Ao utilizar Vontade, ele pode ignorar essa penalidade naquela rolagem.
 
 Esse uso representa o personagem forçando o próprio corpo a continuar funcionando apesar da dor, exaustão ou gravidade de seus ferimentos.
 
 O dano superficial de Vontade sofrido para utilizar esses efeitos é marcado normalmente na trilha de Vontade.
+
+### Romper Limite
+
+Quando a trilha de Vontade estiver cheia e ainda houver dano superficial nela, o personagem pode continuar a **Rerrolar Dados** ou a resistir a uma [Complicação comportamental](Complica%C3%A7%C3%B5es/Complica%C3%A7%C3%B5es.md#complica%C3%A7%C3%B5es-comportamentais) ao **Romper Limite**.
+
+Cada uso de Romper Limite converte **1 ponto de dano superficial de Vontade** em **dano agravado**, no lugar do dano superficial normal.
+
+Capacidades podem permitir que seus custos de Vontade sejam pagos ao Romper Limite, como a [Postura de Tiro](Compet%C3%AAncias/Atirador.md#n%C3%ADvel-1--postura-de-tiro) do Atirador.
+
+Com a trilha inteiramente preenchida por dano agravado, não é possível Romper Limite.
 
 ## Recuperação
 
@@ -123,3 +125,7 @@ A recuperação depende da **gravidade** do dano sofrido.
 - **Dano Agravado:** Não se recupera com o tempo. Ele se torna superficial quando o personagem trabalha ativamente em direção à sua **Ambição**, quando uma **Fratura** de Convicção é reparada (1 ponto) ou quando uma Convicção rompida é **restaurada** (até 2 pontos) (ver [Convicções e Pilares](Convic%C3%A7%C3%B5es%20e%20Pilares.md)).
 
 Agir em favor de seu **Desejo** também permite recuperar dano superficial de Vontade. Os detalhes estão em [Ambição e Desejo](Ambi%C3%A7%C3%A3o%20e%20Desejo.md).
+
+---
+
+← [Voltar para Personagens](Personagens.md)
