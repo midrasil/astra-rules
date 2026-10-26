@@ -4,7 +4,7 @@ O uso de um **mapa** é recomendado, com personagens e demais elementos da Cena 
 
 Sem mapa, o combate é conduzido de forma **narrativa**: o Narrador descreve posições e distâncias e determina, a partir dessa descrição, quais alvos estão ao alcance e quais deslocamentos são possíveis.
 
-Durante uma cena tática, o tempo é organizado em **Rodadas** e **Turnos**. O conjunto completo do conflito é tratado como uma **Cena**.
+Durante uma cena tática, o tempo é organizado em **Rodadas** e **Turnos**. O conjunto completo do conflito é tratado como uma única **Cena Tática**.
 
 ## Estrutura
 

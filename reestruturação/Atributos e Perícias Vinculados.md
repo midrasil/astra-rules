@@ -155,7 +155,7 @@ Força + Atletismo pode retornar por uma Capacidade:
 | **Agilidade** | Acrobacia, Atirar, Cavalgar, Dirigir, Furtividade, Lutar, Pilotar, Prestidigitação |
 | **Vigor** | nenhuma Perícia padrão; resistência e Vida |
 | **Carisma** | Empatia Animal, Intimidar, Mentir, Performance, Persuadir |
-| **Astúcia** | Curar, Erudição, Navegar, Ocultismo, Perceber, Pesquisar, Sobrevivência |
+| **Astúcia** | Conhecimento Geral, Consertar, Curar, Erudição, Navegar, Ocultismo, Perceber, Pesquisar, Sobrevivência |
 | **Determinação** | nenhuma Perícia padrão; resistência e Vontade |
 
 A ausência de Perícias vinculadas a Vigor e Determinação não significa que esses Atributos não sejam importantes. Eles já sustentam resistências, Vida, Vontade e outras fórmulas. Entretanto, a distribuição completa precisa ser testada junto às características derivadas.

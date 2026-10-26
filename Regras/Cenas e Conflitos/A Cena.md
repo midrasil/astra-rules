@@ -1,8 +1,8 @@
-Uma **Cena Tática** começa quando um conflito passa a exigir uma resolução estruturada em turnos.
+Uma **Cena** é uma unidade de jogo, seja ela narrativa ou tática.
 
-A Cena representa o confronto como um todo, desde seu início até o momento em que o conflito é encerrado, seja pela derrota de um dos lados, fuga, rendição, mudança das circunstâncias ou qualquer outro desfecho determinado pela narrativa.
+Uma **Cena Tática** é uma Cena dividida em Rodadas e Turnos. Ela começa quando um conflito passa a exigir uma resolução estruturada em turnos e dura até o momento em que o conflito é encerrado, seja pela derrota de um dos lados, fuga, rendição, mudança das circunstâncias ou qualquer outro desfecho determinado pela narrativa.
 
-Dentro da Cena, o tempo é dividido em Rodadas.
+Dentro da Cena Tática, o tempo é dividido em Rodadas.
 
 ## Rodadas e Turnos
 
@@ -18,7 +18,7 @@ Depois que todos os participantes tiverem realizado seus Turnos, uma nova Rodada
 
 A **Iniciativa** determina a ordem em que os participantes realizam seus Turnos durante a cena.
 
-No início da cena, cada participante rola uma [Reserva de Dados](../Mec%C3%A2nica%20B%C3%A1sica/Reserva%20de%20Dados.md) formada por **Astúcia** e **Determinação** e conta os Sucessos normalmente. Astúcia representa perceber e compreender rapidamente o início do conflito, enquanto Determinação representa prontidão, foco e decisão para agir.
+No início da cena, cada participante rola uma [Reserva de Dados](../Mec%C3%A2nica%20B%C3%A1sica/Reserva%20de%20Dados.md) formada por **Astúcia** e **Determinação** e conta os Sucessos normalmente.
 
 > **Astúcia + Determinação = Reserva de Iniciativa**
 
@@ -33,6 +33,8 @@ Quando houver empate entre um personagem de jogador e um NPC, o personagem do jo
 Quando dois ou mais personagens de jogadores obtiverem o mesmo número de Sucessos, eles podem decidir entre si a ordem em que agirão.
 
 Caso não cheguem a um acordo, o Narrador determina a ordem.
+
+Quando dois ou mais NPCs empatarem, age primeiro o que tiver maior **Astúcia**. Se o empate persistir, o Narrador determina a ordem.
 
 ## O Turno
 
@@ -54,7 +56,7 @@ Em situações mais narrativas, o foco está nas decisões dos personagens, nas 
 
 Quando esses elementos passam a ter importância direta para o conflito, a Cena pode assumir uma estrutura mais **tática**.
 
-Em uma Cena de Combate, ou Cena Tática, o jogo passa a utilizar regras mais precisas para representar o que acontece momento a momento. A ordem dos participantes é definida pela Iniciativa, o tempo é dividido em Rodadas e Turnos, posições e distâncias podem ser acompanhadas em um mapa, e cada personagem passa a administrar recursos como sua Ação e sua Movimentação.
+Em uma Cena Tática, o jogo passa a utilizar regras mais precisas para representar o que acontece momento a momento. A ordem dos participantes é definida pela Iniciativa, o tempo é dividido em Rodadas e Turnos, posições e distâncias podem ser acompanhadas em um mapa, e cada personagem passa a administrar recursos como sua Ação e sua Movimentação.
 
 Essa mudança não precisa acontecer apenas em combates. Perseguições, fugas, infiltrações sob pressão, desabamentos, armadilhas ou qualquer outra situação em que a ordem, o tempo e o posicionamento sejam relevantes também podem utilizar uma estrutura tática.
 

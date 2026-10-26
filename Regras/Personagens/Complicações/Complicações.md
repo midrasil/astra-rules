@@ -13,17 +13,21 @@ Complicações criam situações na história, em vez de tornar o personagem num
 - alterar diretamente combate, dano, Vontade ou outros recursos;
 - conceder recompensas quando entram em jogo.
 
-Quando uma Complicação for relevante, o Narrador pode introduzir personagens, acontecimentos e consequências associados a ela. Isso deve decorrer da ficção e não precisa acontecer em todas as sessões.
+O único ponto de contato mecânico de uma Complicação é o custo para resistir a uma [Complicação comportamental](#complica%C3%A7%C3%B5es-comportamentais).
+
+A ausência de recompensa é intencional. Cabe ao Narrador fazer as Complicações aparecerem na história. Quando uma Complicação for relevante, o Narrador pode introduzir personagens, acontecimentos e consequências associados a ela. Isso deve decorrer da ficção e não precisa acontecer em todas as sessões.
 
 ## Complicações comportamentais
 
 Algumas Complicações, como **Boca Grande**, **Arrogante** ou **Fobia**, descrevem impulsos, crenças ou padrões de comportamento. Elas orientam a interpretação do personagem e podem influenciar suas ações.
 
-Quando uma situação pressionar diretamente esse comportamento e o jogador quiser agir contra ele, o Narrador pode exigir um teste para resistir, normalmente utilizando [Determinação](../Atributos.md#determina%C3%A7%C3%A3o). A Reserva e a [Dificuldade](../../Mec%C3%A2nica%20B%C3%A1sica/Reserva%20de%20Dados.md#escala-de-dificuldade) são definidas pelas circunstâncias da cena. Situações extremas podem possuir Dificuldades elevadas.
+Quando uma situação pressionar diretamente esse comportamento e o jogador quiser agir contra ele, o personagem pode resistir sofrendo **1 ponto de dano superficial de [Vontade](../Vontade.md)**. Não há rolagem. O custo é o mesmo para Complicações Menores e Maiores, e só aumenta quando o Narrador determinar que a situação é extrema.
 
-Em caso de sucesso, o personagem consegue resistir à Complicação naquele momento. Em caso de falha, ela se manifesta de maneira coerente com a situação. O Narrador determina a consequência imediata da Complicação, mas não assume o controle geral do personagem além do comportamento colocado à prova.
+Ao pagar o custo, o personagem resiste à Complicação naquele momento. Com a trilha de Vontade cheia, ele ainda pode resistir ao [Romper Limite](../Vontade.md#romper-limite), enquanto houver dano superficial na trilha.
 
-Por exemplo, se um personagem com **Boca Grande** for capturado e pressionado a revelar uma informação, o Narrador pode exigir um teste de Determinação com Dificuldade elevada para que ele consiga permanecer calado. Em caso de falha, o personagem deixa escapar alguma informação relevante.
+Se o personagem não pagar o custo, a Complicação se manifesta de maneira coerente com a situação. O Narrador determina a consequência imediata da Complicação, mas não assume o controle geral do personagem além do comportamento colocado à prova.
+
+Por exemplo, se um personagem com **Boca Grande** for capturado e pressionado a revelar uma informação, ele pode sofrer 1 ponto de dano superficial de Vontade para permanecer calado. Se não pagar, deixa escapar alguma informação relevante.
 ## Tipos
 
 Uma Complicação pode ser **Menor** ou **Maior**. A diferença é determinada pelo alcance e pela importância narrativa.

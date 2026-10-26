@@ -96,7 +96,7 @@ Esse recurso permite ao personagem insistir em uma ação importante, mesmo quan
 
 #### Romper Limite
 
-Quando a trilha de Vontade estiver cheia e ainda houver dano superficial nela, o personagem pode continuar a **Rerrolar Dados** ao **Romper Limite**.
+Quando a trilha de Vontade estiver cheia e ainda houver dano superficial nela, o personagem pode continuar a **Rerrolar Dados** ou a resistir a uma [Complicação comportamental](Complica%C3%A7%C3%B5es/Complica%C3%A7%C3%B5es.md#complica%C3%A7%C3%B5es-comportamentais) ao **Romper Limite**.
 
 Cada uso de Romper Limite converte **1 ponto de dano superficial de Vontade** em **dano agravado**, no lugar do dano superficial normal.
 

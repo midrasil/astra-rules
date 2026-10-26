@@ -52,6 +52,20 @@ O alcance do efeito precisa ser considerado junto ao valor:
 
 Capacidades não precisam seguir exatamente esses valores quando seu funcionamento justificar outra solução, mas desvios devem ser avaliados individualmente.
 
+## Escala de modificadores
+
+O modificador padrão do Astra, positivo ou negativo, é de **2 dados**. Modificadores de **1 dado** são reservados a efeitos menores ou acumuláveis.
+
+Exemplos atuais de modificadores de 1 dado:
+
+- Ajuda (+1);
+- Escudo Pesado (−1);
+- Medo (−1 por acúmulo);
+- Característica Marcante (−1 ao se disfarçar);
+- Embalo (+1).
+
+Novas Capacidades devem seguir essa escala.
+
 ## Acúmulo e variedade
 
 Capacidades diferentes podem contribuir para a mesma Reserva quando seus efeitos forem aplicáveis ao mesmo tempo.
@@ -66,7 +80,7 @@ Por exemplo, um ataque pode reunir:
 
 Esse acúmulo é desejável porque representa várias vantagens reais presentes na mesma ação.
 
-Entretanto, uma mesma Competência deve evitar oferecer várias Capacidades passivas que concedam bônus praticamente idênticos nas mesmas situações. Quando todas essas Capacidades forem escolhas evidentemente obrigatórias, elas deixam de produzir formas diferentes de utilizar a Competência.
+Entretanto, uma mesma Competência deve evitar conceder em vários Níveis sucessivos Capacidades passivas que produzam bônus praticamente idênticos nas mesmas situações. Como a progressão é fixa, esses benefícios seriam acumulados automaticamente e transformariam os Níveis em aumentos numéricos, em vez de desenvolver uma forma de jogo.
 
 Depois de estabelecer um bônus passivo apropriado, as demais Capacidades podem explorar outros elementos, como:
 
@@ -108,8 +122,8 @@ Esse efeito aumenta diretamente o resultado possível e é mais forte do que tra
 - preparação;
 - condição difícil de cumprir;
 - limite por rodada ou cena;
-- Capacidade de Nível elevado;
-- requisito anterior.
+- Nível elevado da Competência;
+- dependência de uma mecânica estabelecida nos Níveis anteriores.
 
 Sucessos adicionais passivos e aplicáveis a grande parte das rolagens devem ser evitados.
 
@@ -161,7 +175,7 @@ Durante o balanceamento, é útil identificar qual parte da ação uma Capacidad
 3. **economia de ações** — Ações, respostas e deslocamentos adicionais;
 4. **alcance** — distância, área e quantidade de alvos.
 
-Uma Capacidade pode modificar mais de um eixo, mas a combinação aumenta consideravelmente seu valor. Nesses casos, devem ser consideradas limitações como Vontade, requisitos, preparação, redução de dados ou limite de uso.
+Uma Capacidade pode modificar mais de um eixo, mas a combinação aumenta consideravelmente seu valor. Nesses casos, devem ser consideradas limitações como Vontade, preparação, redução de dados, limite de uso ou a posição ocupada na progressão fixa da Competência.
 
 ## Diretriz consolidada
 

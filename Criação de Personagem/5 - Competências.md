@@ -1,12 +1,17 @@
-Além de Atributos e Perícias, o personagem possui **Competências** que reúnem técnicas, talentos e características capazes de modificar aquilo que ele pode fazer.
+Além de Atributos e Perícias, o personagem possui **Competências** que representam formas desenvolvidas de agir e concedem progressões fixas de Capacidades.
 
 O personagem recebe:
 
-> **3 Pontos de Competência**
+> **2 Pontos de Competência**
 
-Cada ponto aumenta uma [Competência](../Regras/Personagens/Compet%C3%AAncias/Compet%C3%AAncias.md) em **1 Nível** e concede uma Capacidade apropriada ao novo Nível alcançado.
+Cada ponto aumenta uma [Competência](../Regras/Personagens/Compet%C3%AAncias/Compet%C3%AAncias.md) em **1 Nível** e concede automaticamente o conteúdo daquele Nível.
 
-Os pontos podem ser distribuídos entre diferentes Competências ou concentrados em uma mesma Competência, respeitando a maximização, o Nível das Capacidades e seus requisitos.
+Os pontos podem ser utilizados para começar com:
+
+- Nível 2 em uma Competência; ou
+- Nível 1 em duas Competências diferentes.
+
+Os Níveis adquiridos também determinam o Nível Total de Competências do personagem.
 
 Pontos de Competência não utilizados não são convertidos em XP nem podem ser transferidos para Privilégios ou Complicações.
 

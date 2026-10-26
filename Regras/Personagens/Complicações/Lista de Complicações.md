@@ -22,7 +22,7 @@ Esta é a lista de Complicações do núcleo. Todas seguem as regras de [Complic
 
 **Tipo:** Menor
 
-**Descrição:** o personagem não sabe ler ou escrever em nenhum idioma, embora possa reconhecer símbolos comuns, sinais simples ou a própria assinatura. Textos, registros, mapas escritos e mensagens podem exigir a ajuda de outras pessoas ou uma solução alternativa. Isso cria situações narrativas, mas não aplica penalidades em testes. O jogador e o Narrador devem definir como o analfabetismo faz parte da história do personagem, quem conhece essa condição, quem costuma ajudá-lo e em quais contextos ela pode se tornar relevante.
+**Descrição:** o personagem não sabe ler ou escrever em nenhum idioma, embora possa reconhecer símbolos comuns, sinais simples ou a própria assinatura. Textos, registros, mapas escritos e mensagens podem exigir a ajuda de outras pessoas ou uma solução alternativa. Isso cria situações narrativas, mas não aplica penalidades em testes. Os idiomas que o personagem conhece, inclusive os obtidos pelo Privilégio Idiomas, são apenas falados. O jogador e o Narrador devem definir como o analfabetismo faz parte da história do personagem, quem conhece essa condição, quem costuma ajudá-lo e em quais contextos ela pode se tornar relevante.
 
 **Resolução:** aprender a ler e escrever com a ajuda de um professor, instituição ou companheiro é a possibilidade mais direta. Encontrar uma forma permanente de acessar informações escritas também pode transformar a Complicação, dependendo da história. A resolução definitiva depende da ficção e deve ser definida em jogo pelo jogador e pelo Narrador.
 
@@ -65,14 +65,6 @@ Esta é a lista de Complicações do núcleo. Todas seguem as regras de [Complic
 **Descrição:** o personagem é excessivamente cuidadoso, evita decisões apressadas e procura planejar todos os detalhes antes de agir. Sua hesitação pode atrasar uma resposta, criar conflitos com aliados ou permitir que uma oportunidade desapareça. O jogador e o Narrador devem definir de onde vem essa cautela, em quais situações ela se manifesta com mais força e como seus companheiros lidam com esse comportamento.
 
 **Resolução:** aprender a confiar nos próprios instintos, passar a confiar em seus companheiros ou viver uma situação na qual a demora tenha consequências importantes são algumas possibilidades. Superar a causa de sua cautela também pode mudar sua maneira de agir. A resolução definitiva depende da ficção e deve ser definida em jogo pelo jogador e pelo Narrador.
-
-## Código de Honra
-
-**Tipo:** Maior
-
-**Descrição:** o personagem segue um conjunto pessoal de princípios que define sua palavra, o tratamento dado a adversários e aquilo que considera uma conduta aceitável. Ele procura respeitar esse código mesmo quando isso dificulta seus objetivos ou favorece seus inimigos. O jogador e o Narrador devem definir os princípios do Código de Honra, sua origem, quais atitudes ele proíbe, o que exige do personagem e quais pessoas ou instituições reconhecem esse compromisso.
-
-**Resolução:** rever seus princípios depois de uma crise, reconhecer contradições no código, abandonar a tradição que o sustenta ou construir uma nova compreensão de honra são algumas possibilidades. O código também pode ser transformado quando suas regras deixam de representar aquilo em que o personagem acredita. A resolução definitiva depende da ficção e deve ser definida em jogo pelo jogador e pelo Narrador.
 
 ## Conflito com uma Facção
 
@@ -138,14 +130,6 @@ Esta é a lista de Complicações do núcleo. Todas seguem as regras de [Complic
 
 **Resolução:** derrotar, reconciliar-se ou negociar com o Inimigo, eliminar a causa do conflito ou retirar dele os meios e o interesse para continuar são algumas possibilidades. Sua morte pode encerrar a Complicação, mas aliados, herdeiros ou consequências de suas ações podem transformá-la em outra. A resolução definitiva depende da ficção e deve ser definida em jogo pelo jogador e pelo Narrador.
 
-## Leal
-
-**Tipo:** Menor
-
-**Descrição:** o personagem se recusa a abandonar as pessoas às quais é leal enquanto ainda existir alguma possibilidade de ajudá-las. Essa lealdade pode levá-lo a permanecer em perigo, assumir responsabilidades ou colocar outros objetivos em segundo plano. O jogador e o Narrador devem definir a quem ele é leal, como esse vínculo surgiu, o que considera uma quebra de lealdade e até onde está disposto a ir por essas pessoas.
-
-**Resolução:** garantir definitivamente a segurança daqueles que protege, ser liberado desse compromisso, sofrer uma traição ou reconhecer que a relação deixou de merecer sua lealdade são algumas possibilidades. A perda da pessoa ou do grupo pode encerrar a Complicação ou transformá-la em outra. A resolução definitiva depende da ficção e deve ser definida em jogo pelo jogador e pelo Narrador.
-
 ## Má Reputação
 
 **Tipo:** Menor ou Maior
@@ -153,14 +137,6 @@ Esta é a lista de Complicações do núcleo. Todas seguem as regras de [Complic
 **Descrição:** histórias prejudiciais sobre o personagem influenciam como outras pessoas o tratam. Como Complicação Menor, ele é mal falado dentro de um círculo pequeno, no qual encontra desconfiança, desprezo ou portas fechadas. Como Complicação Maior, sua infâmia alcança uma região ou meio social amplo, atraindo hostilidade, ameaças e atenção indesejada. O jogador e o Narrador devem definir qual acontecimento originou essa reputação, quem conhece a história, o que acreditam sobre o personagem e onde ela possui influência.
 
 **Resolução:** esclarecer os acontecimentos, reparar o dano causado, conquistar a confiança das pessoas afetadas ou realizar algo capaz de mudar a opinião pública são algumas possibilidades. Também é possível que a reputação perca importância quando o personagem abandona aquele meio. A resolução definitiva depende da ficção e deve ser definida em jogo pelo jogador e pelo Narrador.
-
-## Pacifista
-
-**Tipo:** Menor ou Maior
-
-**Descrição:** o personagem rejeita a violência e procura evitá-la mesmo quando ela parece ser a solução mais simples. Como Complicação Menor, só aceita lutar quando não encontra outra alternativa e se opõe à execução ou ao abuso de pessoas indefesas. Como Complicação Maior, recusa-se a ferir deliberadamente seres vivos conscientes, embora possa se defender e recorrer a métodos não letais. O jogador e o Narrador devem definir a origem desse princípio, o que o personagem considera violência, quais exceções reconhece e como seus companheiros lidam com sua postura.
-
-**Resolução:** rever suas convicções depois de uma experiência decisiva, concluir o propósito que sustentava seu pacifismo ou encontrar uma nova forma de conciliar seus princípios com a realidade da campanha são algumas possibilidades. Ser obrigado a enfrentar uma situação violenta não remove automaticamente a Complicação. A resolução definitiva depende da ficção e deve ser definida em jogo pelo jogador e pelo Narrador.
 
 ## Peculiaridade
 
@@ -190,7 +166,7 @@ Esta é a lista de Complicações do núcleo. Todas seguem as regras de [Complic
 
 **Tipo:** Menor
 
-**Descrição:** a segurança ou o segredo do refúgio do personagem foi comprometido. Alguém conhece sua localização, possui uma forma de entrar ou sabe algo que pode ser usado contra seus ocupantes. O jogador e o Narrador devem definir quem comprometeu o refúgio, como isso aconteceu, quais informações ou acessos essa pessoa possui e o que pretende fazer com eles.
+**Descrição:** a segurança ou o segredo do refúgio do personagem foi comprometido. Esta Complicação não exige o Privilégio Refúgio: sem ele, refere-se ao lugar onde o personagem vive ou se abriga. Alguém conhece sua localização, possui uma forma de entrar ou sabe algo que pode ser usado contra seus ocupantes. O jogador e o Narrador devem definir quem comprometeu o refúgio, como isso aconteceu, quais informações ou acessos essa pessoa possui e o que pretende fazer com eles.
 
 **Resolução:** mudar de refúgio, alterar sua segurança, recuperar acessos roubados, negociar com quem conhece o local ou convencê-lo a guardar silêncio são algumas possibilidades. Eliminar uma ameaça conhecida pode não resolver o problema caso a informação já tenha sido compartilhada. A resolução definitiva depende da ficção e deve ser definida em jogo pelo jogador e pelo Narrador.
 
@@ -198,7 +174,7 @@ Esta é a lista de Complicações do núcleo. Todas seguem as regras de [Complic
 
 **Tipo:** Menor ou Maior
 
-**Descrição:** algo no refúgio provoca medo, desconforto ou desconfiança. Como Complicação Menor, sua aparência, história ou atmosfera afasta visitantes e torna encontros no local difíceis. Como Complicação Maior, uma presença, maldição ou manifestação sobrenatural habita o refúgio e pode agir em momentos importantes. O jogador e o Narrador devem definir a origem do aspecto sinistro, como ele se manifesta, quem conhece sua história e o que deseja qualquer presença ligada ao local.
+**Descrição:** algo no refúgio do personagem provoca medo, desconforto ou desconfiança. Esta Complicação não exige o Privilégio Refúgio: sem ele, refere-se ao lugar onde o personagem vive ou se abriga. Como Complicação Menor, sua aparência, história ou atmosfera afasta visitantes e torna encontros no local difíceis. Como Complicação Maior, uma presença, maldição ou manifestação sobrenatural habita o refúgio e pode agir em momentos importantes. O jogador e o Narrador devem definir a origem do aspecto sinistro, como ele se manifesta, quem conhece sua história e o que deseja qualquer presença ligada ao local.
 
 **Resolução:** restaurar o lugar, compreender sua história, desfazer uma maldição, apaziguar ou expulsar uma presença e abandonar o refúgio são algumas possibilidades. Resolver uma manifestação pode revelar outra causa por trás dela. A resolução definitiva depende da ficção e deve ser definida em jogo pelo jogador e pelo Narrador.
 
@@ -217,14 +193,6 @@ Esta é a lista de Complicações do núcleo. Todas seguem as regras de [Complic
 **Descrição:** o personagem insiste em fazer as coisas do próprio jeito e possui grande dificuldade para admitir que está errado. Essa postura pode prolongar discussões, impedir acordos ou levá-lo a sustentar uma decisão mesmo diante de suas consequências. O jogador e o Narrador devem definir em quais assuntos sua teimosia aparece com mais força, o que costuma fazê-lo insistir e quais relações são afetadas por esse comportamento.
 
 **Resolução:** reconhecer um erro importante, aprender a confiar no julgamento de outra pessoa ou enfrentar as consequências de sua insistência são algumas possibilidades. Uma mudança de valores ou de perspectiva também pode ajudá-lo a abandonar esse comportamento. A resolução definitiva depende da ficção e deve ser definida em jogo pelo jogador e pelo Narrador.
-
-## Voto
-
-**Tipo:** Menor ou Maior
-
-**Descrição:** o personagem assumiu um compromisso que influencia suas escolhas e pode colocá-lo em situações difíceis. Como Complicação Menor, o Voto possui objetivo ou alcance limitado e afeta uma parte específica de sua vida. Como Complicação Maior, é um compromisso central, duradouro e capaz de entrar em conflito com relações e objetivos importantes. O jogador e o Narrador devem definir o conteúdo do Voto, por que ele foi realizado, a quem ou a que está ligado e o que significa honrá-lo. O personagem pode possuir uma [Convicção](../Convic%C3%A7%C3%B5es%20e%20Pilares.md) diretamente relacionada ao Voto.
-
-**Resolução:** cumprir o compromisso, ser liberado por quem o recebeu, descobrir que ele perdeu seu propósito ou aceitar as consequências de rompê-lo são algumas possibilidades. Uma mudança de crença ou de circunstâncias também pode transformar o Voto em outra obrigação. A resolução definitiva depende da ficção e deve ser definida em jogo pelo jogador e pelo Narrador.
 
 ---
 

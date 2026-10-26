@@ -14,15 +14,13 @@ Nenhum Atributo pode passar de **4** durante a criação — o valor **5** só �
 
 As [Perícias](../Regras/Personagens/Per%C3%ADcias.md) variam de **0 a 5** (0 = sem treino). Cada Perícia possui um **Atributo vinculado**, utilizado normalmente para formar sua Reserva de Dados.
 
-O núcleo possui **22 Perícias**, incluindo **Acrobacia** e **Arremessar**. Comece com todas em **0** e escolha **um** dos três perfis:
+O núcleo possui **24 Perícias**, incluindo **Acrobacia**, **Arremessar**, **Conhecimento Geral** e **Consertar**. Comece com todas em **0** e escolha **um** dos três perfis:
 
 - **Generalista** — uma perícia em 3, seis em 2 e sete em 1.
 - **Equilibrado** — duas em 3, quatro em 2 e cinco em 1.
 - **Especialista** — uma em 4, duas em 3, duas em 2 e duas em 1.
 
 As perícias que não receberem pontos permanecem em **0**. O teto na criação também é **4**.
-
-A inclusão de Acrobacia e Arremessar não altera, por enquanto, a quantidade de pontos concedida por cada perfil. Essa distribuição deverá ser reavaliada depois dos testes de criação e jogo.
 
 ---
 

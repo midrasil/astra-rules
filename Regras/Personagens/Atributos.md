@@ -29,7 +29,7 @@ Capacidades também podem substituir Atributos em fórmulas fixas, como Vida, Vo
 
 Representa a potência física do personagem.
 
-É utilizada para levantar, carregar, empurrar, quebrar ou exercer força contra alguma coisa. Está vinculada a **Atletismo** e **Arremessar**, participa de Manobras físicas, determina a Carga e pode substituir Agilidade nos Ataques realizados com armas **Pesadas**.
+É utilizada para levantar, carregar, empurrar, quebrar ou exercer força contra alguma coisa. Está vinculada a **Atletismo** e **Arremessar**, participa de Manobras físicas, determina a Carga e substitui Agilidade nos Ataques realizados com armas **Pesadas**.
 
 ### Agilidade
 

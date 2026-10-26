@@ -36,9 +36,9 @@ Quando um jogador tentar realizar algo semelhante que não esteja contemplado po
 
 Nesse caso, o Narrador determina uma Reserva de Dados, a forma de resistência e as consequências de uma vitória, utilizando os Atributos vinculados e as Manobras existentes como referência. Se a mesma tentativa se tornar recorrente, ela deve receber uma fórmula fixa. A descrição narrativa não permite apenas trocar o Atributo de uma Perícia existente.
 
-### Lista de Manobras
+## Lista de Manobras
 
-## Reposicionar
+### Reposicionar
 
 Ao utilizar a Manobra **Reposicionar**, o personagem usa sua **Ação** para tentar deslocar outro personagem de sua posição atual.
 
@@ -60,7 +60,7 @@ O personagem só pode Reposicionar um alvo do **mesmo [Tamanho](../../Personagen
 
 Em caso de empate ou vitória do alvo, nada acontece.
 
-### Sem Dano
+#### Sem Dano
 
 **Reposicionar não causa dano.**
 
@@ -68,7 +68,7 @@ Independentemente da Margem obtida na rolagem, o resultado normal da Manobra é 
 
 Caso o objetivo principal seja ferir o adversário, deve ser utilizado um **Confronto** ou outra regra apropriada.
 
-### Obstáculos e Bordas
+#### Obstáculos e Bordas
 
 Reposicionar pode deslocar um personagem em direção a obstáculos, bordas ou outros elementos da Cena.
 
@@ -76,7 +76,7 @@ Se o deslocamento encontrar um obstáculo que impeça o movimento, ele é interr
 
 Caso o quadrado escolhido leve o alvo para fora de uma borda, plataforma ou posição semelhante, as consequências decorrentes da queda ou do ambiente são resolvidas normalmente.
 
-## Derrubar
+### Derrubar
 
 Ao utilizar a Manobra **Derrubar**, o personagem usa sua **Ação** para tentar colocar outro personagem no chão.
 
@@ -96,7 +96,7 @@ Em caso de empate ou vitória do alvo, nada acontece.
 
 **Derrubar não causa dano.** Seu efeito é apenas aplicar a condição **Caído** (ver [Caído](../../Condi%C3%A7%C3%B5es/Ca%C3%ADdo.md)).
 
-## Agarrar
+### Agarrar
 
 Ao utilizar a Manobra **Agarrar**, o personagem usa sua **Ação** para tentar imobilizar outro personagem.
 
@@ -116,7 +116,7 @@ Em caso de empate ou vitória do alvo, nada acontece.
 
 **Agarrar não causa dano.** Seu efeito é apenas aplicar a condição **Agarrado** (ver [Agarrado](../../Condi%C3%A7%C3%B5es/Agarrado.md)).
 
-## Desarmar
+### Desarmar
 
 Ao utilizar a Manobra **Desarmar**, o personagem usa sua **Ação** para tentar fazer com que outro personagem perca um equipamento que esteja empunhando.
 
@@ -140,7 +140,7 @@ Em caso de empate ou vitória do alvo, nada acontece.
 
 Pegar a arma do chão funciona como a ação de Trocar Equipamento.
 
-## Mirar
+### Mirar
 
 Ao utilizar a Manobra **Mirar**, o personagem usa sua **Ação** para preparar um Ataque à distância, concentrando-se no alvo antes de atacar.
 
@@ -158,7 +158,7 @@ Por exemplo, um personagem que utilizar Mirar durante dois Turnos acumula:
 
 O bônus acumulado é aplicado ao próximo Ataque à distância realizado pelo personagem, independentemente de utilizar Atirar, Arremessar ou outro Atributo estabelecido por uma regra.
 
-### Movimentação
+#### Movimentação
 
 Utilizar Mirar **não remove nem consome a Movimentação do personagem**.
 
@@ -166,7 +166,7 @@ Ele ainda possui sua Movimentação normalmente durante o Turno e pode se mover 
 
 Isso também se aplica caso o personagem seja deslocado involuntariamente.
 
-### Perdendo a Mira
+#### Perdendo a Mira
 
 Todo o bônus acumulado é perdido caso, antes de atacar, o personagem:
 

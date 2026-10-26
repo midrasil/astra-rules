@@ -14,7 +14,7 @@ As Resistências, Vulnerabilidades e Imunidades a Materiais são, por enquanto, 
 
 Ao sofrer dano, calcula-se a **absorção efetiva** considerando o [Tipo de Dano](../Equipamentos/Armas.md#tipos-de-dano) recebido e o Material da arma que o causou, quando houver:
 
-> **Absorção Efetiva** = [Absorção da armadura](../Equipamentos/Armaduras.md#absor%C3%A7%C3%A3o) + Σ [Resistências](Resist%C3%AAncia.md) ao Tipo e ao Material − Σ [Vulnerabilidades](Vulnerabilidade.md) ao Tipo e ao Material
+> **Absorção Efetiva** = [Absorção total](../Equipamentos/Armaduras.md#absor%C3%A7%C3%A3o) (Absorção base + Absorção das armaduras) + Σ [Resistências](Resist%C3%AAncia.md) ao Tipo e ao Material − Σ [Vulnerabilidades](Vulnerabilidade.md) ao Tipo e ao Material
 
 Os valores do Tipo e do Material são somados. Quando a fonte de dano não tem Material, apenas o Tipo de Dano é considerado.
 

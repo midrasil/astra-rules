@@ -15,6 +15,8 @@ A descrição da ação determina qual Perícia se aplica, mas não troca livrem
 | Atirar          | Agilidade          | Disparar armas de projétil, como arcos, bestas e armas de fogo.                               |
 | Atletismo       | Força              | Correr, saltar, escalar, nadar e realizar outras proezas de potência física.                  |
 | Cavalgar        | Agilidade          | Montar, conduzir e manter o controle sobre animais montados.                                  |
+| Conhecimento Geral | Astúcia            | Saber comum do mundo e da própria cultura: costumes, lugares, leis, figuras e notícias.       |
+| Consertar       | Astúcia            | Reparar, montar e desmontar mecanismos, equipamentos e estruturas.                            |
 | Curar           | Astúcia            | Tratar ferimentos, doenças e outras condições físicas.                                        |
 | Dirigir         | Agilidade          | Conduzir veículos terrestres motorizados.                                                     |
 | Empatia Animal  | Carisma            | Acalmar, adestrar, entender e criar laços com animais.                                        |
@@ -32,6 +34,12 @@ A descrição da ação determina qual Perícia se aplica, mas não troca livrem
 | Pilotar         | Agilidade          | Conduzir veículos aéreos e outros veículos complexos.                                         |
 | Prestidigitação | Agilidade          | Realizar manobras rápidas com as mãos: furtar, esconder objetos e executar truques.           |
 | Sobrevivência   | Astúcia            | Subsistir em ambientes hostis: caçar, rastrear, construir abrigo e encontrar recursos.        |
+
+## Conhecimento Específico
+
+**Conhecimento Geral** cobre o saber mediano do personagem sobre qualquer assunto. Para um domínio aprofundado de um tema, o personagem adquire um **Conhecimento Específico**: uma Perícia de assunto livre, como Medicina, Heráldica ou Folclore do Norte, sempre ligada a **Astúcia**.
+
+Cada Conhecimento Específico é uma Perícia separada, com Nível próprio, e segue as mesmas regras de distribuição e de custo das demais Perícias.
 
 ## Atributos vinculados e substituições
 
@@ -53,5 +61,3 @@ Esta lista representa o **núcleo padrão** do Astra, mas cada cenário é livre
 
 - Um cenário **medieval** não teria **Dirigir** nem **Pilotar**, pois esses veículos não existem. Em troca, poderia incluir Perícias próprias, como **Etiqueta** ou **Comando**.
 - Um cenário de **ficção científica** manteria **Pilotar** e poderia adicionar Perícias como **Hacking** ou **Engenharia**.
-
-Essa liberdade faz parte da filosofia modular do Astra: o núcleo fornece a base, e cada cenário ajusta as ferramentas de que precisa.

@@ -1,6 +1,6 @@
 A **Reserva de Dados** representa a quantidade de dados utilizados para resolver uma ação cujo resultado seja incerto.
 
-Quando um personagem tenta realizar algo que exige um teste, a regra utilizada ou o Narrador determina qual Atributo e, quando aplicável, qual Perícia são relevantes. Os valores dessas características são somados para formar a Reserva de Dados do teste.
+Quando um personagem tenta realizar algo que exige um teste, a regra utilizada ou o Narrador determina qual Perícia se aplica. A Perícia traz o seu Atributo vinculado, salvo quando uma regra determina uma substituição. Quando nenhuma Perícia se aplica, a regra ou o Narrador indica apenas o Atributo. Os valores dessas características são somados para formar a Reserva de Dados do teste.
 
 Quanto maior a Reserva de Dados, maiores são as chances do personagem obter um bom resultado.
 

@@ -1,123 +1,84 @@
 # Competências
 
-**Competências** representam conjuntos temáticos de técnicas, talentos e características que modificam aquilo que o personagem pode fazer e como ele interage com as regras.
+**Competências** representam formas desenvolvidas de agir, lutar, pensar ou interagir com o mundo. Cada uma possui identidade própria e uma progressão fixa, semelhante a uma classe modular.
 
-Cada Competência reúne diferentes **Capacidades**. A Competência estabelece a identidade geral do conjunto, enquanto cada Capacidade concede um efeito mecânico específico.
-
-Competências não são limitadas ao combate e não são divididas em categorias.
+Um personagem pode desenvolver várias Competências e combinar suas progressões livremente.
 
 ## Nível
 
 Toda Competência possui um **Nível de 0 a 5**.
 
-| Nível | Capacidades possuídas |
-|---:|---:|
-| **0** | Nenhuma; o personagem não possui a Competência. |
-| **1** | Uma Capacidade. |
-| **2** | Duas Capacidades. |
-| **3** | Três Capacidades. |
-| **4** | Quatro Capacidades. |
-| **5** | Cinco Capacidades. |
+- **Nível 0:** o personagem não possui a Competência;
+- **Níveis 1 a 5:** o personagem possui todas as Capacidades concedidas até aquele Nível.
 
-O personagem aumenta diretamente o Nível da Competência. Cada aumento concede imediatamente uma nova Capacidade daquela Competência. Por isso, seu Nível também corresponde à quantidade de Capacidades que o personagem possui nela.
+Cada aumento concede automaticamente a Capacidade ou o pequeno pacote de Capacidades definido para o novo Nível. Não existem escolhas em um catálogo nem uma compra separada para a Capacidade.
 
-Ao adquirir uma Competência, o personagem aumenta seu Nível de 0 para 1 e escolhe sua primeira Capacidade. Não existe uma compra separada para a Competência e outra para a Capacidade.
+Para alcançar um Nível, o personagem precisa possuir todos os Níveis anteriores da mesma Competência. Nenhuma Competência pode ultrapassar o Nível 5.
 
 ## Capacidades
 
-Capacidades podem modificar qualquer parte do sistema quando seu efeito assim determinar. Elas podem, entre outras possibilidades:
+Capacidades são os efeitos mecânicos concedidos pelos Níveis de uma Competência. Elas podem modificar qualquer parte do sistema quando sua descrição assim determinar, incluindo Reservas, Sucessos, Ações, Manobras, dano, movimento, alcance, recursos, características e fórmulas.
 
-- conceder novas ações ou reações;
-- permitir ações que normalmente não seriam possíveis;
-- modificar ações, Manobras e outras regras;
-- adicionar ou remover dados de uma Reserva;
-- transformar dados em sucessos sob determinadas condições;
-- modificar custos, limites, resultados ou consequências;
-- aumentar Vida, Vontade, Carga, Movimentação, Absorção ou outras características;
-- alterar fórmulas utilizadas pelo sistema;
-- conceder Resistências;
-- oferecer benefícios passivos ou condicionais;
-- representar técnicas, talentos, características físicas ou capacidades sobrenaturais.
+Uma Capacidade também pode substituir um Atributo, uma Perícia ou outra regra. Quando houver conflito, a regra mais específica da Capacidade prevalece dentro do contexto descrito por ela.
 
-O efeito de cada Capacidade deve ser aplicado conforme sua descrição.
+Escolhas podem fazer parte do funcionamento de uma Capacidade, mas não alteram a progressão fixa da Competência.
 
-## Nível das Capacidades
+## Mais de uma Competência
 
-Cada Capacidade possui um Nível de 1 a 5 que determina quando ela pode ser escolhida.
+O personagem pode possuir Níveis em várias Competências.
 
-Quando o personagem aumenta uma Competência, pode escolher uma Capacidade de Nível igual ou inferior ao **novo Nível da Competência**.
+Concentrar Níveis em uma única Competência recompensa a especialização e aproxima o personagem de seu Nível 5. Distribuir Níveis entre Competências amplia sua versatilidade e permite combinar diferentes estilos.
 
-| Nível anterior | Novo Nível | Capacidades disponíveis |
-|---:|---:|---|
-| 0 | 1 | Nível 1 |
-| 1 | 2 | Níveis 1 ou 2 |
-| 2 | 3 | Níveis 1, 2 ou 3 |
-| 3 | 4 | Níveis 1 a 4 |
-| 4 | 5 | Níveis 1 a 5 |
+## Nível Total de Competências
 
-O personagem não precisa escolher uma Capacidade do maior Nível disponível. Capacidades de Níveis inferiores continuam sendo opções válidas durante toda a progressão.
+O **Nível Total de Competências** é a soma dos Níveis que o personagem possui em todas as suas Competências.
 
-## Requisitos entre Capacidades
+> **Nível Total de Competências = soma dos Níveis de todas as Competências.**
 
-Por padrão, as Capacidades podem ser escolhidas livremente dentro dos limites de Nível.
-
-Uma Capacidade pode exigir outra Capacidade da mesma Competência quando sua descrição apresentar um **Requisito**. Nesse caso, o personagem precisa possuir a Capacidade indicada antes de adquirir a nova opção.
-
-Ao adquirir uma Competência no Nível 1, o personagem deve escolher uma Capacidade cujos requisitos já cumpra.
-
-## Maximização
-
-Uma Competência é considerada **maximizada** quando uma destas condições é atendida:
-
-1. o personagem alcança o Nível 5; ou
-2. o personagem adquire todas as Capacidades disponíveis naquela Competência, mesmo que ela possua menos de cinco.
-
-Uma Competência com oito Capacidades disponíveis é maximizada quando o personagem escolhe cinco delas. As demais não podem ser adquiridas por esse personagem.
-
-Uma Competência com apenas três Capacidades é maximizada no Nível 3 depois que todas forem adquiridas.
-
-O personagem não pode aumentar uma Competência que já esteja maximizada.
+Esse valor não é um Nível global do personagem. Ele existe para determinar o custo de aquisição de novos Níveis de Competência.
 
 ## Criação de personagem
 
-Durante a [[Criação de Personagem/5 - Competências|criação de personagem]], cada personagem recebe **3 Pontos de Competência**.
+Durante a [[Criação de Personagem/5 - Competências|criação de personagem]], cada personagem recebe **2 Pontos de Competência**.
 
-Cada ponto aumenta uma Competência em **1 Nível** e concede uma Capacidade apropriada ao novo Nível alcançado. Os pontos podem ser distribuídos entre diferentes Competências ou concentrados em uma mesma Competência, respeitando a maximização e os requisitos das Capacidades.
+Cada ponto aumenta uma Competência em 1 Nível e concede automaticamente o conteúdo daquele Nível. Os pontos podem ser utilizados para começar com:
+
+- Nível 2 em uma Competência; ou
+- Nível 1 em duas Competências diferentes.
 
 Pontos de Competência não utilizados não são convertidos em XP nem podem ser transferidos para Privilégios ou Complicações.
 
 ## Aquisição durante a campanha
 
-Durante a campanha, aumentar uma Competência custa **5 × o novo Nível em XP**.
+Para adquirir qualquer novo Nível de Competência, o personagem paga um custo baseado no **novo Nível Total de Competências**:
 
-| Aumento | Custo |
-|---|---:|
-| Nível 0 para 1 | 5 XP |
-| Nível 1 para 2 | 10 XP |
-| Nível 2 para 3 | 15 XP |
-| Nível 3 para 4 | 20 XP |
-| Nível 4 para 5 | 25 XP |
+> **Custo em XP = novo Nível Total de Competências × 2.**
 
-A Capacidade concedida pelo novo Nível faz parte desse custo e não exige um gasto adicional de XP.
+Depois do pagamento, o personagem aumenta em 1 o Nível de uma Competência que já possui ou adquire o Nível 1 de uma nova Competência. O conteúdo do novo Nível é recebido automaticamente e não exige outro gasto de XP.
+
+| Nível Total atual | Novo Nível Total | Custo |
+|---:|---:|---:|
+| 2 | 3 | 6 XP |
+| 3 | 4 | 8 XP |
+| 4 | 5 | 10 XP |
+| 5 | 6 | 12 XP |
+| 6 | 7 | 14 XP |
+
+Não existe um limite para o Nível Total de Competências. O aumento progressivo do custo em XP limita naturalmente a quantidade de Níveis acumulados.
 
 ## Formato de uma Competência
 
-Cada Competência utiliza o seguinte formato:
+Cada Competência apresenta:
 
-- **Nome**;
-- **Descrição** — apresenta a identidade da Competência;
-- **Capacidades** — apresenta as opções disponíveis.
+- nome e descrição de sua identidade;
+- uma progressão do Nível 1 ao Nível 5;
+- o nome e o efeito mecânico da Capacidade concedida em cada Nível.
 
-Cada Capacidade apresenta:
-
-- **Nome**;
-- **Nível** — determina quando pode ser escolhida;
-- **Requisito** — outra Capacidade necessária, quando houver;
-- **Descrição** — apresenta seu efeito mecânico.
+Um Nível pode conceder mais de um efeito quando todos fizerem parte do mesmo avanço.
 
 ## Lista de Competências
 
-- [Arqueiro](Arqueiro.md) — domínio de arcos, precisão, alcance, cadência de disparos, controle e técnicas de Mira.
+- [Atirador](Atirador.md) — preparação, conservação da Mira, precisão e disparos a distância com a Perícia Atirar.
 
 ---
 

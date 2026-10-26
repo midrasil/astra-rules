@@ -32,9 +32,9 @@ O núcleo está organizado em sete áreas principais:
 ## Criação de personagem
 
 - [Visão geral da criação de personagem](Cria%C3%A7%C3%A3o%20de%20Personagem/0%20-%20Cria%C3%A7%C3%A3o%20de%20Personagem.md)
-- [Identidade](Cria%C3%A7%C3%A3o%20de%20Personagem/1%20-%20Identidade.md) — Conceito, Ambição e Desejo.
+- [Identidade](Cria%C3%A7%C3%A3o%20de%20Personagem/1%20-%20Identidade.md) — Conceito, Ambição, Desejo e Convicções.
 - [Atributos e Perícias](Cria%C3%A7%C3%A3o%20de%20Personagem/2%20-%20Atributos%20e%20Per%C3%ADcias.md) — array fixo de Atributos e perfis de Perícias.
 - [Características Derivadas](Cria%C3%A7%C3%A3o%20de%20Personagem/3%20-%20Caracter%C3%ADsticas%20Derivadas.md) — Vida, Vontade, Iniciativa e Carga máxima.
 - [Privilégios e Complicações](Cria%C3%A7%C3%A3o%20de%20Personagem/4%20-%20Privilégios%20e%20Complica%C3%A7%C3%B5es.md) — 7 Pontos de Privilégio e 4 Pontos de Complicação.
-- [Competências](5%20-%20Competências.md) — 3 Pontos de Competência.
-- [Equipamento Inicial](6%20-%20Equipamento%20Inicial.md) — equipamento inicial definido pelo cenário.
+- [Competências](Cria%C3%A7%C3%A3o%20de%20Personagem/5%20-%20Compet%C3%AAncias.md) — 2 Pontos de Competência.
+- [Equipamento Inicial](Cria%C3%A7%C3%A3o%20de%20Personagem/6%20-%20Equipamento%20Inicial.md) — equipamento inicial definido pelo cenário.

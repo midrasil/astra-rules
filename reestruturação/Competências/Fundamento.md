@@ -1,161 +1,242 @@
-Este documento registra as decisões fundamentais para o novo sistema de **Competências**.
+# Fundamento das Competências
 
-As regras fundamentais foram aprovadas e incorporadas ao sistema oficial. Os antigos Trunfos foram removidos do sistema; alguns de seus conceitos podem retornar futuramente como Capacidades, mas não permanecem disponíveis enquanto isso.
+Este documento registra a nova direção estrutural do sistema de **Competências**.
 
-## Substituição dos Perfis
+> [!important] Estado da reestruturação
+> Esta direção substitui o modelo anterior baseado em catálogos de Capacidades escolhidas livremente. A estrutura geral, a criação, a progressão por XP e a Competência Atirador já foram incorporadas às regras oficiais. O primeiro ciclo continua com a criação das demais formas de combate baseadas em Atirar.
 
-O nome **Perfis** não será utilizado. O novo sistema será chamado de **Competências**.
+## Identidade
 
-Competências constituem um sistema próprio e não são categorias de Privilégios ou dos antigos Trunfos.
+Competências representam formas desenvolvidas de agir, lutar, pensar ou interagir com o mundo. Elas ocupam uma função semelhante à de **classes modulares**, mas nenhum personagem fica limitado a apenas uma delas.
 
-## Conceito
+Cada Competência possui uma identidade mecânica própria e uma progressão fixa de cinco Níveis. O personagem pode combinar níveis de diferentes Competências para construir seu estilo.
 
-Uma Competência reúne um conjunto temático de **Capacidades** relacionadas. A Competência apresenta a identidade geral do conjunto, enquanto cada Capacidade determina aquilo que o personagem efetivamente consegue fazer.
+Competências não são limitadas ao combate e não são divididas em categorias obrigatórias. Agrupamentos utilizados durante a criação do sistema servem apenas para organizar o trabalho.
 
-Competências não são limitadas ao combate. Elas podem reunir Capacidades relacionadas a qualquer aspecto do personagem ou das regras.
+## Relação com Perícias e equipamentos
 
-As Competências não serão divididas em categorias. Todas farão parte de uma única lista.
+Competências representam formas de utilizar uma ou mais **Perícias**, e não o domínio de uma arma específica quando a mesma técnica puder ser aplicada a todo o campo da Perícia.
 
-## Nível
+A Perícia estabelece o campo mecânico no qual a Competência funciona. O Atributo continua sendo determinado pela regra geral, pelo equipamento ou por uma substituição explícita. Armas e outros equipamentos determinam Dano, Alcance, Propriedades e demais características próprias.
 
-Toda Competência possui um **Nível entre 0 e 5**, mas esse Nível não funciona como o Nível dos Privilégios.
+Isso permite, por exemplo, que uma Competência baseada em **Atirar** funcione com arcos, bestas, armas de fogo e futuros equipamentos que utilizem essa Perícia. Diferentes Competências ainda podem utilizar a mesma Perícia quando representarem formas de jogo distintas.
 
-O personagem aumenta diretamente o Nível de uma Competência. Cada aumento concede imediatamente uma nova Capacidade daquela Competência. Por isso, seu Nível também corresponde à quantidade de Capacidades que o personagem possui nela.
+Uma Competência pode exigir um equipamento quando sua técnica depender dele, mas não deve ser limitada desnecessariamente a uma arma específica.
+## Progressão fixa
 
-- **Nível 0:** o personagem não possui a Competência nem qualquer Capacidade dela.
-- **Nível 1:** o personagem possui uma Capacidade da Competência.
-- Cada aumento de Nível concede uma nova Capacidade.
-- O Nível nunca pode ultrapassar 5.
+Toda Competência possui **cinco Níveis**.
 
-Ao adquirir uma Competência, o personagem aumenta seu Nível de 0 para 1 e escolhe imediatamente uma de suas Capacidades. Não existe uma aquisição separada para a Competência e outra para sua primeira Capacidade.
+Cada Nível concede automaticamente uma Capacidade ou um pequeno pacote de Capacidades complementares. O personagem não escolhe uma opção dentro de um catálogo: ao adquirir o Nível, recebe aquilo que está definido nele.
 
-Durante a campanha, o personagem gasta XP para aumentar o Nível da Competência. É esse aumento que concede acesso a uma nova Capacidade; Capacidades não são compradas separadamente.
+| Nível | Função na progressão |
+|---:|---|
+| **1 — Fundamento** | Estabelece a forma de jogo e sua mecânica principal. |
+| **2 — Desenvolvimento** | Torna o funcionamento básico mais confiável ou recorrente. |
+| **3 — Expansão** | Introduz uma nova aplicação para o estilo. |
+| **4 — Domínio** | Modifica de maneira significativa sua mecânica principal. |
+| **5 — Ápice** | Concede a expressão máxima daquela Competência. |
 
-## Maximização
-
-Uma Competência é considerada **maximizada** quando uma destas condições é atendida:
-
-1. o personagem possui cinco Capacidades da Competência e, portanto, alcançou o Nível 5; ou
-2. o personagem adquiriu todas as Capacidades disponíveis naquela Competência, mesmo que ela possua menos de cinco.
-
-Uma Competência com oito Capacidades disponíveis, por exemplo, é maximizada quando o personagem escolhe cinco delas. As três restantes não podem ser adquiridas por esse personagem.
-
-Uma Competência com apenas três Capacidades é maximizada no Nível 3 depois que todas forem adquiridas.
-
-O personagem não pode adquirir novas Capacidades de uma Competência que já esteja maximizada.
+A função de cada Nível é uma referência de criação, não uma limitação rígida. O importante é que a progressão apresente começo, desenvolvimento e culminação reconhecíveis.
 
 ## Capacidades
 
-As Capacidades são os elementos mecânicos das Competências. Elas possuem ampla liberdade para modificar o sistema, desde que seus efeitos sejam descritos com clareza.
+Capacidades são os efeitos mecânicos concedidos pelos Níveis de uma Competência.
 
-Uma Capacidade pode, entre outras possibilidades:
+Uma Capacidade pode:
 
-- conceder novas ações ou reações;
+- conceder novas Ações ou respostas;
 - permitir ações que normalmente não seriam possíveis;
-- modificar o funcionamento de ações, Manobras ou outras regras;
+- modificar Ações, Manobras e outras regras;
 - adicionar ou remover dados de uma Reserva;
-- transformar dados em sucessos quando determinadas condições forem atendidas;
+- garantir dados ou adicionar Sucessos;
 - modificar custos, limites, resultados ou consequências;
-- aumentar Vida, Vontade, Carga, Movimentação, Absorção ou outras características;
-- alterar fórmulas utilizadas pelo sistema;
+- alterar dano, Absorção, alcance, quantidade de alvos ou posicionamento;
+- aumentar ou modificar características;
+- substituir Atributos, Perícias ou fórmulas;
 - conceder Resistências;
-- oferecer benefícios passivos ou condicionais;
+- criar benefícios passivos ou condicionais;
 - representar técnicas, talentos, características físicas ou capacidades sobrenaturais.
 
-Essa lista não limita os efeitos possíveis. A função central das Capacidades é permitir modificações mecânicas específicas e novas formas de interagir com o sistema.
+Cada Nível deve possuir um **orçamento único de poder**. Um Nível pode conceder duas Capacidades quando elas forem partes complementares do mesmo avanço, mas não deve reunir duas recompensas completas apenas para preservar todo o conteúdo de uma versão anterior.
 
-## Relações entre Capacidades
+Capacidades antigas podem ser preservadas, reescritas, fundidas, divididas, deslocadas para outra Competência ou removidas. A migração não será realizada na proporção de uma Capacidade antiga para uma Capacidade nova.
 
-Capacidades não precisam formar sequências ou progressões obrigatórias. Por padrão, podem ser escolhidas livremente dentro da Competência.
+## Ausência de escolhas internas
 
-Entretanto, uma Capacidade pode exigir outra Capacidade quando existir uma relação clara entre elas. Por exemplo, uma Capacidade de **Contra-Ataque** poderia exigir **Aparar**.
+A progressão normal de uma Competência não utiliza:
 
-Essas relações são definidas individualmente e não precisam existir em todas as Competências. Ao adquirir uma Competência no Nível 1, o personagem deve escolher uma Capacidade cujas exigências já consiga cumprir.
+- listas de Capacidades opcionais;
+- Capacidades de Nível inferior escolhidas posteriormente;
+- requisitos entre Capacidades;
+- maximização antecipada por falta de opções.
+
+A própria ordem dos Níveis estabelece os requisitos. Para possuir o Nível 4 de uma Competência, o personagem necessariamente já possui os Níveis 1, 2 e 3 dela.
+
+Escolhas podem existir dentro do funcionamento de uma Capacidade — como selecionar um alvo, uma condição ou uma técnica durante o uso — sem transformar novamente a Competência em um catálogo de compras.
+
+## Mais de uma Competência
+
+Um personagem pode possuir níveis em várias Competências.
+
+Essa combinação exerce a função de multiclasse:
+
+- concentrar níveis em uma Competência produz especialização e aproxima o personagem de seu Ápice;
+- distribuir níveis entre Competências produz versatilidade e combina estilos diferentes;
+- nenhuma dessas formas recebe desconto de XP.
+
+Exemplos de personagens com o mesmo Nível Total de Competências:
+
+- Atirador 4;
+- Atirador 2 e Escaramuçador 2;
+- Atirador 1, Escaramuçador 1, Atirador de Guerra 1 e Atirador Tático 1.
+
+Todos possuem quatro Níveis de Competência no total, embora os tenham distribuído de maneiras diferentes.
+
+## Nível Total de Competências
+
+O **Nível Total de Competências** é a soma dos níveis que o personagem possui em todas as suas Competências.
+
+> **Nível Total de Competências = soma dos Níveis de todas as Competências.**
+
+Esse valor determina o custo para adquirir qualquer novo Nível de Competência. A progressão deixa de considerar apenas o Nível da Competência que está sendo aumentada.
+
+Assim, adquirir o primeiro Nível de uma nova Competência não constitui uma compra barata para um personagem experiente.
 
 ## Criação de personagem
 
-Durante a criação de personagem, cada personagem recebe **3 Pontos de Competência**.
+Durante a criação, cada personagem recebe **2 Pontos de Competência**.
 
-Cada ponto aumenta uma Competência em **1 Nível**. Todo Nível adquirido concede uma Capacidade apropriada ao novo Nível alcançado.
+Cada ponto aumenta uma Competência em 1 Nível e concede automaticamente o conteúdo daquele Nível. Os dois pontos podem ser distribuídos de duas formas principais:
 
-Não existe um custo separado para adquirir a Capacidade. Ela faz parte do aumento da Competência.
+- **especialista inicial:** Nível 2 em uma Competência;
+- **personagem híbrido:** Nível 1 em duas Competências.
 
-As regras de maximização e quaisquer exigências da Capacidade continuam sendo aplicadas durante a criação.
+Pontos de Competência não utilizados não são convertidos em XP nem transferidos para Privilégios ou Complicações.
+
+Os Níveis recebidos durante a criação também contam no Nível Total de Competências.
 
 ## Aquisição durante a campanha
 
-Durante a campanha, aumentar uma Competência custa **5 × o novo Nível em XP**.
+Para adquirir qualquer novo Nível de Competência, o personagem paga um custo baseado no **novo Nível Total de Competências**:
 
-| Aumento | Custo |
-|---|---:|
-| Nível 0 para 1 | 5 XP |
-| Nível 1 para 2 | 10 XP |
-| Nível 2 para 3 | 15 XP |
-| Nível 3 para 4 | 20 XP |
-| Nível 4 para 5 | 25 XP |
+> **Custo em XP = novo Nível Total de Competências × 2.**
 
-A Capacidade concedida pelo novo Nível faz parte desse custo e não exige um gasto adicional de XP. O personagem precisa escolher uma Capacidade disponível que respeite seu Nível e quaisquer requisitos próprios.
+Depois do pagamento, o personagem aumenta em 1 o Nível de uma Competência que já possui ou adquire o Nível 1 de uma nova Competência. Nenhuma Competência pode ultrapassar o Nível 5.
 
-## Níveis de Capacidade
+| Nível Total atual | Novo Nível Total | Custo |
+|---:|---:|---:|
+| 2 | 3 | 6 XP |
+| 3 | 4 | 8 XP |
+| 4 | 5 | 10 XP |
+| 5 | 6 | 12 XP |
+| 6 | 7 | 14 XP |
 
-Cada Capacidade possui um Nível que determina quando ela pode ser escolhida.
+O multiplicador de **2 XP** mantém cada novo Nível relevante dentro do ritmo padrão de 2 XP por sessão, enquanto o custo global impede a aquisição barata de várias Competências no Nível 1.
 
-Quando o personagem aumenta uma Competência, ele pode escolher uma Capacidade de Nível igual ou inferior ao **novo Nível da Competência**.
+### Consequência intencional
 
-| Nível anterior | Novo Nível | Capacidades disponíveis |
-|---:|---:|---|
-| 0 | 1 | Nível 1 |
-| 1 | 2 | Níveis 1 ou 2 |
-| 2 | 3 | Níveis 1, 2 ou 3 |
-| 3 | 4 | Níveis 1 a 4 |
-| 4 | 5 | Níveis 1 a 5 |
+Um personagem com Atirador 5 paga o mesmo para adquirir Escaramuçador 1 que outro personagem com Atirador 2 e Escaramuçador 3 paga para adquirir o próximo Nível.
 
-O personagem não precisa escolher uma Capacidade do maior Nível disponível. Capacidades de Níveis inferiores continuam sendo opções válidas durante toda a progressão.
+Especialização e variedade passam a disputar o mesmo recurso sem que a aquisição de vários Níveis 1 seja economicamente superior.
 
-## Estrutura
+## Diretrizes de criação
 
-Uma Competência seguirá esta estrutura geral:
+### O Nível 1 estabelece um estilo
 
-```md
-# Nome
+Uma Capacidade de Nível 1 deve ser interessante, mas não pode funcionar como um bônus universal desejável por qualquer personagem.
 
-**Descrição:** apresenta a identidade da Competência e o tipo de capacidades que ela reúne.
+Preferencialmente, ela deve introduzir uma forma própria de agir, possuir uma condição de uso, modificar uma ação específica ou escalar com os Níveis da própria Competência.
 
-## Capacidades
+O custo global impede aquisições baratas, mas não elimina a necessidade de controlar combinações excessivamente eficientes entre fundamentos diferentes.
 
-### Nome da Capacidade
+### Cada Competência precisa sustentar cinco Níveis
 
-**Nível:** valor de 1 a 5.
+Uma Competência não deve ser criada apenas porque existem duas ou três Capacidades tematicamente relacionadas.
 
-**Requisito:** outra Capacidade, quando houver.
+Antes de ser aceita, ela precisa sustentar:
 
-**Descrição:** apresenta o efeito mecânico da Capacidade.
-```
+- uma identidade distinta;
+- uma mecânica ou rotina de jogo própria;
+- cinco etapas de evolução relevantes;
+- um Ápice reconhecível;
+- espaço para combinação com outras Competências.
 
-O campo **Requisito** somente será utilizado nas Capacidades que dependerem de outra.
+Quando um conceito não sustentar essa progressão, ele deve ser incorporado a uma Competência mais ampla.
+
+### Progressão em vez de acúmulo
+
+Os Níveis não devem apenas repetir bônus crescentes sobre a mesma Reserva.
+
+Uma boa progressão pode alternar entre:
+
+- probabilidade;
+- resultado;
+- economia de Ações;
+- movimento e posicionamento;
+- alcance;
+- quantidade de alvos;
+- controle;
+- interação com recursos;
+- novas permissões mecânicas.
+
+O acúmulo de dados continua sendo parte central do sistema, conforme [[Acúmulo de Dados e Régua de Benefícios]], mas a Competência precisa desenvolver um estilo e não apenas aumentar números.
+
+### Profundidade e amplitude
+
+O Nível 5 deve ser suficientemente atraente para recompensar a especialização, sem tornar combinações entre Competências uma escolha inferior.
+
+Da mesma forma, os Níveis iniciais devem funcionar juntos quando suas condições forem compatíveis, mas não devem produzir ciclos automáticos ou multiplicações descontroladas.
+
+## Estrutura de uma Competência
+
+Cada Competência apresentará:
+
+- nome e descrição de sua identidade;
+- uma seção para cada Nível, do 1 ao 5;
+- o nome e a descrição mecânica da Capacidade concedida em cada Nível;
+- duas Capacidades na mesma seção somente quando forem partes complementares do mesmo avanço.
+
+A progressão não apresentará listas de opções nem campos de requisito entre suas Capacidades.
 
 ## Distinção dos Privilégios
 
-**Privilégios** representam aquilo que o personagem possui ou representa dentro do mundo, como relações, reconhecimento, posição social, propriedades e recursos.
+**Privilégios** representam aquilo que o personagem possui ou representa no mundo, como relações, reconhecimento, posição social, propriedades e recursos.
 
-**Competências** reúnem Capacidades que modificam mecanicamente aquilo que o personagem pode fazer e como ele interage com as regras.
+**Competências** representam formas desenvolvidas de agir e modificam mecanicamente aquilo que o personagem consegue fazer.
+
+Uma Competência não deve ser utilizada para reproduzir riqueza, influência, aliados ou outros elementos já pertencentes aos Privilégios.
+
+## Transição do modelo anterior
+
+A antiga Competência Arqueiro foi utilizada como primeiro material de migração. A nova [[Regras/Personagens/Competências/Atirador|Atirador]] já foi incorporada ao sistema oficial.
+
+O material restante será distribuído inicialmente entre outras três Competências:
+
+- Escaramuçador;
+- Atirador de Guerra;
+- Atirador Tático.
+
+A lista de trabalho e a ordem de criação estão registradas em [[Lista inicial de Competências]].
+
+Os arquivos oficiais de criação, avanço e Competências já utilizam o novo modelo. As demais Competências serão incorporadas individualmente depois de escritas e revisadas.
+
+## Decisões fechadas
+
+- Competências possuem cinco Níveis.
+- A progressão de cada Competência é fixa.
+- Cada Nível concede automaticamente uma Capacidade ou um pequeno pacote complementar.
+- Personagens podem possuir mais de uma Competência.
+- A criação concede 2 Pontos de Competência.
+- O custo de XP considera o novo Nível Total de Competências.
+- O multiplicador de XP das Competências é 2.
+- Capacidades não são compradas separadamente.
+- Competências continuam distintas de Privilégios e Complicações.
+- O acúmulo de bônus provenientes de fontes diferentes continua permitido.
 
 ## Decisões pendentes
 
-Ainda precisam ser definidos:
-
-- a lista de Competências do sistema;
-- quais conceitos do material histórico merecem retornar como Capacidades.
-
-Permanecem como decisões fechadas:
-
-- os pontos iniciais de Perícia não serão alterados;
-- a Esquiva permanece em **Agilidade + Acrobacia**, sem uma Capacidade geral de **Evasão Explosiva**;
-- a distribuição atual de Perícias e funções entre os seis Atributos será mantida;
-- Maestrias de arma não constituem mais um subsistema; efeitos próprios das armas serão Propriedades Especiais;
-- as antigas Maestrias foram convertidas ou encaminhadas, e as Propriedades Especiais foram distribuídas no catálogo de armas;
-- testes de jogo e a sincronização com o Foundry serão realizados posteriormente.
-
-## Material para análise
-
-- [Trunfos não convertidos em Privilégios](Trunfos%20n%C3%A3o%20convertidos%20em%20Privil%C3%A9gios.md)
+- texto final das três progressões restantes derivadas do Arqueiro;
+- lista completa de Competências do sistema;
+- destino dos conceitos mantidos em [[Trunfos não convertidos em Privilégios]];
+- testes de progressão especializada e multiclasse;
+- sincronização posterior com o Foundry VTT.

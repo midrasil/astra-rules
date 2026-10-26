@@ -1,5 +1,7 @@
 Esta é a lista de Privilégios do núcleo. Todos seguem as [regras de Privilégios](Privil%C3%A9gios.md).
 
+Nesta lista, um **teste social** é qualquer teste cuja Reserva utilize [Carisma](../Atributos.md#carisma).
+
 ## Aliado
 
 **Descrição:** o personagem possui uma relação próxima com um NPC disposto a ajudá-lo. No Nível 1, o Aliado é uma pessoa competente com alcance limitado. Nos Níveis 2 e 3, possui experiência, relações ou recursos cada vez mais relevantes. Nos Níveis 4 e 5, é uma figura poderosa, excepcional ou capaz de influenciar acontecimentos de grande alcance. O jogador e o Narrador devem definir quem é o Aliado, como a relação surgiu, por que ele ajuda o personagem, quais recursos possui e quais são seus limites.
@@ -22,7 +24,7 @@ O Aliado pode ser localizado e mobilizado com facilidade. Quando as circunstânc
 
 #### Atraente
 
-O personagem adiciona **2 dados** às Reservas Sociais nas quais sua aparência funciona a seu favor.
+O personagem adiciona **2 dados** aos testes sociais nos quais sua aparência funciona a seu favor.
 
 #### Rosto Famoso
 
@@ -34,7 +36,7 @@ O personagem aparenta ser inocente e irrepreensível. A critério do Narrador, a
 
 #### Característica Marcante
 
-O personagem possui uma característica rara e memorável, como uma cor incomum dos olhos ou uma compleição singular. Adiciona **2 dados** às interações sociais com desconhecidos, mas sofre uma penalidade de **1 dado** ao tentar se disfarçar.
+O personagem possui uma característica rara e memorável, como uma cor incomum dos olhos ou uma compleição singular. Adiciona **2 dados** aos testes sociais com desconhecidos, mas sofre uma penalidade de **1 dado** ao tentar se disfarçar.
 
 ## Contatos
 

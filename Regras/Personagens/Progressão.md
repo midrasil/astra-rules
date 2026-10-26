@@ -48,7 +48,7 @@ Se uma Capacidade substituiu o Atributo de uma fórmula, o valor passa a acompan
 | Aumentar uma **Perícia** | novo nível × 3 XP |
 | Adquirir ou aumentar um **Privilégio** | 3 XP por nível |
 | Adquirir uma **Especialização de Privilégio** | 3 XP |
-| Adquirir ou aumentar uma **Competência** | novo nível × 5 XP |
+| Adquirir ou aumentar uma **Competência** | novo Nível Total de Competências × 2 XP |
 | Outras capacidades | determinado pela regra, cenário ou módulo |
 
 ### Exemplos
@@ -61,8 +61,9 @@ Se uma Capacidade substituiu o Atributo de uma fórmula, o valor passa a acompan
 - Adquirir `Fama 1` custa **3 XP**.
 - Aumentar `Fama 2` para `Fama 3` custa **3 XP**.
 - Adquirir uma Especialização de Privilégio custa **3 XP**.
-- Adquirir uma Competência no Nível 1 custa **5 XP** e concede sua primeira Capacidade.
-- Aumentar uma Competência do Nível 2 para o Nível 3 custa **15 XP** e concede uma nova Capacidade.
+- Um personagem com Nível Total de Competências 2 paga **6 XP** para adquirir seu terceiro Nível de Competência.
+- Um personagem com Atirador 2 paga **6 XP** para aumentar Atirador para o Nível 3.
+- Um personagem com Atirador 1 e outra Competência no Nível 1 também paga **6 XP** para adquirir o Nível 1 de uma terceira Competência.
 
 ## Adquirindo e aumentando Privilégios
 
@@ -72,9 +73,11 @@ Cada Especialização de Privilégio também custa **3 XP**. Aumentar o Nível n
 
 ## Adquirindo e aumentando Competências
 
-Adquirir ou aumentar uma [Competência](Compet%C3%AAncias/Compet%C3%AAncias.md) custa **5 × o novo Nível em XP**.
+O **Nível Total de Competências** é a soma dos Níveis que o personagem possui em todas as suas Competências. Esse valor não é um Nível global do personagem; ele é utilizado para calcular o custo dessa progressão.
 
-Cada aumento concede uma nova Capacidade da Competência. A Capacidade faz parte do custo do Nível e precisa respeitar o limite de Nível e quaisquer requisitos descritos em sua entrada.
+Adquirir ou aumentar uma [Competência](Compet%C3%AAncias/Compet%C3%AAncias.md) custa **2 × o novo Nível Total de Competências em XP**.
+
+Depois do pagamento, o personagem aumenta em 1 o Nível de uma Competência que já possui ou adquire o Nível 1 de uma nova Competência. Cada aumento concede automaticamente o conteúdo definido para o novo Nível. Nenhuma Competência pode ultrapassar o Nível 5, mas não existe um limite para o Nível Total de Competências.
 
 ## Desenvolvimento do Personagem
 
