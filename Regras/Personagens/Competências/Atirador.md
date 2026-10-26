@@ -1,5 +1,3 @@
-# Atirador
-
 Atirador representa o personagem que prepara seus disparos, conserva a Mira e supera distância ou proteção para atingir um alvo com precisão.
 
 A Competência não é limitada a arcos. Suas Capacidades funcionam com qualquer arma ou equipamento cujo Ataque utilize a **Perícia Atirar**, como arcos, bestas e armas de fogo.
@@ -22,7 +20,7 @@ Durante seu Turno, antes de realizar um Ataque com a Perícia Atirar, caso ainda
 - recebe +1 dado na Reserva de Ataques realizados com Atirar;
 - não pode se movimentar até o final do Turno.
 
-Ao assumir a Postura, você também pode sofrer 1 ponto de dano superficial de Vontade para converter 1 dado da Reserva do próximo Ataque com Atirar realizado nesse Turno em 1 Sucesso automático. Esse dado não é rolado.
+Ao assumir a Postura, você também pode sofrer 1 ponto de dano superficial de Vontade para tornar 1 dado da Reserva do próximo Ataque com Atirar realizado nesse Turno um **dado garantido**: ele não é rolado e conta como 1 Sucesso. Com a trilha de Vontade cheia, esse custo pode ser pago ao [Romper Limite](../Vontade.md#romper-limite).
 
 ## Nível 2 — Mira Estável
 
@@ -30,20 +28,20 @@ Enquanto possuir ao menos 1 acúmulo de Mirando destinado a um Ataque com a Per�
 
 Ser deslocado à força ainda provoca a perda normal dos acúmulos de Mirando.
 
-Além disso, ao realizar um Ataque com Atirar, você ignora a primeira penalidade de −2 dados provocada por atacar além do alcance normal da arma, mesmo que não esteja Mirando.
+Além disso, ao realizar um Ataque com Atirar, você ignora a primeira penalidade de -2 dados provocada por atacar além do alcance normal da arma, mesmo que não esteja Mirando.
 
 ## Nível 3 — Foco Imperturbável
 
 No começo do seu Turno, caso não possua nenhum acúmulo de Mirando, você recebe 1 acúmulo de Mirando sem gastar sua Ação.
 
-Além disso, ser atacado ou deslocado à força não faz com que você perca seus acúmulos de Mirando. Você ainda os perde caso receba dano ou outra condição normal para perder a Mira aconteça.
+Além disso, ser deslocado à força não faz com que você perca seus acúmulos de Mirando. Você ainda os perde caso sofra dano ou outra condição normal para perder a Mira aconteça.
 
 ## Nível 4 — Postura de Tiro Aprimorada
 
 Você aprimorou sua Postura de Tiro. A partir de agora, pode assumir essa Postura mesmo que já tenha se movimentado durante seu Turno. Além disso, recebe os seguintes benefícios:
 
 - pode se movimentar livremente enquanto estiver na Postura de Tiro;
-- ao assumir a Postura, pode sofrer uma quantidade de dano superficial de Vontade limitada pelo seu Nível de Atirador, em vez de apenas 1 ponto. Para cada ponto sofrido, converte 1 dado da Reserva do próximo Ataque com Atirar realizado nesse Turno em 1 Sucesso automático. Esses dados não são rolados.
+- ao assumir a Postura, pode sofrer uma quantidade de dano superficial de Vontade limitada pelo seu Nível de Atirador, em vez de apenas 1 ponto. Para cada ponto sofrido, torna 1 dado da Reserva do próximo Ataque com Atirar realizado nesse Turno um dado garantido. Esses dados não são rolados e cada um conta como 1 Sucesso. Com a trilha cheia, cada ponto pode ser pago ao Romper Limite.
 
 A liberdade de movimento da Postura de Tiro não altera Mira Estável. Caso percorra mais da metade da sua Movimentação durante o Turno, você perde normalmente seus acúmulos de Mirando.
 

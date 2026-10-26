@@ -1,7 +1,7 @@
-
 **Complicações** são problemas narrativos associados ao personagem. Elas criam pessoas, situações e consequências que podem interferir em sua história, sem aplicar penalidades ou modificadores mecânicos.
 
 Uma Complicação pode representar um inimigo, uma perseguição, uma obrigação, um segredo, uma reputação problemática, uma relação difícil ou outra situação duradoura capaz de trazer problemas para o personagem.
+
 ## Natureza narrativa
 
 Complicações criam situações na história, em vez de tornar o personagem numericamente pior. Elas não podem:
@@ -28,12 +28,15 @@ Ao pagar o custo, o personagem resiste à Complicação naquele momento. Com a t
 Se o personagem não pagar o custo, a Complicação se manifesta de maneira coerente com a situação. O Narrador determina a consequência imediata da Complicação, mas não assume o controle geral do personagem além do comportamento colocado à prova.
 
 Por exemplo, se um personagem com **Boca Grande** for capturado e pressionado a revelar uma informação, ele pode sofrer 1 ponto de dano superficial de Vontade para permanecer calado. Se não pagar, deixa escapar alguma informação relevante.
+
 ## Tipos
 
 Uma Complicação pode ser **Menor** ou **Maior**. A diferença é determinada pelo alcance e pela importância narrativa.
+
 ### Menor
 
 Uma Complicação Menor possui alcance limitado, aparece ocasionalmente e costuma envolver uma pessoa, grupo pequeno ou local específico. Suas consequências são administráveis e normalmente complicam uma cena, relação ou objetivo secundário.
+
 ### Maior
 
 Uma Complicação Maior possui alcance amplo ou presença recorrente. Pode envolver uma organização, região ou ameaça poderosa, colocar aliados e objetivos importantes em risco e sustentar um arco da campanha.
@@ -45,6 +48,7 @@ Cada entrada da [Lista de Complicações](Lista%20de%20Complica%C3%A7%C3%B5es.md
 - **Menor:** existe apenas como Complicação Menor;
 - **Maior:** existe apenas como Complicação Maior;
 - **Menor ou Maior:** o jogador escolhe um dos dois tipos quando adquire a Complicação.
+
 ## Criação de personagem
 
 Durante a [criação de personagem](../../../Cria%C3%A7%C3%A3o%20de%20Personagem/4%20-%20Privil%C3%A9gios%20e%20Complica%C3%A7%C3%B5es.md), cada personagem deve adquirir exatamente **4 Pontos de Complicação**.
@@ -53,6 +57,7 @@ Durante a [criação de personagem](../../../Cria%C3%A7%C3%A3o%20de%20Personagem
 |---|---:|
 | **Menor** | 1 Ponto de Complicação |
 | **Maior** | 2 Pontos de Complicação |
+
 ## Personalização
 
 Cada Complicação apresenta um conceito geral que deve ser personalizado para o personagem. Ao adquiri-la, o jogador e o Narrador definem juntos os elementos necessários para que ela exista concretamente na campanha.
@@ -68,9 +73,11 @@ Conforme a Complicação, isso pode incluir:
 - exemplos de como pode aparecer durante o jogo.
 
 Esses elementos devem ser compatíveis com o tipo adquirido e registrados junto à Complicação. Eles podem ser ampliados ou alterados conforme novas informações surgirem durante a campanha.
+
 ## Aquisição durante a campanha
 
 Quando os acontecimentos da história produzirem uma nova situação problemática duradoura, o Narrador pode atribuir uma Complicação ao personagem.
+
 ## Transformação e resolução
 
 Complicações não são removidas mediante gasto de XP, pontos ou outros recursos abstratos. Elas podem ser reduzidas, transformadas ou removidas quando a situação que representam se altera na história.

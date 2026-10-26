@@ -4,12 +4,12 @@ No cálculo da [Absorção Efetiva](Resist%C3%AAncia%20e%20Vulnerabilidade.md#ab
 
 Por enquanto, Vulnerabilidades a Materiais são definidas diretamente nos personagens e criaturas.
 
-Quando a absorção efetiva é **negativa**:
+Quando a Absorção Efetiva é **negativa**:
 
 - o valor negativo é somado ao dano recebido (em módulo);
 - todo o dano é então **agravado** — nenhuma conversão é possível, mesmo que o dano recebido seria superficial originalmente.
 
-Por exemplo, um personagem com **Absorção 2** e **Vulnerabilidade a Fogo 3** tem absorção efetiva −1 contra Fogo; um dano de **1 de Fogo** torna-se **2 de dano agravado**.
+Por exemplo, um personagem com **Absorção 2** e **Vulnerabilidade a Fogo 3** tem Absorção Efetiva -1 contra Fogo; um dano de **1 de Fogo** torna-se **2 de dano agravado**.
 
 ---
 

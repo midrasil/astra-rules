@@ -11,3 +11,7 @@ Correr é uma Ação automática e não exige nenhum teste.
 O personagem não precisa utilizar sua Movimentação antes de escolher Correr. Ao realizar essa Ação, os quadrados adicionais são simplesmente acrescentados à quantidade de Movimentação disponível no Turno.
 
 Personagens com uma Movimentação base diferente de 6 recebem um bônus equivalente à sua própria Movimentação base. Um personagem com Movimentação base de 8 quadrados, por exemplo, recebe **+8 quadrados** ao Correr, podendo percorrer até **16 quadrados**.
+
+---
+
+← [Voltar para Movimento](Movimento.md)

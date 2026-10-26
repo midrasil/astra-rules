@@ -1,12 +1,12 @@
 Uma **Cena** é uma unidade de jogo, seja ela narrativa ou tática.
 
-Uma **Cena Tática** é uma Cena dividida em Rodadas e Turnos. Ela começa quando um conflito passa a exigir uma resolução estruturada em turnos e dura até o momento em que o conflito é encerrado, seja pela derrota de um dos lados, fuga, rendição, mudança das circunstâncias ou qualquer outro desfecho determinado pela narrativa.
+Uma **Cena Tática** é uma Cena dividida em Rodadas e Turnos. Ela começa quando um conflito passa a exigir uma resolução estruturada em Turnos e dura até o momento em que o conflito é encerrado, seja pela derrota de um dos lados, fuga, rendição, mudança das circunstâncias ou qualquer outro desfecho determinado pela narrativa.
 
 Dentro da Cena Tática, o tempo é dividido em Rodadas.
 
 ## Rodadas e Turnos
 
-Uma **Rodada** representa um ciclo completo da cena, no qual cada participante possui a oportunidade de agir.
+Uma **Rodada** representa um ciclo completo da Cena, no qual cada participante possui a oportunidade de agir.
 
 Dentro de cada Rodada, os participantes realizam seus **Turnos** de acordo com a ordem determinada pela Iniciativa.
 
@@ -18,7 +18,7 @@ Depois que todos os participantes tiverem realizado seus Turnos, uma nova Rodada
 
 A **Iniciativa** determina a ordem em que os participantes realizam seus Turnos durante a cena.
 
-No início da cena, cada participante rola uma [Reserva de Dados](../Mec%C3%A2nica%20B%C3%A1sica/Reserva%20de%20Dados.md) formada por **Astúcia** e **Determinação** e conta os Sucessos normalmente.
+No início da Cena, cada participante rola uma [Reserva de Dados](../Mec%C3%A2nica%20B%C3%A1sica/Reserva%20de%20Dados.md) formada por **Astúcia** e **Determinação** e conta os Sucessos normalmente.
 
 > **Astúcia + Determinação = Reserva de Iniciativa**
 
@@ -60,6 +60,10 @@ Em uma Cena Tática, o jogo passa a utilizar regras mais precisas para represent
 
 Essa mudança não precisa acontecer apenas em combates. Perseguições, fugas, infiltrações sob pressão, desabamentos, armadilhas ou qualquer outra situação em que a ordem, o tempo e o posicionamento sejam relevantes também podem utilizar uma estrutura tática.
 
-Da mesma forma, nem todo conflito precisa ser tratado dessa maneira. Um confronto rápido, uma travessia sem risco ou uma ação cuja posição exata não seja importante pode continuar sendo resolvido de forma narrativa, utilizando testes e decisões sem dividir a Cena em turnos.
+Da mesma forma, nem todo conflito precisa ser tratado dessa maneira. Um confronto rápido, uma travessia sem risco ou uma ação cuja posição exata não seja importante pode continuar sendo resolvido de forma narrativa, utilizando testes e decisões sem dividir a Cena em Turnos.
 
 O objetivo dessa distinção é permitir que o Astra utilize precisão quando ela realmente acrescenta algo à Cena, sem transformar todas as situações em uma sequência rígida de ações, deslocamentos e medições.
+
+---
+
+← [Voltar para Cenas e Conflitos](Cenas%20e%20Conflitos.md)

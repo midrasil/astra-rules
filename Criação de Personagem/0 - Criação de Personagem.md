@@ -2,7 +2,7 @@
 
 As etapas são feitas em ordem, mas você pode voltar e ajustar escolhas anteriores enquanto o conceito do personagem se firma.
 
-## Subsessões
+## Subseções
 
 - [Identidade](1%20-%20Identidade.md) — Conceito, Ambição, Desejo e Convicções.
 - [Atributos e Perícias](2%20-%20Atributos%20e%20Per%C3%ADcias.md) — Atributos (array fixo) e Perícias (perfis).

@@ -4,17 +4,15 @@ As Condições são aplicadas por Ações, Manobras, Capacidades ou outras regra
 
 ## Condições
 
-- [Caído](Ca%C3%ADdo.md) — no chão; penaliza as próprias rolagens e altera ataques feitos contra ele.
+- [Caído](Ca%C3%ADdo.md) — no chão; penaliza as próprias rolagens e altera Ataques feitos contra ele.
 - [Agarrado](Agarrado.md) — imobilizado por outro personagem; sem movimentação.
 - [Debilitado](Debilitado.md) — trilha de Vida cheia.
 - [Lento](Lento.md) — Movimentação reduzida até o próximo Turno de quem aplicou.
 - [Abalado](Abalado.md) — penalidade no próximo Ataque.
-- [Embalo](Embalo.md) — bônus acumulado nos Ataques contra o mesmo alvo.
 - [Envenenado](Envenenado.md) — penalidade em rolagens Físicas.
 - [Paralisado](Paralisado.md) — sem Ação nem Movimentação.
 - [Atordoado](Atordoado.md) — sem Ação.
 - [Medo](Medo.md) — penalidade acumulável em todas as Reservas.
-- [Fúria](F%C3%BAria.md) — só em combate; ataca com mais força e se defende pior.
 - [Mirando](Mirando.md) — acumula o bônus da Manobra Mirar para o próximo Ataque à distância.
 
 ## Relações

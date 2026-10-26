@@ -19,7 +19,7 @@ Uma criatura só pode **mover outra criatura do mesmo Tamanho ou menor**.
 
 Isso vale para toda regra que desloca um personagem contra a vontade dele, como a Manobra [Reposicionar](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Manobras.md#reposicionar) ou arrastar um alvo [Agarrado](../Condi%C3%A7%C3%B5es/Agarrado.md). Uma criatura menor ainda pode tentar Derrubar, Agarrar ou Desarmar uma maior, mas não consegue tirá-la do lugar.
 
-## Tamanho no ataque
+## Tamanho no Ataque
 
 Atacar um alvo muito maior é mais fácil, e atacar um alvo muito menor é mais difícil. Conte a diferença de categorias entre o atacante e o alvo:
 
@@ -35,4 +35,4 @@ Cenários e módulos podem definir regras adicionais para o Tamanho.
 
 ---
 
-← [Voltar a Personagens](Personagens.md)
+← [Voltar para Personagens](Personagens.md)

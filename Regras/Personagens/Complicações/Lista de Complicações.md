@@ -1,5 +1,3 @@
-# Lista de Complicações
-
 Esta é a lista de Complicações do núcleo. Todas seguem as regras de [Complicações](Complica%C3%A7%C3%B5es.md) e produzem apenas consequências narrativas.
 
 ## Admiradores Obsessivos
@@ -54,7 +52,7 @@ Esta é a lista de Complicações do núcleo. Todas seguem as regras de [Complic
 
 **Tipo:** Menor
 
-**Descrição:** o personagem tem dificuldade para guardar segredos e costuma revelar informações que deveriam permanecer reservadas, especialmente quando está empolgado, irritado ou tentando impressionar alguém. Quando ele for pressionado a permanecer calado, o Narrador pode exigir um teste de Determinação para resistir, com Dificuldade definida pela situação. Em caso de falha, o personagem deixa escapar alguma informação relevante. O jogador e o Narrador devem definir que tipo de informação ele costuma revelar, quem conhece esse comportamento e quais relações ou responsabilidades podem ser prejudicadas por ele.
+**Descrição:** o personagem tem dificuldade para guardar segredos e costuma revelar informações que deveriam permanecer reservadas, especialmente quando está empolgado, irritado ou tentando impressionar alguém. Quando ele for pressionado a permanecer calado, pode resistir sofrendo 1 ponto de dano superficial de Vontade, como em toda [Complicação comportamental](Complica%C3%A7%C3%B5es.md#complica%C3%A7%C3%B5es-comportamentais). Se não pagar, deixa escapar alguma informação relevante. O jogador e o Narrador devem definir que tipo de informação ele costuma revelar, quem conhece esse comportamento e quais relações ou responsabilidades podem ser prejudicadas por ele.
 
 **Resolução:** aprender a agir com discrição, assumir um compromisso sério de silêncio ou mudar depois de enfrentar as consequências de uma revelação são algumas possibilidades. A confiança conquistada ou perdida durante a campanha também pode transformar a Complicação. A resolução definitiva depende da ficção e deve ser definida em jogo pelo jogador e pelo Narrador.
 

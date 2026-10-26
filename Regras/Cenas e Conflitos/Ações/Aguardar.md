@@ -129,3 +129,7 @@ Antes que o Guarda continue seu Turno, Amara realiza o Confronto preparado.
 Depois que o Confronto é resolvido, o Guarda continua seu Turno normalmente, caso ainda possa fazê-lo.
 
 Na Rodada seguinte, Amara continua ocupando sua posição original na Iniciativa.
+
+---
+
+← [Voltar para Ação](../A%C3%A7%C3%A3o.md)

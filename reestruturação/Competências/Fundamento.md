@@ -119,19 +119,19 @@ Os Níveis recebidos durante a criação também contam no Nível Total de Compe
 
 Para adquirir qualquer novo Nível de Competência, o personagem paga um custo baseado no **novo Nível Total de Competências**:
 
-> **Custo em XP = novo Nível Total de Competências × 2.**
+> **Custo em XP = novo Nível Total de Competências × 3.**
 
 Depois do pagamento, o personagem aumenta em 1 o Nível de uma Competência que já possui ou adquire o Nível 1 de uma nova Competência. Nenhuma Competência pode ultrapassar o Nível 5.
 
 | Nível Total atual | Novo Nível Total | Custo |
 |---:|---:|---:|
-| 2 | 3 | 6 XP |
-| 3 | 4 | 8 XP |
-| 4 | 5 | 10 XP |
-| 5 | 6 | 12 XP |
-| 6 | 7 | 14 XP |
+| 2 | 3 | 9 XP |
+| 3 | 4 | 12 XP |
+| 4 | 5 | 15 XP |
+| 5 | 6 | 18 XP |
+| 6 | 7 | 21 XP |
 
-O multiplicador de **2 XP** mantém cada novo Nível relevante dentro do ritmo padrão de 2 XP por sessão, enquanto o custo global impede a aquisição barata de várias Competências no Nível 1.
+O multiplicador de **3 XP** faz cada novo Nível exigir algumas sessões de XP no ritmo padrão de 2 XP por sessão, enquanto o custo global impede a aquisição barata de várias Competências no Nível 1.
 
 ### Consequência intencional
 
@@ -228,7 +228,7 @@ Os arquivos oficiais de criação, avanço e Competências já utilizam o novo m
 - Personagens podem possuir mais de uma Competência.
 - A criação concede 2 Pontos de Competência.
 - O custo de XP considera o novo Nível Total de Competências.
-- O multiplicador de XP das Competências é 2.
+- O multiplicador de XP das Competências é 3.
 - Capacidades não são compradas separadamente.
 - Competências continuam distintas de Privilégios e Complicações.
 - O acúmulo de bônus provenientes de fontes diferentes continua permitido.

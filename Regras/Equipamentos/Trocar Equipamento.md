@@ -28,3 +28,9 @@ A primeira utilização de um equipamento não é considerada uma troca.
 O custo de uma Ação passa a existir quando o personagem precisa substituir equipamentos que já estavam em uso.
 
 Pegar um equipamento com uma **mão livre** também é sacar, mesmo que o personagem já tenha outro equipamento em uso. Por exemplo, um personagem com uma espada em uma mão pode sacar uma adaga com a outra sem utilizar Trocar Equipamento.
+
+Pegar um equipamento do **chão** não é sacar: exige a Ação Trocar Equipamento, mesmo com uma mão livre. Isso inclui recuperar uma arma perdida por [Desarmar](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Manobras.md#desarmar).
+
+---
+
+← [Voltar para Equipamentos](Equipamentos.md)

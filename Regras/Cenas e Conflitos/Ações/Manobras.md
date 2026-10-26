@@ -94,7 +94,7 @@ Se o personagem que iniciou a Manobra obtiver mais Sucessos, o alvo recebe a con
 
 Em caso de empate ou vitória do alvo, nada acontece.
 
-**Derrubar não causa dano.** Seu efeito é apenas aplicar a condição **Caído** (ver [Caído](../../Condi%C3%A7%C3%B5es/Ca%C3%ADdo.md)).
+**Derrubar não causa dano.** Seu efeito é apenas aplicar a Condição **Caído** (ver [Caído](../../Condi%C3%A7%C3%B5es/Ca%C3%ADdo.md)).
 
 ### Agarrar
 
@@ -114,7 +114,7 @@ Se o personagem que iniciou a Manobra obtiver mais Sucessos, o alvo recebe a con
 
 Em caso de empate ou vitória do alvo, nada acontece.
 
-**Agarrar não causa dano.** Seu efeito é apenas aplicar a condição **Agarrado** (ver [Agarrado](../../Condi%C3%A7%C3%B5es/Agarrado.md)).
+**Agarrar não causa dano.** Seu efeito é apenas aplicar a Condição **Agarrado** (ver [Agarrado](../../Condi%C3%A7%C3%B5es/Agarrado.md)).
 
 ### Desarmar
 
@@ -138,7 +138,7 @@ Em caso de empate ou vitória do alvo, nada acontece.
 
 **Desarmar não causa dano.** Seu efeito é apenas retirar o equipamento das mãos do alvo.
 
-Pegar a arma do chão funciona como a ação de Trocar Equipamento.
+Pegar a arma do chão exige a Ação [Trocar Equipamento](../../Equipamentos/Trocar%20Equipamento.md), mesmo com uma mão livre.
 
 ### Mirar
 
@@ -162,7 +162,7 @@ O bônus acumulado é aplicado ao próximo Ataque à distância realizado pelo p
 
 Utilizar Mirar **não remove nem consome a Movimentação do personagem**.
 
-Ele ainda possui sua Movimentação normalmente durante o Turno e pode se mover **antes** de Mirar. No entanto, caso se mova **depois** de Mirar e antes de realizar o ataque, todo o tempo gasto Mirando é desperdiçado e o bônus acumulado é perdido.
+Ele ainda possui sua Movimentação normalmente durante o Turno e pode se mover **antes** de Mirar. No entanto, caso se mova **depois** de Mirar e antes de realizar o Ataque, todo o tempo gasto Mirando é desperdiçado e o bônus acumulado é perdido.
 
 Isso também se aplica caso o personagem seja deslocado involuntariamente.
 
@@ -172,13 +172,17 @@ Todo o bônus acumulado é perdido caso, antes de atacar, o personagem:
 
 - utilize sua Movimentação depois de Mirar;
 - seja deslocado à força;
-- seja atacado;
-- seja Derrubado.
+- sofra dano;
+- fique [Caído](../../Condi%C3%A7%C3%B5es/Ca%C3%ADdo.md).
 
-O bônus é perdido assim que o personagem é atacado e não pode ser utilizado na resposta a esse ataque.
+O bônus é perdido assim que o personagem sofre dano. Ele também não pode ser utilizado para responder a um Ataque.
 
 Quando isso acontece, todas as Ações anteriormente utilizadas para Mirar são desperdiçadas e o personagem deve começar a acumular o bônus novamente caso queira Mirar outra vez.
 
-Realizar o ataque encerra a Mira, independentemente do resultado da rolagem.
+Realizar o Ataque encerra a Mira, independentemente do resultado da rolagem.
 
-No sistema, a Mira é a Condição [Mirando](../../Condi%C3%A7%C3%B5es/Mirando.md): cada uso de Mirar soma um acúmulo.
+A Mira é registrada pela Condição [Mirando](../../Condi%C3%A7%C3%B5es/Mirando.md): cada uso de Mirar soma um acúmulo.
+
+---
+
+← [Voltar para Ação](../A%C3%A7%C3%A3o.md)

@@ -17,7 +17,7 @@ Legenda do status: ⬜ não analisado · 🟨 em discussão · ✅ decidido · �
 
 ## Grupo 1 — Movimentos especiais ✅
 
-No Astra, nadar e escalar são [Movimentação Especial](../Movimento/Movimenta%C3%A7%C3%A3o.md#movimenta%C3%A7%C3%A3o-especial) e custam 2 pontos de Movimentação por quadrado. O [Voo](../Movimento/Movimenta%C3%A7%C3%A3o.md#voo) não segue essa regra: quem concede o Voo define como ele funciona.
+No Astra, nadar e escalar são [Movimentação Especial](../../Regras/Movimento/Movimenta%C3%A7%C3%A3o.md#movimenta%C3%A7%C3%A3o-especial) e custam 2 pontos de Movimentação por quadrado. O [Voo](../../Regras/Movimento/Movimenta%C3%A7%C3%A3o.md#voo) não segue essa regra: quem concede o Voo define como ele funciona.
 
 Pela decisão geral, a característica deixa a criatura usar a sua Movimentação com aquele movimento **pelo custo normal**, 1 ponto por quadrado.
 
@@ -68,7 +68,7 @@ Regra simples de iluminação, nova no vault:
 
 ## Grupo 5 — Tamanho no ataque ✅
 
-O Astra já tem o campo [Tamanho](Tamanho.md). Proposta: atacar um alvo muito maior é mais fácil e atacar um alvo muito menor é mais difícil.
+O Astra já tem o campo [Tamanho](../../Regras/Personagens/Tamanho.md). Proposta: atacar um alvo muito maior é mais fácil e atacar um alvo muito menor é mais difícil.
 
 Conta a diferença de categorias entre atacante e alvo (Minúsculo, Pequeno, Médio, Grande, Enorme, Colossal):
 
@@ -86,8 +86,8 @@ Cada um com tratamento próprio:
 | Característica | Proposta |
 |---|---|
 | **Frenesi** | Uma vez por turno, ao vencer um Ataque, pode fazer outro Ataque contra outro alvo adjacente, com -2 dados. No **Aprimorado**, sem a penalidade. |
-| **Sopro** (fogo, gelo, ácido…) | Ação: cria uma [Zona](../Cenas%20e%20Conflitos/Zonas.md) instantânea em cone de 3 quadrados, com Dano e Tipo definidos na criatura. Não pode ser usado em turnos seguidos. |
-| **Investida** (Bote, Espetar, Carga) | Ao se mover pelo menos 4 quadros em linha reta antes de atacar, soma +2 ao Dano do Ataque. |
+| **Sopro** (fogo, gelo, ácido…) | Ação: cria uma [Zona](../../Regras/Cenas%20e%20Conflitos/Zonas.md) instantânea em cone de 3 quadrados, com Dano e Tipo definidos na criatura. Não pode ser usado em turnos seguidos. |
+| **Investida** (Bote, Espetar, Carga) | Ao se mover pelo menos 4 quadrados em linha reta antes de atacar, soma +2 ao Dano do Ataque. |
 | **Ir para a Garganta** | Ao vencer com Margem 3 ou mais, o dano ignora a Absorção da armadura do alvo. |
 | **Constritora** (Constrição, Abraço, Rolar) | Ao vencer com Margem 2 ou mais, o alvo também fica Agarrado. No começo de cada turno da criatura, o alvo Agarrado por ela sofre o Dano do ataque natural. |
 | **Aterrorizante (Potência)** (Medo) | Quem vê a criatura pela primeira vez na cena testa Determinação + Astúcia contra a Potência; se falhar, recebe acúmulos da Condição **Medo**. Uma vez por cena para cada personagem. |
@@ -112,4 +112,4 @@ Ficam de fora, por serem de cenário ou dependerem de regras que o Astra não te
 - **Medo** é acumulável. Cada acúmulo impõe **-1 dado** em todas as Reservas do personagem.
 - No **fim de cada turno do personagem afetado**, ele perde 1 acúmulo.
 - A quantidade de acúmulos da Aterrorizante, como todos os valores das características, é configurável em cada criatura; o padrão é igual à Potência.
-- Texto final em [Características de NPC](Características%20de%20NPC.md).
+- Texto final em [Características de NPC](../../Regras/Personagens/Características%20de%20NPC.md).

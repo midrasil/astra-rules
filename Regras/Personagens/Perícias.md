@@ -8,32 +8,32 @@ A descrição da ação determina qual Perícia se aplica, mas não troca livrem
 
 ## Lista de Perícias
 
-| Perícia         | Atributo vinculado | Descrição                                                                                     |
-| --------------- | ------------------ | --------------------------------------------------------------------------------------------- |
-| Acrobacia       | Agilidade          | Esquivar, equilibrar-se, amortecer quedas e executar movimentos corporais precisos.           |
-| Arremessar      | Força              | Lançar armas e objetos diretamente com o corpo, como facas, lanças, pedras e granadas.        |
-| Atirar          | Agilidade          | Disparar armas de projétil, como arcos, bestas e armas de fogo.                               |
-| Atletismo       | Força              | Correr, saltar, escalar, nadar e realizar outras proezas de potência física.                  |
-| Cavalgar        | Agilidade          | Montar, conduzir e manter o controle sobre animais montados.                                  |
-| Conhecimento Geral | Astúcia            | Saber comum do mundo e da própria cultura: costumes, lugares, leis, figuras e notícias.       |
-| Consertar       | Astúcia            | Reparar, montar e desmontar mecanismos, equipamentos e estruturas.                            |
-| Curar           | Astúcia            | Tratar ferimentos, doenças e outras condições físicas.                                        |
-| Dirigir         | Agilidade          | Conduzir veículos terrestres motorizados.                                                     |
-| Empatia Animal  | Carisma            | Acalmar, adestrar, entender e criar laços com animais.                                        |
-| Erudição        | Astúcia            | Conhecimentos acadêmicos: história, ciências, cultura letrada e afins.                        |
-| Furtividade     | Agilidade          | Mover-se sem ser notado, esconder-se e agir em silêncio.                                      |
-| Intimidar       | Carisma            | Coagir alguém por meio de ameaça, pressão ou postura.                                         |
-| Lutar           | Agilidade          | Combate corpo a corpo, desarmado ou com armas.                                                |
-| Mentir          | Carisma            | Enganar, blefar e sustentar falsidades.                                                       |
-| Navegar         | Astúcia            | Orientar-se e traçar rotas por terra, mar ou ar.                                              |
-| Ocultismo       | Astúcia            | Conhecimentos sobrenaturais, rituais e mistérios.                                             |
-| Perceber        | Astúcia            | Notar detalhes, sons, movimentos e presenças ao redor.                                        |
-| Performance     | Carisma            | Entreter, atuar, cantar, dançar ou se apresentar diante de público.                           |
-| Persuadir       | Carisma            | Convencer alguém por meio de argumentos, apelo ou lábia.                                      |
-| Pesquisar       | Astúcia            | Investigar, buscar informações e analisar pistas e documentos.                                |
-| Pilotar         | Agilidade          | Conduzir veículos aéreos e outros veículos complexos.                                         |
-| Prestidigitação | Agilidade          | Realizar manobras rápidas com as mãos: furtar, esconder objetos e executar truques.           |
-| Sobrevivência   | Astúcia            | Subsistir em ambientes hostis: caçar, rastrear, construir abrigo e encontrar recursos.        |
+| Perícia            | Atributo vinculado | Descrição                                                                               |
+| ------------------ | ------------------ | --------------------------------------------------------------------------------------- |
+| Acrobacia          | Agilidade          | Esquivar, equilibrar-se, amortecer quedas e executar movimentos corporais precisos.     |
+| Arremessar         | Força              | Lançar armas e objetos diretamente com o corpo, como facas, lanças, pedras e granadas.  |
+| Atirar             | Agilidade          | Disparar armas de projétil, como arcos, bestas e armas de fogo.                         |
+| Atletismo          | Força              | Correr, saltar, escalar, nadar e realizar outras proezas de potência física.            |
+| Cavalgar           | Agilidade          | Montar, conduzir e manter o controle sobre animais montados.                            |
+| Conhecimento Geral | Astúcia            | Saber comum do mundo e da própria cultura: costumes, lugares, leis, figuras e notícias. |
+| Consertar          | Astúcia            | Reparar, montar e desmontar mecanismos, equipamentos e estruturas.                      |
+| Curar              | Astúcia            | Tratar ferimentos, doenças e outras condições físicas.                                  |
+| Dirigir            | Agilidade          | Conduzir veículos terrestres motorizados.                                               |
+| Empatia Animal     | Carisma            | Acalmar, adestrar, entender e criar laços com animais.                                  |
+| Erudição           | Astúcia            | Conhecimentos acadêmicos: história, ciências, cultura letrada e afins.                  |
+| Furtividade        | Agilidade          | Mover-se sem ser notado, esconder-se e agir em silêncio.                                |
+| Intimidar          | Carisma            | Coagir alguém por meio de ameaça, pressão ou postura.                                   |
+| Lutar              | Agilidade          | Combate corpo a corpo, desarmado ou com armas.                                          |
+| Mentir             | Carisma            | Enganar, blefar e sustentar falsidades.                                                 |
+| Navegar            | Astúcia            | Orientar-se e traçar rotas por terra, mar ou ar.                                        |
+| Ocultismo          | Astúcia            | Conhecimentos sobrenaturais, rituais e mistérios.                                       |
+| Perceber           | Astúcia            | Notar detalhes, sons, movimentos e presenças ao redor.                                  |
+| Performance        | Carisma            | Entreter, atuar, cantar, dançar ou se apresentar diante de público.                     |
+| Persuadir          | Carisma            | Convencer alguém por meio de argumentos, apelo ou lábia.                                |
+| Pesquisar          | Astúcia            | Investigar, buscar informações e analisar pistas e documentos.                          |
+| Pilotar            | Agilidade          | Conduzir veículos aéreos e outros veículos complexos.                                   |
+| Prestidigitação    | Agilidade          | Realizar manobras rápidas com as mãos: furtar, esconder objetos e executar truques.     |
+| Sobrevivência      | Astúcia            | Subsistir em ambientes hostis: caçar, rastrear, construir abrigo e encontrar recursos.  |
 
 ## Conhecimento Específico
 
@@ -61,3 +61,7 @@ Esta lista representa o **núcleo padrão** do Astra, mas cada cenário é livre
 
 - Um cenário **medieval** não teria **Dirigir** nem **Pilotar**, pois esses veículos não existem. Em troca, poderia incluir Perícias próprias, como **Etiqueta** ou **Comando**.
 - Um cenário de **ficção científica** manteria **Pilotar** e poderia adicionar Perícias como **Hacking** ou **Engenharia**.
+
+---
+
+← [Voltar para Personagens](Personagens.md)

@@ -1,9 +1,9 @@
-Esta seção reúne as regras de deslocamento usadas principalmente durante cenas táticas.
+Esta seção reúne as regras de deslocamento usadas principalmente durante Cenas Táticas.
 
 ## Regras
 
 - [Movimentação](Movimenta%C3%A7%C3%A3o.md) — deslocamento padrão, terreno e movimentos especiais.
-- [Correr](Correr.md) — ampliar a distância percorrida durante o turno.
+- [Correr](Correr.md) — ampliar a distância percorrida durante o Turno.
 - [Saltar](Saltar.md) — saltos horizontais e verticais.
 
 ## Relações
