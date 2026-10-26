@@ -29,7 +29,7 @@ Especializações são mais úteis quando acrescentam um recurso concreto, uma p
 
 - Atraente;
 - Rosto Famoso;
-- Ingênue;
+- Ingênuo;
 - Característica Marcante.
 
 ### Refúgio
