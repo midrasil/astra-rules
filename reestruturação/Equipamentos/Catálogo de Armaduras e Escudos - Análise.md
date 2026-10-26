@@ -7,7 +7,7 @@ Legenda do status: ⬜ não analisado · 🟨 em discussão · ✅ decidido · �
 
 ## Regras de categoria ✅
 
-A [Absorção](Armaduras.md#absor%C3%A7%C3%A3o) continua como está: converte dano agravado em superficial nos Ataques. O que muda é o custo de cada armadura, pela **categoria**.
+A [Absorção](../../Regras/Equipamentos/Armaduras.md#absor%C3%A7%C3%A3o) continua como está: converte dano agravado em superficial nos Ataques. O que muda é o custo de cada armadura, pela **categoria**.
 
 | Categoria | Absorção | Ao Esquivar | Força mínima | Carga |
 |---|---|---|---|---|
@@ -15,11 +15,11 @@ A [Absorção](Armaduras.md#absor%C3%A7%C3%A3o) continua como está: converte da
 | **Média** | 2 a 3 | **-2 a -3 dados** | 2 | 2 |
 | **Pesada** | 4 a 5 | **-4 a -5 dados** | 3 | 3 a 4 |
 
-- **Esquivar:** com armadura Média ou Pesada, a Reserva de Esquivar perde dados iguais à **Absorção da armadura**. A Absorção natural (pele, escamas) e as Resistências não contam.
+- **Esquivar:** com armadura Média ou Pesada, a Reserva de Esquivar perde dados iguais à **Absorção da armadura**. A Absorção base (pele, escamas) e as Resistências não contam.
 - **Força mínima:** abaixo dela, o personagem tem **-2 de Movimentação** enquanto veste a armadura.
 - Não há penalidade em Furtividade ou Atletismo: a da Esquiva já é o custo.
 
-Os **escudos** seguem a mesma ideia, pela [Proteção](Escudos.md#prote%C3%A7%C3%A3o):
+Os **escudos** seguem a mesma ideia, pela [Proteção](../../Regras/Equipamentos/Escudos.md#prote%C3%A7%C3%A3o):
 
 | Categoria | Proteção | Força mínima | Carga | Outro custo |
 |---|---|---|---|---|
@@ -38,15 +38,15 @@ O Valor é só um número, sem nome de moeda (pense numa única moeda, como peç
 | Gibão Acolchoado | Leve | 1 | — | 1 | 5 | — |
 | Armadura de Couro | Leve | 1 | — | 1 | 10 | — |
 | Peles Grossas | Leve | 1 | — | 1 | 10 | — |
-| Couro Batido | Leve | 1 | — | 1 | 45 | Resistência a Corte (1) |
-| Camisão de Malha | Média | 2 | 2 | 2 | 50 | Vulnerabilidade a Elétrico (1) |
-| Brunea de Escamas | Média | 2 | 2 | 2 | 50 | Resistência a Perfurante (1), Vulnerabilidade a Elétrico (1) |
-| Placa Peitoral | Média | 3 | 2 | 2 | 400 | Vulnerabilidade a Elétrico (1) |
-| Cota de Malha | Pesada | 4 | 3 | 3 | 75 | Resistência a Corte (1), Vulnerabilidade a Elétrico (1) |
-| Armadura de Talas | Pesada | 4 | 3 | 4 | 200 | Vulnerabilidade a Elétrico (1) |
-| Armadura Completa | Pesada | 5 | 3 | 4 | 1500 | Vulnerabilidade a Elétrico (1) |
+| Couro Batido | Leve | 1 | — | 1 | 45 | Resistência a Corte 1 |
+| Camisão de Malha | Média | 2 | 2 | 2 | 50 | Vulnerabilidade a Elétrico 1 |
+| Brunea de Escamas | Média | 2 | 2 | 2 | 50 | Resistência a Perfurante 1, Vulnerabilidade a Elétrico 1 |
+| Placa Peitoral | Média | 3 | 2 | 2 | 400 | Vulnerabilidade a Elétrico 1 |
+| Cota de Malha | Pesada | 4 | 3 | 3 | 75 | Resistência a Corte 1, Vulnerabilidade a Elétrico 1 |
+| Armadura de Talas | Pesada | 4 | 3 | 4 | 200 | Vulnerabilidade a Elétrico 1 |
+| Armadura Completa | Pesada | 5 | 3 | 4 | 1500 | Vulnerabilidade a Elétrico 1 |
 
-- **Placa Peitoral** fica Média, com Absorção 3, a do Orc Líder Tribal. A **Armadura Completa** chega a 5 sem Resistências, para não passar do teto. Toda armadura de metal (Média ou Pesada) tem **Vulnerabilidade a Elétrico (1)**. Armadura de Couro e Peles Grossas são as das Criaturas e já estão com Absorção 1.
+- **Placa Peitoral** fica Média, com Absorção 3, a do Orc Líder Tribal. A **Armadura Completa** chega a 5 sem Resistências, para não passar do teto. Toda armadura de metal (Média ou Pesada) tem **Vulnerabilidade a Elétrico 1**. Armadura de Couro e Peles Grossas são as das Criaturas e já estão com Absorção 1.
 
 ## Escudos ✅
 
@@ -81,4 +81,4 @@ O Valor é só um número, sem nome de moeda (pense numa única moeda, como peç
 3. Abaixo da Força mínima, **-2 de Movimentação**.
 4. Escudo Pesado: **-1 dado ao Atacar**.
 5. Catálogo novo no compêndio de Equipamentos e Valor em todas as armas, armaduras e escudos.
-6. Atualizar [Armaduras](Armaduras.md) e [Escudos](Escudos.md) com o texto final.
+6. Atualizar [Armaduras](../../Regras/Equipamentos/Armaduras.md) e [Escudos](../../Regras/Equipamentos/Escudos.md) com o texto final.

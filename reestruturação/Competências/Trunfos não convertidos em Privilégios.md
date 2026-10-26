@@ -134,14 +134,14 @@ As antigas categorias sem entradas foram omitidas. Os antigos Trunfos narrativos
 - **Categoria:** Combate
 - **Estágio:** Novato
 - **Requisito:** nenhum
-- **Descrição:** durante um combate, sempre que sofre dano, o personagem rola [Determinação](../../Regras/Personagens/Atributos.md). Sem nenhum Sucesso, ele perde o controle e recebe a Condição **[Fúria](../../Regras/Condi%C3%A7%C3%B5es/F%C3%BAria.md)**. A Fúria dura até o fim do combate, ou até o personagem gastar a Ação sem se mover e passar numa rolagem de Determinação com **-2 dados**.
+- **Descrição:** durante um combate, sempre que sofre dano, o personagem rola [Determinação](../../Regras/Personagens/Atributos.md). Sem nenhum Sucesso, ele perde o controle e recebe a Condição **Fúria** (removida do núcleo; o texto está no histórico do repositório). A Fúria dura até o fim do combate, ou até o personagem gastar a Ação sem se mover e passar numa rolagem de Determinação com **-2 dados**.
 
 ### Arma Predileta
 
 - **Categoria:** Combate
 - **Estágio:** Novato
 - **Requisito:** nenhum
-- **Descrição:** o personagem conhece uma arma específica como a palma da mão. Essa arma recebe a Propriedade **[Predileta](../../Regras/Equipamentos/Armas.md#personagem-opcional)**. Ao usá-la, ele ganha **+1 dado** em Ataque e ao [Confrontar](../../Regras/Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Confrontar.md). O Trunfo pode ser escolhido mais de uma vez, cada vez para uma arma diferente, mas o bônus não se soma entre cópias. Se a arma for perdida, ele pode escolher uma substituta, mas o bônus só volta depois de **duas semanas de jogo**.
+- **Descrição:** o personagem conhece uma arma específica como a palma da mão. Essa arma recebe a Propriedade **Predileta**. Ao usá-la, ele ganha **+1 dado** em Ataque e ao [Confrontar](../../Regras/Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Confrontar.md). O Trunfo pode ser escolhido mais de uma vez, cada vez para uma arma diferente, mas o bônus não se soma entre cópias. Se a arma for perdida, ele pode escolher uma substituta, mas o bônus só volta depois de **duas semanas de jogo**.
 
 ### Arma Predileta Aprimorada
 

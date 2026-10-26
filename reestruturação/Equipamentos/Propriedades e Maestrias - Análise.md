@@ -17,9 +17,9 @@ As Propriedades são **traços simples da arma**, no estilo do D&D: como ela é 
 - Cada cópia vale para **uma arma Predileta específica** do personagem.
 - Ao pegar o Trunfo, **o personagem escolhe a Maestria** que aplica àquela arma. A Maestria não é da arma, é do personagem com aquela arma.
 - Qualquer Maestria pode ser aplicada a qualquer arma, sem requisitos. Vamos reavaliar nas sessões de teste.
-- Isso muda o texto atual de [Maestria](Armas.md#maestria), em que a arma "sempre apresenta" a sua Maestria.
+- Isso muda o texto atual de Maestria, em que a arma "sempre apresenta" a sua Maestria.
 
-## Regras gerais da Maestria (rascunho para [Maestria](Armas.md#maestria))
+## Regras gerais da Maestria (rascunho para Maestria)
 
 > Uma **Maestria** é uma técnica que o personagem domina com uma arma específica. Ela não pertence à arma: é o personagem quem escolhe qual Maestria aplica à sua arma ao adquirir o Trunfo **Maestria com Arma**.
 >
@@ -48,7 +48,7 @@ Implementar depois que todos os grupos forem analisados, porque a base serve par
 5. **Condição Embalo**, acumulável, ganha ao vencer um Ataque com a arma; os acúmulos somam dados contra o mesmo alvo e somem ao perder.
 6. **Varredura no card:** um segundo dano, superficial e igual ao Dano da arma, para um alvo adjacente ao primeiro.
 7. **Propriedade "Manobra (X)":** entra na lista de Propriedades da arma, no grupo Uso. A Reserva da Manobra passa a oferecer as armas com essa Propriedade, e o Alcance vem da arma, sem bônus de dados.
-8. Atualizar [Maestria](Armas.md#maestria) e [Propriedades](Armas.md#propriedades) com o texto final.
+8. Atualizar Maestria e [Propriedades](../../Regras/Equipamentos/Armas.md#propriedades) com o texto final.
 9. **Propriedade Pesado:** incorporada ao grupo Uso. Ela substitui Agilidade por Força somente nos Ataques com a arma; Capacidades que estabeleçam o Atributo do Ataque prevalecem.
 
 ## Grupo 1 — Manobras com a arma
@@ -59,7 +59,7 @@ Implementar depois que todos os grupos forem analisados, porque a base serve par
 - Propriedade sem bônus na Reserva: só permite fazer a manobra com o Alcance da arma, seguindo o princípio das Propriedades.
 - Golpe Tático: ao vencer o Ataque, o personagem escolhe entre o dano normal (Margem + Dano da arma) e abrir mão da Margem, causando só o Dano da arma e aplicando o efeito da Manobra escolhida (Reposicionar, Derrubar ou Desarmar). Em empate não ativa.
 
-Ligam a arma às [Manobras](Manobras.md) que já existem: [Reposicionar](Manobras.md#reposicionar), [Derrubar](Manobras.md#derrubar) e [Desarmar](Manobras.md#desarmar). Cada par tem uma versão "permite a manobra com a arma" e uma versão "a manobra acontece ao acertar".
+Ligam a arma às [Manobras](../../Regras/Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Manobras.md) que já existem: [Reposicionar](../../Regras/Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Manobras.md#reposicionar), [Derrubar](../../Regras/Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Manobras.md#derrubar) e [Desarmar](../../Regras/Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Manobras.md#desarmar). Cada par tem uma versão "permite a manobra com a arma" e uma versão "a manobra acontece ao acertar".
 
 ### 1a. Empurrar — Shove + Push ✅
 
@@ -121,7 +121,7 @@ Bônus que dependem de já ter atacado no turno, de ter errado ou de ter acertad
 
 Relaciona-se com a Propriedade **Leve** e com o Trunfo Lutar com Duas Armas.
 
-- Tipo: descartado. É o ataque extra da arma Leve, e no Astra o [Trunfo](Trunfos.md) Lutar com Duas Armas já soma o Dano da outra arma, sem ataque extra.
+- Tipo: descartado. É o ataque extra da arma Leve, e no Astra o Trunfo Lutar com Duas Armas já soma o Dano da outra arma, sem ataque extra.
 
 ## Grupo 3 — Golpes fortes
 
@@ -152,7 +152,7 @@ Efeitos que atrapalham o alvo depois de um acerto.
   - **Lento**: −2 de Movimentação (Slow; 10 pés viram 2 quadrados).
   - **Abalado**: −2 dados no próximo Ataque (Sap; Desvantagem vira −2 dados).
 - Os efeitos não se acumulam: aplicar de novo só renova a duração.
-- Pendência: criar as Condições **Lento** e **Abalado** em [Condições](Condições.md), que saem sozinhas no começo do próximo turno do atacante.
+- Pendência: criar as Condições **Lento** e **Abalado** em [Condições](../../Regras/Condi%C3%A7%C3%B5es/Condi%C3%A7%C3%B5es.md), que saem sozinhas no começo do próximo turno do atacante.
 
 ## Grupo 5 — Defesa
 
@@ -207,7 +207,7 @@ Mistura investida (mover antes de atacar) e empunhadura (Duas mãos vira uma mã
 
 **Nonlethal.** An effect with this trait is nonlethal. Damage from a nonlethal effect knocks a creature out rather than killing it. Attacks with this weapon are nonlethal, and are used to knock creatures unconscious instead of kill them. You can use a nonlethal weapon to make a lethal attack with a –2 circumstance penalty.
 
-Conversa com a gravidade do dano (superficial ou agravado) em [Gravidade do Dano](Vida.md#gravidade-do-dano).
+Conversa com a gravidade do dano (superficial ou agravado) em [Gravidade do Dano](../../Regras/Personagens/Vida.md#gravidade-do-dano).
 
 - Tipo: Propriedade **Não letal**.
 - Adaptação: o dano da arma é sempre superficial. Para causar dano agravado com ela, o atacante sofre −2 dados no Ataque.
