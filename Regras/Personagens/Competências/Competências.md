@@ -1,4 +1,4 @@
-**Competências** representam formas desenvolvidas de agir, lutar, pensar ou interagir com o mundo. Cada uma possui identidade própria e uma progressão fixa, semelhante a uma classe modular.
+**Competências** representam formas desenvolvidas de agir, lutar, pensar ou interagir com o mundo. Cada uma possui identidade própria e uma progressão fixa.
 
 Um personagem pode desenvolver várias Competências e combinar suas progressões livremente.
 
@@ -9,7 +9,7 @@ Toda Competência possui um **Nível de 0 a 5**.
 - **Nível 0:** o personagem não possui a Competência;
 - **Níveis 1 a 5:** o personagem possui todas as Capacidades concedidas até aquele Nível.
 
-Cada aumento concede automaticamente a Capacidade ou o pequeno pacote de Capacidades definido para o novo Nível. Não existem escolhas em um catálogo nem uma compra separada para a Capacidade.
+Cada aumento concede automaticamente o conteúdo definido para o novo Nível. Não existem escolhas em um catálogo nem uma compra separada para a Capacidade.
 
 Para alcançar um Nível, o personagem precisa possuir todos os Níveis anteriores da mesma Competência. Nenhuma Competência pode ultrapassar o Nível 5.
 
@@ -69,15 +69,16 @@ Não existe um limite para o Nível Total de Competências. O aumento progressiv
 Cada Competência apresenta:
 
 - nome e descrição de sua identidade;
-- uma progressão do Nível 1 ao Nível 5;
-- o nome e o efeito mecânico da Capacidade concedida em cada Nível.
+- sua progressão de Níveis;
+- o nome e o efeito mecânico de suas Capacidades e o que cada Nível concede.
 
-Um Nível pode conceder mais de um efeito quando todos fizerem parte do mesmo avanço.
+Um Nível pode conceder uma nova Capacidade, mais de um efeito do mesmo avanço ou aumentar a potência de uma Capacidade que o personagem já possui.
 
 ## Lista de Competências
 
 - [Atirador](Atirador.md) — preparação, conservação da Mira, precisão e disparos a distância com a Perícia Atirar.
 - [Furioso](Furioso.md) — Fúria, agressão corpo a corpo e dano que cresce com os ferimentos sofridos.
+- [Robusto](Robusto.md) — trilha de Vida maior, que cresce com o Nível da Competência.
 
 ---
 
