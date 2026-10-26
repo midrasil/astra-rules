@@ -30,7 +30,7 @@ O personagem adiciona **2 dados** aos testes sociais nos quais sua aparência fu
 
 O personagem parece ser alguém famoso e adiciona **2 dados** aos testes sociais nos quais essa semelhança funciona a seu favor.
 
-#### Ingênue
+#### Ingênuo
 
 O personagem aparenta ser inocente e irrepreensível. A critério do Narrador, adiciona **2 dados** aos testes relacionados a evitar suspeitas ou afastar a culpa de si.
 
