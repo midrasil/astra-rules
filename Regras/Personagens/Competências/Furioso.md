@@ -62,7 +62,7 @@ Quando a Fúria termina, efeitos que voltariam a aplicar Medo funcionam normalme
 
 Enquanto estiver em Fúria, ter toda a trilha de Vida preenchida por dano agravado não deixa você incapacitado imediatamente. Você continua agindo normalmente, mas no começo de cada um dos seus Turnos nessa situação precisa sofrer **1 ponto de dano agravado de Vontade** para continuar de pé.
 
-Além disso, cada Ataque que causar dano a você nessa situação provoca **1 ponto de dano agravado de Vontade**, independentemente da quantidade de dano causada.
+Além disso, cada instância de dano na Vida que você sofrer nessa situação, seja de um Ataque ou de qualquer outra fonte, como o sopro de um dragão, provoca **1 ponto de dano agravado de Vontade**, independentemente da quantidade de dano causada.
 
 Você fica incapacitado quando:
 
