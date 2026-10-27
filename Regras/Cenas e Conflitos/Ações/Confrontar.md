@@ -149,7 +149,7 @@ A resposta disponível depende da posição dos personagens e do equipamento uti
 
 **Aceitar o Confronto** exige que o personagem seja capaz de atingir o atacante.
 
-**Defender** exige um Escudo, salvo quando uma Capacidade permitir outra forma, como [Aparar](../../Personagens/Compet%C3%AAncias/Aparador.md#aparar).
+**Defender** exige um Escudo, salvo quando uma Capacidade permitir outra forma, como [Aparar](../../Personagens/Compet%C3%AAncias/Aparador.md#n%C3%ADvel-1--aparar).
 
 **Esquivar** pode ser utilizada sempre que o personagem for capaz de se mover.
 

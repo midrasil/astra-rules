@@ -1,4 +1,4 @@
-<!-- source: a80bc4c82b64 -->
+<!-- source: d39ba7e92e0b -->
 # Competencies
 
 **Competencies** represent developed ways of acting, fighting, thinking or interacting with the world. Each has its own identity and a fixed progression.
@@ -7,14 +7,16 @@ A character can develop several Competencies and combine their progressions free
 
 ## Level
 
-Every Competency has a **Level from 0 to 5**.
+Every Competency has a **Level from 0 to 5**, unless its progression sets a lower maximum Level.
 
 - **Level 0:** the character does not have the Competency;
 - **Levels 1 to 5:** the character has every Capability granted up to that Level.
 
+Simpler Competencies can have fewer Levels. In that case, the last Level in its progression table is its maximum Level.
+
 Each increase automatically grants the content set for the new Level. There are no choices from a catalog and no separate purchase for the Capability.
 
-To reach a Level, the character must have every previous Level of the same Competency. No Competency can go beyond Level 5.
+To reach a Level, the character must have every previous Level of the same Competency. No Competency can go beyond Level 5 or the maximum Level set in its progression.
 
 ## Capabilities
 
@@ -79,6 +81,7 @@ A Level can grant a new Capability, more than one effect of the same advance, or
 
 ## List of Competencies
 
+- [Parrier](Aparador.md) — Parrying Attacks with your own weapon, adding its Damage when Defending, first in melee and then at range as well.
 - [Marksman](Atirador.md) — preparation, keeping the Aim, precision and ranged shots with the Shooting Skill.
 - [Furious](Furioso.md) — Fury, melee aggression and damage that grows with the wounds suffered.
 - [Mentalist](Mentalista.md) — reading people and enemies through the Read Condition, Cunning on Attacks and social tests.

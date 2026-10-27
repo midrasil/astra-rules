@@ -1,4 +1,4 @@
-<!-- source: fc7b4fdedce7 -->
+<!-- source: 27bfe255228e -->
 # Confront
 
 A **Confront** happens when a character decides to attack another character during a Tactical Scene.
@@ -152,7 +152,7 @@ The available response depends on the characters' positions and the equipment us
 
 **Accept the Confront** requires the character to be able to hit the attacker.
 
-**Defend** requires a Shield.
+**Defend** requires a Shield, unless a Capability allows another way, such as [Parry](../../Personagens/Compet%C3%AAncias/Aparador.md#level-1--parry).
 
 **Dodge** can be used whenever the character is able to move.
 

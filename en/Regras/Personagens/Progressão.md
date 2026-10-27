@@ -1,4 +1,4 @@
-<!-- source: e3ad7a58748d -->
+<!-- source: 1f72bd1923b1 -->
 # Advancement
 
 In **Astra**, characters have no global levels. They grow gradually by acquiring and improving abilities over the campaign.
@@ -80,7 +80,7 @@ The **Total Competency Level** is the sum of the Levels the character has in all
 
 Acquiring or raising a [Competency](Compet%C3%AAncias/Compet%C3%AAncias.md) costs **3 × the new Total Competency Level in XP**.
 
-After paying, the character raises by 1 the Level of a Competency they already have or acquires Level 1 of a new Competency. Each increase automatically grants the content set for the new Level. No Competency can go beyond Level 5, but there is no limit to the Total Competency Level.
+After paying, the character raises by 1 the Level of a Competency they already have or acquires Level 1 of a new Competency. Each increase automatically grants the content set for the new Level. No Competency can go beyond Level 5 or the maximum Level set in its progression, but there is no limit to the Total Competency Level.
 
 ## Character Development
 
