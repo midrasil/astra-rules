@@ -27,6 +27,8 @@ O Dano considerado é o da arma no momento do Confronto, incluindo o +1 de uma a
 
 O restante da resolução segue as regras normais de Defender: vencendo, o Ataque é bloqueado e ninguém sofre dano; em caso de empate, o atacante causa apenas o Dano da arma dele como dano superficial; perdendo, você sofre a Margem de Sucessos mais o Dano da arma do atacante.
 
+Se estiver [lutando com duas armas](../../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Confrontar.md#combate-com-duas-armas), você escolhe qual delas utiliza para Aparar. A Reserva e o Dano adicionado são os da arma escolhida, e os Danos das duas armas não se somam.
+
 Se também estiver equipado com um Escudo, você escolhe ao Defender se utiliza a Proteção do Escudo ou o Dano da arma. Os dois bônus não se somam.
 
 O [Desarmado](../../Equipamentos/Armas.md#desarmado) e outras armas Naturais não podem ser usados para Aparar, a menos que outra Capacidade permita.
