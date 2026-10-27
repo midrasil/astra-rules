@@ -34,9 +34,7 @@ Esse deslocamento não provoca a perda dos seus acúmulos de [Mirando](../../Con
 
 ## Nível 4 — Postura de Tiro Aprimorada
 
-Você aprimorou sua Postura de Tiro. A partir de agora, pode assumir essa Postura mesmo que já tenha se movimentado durante seu Turno.
-
-Além disso, ao assumir a Postura, você pode sofrer qualquer quantidade de dano superficial de Vontade. Para cada ponto sofrido, recebe 1 acúmulo de [Mirando](../../Condi%C3%A7%C3%B5es/Mirando.md) sem gastar sua Ação. O limite de acúmulos determinado pela sua Astúcia continua sendo aplicado, e pontos sofridos além desse limite não concedem acúmulos. Com a trilha de Vontade cheia, cada ponto pode ser pago ao [Romper Limite](../Vontade.md#romper-limite).
+Ao assumir a Postura de Tiro, você pode sofrer qualquer quantidade de dano superficial de Vontade. Para cada ponto sofrido, recebe 1 acúmulo de [Mirando](../../Condi%C3%A7%C3%B5es/Mirando.md) sem gastar sua Ação. O limite de acúmulos determinado pela sua Astúcia continua sendo aplicado, e pontos sofridos além desse limite não concedem acúmulos. Com a trilha de Vontade cheia, cada ponto pode ser pago ao [Romper Limite](../Vontade.md#romper-limite).
 
 ## Nível 5 — Mira Ininterrupta
 
