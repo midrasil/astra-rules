@@ -11,7 +11,7 @@ A Competência é voltada principalmente para cenas fora de combate, mas o mesmo
 | **1** | Leitura Fria |
 | **2** | Leitura de Combate |
 | **3** | Nada Escapa |
-| **4** | *em definição* |
+| **4** | Manipulação |
 | **5** | *em definição* |
 
 ## Nível 1 — Leitura Fria
@@ -52,6 +52,12 @@ A substituição vale para qualquer forma de Ataque, seja corpo a corpo, com arm
 Você recebe uma quantidade de dados adicionais igual ao seu Nível de Mentalista em todos os testes de **Astúcia + Perceber**, incluindo a [Leitura Fria](#n%C3%ADvel-1--leitura-fria).
 
 O bônus aumenta automaticamente ao subir de Nível: **+3 dados** no Nível 3, **+4** no Nível 4 e **+5** no Nível 5.
+
+## Nível 4 — Manipulação
+
+Em testes de **Persuadir**, **Intimidar** e **Mentir**, você recebe uma quantidade de dados adicionais igual à sua **Astúcia**.
+
+Esses dados são um bônus concedido por esta Capacidade, e não um segundo Atributo na Reserva: o teste continua utilizando o Atributo normalmente determinado para a Perícia.
 
 ---
 
