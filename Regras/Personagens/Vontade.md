@@ -112,7 +112,7 @@ Quando a trilha de Vontade estiver cheia e ainda houver dano superficial nela, o
 
 Cada uso de Romper Limite converte **1 ponto de dano superficial de Vontade** em **dano agravado**, no lugar do dano superficial normal.
 
-Capacidades podem permitir que seus custos de Vontade sejam pagos ao Romper Limite, como a [Postura de Tiro](Compet%C3%AAncias/Atirador.md#n%C3%ADvel-1--postura-de-tiro) do Atirador.
+Capacidades podem permitir que seus custos de Vontade sejam pagos ao Romper Limite, como a [Postura de Tiro Aprimorada](Compet%C3%AAncias/Atirador.md#n%C3%ADvel-4--postura-de-tiro-aprimorada) do Atirador.
 
 Com a trilha inteiramente preenchida por dano agravado, não é possível Romper Limite.
 

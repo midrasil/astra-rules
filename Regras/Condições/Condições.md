@@ -14,6 +14,7 @@ As Condições são aplicadas por Ações, Manobras, Capacidades ou outras regra
 - [Atordoado](Atordoado.md) — sem Ação.
 - [Medo](Medo.md) — penalidade acumulável em todas as Reservas.
 - [Mirando](Mirando.md) — acumula o bônus da Manobra Mirar para o próximo Ataque à distância.
+- [Lido](Lido.md) — analisado por outro personagem; sem efeito próprio, usado por Capacidades.
 
 ## Relações
 
