@@ -16,11 +16,10 @@ A Competência não é limitada a arcos. Suas Capacidades funcionam com qualquer
 
 Durante seu Turno, antes de realizar um Ataque com a Perícia Atirar, caso ainda não tenha se movimentado, você pode assumir uma Postura de Tiro até o final do Turno. Enquanto estiver nessa postura:
 
-- você pode utilizar **Astúcia** no lugar do Atributo normalmente determinado para o Ataque;
 - recebe +1 dado na Reserva de Ataques realizados com Atirar;
 - não pode se movimentar até o final do Turno.
 
-Ao assumir a Postura, você também pode sofrer 1 ponto de dano superficial de Vontade para tornar 1 dado da Reserva do próximo Ataque com Atirar realizado nesse Turno um **dado garantido**: ele não é rolado e conta como 1 Sucesso. Com a trilha de Vontade cheia, esse custo pode ser pago ao [Romper Limite](../Vontade.md#romper-limite).
+Ao assumir a Postura, você também pode sofrer 1 ponto de dano superficial de Vontade para receber 1 acúmulo de [Mirando](../../Condi%C3%A7%C3%B5es/Mirando.md) sem gastar sua Ação. O limite de acúmulos determinado pela sua Astúcia continua sendo aplicado. Com a trilha de Vontade cheia, esse custo pode ser pago ao [Romper Limite](../Vontade.md#romper-limite).
 
 ## Nível 2 — Mira Estável
 
@@ -41,7 +40,7 @@ Além disso, ser deslocado à força não faz com que você perca seus acúmulos
 Você aprimorou sua Postura de Tiro. A partir de agora, pode assumir essa Postura mesmo que já tenha se movimentado durante seu Turno. Além disso, recebe os seguintes benefícios:
 
 - pode se movimentar livremente enquanto estiver na Postura de Tiro;
-- ao assumir a Postura, pode sofrer uma quantidade de dano superficial de Vontade limitada pelo seu Nível de Atirador, em vez de apenas 1 ponto. Para cada ponto sofrido, torna 1 dado da Reserva do próximo Ataque com Atirar realizado nesse Turno um dado garantido. Esses dados não são rolados e cada um conta como 1 Sucesso. Com a trilha cheia, cada ponto pode ser pago ao Romper Limite.
+- ao assumir a Postura, pode sofrer uma quantidade de dano superficial de Vontade limitada pelo seu Nível de Atirador, em vez de apenas 1 ponto. Para cada ponto sofrido, recebe 1 acúmulo de Mirando, respeitando o limite determinado pela sua Astúcia. Com a trilha cheia, cada ponto pode ser pago ao Romper Limite.
 
 A liberdade de movimento da Postura de Tiro não altera Mira Estável. Caso percorra mais da metade da sua Movimentação durante o Turno, você perde normalmente seus acúmulos de Mirando.
 
