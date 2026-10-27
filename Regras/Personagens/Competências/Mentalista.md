@@ -9,7 +9,7 @@ A Competência é voltada principalmente para cenas fora de combate, mas o mesmo
 | Nível | Capacidade concedida |
 |---:|---|
 | **1** | Leitura Fria |
-| **2** | *em definição* |
+| **2** | Leitura de Combate |
 | **3** | *em definição* |
 | **4** | *em definição* |
 | **5** | *em definição* |
@@ -40,6 +40,12 @@ Qualquer que seja o resultado, o alvo fica [Lido](../../Condi%C3%A7%C3%B5es/Lido
 Cada pergunta sobre forças e fraquezas revela uma única Resistência, Imunidade ou Vulnerabilidade, com seu Tipo de Dano ou Material. Quando o alvo não possuir nenhuma, o Narrador informa isso.
 
 O Narrador responde com a verdade, da forma como o corpo e o comportamento do alvo a revelam: impressões, e não pensamentos exatos, nomes ou segredos específicos. Quando o alvo for um personagem de jogador, quem responde é o seu jogador.
+
+## Nível 2 — Leitura de Combate
+
+Ao iniciar um Confronto ou Aceitar o Confronto contra um alvo [Lido](../../Condi%C3%A7%C3%B5es/Lido.md) por você, você pode utilizar **Astúcia** no lugar do Atributo normalmente determinado para a Reserva do Ataque.
+
+A substituição vale para qualquer forma de Ataque, seja corpo a corpo, com arma de disparo ou com arma arremessada. Como é estabelecida por uma Capacidade, ela prevalece sobre a propriedade [Pesado](../../Equipamentos/Armas.md#uso-opcional) e sobre outras regras que determinem o Atributo do Ataque.
 
 ---
 
