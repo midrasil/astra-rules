@@ -4,14 +4,16 @@ Um personagem pode desenvolver várias Competências e combinar suas progressõe
 
 ## Nível
 
-Toda Competência possui um **Nível de 0 a 5**.
+Toda Competência possui um **Nível de 0 a 5**, salvo quando sua progressão indicar um Nível máximo menor.
 
 - **Nível 0:** o personagem não possui a Competência;
 - **Níveis 1 a 5:** o personagem possui todas as Capacidades concedidas até aquele Nível.
 
+Competências mais simples podem possuir menos Níveis. Nesse caso, o último Nível de sua tabela de progressão é o seu Nível máximo.
+
 Cada aumento concede automaticamente o conteúdo definido para o novo Nível. Não existem escolhas em um catálogo nem uma compra separada para a Capacidade.
 
-Para alcançar um Nível, o personagem precisa possuir todos os Níveis anteriores da mesma Competência. Nenhuma Competência pode ultrapassar o Nível 5.
+Para alcançar um Nível, o personagem precisa possuir todos os Níveis anteriores da mesma Competência. Nenhuma Competência pode ultrapassar o Nível 5 nem o Nível máximo indicado em sua progressão.
 
 ## Capacidades
 
@@ -76,6 +78,7 @@ Um Nível pode conceder uma nova Capacidade, mais de um efeito do mesmo avanço 
 
 ## Lista de Competências
 
+- [Aparador](Aparador.md) — Aparar Ataques com a própria arma, somando o Dano dela ao Defender, primeiro corpo a corpo e depois também à distância.
 - [Atirador](Atirador.md) — preparação, conservação da Mira, precisão e disparos a distância com a Perícia Atirar.
 - [Furioso](Furioso.md) — Fúria, agressão corpo a corpo e dano que cresce com os ferimentos sofridos.
 - [Mentalista](Mentalista.md) — leitura de pessoas e inimigos pela Condição Lido, Astúcia em Ataques e testes sociais.
