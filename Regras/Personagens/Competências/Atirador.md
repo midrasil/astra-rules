@@ -7,8 +7,8 @@ A Competência não é limitada a arcos. Suas Capacidades funcionam com qualquer
 | Nível | Capacidade concedida |
 |---:|---|
 | **1** | Postura de Tiro |
-| **2** | Mira Estável |
-| **3** | Foco Imperturbável |
+| **2** | Foco Imperturbável |
+| **3** | Mira Estável |
 | **4** | Postura de Tiro Aprimorada |
 | **5** | Mira Ininterrupta |
 
@@ -20,19 +20,17 @@ Durante seu Turno, antes de realizar um Ataque com a Perícia Atirar, caso ainda
 - ignora a primeira penalidade de -2 dados provocada por atacar além do alcance normal da arma;
 - não pode se movimentar até o final do Turno.
 
-## Nível 2 — Mira Estável
-
-Enquanto possuir ao menos 1 acúmulo de Mirando destinado a um Ataque com a Perícia Atirar, você pode se movimentar uma distância total de até metade da sua Movimentação durante cada Turno sem perder seus acúmulos. Se ultrapassar essa distância, perde todos os acúmulos normalmente.
-
-Ser deslocado à força ainda provoca a perda normal dos acúmulos de Mirando.
-
-Além disso, ao realizar um Ataque com Atirar, você ignora a primeira penalidade de -2 dados provocada por atacar além do alcance normal da arma, mesmo que não esteja Mirando.
-
-## Nível 3 — Foco Imperturbável
+## Nível 2 — Foco Imperturbável
 
 No começo do seu Turno, caso não possua nenhum acúmulo de Mirando, você recebe 1 acúmulo de Mirando sem gastar sua Ação.
 
 Além disso, ser deslocado à força não faz com que você perca seus acúmulos de Mirando. Você ainda os perde caso sofra dano ou outra condição normal para perder a Mira aconteça.
+
+## Nível 3 — Mira Estável
+
+Enquanto possuir ao menos 1 acúmulo de Mirando destinado a um Ataque com a Perícia Atirar, você pode se movimentar uma distância total de até metade da sua Movimentação durante cada Turno sem perder seus acúmulos. Se ultrapassar essa distância, perde todos os acúmulos normalmente.
+
+Além disso, ao realizar um Ataque com Atirar, você ignora a primeira penalidade de -2 dados provocada por atacar além do alcance normal da arma, mesmo que não esteja Mirando.
 
 ## Nível 4 — Postura de Tiro Aprimorada
 
