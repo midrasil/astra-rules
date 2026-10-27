@@ -77,7 +77,7 @@ O **Nível Total de Competências** é a soma dos Níveis que o personagem possu
 
 Adquirir ou aumentar uma [Competência](Compet%C3%AAncias/Compet%C3%AAncias.md) custa **3 × o novo Nível Total de Competências em XP**.
 
-Depois do pagamento, o personagem aumenta em 1 o Nível de uma Competência que já possui ou adquire o Nível 1 de uma nova Competência. Cada aumento concede automaticamente o conteúdo definido para o novo Nível. Nenhuma Competência pode ultrapassar o Nível 5, mas não existe um limite para o Nível Total de Competências.
+Depois do pagamento, o personagem aumenta em 1 o Nível de uma Competência que já possui ou adquire o Nível 1 de uma nova Competência. Cada aumento concede automaticamente o conteúdo definido para o novo Nível. Nenhuma Competência pode ultrapassar o Nível 5 ou o Nível máximo indicado em sua progressão, mas não existe um limite para o Nível Total de Competências.
 
 ## Desenvolvimento do Personagem
 
