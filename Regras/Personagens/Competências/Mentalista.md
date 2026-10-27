@@ -10,7 +10,7 @@ A Competência é voltada principalmente para cenas fora de combate, mas o mesmo
 |---:|---|
 | **1** | Leitura Fria |
 | **2** | Leitura de Combate |
-| **3** | *em definição* |
+| **3** | Nada Escapa |
 | **4** | *em definição* |
 | **5** | *em definição* |
 
@@ -46,6 +46,12 @@ O Narrador responde com a verdade, da forma como o corpo e o comportamento do al
 Ao iniciar um Confronto ou Aceitar o Confronto contra um alvo [Lido](../../Condi%C3%A7%C3%B5es/Lido.md) por você, você pode utilizar **Astúcia** no lugar do Atributo normalmente determinado para a Reserva do Ataque.
 
 A substituição vale para qualquer forma de Ataque, seja corpo a corpo, com arma de disparo ou com arma arremessada. Como é estabelecida por uma Capacidade, ela prevalece sobre a propriedade [Pesado](../../Equipamentos/Armas.md#uso-opcional) e sobre outras regras que determinem o Atributo do Ataque.
+
+## Nível 3 — Nada Escapa
+
+Você recebe uma quantidade de dados adicionais igual ao seu Nível de Mentalista em todos os testes de **Astúcia + Perceber**, incluindo a [Leitura Fria](#n%C3%ADvel-1--leitura-fria).
+
+O bônus aumenta automaticamente ao subir de Nível: **+3 dados** no Nível 3, **+4** no Nível 4 e **+5** no Nível 5.
 
 ---
 
