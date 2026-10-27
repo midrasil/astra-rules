@@ -28,9 +28,9 @@ Além disso, ser deslocado à força não faz com que você perca seus acúmulos
 
 ## Nível 3 — Mira Estável
 
-Enquanto possuir ao menos 1 acúmulo de Mirando destinado a um Ataque com a Perícia Atirar, você pode se movimentar uma distância total de até metade da sua Movimentação durante cada Turno sem perder seus acúmulos. Se ultrapassar essa distância, perde todos os acúmulos normalmente.
+Enquanto estiver na Postura de Tiro, você pode se movimentar até metade da sua Movimentação base durante o Turno, em vez de permanecer parado.
 
-Além disso, ao realizar um Ataque com Atirar, você ignora a primeira penalidade de -2 dados provocada por atacar além do alcance normal da arma, mesmo que não esteja Mirando.
+Esse deslocamento não provoca a perda dos seus acúmulos de [Mirando](../../Condi%C3%A7%C3%B5es/Mirando.md).
 
 ## Nível 4 — Postura de Tiro Aprimorada
 
