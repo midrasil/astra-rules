@@ -10,7 +10,7 @@ A Competência não é limitada a arcos. Suas Capacidades funcionam com qualquer
 | **2** | Foco Imperturbável |
 | **3** | Mira Estável |
 | **4** | Postura de Tiro Aprimorada |
-| **5** | Mira Ininterrupta |
+| **5** | Foco Inabalável |
 
 ## Nível 1 — Postura de Tiro
 
@@ -36,13 +36,15 @@ Esse deslocamento não provoca a perda dos seus acúmulos de [Mirando](../../Con
 
 Enquanto estiver na Postura de Tiro, você pode sofrer qualquer quantidade de dano superficial de Vontade. Para cada ponto sofrido, recebe 1 acúmulo de [Mirando](../../Condi%C3%A7%C3%B5es/Mirando.md) sem gastar sua Ação. O limite de acúmulos determinado pela sua Astúcia continua sendo aplicado, e pontos sofridos além desse limite não concedem acúmulos. Com a trilha de Vontade cheia, cada ponto pode ser pago ao [Romper Limite](../Vontade.md#romper-limite).
 
-## Nível 5 — Mira Ininterrupta
+## Nível 5 — Foco Inabalável
 
-No começo do seu Turno, você recebe 1 acúmulo de Mirando sem gastar sua Ação. Caso já possua ao menos 1 acúmulo, você somente recebe o novo acúmulo se não tiver se movimentado nem sido deslocado à força desde o começo do seu Turno anterior.
+Seu [Foco Imperturbável](#n%C3%ADvel-2--foco-imperturb%C3%A1vel) evolui. No começo do seu Turno, você recebe 1 acúmulo de [Mirando](../../Condi%C3%A7%C3%B5es/Mirando.md) sem gastar sua Ação, mesmo que já possua acúmulos.
 
-Além disso, realizar um Ataque com a Perícia Atirar não encerra Mirando. Os acúmulos são aplicados normalmente à Reserva do Ataque e permanecem depois da sua resolução.
+Além disso, a quantidade máxima de acúmulos de Mirando que você pode possuir passa a ser:
 
-Você ainda perde seus acúmulos quando ultrapassa o deslocamento permitido por Mira Estável, sofre dano ou outra condição normal para perder a Mira acontece. O limite de acúmulos determinado pela sua Astúcia continua sendo aplicado.
+> **Astúcia + Nível de Atirador**
+
+Esse limite substitui o determinado pela Astúcia em todas as regras, incluindo a [Postura de Tiro Aprimorada](#n%C3%ADvel-4--postura-de-tiro-aprimorada).
 
 ---
 
