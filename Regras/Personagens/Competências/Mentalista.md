@@ -12,7 +12,7 @@ A Competência é voltada principalmente para cenas fora de combate, mas o mesmo
 | **2** | Leitura de Combate |
 | **3** | Nada Escapa |
 | **4** | Manipulação |
-| **5** | *em definição* |
+| **5** | Eu Já Sabia |
 
 ## Nível 1 — Leitura Fria
 
@@ -58,6 +58,12 @@ O bônus aumenta automaticamente ao subir de Nível: **+3 dados** no Nível 3, *
 Em testes de **Persuadir**, **Intimidar** e **Mentir**, você recebe uma quantidade de dados adicionais igual à sua **Astúcia**.
 
 Esses dados são um bônus concedido por esta Capacidade, e não um segundo Atributo na Reserva: o teste continua utilizando o Atributo normalmente determinado para a Perícia.
+
+## Nível 5 — Eu Já Sabia
+
+Antes de rolar qualquer teste cuja Reserva utilize **Astúcia** contra um alvo [Lido](../../Condi%C3%A7%C3%B5es/Lido.md) por você, você pode sofrer uma quantidade de dano superficial de Vontade limitada pelo seu Nível de Mentalista. Isso inclui os Ataques realizados com a [Leitura de Combate](#n%C3%ADvel-2--leitura-de-combate).
+
+Para cada ponto sofrido, 1 dado da Reserva desse teste se torna um **dado garantido**: ele não é rolado e conta como 1 Sucesso. Com a trilha de Vontade cheia, cada ponto pode ser pago ao [Romper Limite](../Vontade.md#romper-limite).
 
 ---
 
