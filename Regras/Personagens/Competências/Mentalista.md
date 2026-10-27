@@ -18,10 +18,10 @@ A Competência é voltada principalmente para cenas fora de combate, mas o mesmo
 
 Você pode utilizar sua Ação para analisar uma pessoa ou criatura que consiga observar. Teste **Astúcia + Perceber** contra **Carisma + Mentir** do alvo. Um alvo que não tenta disfarçar o que sente ou que não sabe que está sendo observado é tratado como [alvo sem resposta](../../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Confrontar.md#alvo-sem-resposta) e conta como **1 Sucesso**.
 
-Cada alvo só pode ser analisado uma vez por Cena.
+Qualquer que seja o resultado, o alvo fica [Lido](../../Condi%C3%A7%C3%B5es/Lido.md) por você até o fim da Cena. Você não pode analisar um alvo que já esteja Lido por você.
 
-- **Vitória:** você faz ao Narrador uma quantidade de perguntas da lista abaixo igual à sua Margem de Sucessos, e o alvo fica [Lido](../../Condi%C3%A7%C3%B5es/Lido.md) por você.
-- **Empate:** você faz 1 pergunta e o alvo fica Lido por você, mas percebe que está sendo analisado.
+- **Vitória:** você faz ao Narrador uma quantidade de perguntas da lista abaixo igual à sua Margem de Sucessos.
+- **Empate:** você faz 1 pergunta, mas o alvo percebe que está sendo analisado.
 - **Derrota:** você não descobre nada, e o alvo percebe que está sendo analisado.
 
 **Perguntas sobre a pessoa:**
