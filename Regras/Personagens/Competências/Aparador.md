@@ -15,9 +15,13 @@ A Competência possui dois Níveis. O Nível 1 concede a Capacidade Aparar, e o 
 
 Você pode escolher [Defender](../../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Confrontar.md#defender) contra um Ataque corpo a corpo usando uma arma corpo a corpo que esteja empunhando, mesmo sem um Escudo.
 
-Ao Aparar, a Reserva de Dados continua sendo **Força + Lutar**, mas, no lugar da Proteção do Escudo, você adiciona o **Dano da arma** utilizada:
+Ao Aparar, em vez da Reserva normal de Defender, você utiliza a mesma Reserva de um [Ataque](../../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Confrontar.md) corpo a corpo com a arma utilizada e, no lugar da Proteção do Escudo, adiciona o **Dano da arma**:
 
-> **Reserva para Aparar = Força + Lutar + Dano da arma**
+> **Reserva para Aparar = Reserva de Ataque da arma + Dano da arma**
+
+Por padrão, isso corresponde a **Agilidade + Lutar + Dano da arma**. As mesmas regras que alteram a Reserva de um Ataque com a arma se aplicam ao Aparar: uma arma [Pesada](../../Equipamentos/Armas.md#uso-opcional) utiliza **Força + Lutar + Dano da arma**, e uma Capacidade que estabeleça outro Atributo ou outra Reserva para Ataques com a arma também prevalece aqui.
+
+Bônus e penalidades que dependem de iniciar um Ataque, como a [Vantagem Numérica](../../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Confrontar.md#vantagem-num%C3%A9rica), não se aplicam ao Aparar.
 
 O Dano considerado é o da arma no momento do Confronto, incluindo o +1 de uma arma [Flexível](../../Equipamentos/Armas.md#empunhadura-opcional) empunhada com as duas mãos. As Propriedades Especiais da arma não são ativadas ao Aparar.
 
@@ -31,7 +35,7 @@ O [Desarmado](../../Equipamentos/Armas.md#desarmado) e outras armas Naturais nã
 
 Seu [Aparar](#n%C3%ADvel-1--aparar) evolui. Você também pode Aparar Ataques à distância, incluindo disparos e armas arremessadas, seguindo as mesmas regras do Nível 1.
 
-Você continua precisando empunhar uma arma corpo a corpo para Aparar, e a Reserva continua sendo **Força + Lutar + Dano da arma**.
+Você continua precisando empunhar uma arma corpo a corpo para Aparar, e a Reserva continua sendo a Reserva de Ataque corpo a corpo da arma mais o Dano da arma.
 
 ---
 
