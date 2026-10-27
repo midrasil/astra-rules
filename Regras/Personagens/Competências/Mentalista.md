@@ -41,8 +41,6 @@ Cada pergunta sobre forças e fraquezas revela uma única Resistência, Imunidad
 
 O Narrador responde com a verdade, da forma como o corpo e o comportamento do alvo a revelam: impressões, e não pensamentos exatos, nomes ou segredos específicos. Quando o alvo for um personagem de jogador, quem responde é o seu jogador.
 
-A Leitura Fria não substitui o teste normal para perceber uma mentira, que continua sendo feito com Astúcia + Perceber contra Carisma + Mentir.
-
 ---
 
 ← [Voltar para Competências](Competências.md)
