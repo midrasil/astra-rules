@@ -1,18 +1,16 @@
 # Mentalista
 
-Mentalista representa o personagem que lê pessoas como quem lê um livro aberto. Ele percebe emoções no tom de voz, intenções na postura e mentiras nos pequenos deslizes que ninguém mais nota. Seu talento não é sobrenatural: é fruto de observação treinada, memória e raciocínio rápido.
-
-A Competência é voltada principalmente para cenas fora de combate, mas o mesmo olhar que desmonta um suspeito também revela as forças e fraquezas de um inimigo. Suas Capacidades partem da Perícia **Perceber** e da Condição [Lido](../../Condi%C3%A7%C3%B5es/Lido.md).
+Mentalista representa o personagem que lê pessoas por observação treinada, percebendo emoções, intenções, mentiras e as forças e fraquezas de um inimigo.
 
 ## Progressão
 
-| Nível | Capacidade concedida |
-|---:|---|
-| **1** | Leitura Fria |
-| **2** | Leitura de Combate |
-| **3** | Nada Escapa |
-| **4** | Manipulação |
-| **5** | Eu Já Sabia |
+| Nível | Capacidade concedida | Nada Escapa |
+|---:|---|---:|
+| **1** | Leitura Fria | — |
+| **2** | Leitura de Combate | — |
+| **3** | Nada Escapa | +3 dados |
+| **4** | Manipulação | +4 dados |
+| **5** | Eu Já Sabia | +5 dados |
 
 ## Nível 1 — Leitura Fria
 
@@ -45,19 +43,17 @@ O Narrador responde com a verdade, da forma como o corpo e o comportamento do al
 
 Ao iniciar um Confronto ou Aceitar o Confronto contra um alvo [Lido](../../Condi%C3%A7%C3%B5es/Lido.md) por você, você pode utilizar **Astúcia** no lugar do Atributo normalmente determinado para a Reserva do Ataque.
 
-A substituição vale para qualquer forma de Ataque, seja corpo a corpo, com arma de disparo ou com arma arremessada. Como é estabelecida por uma Capacidade, ela prevalece sobre a propriedade [Pesado](../../Equipamentos/Armas.md#uso-opcional) e sobre outras regras que determinem o Atributo do Ataque.
+A substituição vale para qualquer forma de Ataque e prevalece sobre a propriedade [Pesado](../../Equipamentos/Armas.md#uso-opcional).
 
 ## Nível 3 — Nada Escapa
 
 Você recebe uma quantidade de dados adicionais igual ao seu Nível de Mentalista em todos os testes de **Astúcia + Perceber**, incluindo a [Leitura Fria](#n%C3%ADvel-1--leitura-fria).
 
-O bônus aumenta automaticamente ao subir de Nível: **+3 dados** no Nível 3, **+4** no Nível 4 e **+5** no Nível 5.
-
 ## Nível 4 — Manipulação
 
 Em testes de **Persuadir**, **Intimidar** e **Mentir**, você recebe uma quantidade de dados adicionais igual à sua **Astúcia**.
 
-Esses dados são um bônus concedido por esta Capacidade, e não um segundo Atributo na Reserva: o teste continua utilizando o Atributo normalmente determinado para a Perícia.
+Esses dados são um bônus, e não um segundo Atributo: o teste continua utilizando o Atributo normal da Perícia.
 
 ## Nível 5 — Eu Já Sabia
 

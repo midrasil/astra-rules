@@ -2,8 +2,6 @@
 
 Robusto representa o personagem cujo corpo suporta mais ferimentos do que o normal, seja por constituição natural, treinamento ou uma vida de privações.
 
-A Competência possui uma única Capacidade, recebida no Nível 1. Os Níveis seguintes aumentam sua potência.
-
 ## Progressão
 
 | Nível | Vida adicional |

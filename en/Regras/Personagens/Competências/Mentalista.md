@@ -1,19 +1,17 @@
-<!-- source: 0023ab2e99ae -->
+<!-- source: c03c5b26e53a -->
 # Mentalist
 
-Mentalist represents the character who reads people like an open book. They pick up emotions in a tone of voice, intentions in a posture and lies in the small slips nobody else notices. Their talent is not supernatural: it comes from trained observation, memory and quick reasoning.
-
-The Competency is aimed mainly at scenes outside combat, but the same eye that takes a suspect apart also reveals an enemy's strengths and weaknesses. Its Capabilities build on the **Perception** Skill and the [Read](../../Condi%C3%A7%C3%B5es/Lido.md) Condition.
+Mentalist represents the character who reads people through trained observation, picking up emotions, intentions, lies and an enemy's strengths and weaknesses.
 
 ## Progression
 
-| Level | Capability granted |
-|---:|---|
-| **1** | Cold Read |
-| **2** | Combat Read |
-| **3** | Nothing Escapes |
-| **4** | Manipulation |
-| **5** | I Knew It |
+| Level | Capability granted | Nothing Escapes |
+|---:|---|---:|
+| **1** | Cold Read | — |
+| **2** | Combat Read | — |
+| **3** | Nothing Escapes | +3 dice |
+| **4** | Manipulation | +4 dice |
+| **5** | I Knew It | +5 dice |
 
 ## Level 1 — Cold Read
 
@@ -46,19 +44,17 @@ The Narrator answers truthfully, the way the target's body and behavior reveal i
 
 When starting a Confront or Accepting the Confront against a target [Read](../../Condi%C3%A7%C3%B5es/Lido.md) by you, you can use **Cunning** instead of the Attribute normally set for the Attack's Pool.
 
-The replacement applies to any kind of Attack, whether melee, with a shooting weapon or with a thrown weapon. Since it is set by a Capability, it takes precedence over the [Heavy](../../Equipamentos/Armas.md#use-optional) property and other rules that set the Attack's Attribute.
+The replacement applies to any kind of Attack and takes precedence over the [Heavy](../../Equipamentos/Armas.md#use-optional) property.
 
 ## Level 3 — Nothing Escapes
 
 You get a number of extra dice equal to your Mentalist Level on every **Cunning + Perception** test, including [Cold Read](#level-1--cold-read).
 
-The bonus increases automatically as you level up: **+3 dice** at Level 3, **+4** at Level 4 and **+5** at Level 5.
-
 ## Level 4 — Manipulation
 
 On **Persuasion**, **Intimidation** and **Deception** tests, you get a number of extra dice equal to your **Cunning**.
 
-These dice are a bonus granted by this Capability, not a second Attribute in the Pool: the test still uses the Attribute normally set for the Skill.
+These dice are a bonus, not a second Attribute: the test still uses the Skill's normal Attribute.
 
 ## Level 5 — I Knew It
 

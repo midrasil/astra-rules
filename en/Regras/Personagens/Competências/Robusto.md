@@ -1,9 +1,7 @@
-<!-- source: 87cd0c6fa5b1 -->
+<!-- source: d1ded9488302 -->
 # Robust
 
 Robust represents the character whose body withstands more wounds than usual, whether through natural constitution, training or a life of hardship.
-
-The Competency has a single Capability, received at Level 1. The following Levels increase its potency.
 
 ## Progression
 

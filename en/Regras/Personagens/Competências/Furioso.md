@@ -1,13 +1,9 @@
-<!-- source: 814fe03b814b -->
+<!-- source: 7fd379213081 -->
 # Furious
 
-Furious represents the fighter who abandons caution, trades defense for aggression and turns pain and Willpower into brute force to crush whoever stands before them.
+Furious represents the fighter who trades defense for aggression and turns pain and Willpower into brute force.
 
-The Competency is not limited to one kind of weapon. Its Capabilities work with any melee Attack, armed or unarmed.
-
-## Fury
-
-Fury is the state the character enters through this Competency's Capabilities. It is not a core Condition: its rules are set only here and apply only to characters with Levels in Furious.
+Fury is not a core Condition: its rules are set only in this Competency.
 
 ## Progression
 
@@ -23,7 +19,7 @@ Fury is the state the character enters through this Competency's Capabilities. I
 
 During combat, on your Turn, you can take 1 point of superficial Willpower damage to enter Fury. Entering Fury does not spend your Action.
 
-Fury lasts until the end of your next Turn. Whenever you start a Confront with a melee Attack or a thrown weapon, the duration is extended until the end of your following Turn. Accepting the Confront does not extend Fury. This way, Fury lasts as long as you keep attacking every Turn. It also ends at the end of combat.
+Fury lasts until the end of your next Turn. Whenever you start a Confront with a melee Attack or a thrown weapon, the duration is extended until the end of your following Turn. Accepting the Confront does not extend Fury. It also ends at the end of combat.
 
 While in Fury:
 
@@ -46,9 +42,7 @@ This bonus adds no dice to the Pool and does not apply to the counterattack when
 
 While in Fury, your base Movement increases by **+2 squares**.
 
-In addition, on entering Fury, you immediately get the effect of the [Run](../../Movimento/Correr.md) Action on that Turn, without spending your Action.
-
-Since Run grants extra squares equal to base Movement, this Capability's increase also applies to that bonus.
+In addition, on entering Fury, you immediately get the effect of the [Run](../../Movimento/Correr.md) Action on that Turn, without spending your Action. The Movement increase also applies to this Run.
 
 ## Level 4 — Beyond Pain
 
@@ -63,7 +57,7 @@ When Fury ends, effects that would apply Fear again work as usual from that mome
 
 While in Fury, having your whole Health track filled with aggravated damage does not leave you incapacitated right away. You keep acting as usual, but at the start of each of your Turns in this situation you must take **1 point of aggravated Willpower damage** to stay on your feet.
 
-In addition, each instance of Health damage you take in this situation, whether from an Attack or any other source, such as a dragon's breath, causes **1 point of aggravated Willpower damage**, whatever the amount of damage dealt.
+In addition, each instance of Health damage you take in this situation, from any source, causes **1 point of aggravated Willpower damage**, whatever the amount of damage dealt.
 
 You become incapacitated when:
 
