@@ -1,4 +1,4 @@
-<!-- source: 23c1f1e4c217 -->
+<!-- source: e4b00d5f9984 -->
 # Competencies
 
 **Competencies** represent developed ways of acting, fighting, thinking or interacting with the world. Each has its own identity and a fixed progression.
@@ -86,7 +86,6 @@ A Level can grant a new Capability, more than one effect of the same advance, or
 - [Parrier](Aparador.md) — Parrying Attacks with your own weapon, adding its Damage when Defending, first in melee and then at range as well.
 - [Assassin](Assassino.md) — acting first in Initiative, extra damage against targets without a response and Stealth outside combat.
 - [Marksman](Atirador.md) — preparation, keeping the Aim, precision and ranged shots with the Shooting Skill.
-- [Slayer](Bruxo.md) — signs and study of undead, spirits and aberrations with Occultism, stronger strikes against the Read monster, immunity to its Fear and damage that stops its Regeneration.
 - [Hunter](Ca%C3%A7ador.md) — tracking with Survival, studying beasts and monsters with the Nature Specific Knowledge and stronger strikes against Read prey.
 - [Furious](Furioso.md) — Fury, melee aggression and damage that grows with the wounds suffered.
 - [Guardian](Guardi%C3%A3o.md) — Defending with a Shield for yourself and your allies: Cover Ally on Defend and Dodge, swapping places to take an Attack, Protection against Zones and blocking on a tie.
