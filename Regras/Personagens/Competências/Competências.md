@@ -83,6 +83,7 @@ Um Nível pode conceder uma nova Capacidade, mais de um efeito do mesmo avanço 
 - [Aparador](Aparador.md) — Aparar Ataques com a própria arma, somando o Dano dela ao Defender, primeiro corpo a corpo e depois também à distância.
 - [Assassino](Assassino.md) — agir primeiro na Iniciativa, dano extra contra alvos sem resposta e Furtividade fora de combate.
 - [Atirador](Atirador.md) — preparação, conservação da Mira, precisão e disparos a distância com a Perícia Atirar.
+- [Bruxo](Bruxo.md) — sinais e estudo de mortos-vivos, espíritos e aberrações com Ocultismo, golpes mais fortes contra o monstro Lido, imunidade ao Medo dele e dano que impede a sua Regeneração.
 - [Caçador](Ca%C3%A7ador.md) — rastreio com Sobrevivência, estudo de bestas e monstros com o Conhecimento Específico Natureza e golpes mais fortes contra a presa Lida.
 - [Furioso](Furioso.md) — Fúria, agressão corpo a corpo e dano que cresce com os ferimentos sofridos.
 - [Guardião](Guardi%C3%A3o.md) — Defender com Escudo para si e para os aliados: Cobrir Aliado no Defender e no Esquivar, trocar de lugar para receber um Ataque, Proteção contra Zonas e bloqueio no empate.
