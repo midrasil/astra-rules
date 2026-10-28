@@ -1,10 +1,10 @@
 # Caçador
 
-Caçador representa o personagem que vive dos ermos e das criaturas que habitam neles. Ele segue rastros que outros não veem, conhece a fundo os animais e monstros que persegue e usa esse saber para abatê-los.
+Caçador representa o personagem que vive dos ermos e das criaturas que habitam neles. Ele segue rastros que outros não veem, conhece a fundo os animais, os monstros e as criaturas sobrenaturais que persegue e usa esse saber para abatê-los.
 
-As Capacidades desta Competência utilizam a Perícia **Sobrevivência** e o [Conhecimento Específico](../Per%C3%ADcias.md#conhecimento-espec%C3%ADfico) **Natureza**: o saber aprofundado sobre a fauna, a flora, os terrenos e o clima dos ermos. Sem Nível em Natureza, a Reserva utiliza apenas Astúcia.
+As Capacidades desta Competência utilizam a Perícia **Sobrevivência**, o [Conhecimento Específico](../Per%C3%ADcias.md#conhecimento-espec%C3%ADfico) **Natureza**: o saber aprofundado sobre a fauna, a flora, os terrenos e o clima dos ermos; e a Perícia [Ocultismo](../Per%C3%ADcias.md#lista-de-per%C3%ADcias). Sem Nível em Natureza ou Ocultismo, a Reserva utiliza apenas Astúcia.
 
-Uma **presa** é uma criatura dos [Tipos](../Tipos%20de%20Criatura.md) **Besta**, **Planta** ou **Monstruosidade**.
+Uma **presa** é uma criatura de qualquer [Tipo](../Tipos%20de%20Criatura.md), exceto **Humanoide**. Contra Besta, Planta, Monstruosidade e Dragão, o estudo utiliza **Natureza**; contra Morto-vivo, Constructo, Elemental, Espírito e Aberração, utiliza **Ocultismo**.
 
 ## Progressão
 
@@ -24,7 +24,7 @@ Ao seguir rastros com sucesso, você também descobre que criatura os deixou, qu
 
 ## Nível 2 — Conhecer a Presa
 
-Você pode utilizar sua Ação para estudar uma presa que consiga observar. Teste **Astúcia + Natureza** contra uma [Dificuldade](../../Mec%C3%A2nica%20B%C3%A1sica/Reserva%20de%20Dados.md#escala-de-dificuldade) definida pelo Narrador.
+Você pode utilizar sua Ação para estudar uma presa que consiga observar. Teste **Astúcia + Natureza** ou **Astúcia + Ocultismo**, conforme o Tipo da presa, contra uma [Dificuldade](../../Mec%C3%A2nica%20B%C3%A1sica/Reserva%20de%20Dados.md#escala-de-dificuldade) definida pelo Narrador.
 
 Qualquer que seja o resultado, a presa fica [Lida](../../Condi%C3%A7%C3%B5es/Lido.md) por você até o fim da Cena. Você não pode estudar uma presa que já esteja Lida por você.
 
