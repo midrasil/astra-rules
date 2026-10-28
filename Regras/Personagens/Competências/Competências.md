@@ -83,7 +83,7 @@ Um Nível pode conceder uma nova Capacidade, mais de um efeito do mesmo avanço 
 - [Assassino](Assassino.md) — agir primeiro na Iniciativa, dano extra contra alvos sem resposta e Furtividade fora de combate.
 - [Atirador](Atirador.md) — preparação, conservação da Mira, precisão e disparos a distância com a Perícia Atirar.
 - [Furioso](Furioso.md) — Fúria, agressão corpo a corpo e dano que cresce com os ferimentos sofridos.
-- [Guardião](Guardi%C3%A3o.md) — Defender com Escudo para si e para os aliados: Cobrir Aliado, trocar de lugar para receber um Ataque, Proteção contra Zonas e bloqueio no empate.
+- [Guardião](Guardi%C3%A3o.md) — Defender com Escudo para si e para os aliados: Cobrir Aliado no Defender e no Esquivar, trocar de lugar para receber um Ataque, Proteção contra Zonas e bloqueio no empate.
 - [Mentalista](Mentalista.md) — leitura de pessoas e inimigos pela Condição Lido, Astúcia em Ataques e testes sociais.
 - [Robusto](Robusto.md) — trilha de Vida maior, que cresce com o Nível da Competência.
 

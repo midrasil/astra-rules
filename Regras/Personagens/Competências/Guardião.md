@@ -16,13 +16,15 @@ As Capacidades desta Competência exigem que você esteja empunhando um [Escudo]
 
 ## Nível 1 — Cobrir Aliado
 
-Uma vez por Rodada, quando um aliado adjacente a você for alvo de um Ataque, ele pode escolher [Defender](../../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Confrontar.md#defender) mesmo sem um Escudo, somando a **Proteção do seu Escudo** à própria Reserva:
+Uma vez por Rodada, quando um aliado adjacente a você for alvo de um Ataque, ele soma a **Proteção do seu Escudo** à própria Reserva se escolher [Defender](../../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Confrontar.md#defender) ou [Esquivar](../../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Confrontar.md#esquivar). Ele pode Defender mesmo sem um Escudo:
 
-> **Reserva do aliado = Força + Lutar do aliado + Proteção do seu Escudo**
+> **Defender = Força + Lutar do aliado + Proteção do seu Escudo**
+>
+> **Esquivar = Agilidade + Acrobacia do aliado + Proteção do seu Escudo**
 
-Se o aliado também estiver empunhando um Escudo, ele utiliza a maior Proteção entre os dois. As Proteções não se somam.
+Se o aliado Defender empunhando um Escudo próprio, ele utiliza a maior Proteção entre os dois. As Proteções não se somam.
 
-Você decide usar Cobrir Aliado depois que o Ataque é declarado e antes de o aliado escolher sua resposta. Se ele não escolher Defender, o uso da Rodada é perdido.
+Você decide usar Cobrir Aliado depois que o Ataque é declarado e antes de o aliado escolher sua resposta. Se ele Aceitar o Confronto, o uso da Rodada é perdido.
 
 Você não pode Cobrir um aliado enquanto estiver surpreendido, incapacitado ou [Paralisado](../../Condi%C3%A7%C3%B5es/Paralisado.md).
 

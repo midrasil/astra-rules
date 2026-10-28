@@ -1,4 +1,4 @@
-<!-- source: bb8c40abedd2 -->
+<!-- source: 2c659de4e0eb -->
 # Guardian
 
 Guardian represents the shield fighter who plants themselves between danger and those at their side, protecting themselves and extending their defense to their allies.
@@ -17,13 +17,15 @@ The Capabilities of this Competency require you to be holding a [Shield](../../E
 
 ## Level 1 — Cover Ally
 
-Once per Round, when an ally adjacent to you is the target of an Attack, they can choose to [Defend](../../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Confrontar.md#defend) even without a Shield, adding **your Shield's Protection** to their own Pool:
+Once per Round, when an ally adjacent to you is the target of an Attack, they add **your Shield's Protection** to their own Pool if they choose to [Defend](../../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Confrontar.md#defend) or [Dodge](../../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Confrontar.md#dodge). They can Defend even without a Shield:
 
-> **Ally's Pool = the ally's Strength + Fighting + your Shield's Protection**
+> **Defend = the ally's Strength + Fighting + your Shield's Protection**
+>
+> **Dodge = the ally's Agility + Acrobatics + your Shield's Protection**
 
-If the ally is also holding a Shield, they use the higher Protection of the two. The Protections do not stack.
+If the ally Defends holding a Shield of their own, they use the higher Protection of the two. The Protections do not stack.
 
-You decide to use Cover Ally after the Attack is declared and before the ally chooses their response. If they do not choose to Defend, the use for the Round is lost.
+You decide to use Cover Ally after the Attack is declared and before the ally chooses their response. If they Accept the Confront, the use for the Round is lost.
 
 You cannot Cover an ally while you are surprised, incapacitated or [Paralyzed](../../Condi%C3%A7%C3%B5es/Paralisado.md).
 
