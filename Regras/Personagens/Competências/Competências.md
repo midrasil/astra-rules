@@ -88,6 +88,7 @@ Um Nível pode conceder uma nova Capacidade, mais de um efeito do mesmo avanço 
 - [Guardião](Guardi%C3%A3o.md) — Defender com Escudo para si e para os aliados: Cobrir Aliado no Defender e no Esquivar, trocar de lugar para receber um Ataque, Proteção contra Zonas e bloqueio no empate.
 - [Mentalista](Mentalista.md) — leitura de pessoas e inimigos pela Condição Lido, Astúcia em Ataques e testes sociais.
 - [Robusto](Robusto.md) — trilha de Vida maior, que cresce com o Nível da Competência.
+- [Sentinela](Sentinela.md) — Ataque de Oportunidade contra quem sai do alcance da sua arma corpo a corpo ou ataca seus aliados, parando o deslocamento do alvo.
 
 ---
 

@@ -9,7 +9,7 @@ Este documento registra a nova direção estrutural do sistema de **Competência
 
 Competências representam formas desenvolvidas de agir, lutar, pensar ou interagir com o mundo. Elas ocupam uma função semelhante à de **classes modulares**, mas nenhum personagem fica limitado a apenas uma delas.
 
-Cada Competência possui uma identidade mecânica própria e uma progressão fixa de cinco Níveis. O personagem pode combinar níveis de diferentes Competências para construir seu estilo.
+Cada Competência possui uma identidade mecânica própria e uma progressão fixa de até cinco Níveis. O personagem pode combinar níveis de diferentes Competências para construir seu estilo.
 
 Competências não são limitadas ao combate e não são divididas em categorias obrigatórias. Agrupamentos utilizados durante a criação do sistema servem apenas para organizar o trabalho.
 
@@ -24,7 +24,7 @@ Isso permite, por exemplo, que uma Competência baseada em **Atirar** funcione c
 Uma Competência pode exigir um equipamento quando sua técnica depender dele, mas não deve ser limitada desnecessariamente a uma arma específica.
 ## Progressão fixa
 
-Toda Competência possui **cinco Níveis**.
+Uma Competência possui **de 1 a 5 Níveis**, conforme o que o seu tema sustenta. Competências de combate costumam usar os cinco; Competências mais simples ou sem foco em combate podem terminar antes, e o último Nível da tabela passa a ser o seu Nível máximo.
 
 Cada Nível concede automaticamente uma Capacidade ou um pequeno pacote de Capacidades complementares. O personagem não escolhe uma opção dentro de um catálogo: ao adquirir o Nível, recebe aquilo que está definido nele.
 
@@ -36,7 +36,7 @@ Cada Nível concede automaticamente uma Capacidade ou um pequeno pacote de Capac
 | **4 — Domínio** | Modifica de maneira significativa sua mecânica principal. |
 | **5 — Ápice** | Concede a expressão máxima daquela Competência. |
 
-A função de cada Nível é uma referência de criação, não uma limitação rígida. O importante é que a progressão apresente começo, desenvolvimento e culminação reconhecíveis.
+A função de cada Nível é uma referência de criação, não uma limitação rígida. Competências com menos Níveis condensam essas funções. O importante é que a progressão apresente começo, desenvolvimento e culminação reconhecíveis.
 
 ## Capacidades
 
@@ -149,7 +149,7 @@ Preferencialmente, ela deve introduzir uma forma própria de agir, possuir uma c
 
 O custo global impede aquisições baratas, mas não elimina a necessidade de controlar combinações excessivamente eficientes entre fundamentos diferentes.
 
-### Cada Competência precisa sustentar cinco Níveis
+### Cada Nível precisa ser relevante
 
 Uma Competência não deve ser criada apenas porque existem duas ou três Capacidades tematicamente relacionadas.
 
@@ -157,11 +157,11 @@ Antes de ser aceita, ela precisa sustentar:
 
 - uma identidade distinta;
 - uma mecânica ou rotina de jogo própria;
-- cinco etapas de evolução relevantes;
+- etapas de evolução relevantes, sem Níveis criados apenas para completar cinco;
 - um Ápice reconhecível;
 - espaço para combinação com outras Competências.
 
-Quando um conceito não sustentar essa progressão, ele deve ser incorporado a uma Competência mais ampla.
+Quando um conceito não sustentar nem uma progressão curta, ele deve ser incorporado a uma Competência mais ampla.
 
 ### Progressão em vez de acúmulo
 
@@ -183,7 +183,7 @@ O acúmulo de dados continua sendo parte central do sistema, conforme [[Acúmulo
 
 ### Profundidade e amplitude
 
-O Nível 5 deve ser suficientemente atraente para recompensar a especialização, sem tornar combinações entre Competências uma escolha inferior.
+O último Nível deve ser suficientemente atraente para recompensar a especialização, sem tornar combinações entre Competências uma escolha inferior.
 
 Da mesma forma, os Níveis iniciais devem funcionar juntos quando suas condições forem compatíveis, mas não devem produzir ciclos automáticos ou multiplicações descontroladas.
 
@@ -192,11 +192,24 @@ Da mesma forma, os Níveis iniciais devem funcionar juntos quando suas condiçõ
 Cada Competência apresentará:
 
 - nome e descrição de sua identidade;
-- uma seção para cada Nível, do 1 ao 5;
+- uma tabela de Progressão e uma seção para cada Nível;
 - o nome e a descrição mecânica da Capacidade concedida em cada Nível;
 - duas Capacidades na mesma seção somente quando forem partes complementares do mesmo avanço.
 
 A progressão não apresentará listas de opções nem campos de requisito entre suas Capacidades.
+
+## Escrita das Competências
+
+O texto oficial de uma Competência segue estas convenções:
+
+- **Texto consolidado.** Descreve o que a Competência concede e o funcionamento de cada Capacidade. Notas de implementação (Foundry), justificativas de design, exemplos longos e repetições ficam fora do texto oficial.
+- **Esclarecimentos curtos de regra são mantidos**, como o que acontece em caso de empate, quando a Capacidade não se aplica ou quando duas fontes não se somam.
+- **Segunda pessoa.** As Capacidades são escritas para o jogador ("você pode", "você sofre").
+- **Termos do sistema com inicial maiúscula** (Ataque, Confronto, Reserva, Rodada, Turno, Movimentação), com link para a regra na primeira menção.
+- **Custos de Vontade** são escritos como "sofrer **1 ponto de dano superficial de Vontade**".
+- **Somente mecânicas existentes.** Uma Capacidade não pressupõe regras que o sistema não possui; quando precisar de uma, ela é criada e documentada no lugar próprio.
+- **Estrutura:** título, parágrafo de identidade, requisitos comuns às Capacidades (quando houver), tabela **Progressão** (Nível e Capacidade concedida, com coluna extra quando um valor cresce por Nível), uma seção `## Nível N — Nome` por Nível e o link de volta para Competências.
+- **Versão em inglês** em `en/`, no mesmo PR, com o hash `<!-- source -->` do arquivo em português.
 
 ## Distinção dos Privilégios
 
@@ -222,7 +235,7 @@ Os arquivos oficiais de criação, avanço e Competências já utilizam o novo m
 
 ## Decisões fechadas
 
-- Competências possuem cinco Níveis.
+- Competências possuem de 1 a 5 Níveis, definidos pelo tema e não preenchidos para chegar a cinco.
 - A progressão de cada Competência é fixa.
 - Cada Nível concede automaticamente uma Capacidade ou um pequeno pacote complementar.
 - Personagens podem possuir mais de uma Competência.

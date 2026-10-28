@@ -2,7 +2,7 @@
 
 Esta lista organiza a criação das primeiras Competências no novo modelo de progressão fixa descrito em [[Fundamento]].
 
-Ela é um roteiro de trabalho. Marcar uma Competência como concluída exige que seus cinco Níveis estejam escritos, revisados em conjunto e incorporados às regras oficiais.
+Ela é um roteiro de trabalho. Marcar uma Competência como concluída exige que todos os seus Níveis estejam escritos, revisados em conjunto e incorporados às regras oficiais.
 
 ## Primeiro ciclo — formas de combate com Atirar
 
@@ -125,10 +125,10 @@ A antiga Competência [[Regras/Personagens/Competências/Atirador|Atirador]] ser
 ## Critérios para concluir cada Competência
 
 - [ ] possui identidade própria;
-- [ ] possui cinco Níveis em progressão fixa;
+- [ ] possui de 1 a 5 Níveis em progressão fixa;
 - [ ] cada Nível possui um orçamento reconhecível de poder;
 - [ ] o Nível 1 estabelece uma forma de jogo, não um bônus universal;
-- [ ] o Nível 5 recompensa a especialização;
+- [ ] o último Nível recompensa a especialização;
 - [ ] funciona isoladamente;
 - [ ] pode ser combinada com as outras Competências;
 - [ ] não depende de requisitos internos;
