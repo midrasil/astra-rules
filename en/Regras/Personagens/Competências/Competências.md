@@ -86,9 +86,9 @@ A Level can grant a new Capability, more than one effect of the same advance, or
 - [Parrier](Aparador.md) — Parrying Attacks with your own weapon, adding its Damage when Defending, first in melee and then at range as well.
 - [Assassin](Assassino.md) — acting first in Initiative, extra damage against targets without a response and Stealth outside combat.
 - [Marksman](Atirador.md) — preparation, keeping the Aim, precision and ranged shots with the Shooting Skill.
+- [Hunter](Ca%C3%A7ador.md) — tracking with Survival, studying beasts and monsters with the Nature Specific Knowledge and stronger strikes against Read prey.
 - [Furious](Furioso.md) — Fury, melee aggression and damage that grows with the wounds suffered.
 - [Guardian](Guardi%C3%A3o.md) — Defending with a Shield for yourself and your allies: Cover Ally on Defend and Dodge, swapping places to take an Attack, Protection against Zones and blocking on a tie.
-- [Hunter](Ca%C3%A7ador.md) — tracking with Survival, studying beasts and monsters with the Nature Specific Knowledge and stronger strikes against Read prey.
 - [Mentalist](Mentalista.md) — reading people and enemies through the Read Condition, Cunning on Attacks and social tests.
 - [Robust](Robusto.md) — a larger Health track that grows with the Competency's Level.
 
