@@ -1,6 +1,6 @@
-Atirador representa o personagem que prepara seus disparos, conserva a Mira e supera distância ou proteção para atingir um alvo com precisão.
+# Atirador
 
-A Competência não é limitada a arcos. Suas Capacidades funcionam com qualquer arma ou equipamento cujo Ataque utilize a **Perícia Atirar**, como arcos, bestas e armas de fogo.
+Atirador representa o personagem que prepara seus disparos e conserva a Mira para atingir um alvo com precisão. Suas Capacidades valem para qualquer Ataque com a Perícia **Atirar**.
 
 ## Progressão
 

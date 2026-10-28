@@ -1,9 +1,7 @@
-<!-- source: df374647a121 -->
+<!-- source: 9530287a5e17 -->
 # Marksman
 
-Marksman represents the character who prepares their shots, keeps their Aim and overcomes distance or cover to hit a target with precision.
-
-The Competency is not limited to bows. Its Capabilities work with any weapon or equipment whose Attack uses the **Shooting Skill**, such as bows, crossbows and firearms.
+Marksman represents the character who prepares their shots and keeps their Aim to hit a target with precision. Its Capabilities apply to any Attack with the **Shooting** Skill.
 
 ## Progression
 

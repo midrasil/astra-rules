@@ -1,12 +1,8 @@
 # Furioso
 
-Furioso representa o combatente que abandona a cautela, troca defesa por agressão e transforma dor e Vontade em força bruta para esmagar quem estiver à sua frente.
+Furioso representa o combatente que troca defesa por agressão e transforma dor e Vontade em força bruta.
 
-A Competência não é limitada a um tipo de arma. Suas Capacidades funcionam com qualquer Ataque corpo a corpo, armado ou desarmado.
-
-## Fúria
-
-Fúria é o estado em que o personagem entra por meio das Capacidades desta Competência. Ela não é uma Condição do núcleo: suas regras são definidas somente aqui e valem apenas para personagens que possuem Níveis em Furioso.
+Fúria não é uma Condição do núcleo: suas regras são definidas somente nesta Competência.
 
 ## Progressão
 
@@ -22,7 +18,7 @@ Fúria é o estado em que o personagem entra por meio das Capacidades desta Comp
 
 Durante um combate, no seu Turno, você pode sofrer 1 ponto de dano superficial de Vontade para entrar em Fúria. Entrar em Fúria não gasta sua Ação.
 
-A Fúria dura até o final do seu próximo Turno. Sempre que você iniciar um Confronto com um Ataque corpo a corpo ou com uma arma arremessada, a duração é prolongada até o final do seu Turno seguinte. Aceitar o Confronto não prolonga a Fúria. Dessa forma, a Fúria se mantém enquanto você continuar atacando a cada Turno. Ela também termina no fim do combate.
+A Fúria dura até o final do seu próximo Turno. Sempre que você iniciar um Confronto com um Ataque corpo a corpo ou com uma arma arremessada, a duração é prolongada até o final do seu Turno seguinte. Aceitar o Confronto não prolonga a Fúria. Ela também termina no fim do combate.
 
 Enquanto estiver em Fúria:
 
@@ -45,9 +41,7 @@ Esse bônus não acrescenta dados à Reserva e não se aplica ao revide ao Aceit
 
 Enquanto estiver em Fúria, sua Movimentação base aumenta em **+2 quadrados**.
 
-Além disso, ao entrar em Fúria, você recebe imediatamente o efeito da Ação [Correr](../../Movimento/Correr.md) naquele Turno, sem gastar sua Ação.
-
-Como Correr concede quadrados adicionais iguais à Movimentação base, o aumento desta Capacidade também é aplicado a esse bônus.
+Além disso, ao entrar em Fúria, você recebe imediatamente o efeito da Ação [Correr](../../Movimento/Correr.md) naquele Turno, sem gastar sua Ação. O aumento de Movimentação também vale para esse Correr.
 
 ## Nível 4 — Além da Dor
 
@@ -62,7 +56,7 @@ Quando a Fúria termina, efeitos que voltariam a aplicar Medo funcionam normalme
 
 Enquanto estiver em Fúria, ter toda a trilha de Vida preenchida por dano agravado não deixa você incapacitado imediatamente. Você continua agindo normalmente, mas no começo de cada um dos seus Turnos nessa situação precisa sofrer **1 ponto de dano agravado de Vontade** para continuar de pé.
 
-Além disso, cada instância de dano na Vida que você sofrer nessa situação, seja de um Ataque ou de qualquer outra fonte, como o sopro de um dragão, provoca **1 ponto de dano agravado de Vontade**, independentemente da quantidade de dano causada.
+Além disso, cada instância de dano na Vida que você sofrer nessa situação, de qualquer fonte, provoca **1 ponto de dano agravado de Vontade**, independentemente da quantidade de dano causada.
 
 Você fica incapacitado quando:
 
