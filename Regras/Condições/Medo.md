@@ -4,7 +4,7 @@
 
 No **fim de cada Turno** do personagem afetado, ele perde 1 acúmulo de Medo.
 
-O Medo é aplicado, por exemplo, pela característica **Aterrorizante** (ver [Características de NPC](../Personagens/Caracter%C3%ADsticas%20de%20NPC.md)).
+O Medo é aplicado, por exemplo, pela característica **Aterrorizante** (ver [Características de NPC](../Criaturas/Caracter%C3%ADsticas%20de%20NPC.md)).
 
 ---
 

@@ -12,7 +12,7 @@ Esta seção reúne os elementos que definem as capacidades, recursos, motivaç�
 ## Natureza
 
 - [Tamanho](Tamanho.md) — porte físico, espaço ocupado no mapa e quem pode mover quem.
-- [Tipos de Criatura](Tipos%20de%20Criatura.md) — classificação da natureza do personagem ou criatura.
+- [Tipos de Criatura](../Criaturas/Tipos%20de%20Criatura.md) — classificação da natureza do personagem ou criatura.
 
 ## Recursos
 
@@ -24,9 +24,9 @@ Esta seção reúne os elementos que definem as capacidades, recursos, motivaç�
 
 - [Ambição e Desejo](Ambi%C3%A7%C3%A3o%20e%20Desejo.md) — objetivos de longo e curto prazo.
 - [Convicções e Pilares](Convic%C3%A7%C3%B5es%20e%20Pilares.md) — princípios que o personagem defende e o que os sustenta.
-- [Privilégios](Privil%C3%A9gios/Privil%C3%A9gios.md) — relações, reconhecimento, posição social, propriedades e recursos do personagem.
-- [Competências](Compet%C3%AAncias/Compet%C3%AAncias.md) — conjuntos de Capacidades que modificam aquilo que o personagem consegue fazer.
-- [Complicações](Complica%C3%A7%C3%B5es/Complica%C3%A7%C3%B5es.md) — problemas narrativos que criam situações e consequências na história.
+- [Privilégios](../Privil%C3%A9gios/Privil%C3%A9gios.md) — relações, reconhecimento, posição social, propriedades e recursos do personagem.
+- [Competências](../Compet%C3%AAncias/Compet%C3%AAncias.md) — conjuntos de Capacidades que modificam aquilo que o personagem consegue fazer.
+- [Complicações](../Complica%C3%A7%C3%B5es/Complica%C3%A7%C3%B5es.md) — problemas narrativos que criam situações e consequências na história.
 
 ## Progressão
 

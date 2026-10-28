@@ -1,4 +1,4 @@
-<!-- source: 5d7df4b213c9 -->
+<!-- source: 842a14095920 -->
 # Privileges and Complications
 
 Besides Attributes and Skills, the character is defined by the **Privileges** they have and by the **Complications** that create problems in their story.
@@ -9,7 +9,7 @@ The character receives:
 
 > **7 Privilege Points**
 
-When acquiring [Privileges](../Regras/Personagens/Privil%C3%A9gios/Privil%C3%A9gios.md):
+When acquiring [Privileges](../Regras/Privil%C3%A9gios/Privil%C3%A9gios.md):
 
 - each point grants **1 Level** in a Privilege; or
 - each point grants **1 Specialization** of a Privilege.
@@ -24,7 +24,7 @@ The character must acquire:
 
 > **4 Complication Points**
 
-Choose the Complications from the [List of Complications](../Regras/Personagens/Complica%C3%A7%C3%B5es/Lista%20de%20Complica%C3%A7%C3%B5es.md). Each one says whether it is available as **Minor**, **Major** or **Minor or Major**. When there is a choice, the player decides which type they are acquiring.
+Choose the Complications from the [List of Complications](../Regras/Complica%C3%A7%C3%B5es/Lista%20de%20Complica%C3%A7%C3%B5es.md). Each one says whether it is available as **Minor**, **Major** or **Minor or Major**. When there is a choice, the player decides which type they are acquiring.
 
 | Type acquired | Value |
 |---|---:|
@@ -43,7 +43,7 @@ Each Complication should be customized for the character. The player and the Nar
 
 Complications are narrative in nature. They create situations and consequences in the story, but apply no penalties or mechanical modifiers.
 
-Behavioral Complications guide how the character is played. When the situation pressures that behavior and the player wants to act against it, the character can resist by taking **1 point of superficial Willpower damage**, with no roll. See the [Complication rules](../Regras/Personagens/Complica%C3%A7%C3%B5es/Complica%C3%A7%C3%B5es.md#behavioral-complications).
+Behavioral Complications guide how the character is played. When the situation pressures that behavior and the player wants to act against it, the character can resist by taking **1 point of superficial Willpower damage**, with no roll. See the [Complication rules](../Regras/Complica%C3%A7%C3%B5es/Complica%C3%A7%C3%B5es.md#behavioral-complications).
 
 Complication Points are separate from Privilege Points. Acquiring Complications grants no additional Privileges, and unused points cannot be transferred between the two budgets.
 

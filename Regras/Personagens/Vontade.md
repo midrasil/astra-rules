@@ -68,13 +68,13 @@ Isso não representa necessariamente inconsciência ou perda total de controle. 
 
 A consequência específica depende das circunstâncias da cena e das decisões do Narrador para aquela situação.
 
-Após a resolução final do evento que causou o colapso, se suas consequências criarem um problema narrativo duradouro, o Narrador pode atribuir ao personagem uma nova [Complicação](Complica%C3%A7%C3%B5es/Complica%C3%A7%C3%B5es.md) **Menor** ou **Maior**. O jogador e o Narrador devem personalizá-la de acordo com o que aconteceu durante a história.
+Após a resolução final do evento que causou o colapso, se suas consequências criarem um problema narrativo duradouro, o Narrador pode atribuir ao personagem uma nova [Complicação](../Complica%C3%A7%C3%B5es/Complica%C3%A7%C3%B5es.md) **Menor** ou **Maior**. O jogador e o Narrador devem personalizá-la de acordo com o que aconteceu durante a história.
 
 ## Usando a Vontade
 
 A **Vontade** pode ser utilizada para permitir que um personagem ultrapasse momentaneamente seus próprios limites.
 
-Ao utilizar Vontade, o personagem sofre **1 ponto de dano superficial de Vontade** e escolhe um dos efeitos abaixo. O mesmo custo permite resistir a uma [Complicação comportamental](Complica%C3%A7%C3%B5es/Complica%C3%A7%C3%B5es.md#complica%C3%A7%C3%B5es-comportamentais).
+Ao utilizar Vontade, o personagem sofre **1 ponto de dano superficial de Vontade** e escolhe um dos efeitos abaixo. O mesmo custo permite resistir a uma [Complicação comportamental](../Complica%C3%A7%C3%B5es/Complica%C3%A7%C3%B5es.md#complica%C3%A7%C3%B5es-comportamentais).
 
 Um personagem com a trilha de Vontade cheia não pode utilizar Vontade, exceto para [Romper Limite](#romper-limite).
 
@@ -108,11 +108,11 @@ O dano superficial de Vontade sofrido para utilizar esses efeitos é marcado nor
 
 ### Romper Limite
 
-Quando a trilha de Vontade estiver cheia e ainda houver dano superficial nela, o personagem pode continuar a **Rerrolar Dados** ou a resistir a uma [Complicação comportamental](Complica%C3%A7%C3%B5es/Complica%C3%A7%C3%B5es.md#complica%C3%A7%C3%B5es-comportamentais) ao **Romper Limite**.
+Quando a trilha de Vontade estiver cheia e ainda houver dano superficial nela, o personagem pode continuar a **Rerrolar Dados** ou a resistir a uma [Complicação comportamental](../Complica%C3%A7%C3%B5es/Complica%C3%A7%C3%B5es.md#complica%C3%A7%C3%B5es-comportamentais) ao **Romper Limite**.
 
 Cada uso de Romper Limite converte **1 ponto de dano superficial de Vontade** em **dano agravado**, no lugar do dano superficial normal.
 
-Capacidades podem permitir que seus custos de Vontade sejam pagos ao Romper Limite, como a [Postura de Tiro Aprimorada](Compet%C3%AAncias/Atirador.md#n%C3%ADvel-4--postura-de-tiro-aprimorada) do Atirador.
+Capacidades podem permitir que seus custos de Vontade sejam pagos ao Romper Limite, como a [Postura de Tiro Aprimorada](../Compet%C3%AAncias/Atirador.md#n%C3%ADvel-4--postura-de-tiro-aprimorada) do Atirador.
 
 Com a trilha inteiramente preenchida por dano agravado, não é possível Romper Limite.
 

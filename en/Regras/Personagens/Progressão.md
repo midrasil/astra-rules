@@ -1,4 +1,4 @@
-<!-- source: 1f72bd1923b1 -->
+<!-- source: 6717f51faeea -->
 # Advancement
 
 In **Astra**, characters have no global levels. They grow gradually by acquiring and improving abilities over the campaign.
@@ -29,8 +29,8 @@ XP can be used to:
 
 - raise [Attributes](Atributos.md);
 - raise [Skills](Per%C3%ADcias.md);
-- acquire or raise [Privileges](Privil%C3%A9gios/Privil%C3%A9gios.md);
-- acquire or raise [Competencies](Compet%C3%AAncias/Compet%C3%AAncias.md);
+- acquire or raise [Privileges](../Privil%C3%A9gios/Privil%C3%A9gios.md);
+- acquire or raise [Competencies](../Compet%C3%AAncias/Compet%C3%AAncias.md);
 - acquire or develop abilities specific to a setting or module.
 
 Raising a trait means buying its **next level**. Intermediate levels cannot be skipped.
@@ -70,7 +70,7 @@ If a Capability replaced the Attribute of a formula, the value follows the repla
 
 ## Acquiring and raising Privileges
 
-Each new [Privilege Level](Privil%C3%A9gios/Privil%C3%A9gios.md#level) costs **3 XP**, whatever the current value. Acquiring the first Level and raising an existing Privilege use the same cost.
+Each new [Privilege Level](../Privil%C3%A9gios/Privil%C3%A9gios.md#level) costs **3 XP**, whatever the current value. Acquiring the first Level and raising an existing Privilege use the same cost.
 
 Each Privilege Specialization also costs **3 XP**. Raising the Level does not grant Specializations automatically.
 
@@ -78,7 +78,7 @@ Each Privilege Specialization also costs **3 XP**. Raising the Level does not gr
 
 The **Total Competency Level** is the sum of the Levels the character has in all their Competencies. This value is not a global character Level; it is used to calculate the cost of this advancement.
 
-Acquiring or raising a [Competency](Compet%C3%AAncias/Compet%C3%AAncias.md) costs **3 × the new Total Competency Level in XP**.
+Acquiring or raising a [Competency](../Compet%C3%AAncias/Compet%C3%AAncias.md) costs **3 × the new Total Competency Level in XP**.
 
 After paying, the character raises by 1 the Level of a Competency they already have or acquires Level 1 of a new Competency. Each increase automatically grants the content set for the new Level. No Competency can go beyond Level 5 or the maximum Level set in its progression, but there is no limit to the Total Competency Level.
 

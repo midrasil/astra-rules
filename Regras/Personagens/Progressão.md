@@ -26,8 +26,8 @@ O XP pode ser utilizado para:
 
 - aumentar [Atributos](Atributos.md);
 - aumentar [Perícias](Per%C3%ADcias.md);
-- adquirir ou aumentar [Privilégios](Privil%C3%A9gios/Privil%C3%A9gios.md);
-- adquirir ou aumentar [Competências](Compet%C3%AAncias/Compet%C3%AAncias.md);
+- adquirir ou aumentar [Privilégios](../Privil%C3%A9gios/Privil%C3%A9gios.md);
+- adquirir ou aumentar [Competências](../Compet%C3%AAncias/Compet%C3%AAncias.md);
 - adquirir ou desenvolver capacidades específicas de um cenário ou módulo.
 
 Aumentar uma característica significa comprar seu **próximo nível**. Não é possível ignorar níveis intermediários.
@@ -67,7 +67,7 @@ Se uma Capacidade substituiu o Atributo de uma fórmula, o valor passa a acompan
 
 ## Adquirindo e aumentando Privilégios
 
-Cada novo [Nível de Privilégio](Privil%C3%A9gios/Privil%C3%A9gios.md#n%C3%ADvel) custa **3 XP**, independentemente do valor atual. Adquirir o primeiro Nível e aumentar um Privilégio existente utilizam o mesmo custo.
+Cada novo [Nível de Privilégio](../Privil%C3%A9gios/Privil%C3%A9gios.md#n%C3%ADvel) custa **3 XP**, independentemente do valor atual. Adquirir o primeiro Nível e aumentar um Privilégio existente utilizam o mesmo custo.
 
 Cada Especialização de Privilégio também custa **3 XP**. Aumentar o Nível não concede Especializações automaticamente.
 
@@ -75,7 +75,7 @@ Cada Especialização de Privilégio também custa **3 XP**. Aumentar o Nível n
 
 O **Nível Total de Competências** é a soma dos Níveis que o personagem possui em todas as suas Competências. Esse valor não é um Nível global do personagem; ele é utilizado para calcular o custo dessa progressão.
 
-Adquirir ou aumentar uma [Competência](Compet%C3%AAncias/Compet%C3%AAncias.md) custa **3 × o novo Nível Total de Competências em XP**.
+Adquirir ou aumentar uma [Competência](../Compet%C3%AAncias/Compet%C3%AAncias.md) custa **3 × o novo Nível Total de Competências em XP**.
 
 Depois do pagamento, o personagem aumenta em 1 o Nível de uma Competência que já possui ou adquire o Nível 1 de uma nova Competência. Cada aumento concede automaticamente o conteúdo definido para o novo Nível. Nenhuma Competência pode ultrapassar o Nível 5 ou o Nível máximo indicado em sua progressão, mas não existe um limite para o Nível Total de Competências.
 

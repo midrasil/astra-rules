@@ -19,10 +19,14 @@ Para conhecer o sistema, esta é a ordem de leitura recomendada:
 
 ## Regras do sistema
 
-O núcleo está organizado em sete áreas principais:
+O núcleo está organizado em onze áreas principais:
 
 - [Mecânica Básica](Regras/Mec%C3%A2nica%20B%C3%A1sica/Mec%C3%A2nica%20B%C3%A1sica.md) — resolução de testes e resultados.
 - [Personagens](Regras/Personagens/Personagens.md) — capacidades, recursos, motivações e características dos personagens.
+- [Privilégios](Regras/Privil%C3%A9gios/Privil%C3%A9gios.md) — relações, reconhecimento, posição social, propriedades e recursos do personagem.
+- [Competências](Regras/Compet%C3%AAncias/Compet%C3%AAncias.md) — conjuntos de Capacidades que modificam aquilo que o personagem consegue fazer.
+- [Complicações](Regras/Complica%C3%A7%C3%B5es/Complica%C3%A7%C3%B5es.md) — problemas narrativos que criam situações e consequências na história.
+- [Criaturas](Regras/Criaturas/Criaturas.md) — tipos de criatura e características próprias de NPCs.
 - [Cenas e Conflitos](Regras/Cenas%20e%20Conflitos/Cenas%20e%20Conflitos.md) — estrutura das cenas táticas, turnos e ações de confronto.
 - [Movimento](Regras/Movimento/Movimento.md) — deslocamento e ações relacionadas à movimentação.
 - [Equipamentos](Regras/Equipamentos/Equipamentos.md) — carga, itens comuns, armas, armaduras, escudos e troca de itens.

@@ -4,7 +4,7 @@ O personagem recebe:
 
 > **2 Pontos de Competência**
 
-Cada ponto aumenta uma [Competência](../Regras/Personagens/Compet%C3%AAncias/Compet%C3%AAncias.md) em **1 Nível** e concede automaticamente o conteúdo daquele Nível.
+Cada ponto aumenta uma [Competência](../Regras/Compet%C3%AAncias/Compet%C3%AAncias.md) em **1 Nível** e concede automaticamente o conteúdo daquele Nível.
 
 Os pontos podem ser utilizados para começar com:
 
@@ -15,7 +15,7 @@ Os Níveis adquiridos também determinam o Nível Total de Competências do pers
 
 Pontos de Competência não utilizados não são convertidos em XP nem podem ser transferidos para Privilégios ou Complicações.
 
-Consulte a [lista de Competências](../Regras/Personagens/Compet%C3%AAncias/Compet%C3%AAncias.md#lista-de-compet%C3%AAncias) para conhecer as opções disponíveis.
+Consulte a [lista de Competências](../Regras/Compet%C3%AAncias/Compet%C3%AAncias.md#lista-de-compet%C3%AAncias) para conhecer as opções disponíveis.
 
 ---
 

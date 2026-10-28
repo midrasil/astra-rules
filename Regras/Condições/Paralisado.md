@@ -4,7 +4,7 @@ Quem ataca um personagem Paralisado usa a regra de alvo sem resposta do [Confron
 
 A condição dura **1 Turno**. Quando ela termina, o personagem fica imune a ficar Paralisado de novo por **1 Turno**.
 
-A condição é aplicada pela característica **Paralisante** (ver [Características de NPC](../Personagens/Caracter%C3%ADsticas%20de%20NPC.md)).
+A condição é aplicada pela característica **Paralisante** (ver [Características de NPC](../Criaturas/Caracter%C3%ADsticas%20de%20NPC.md)).
 
 ---
 

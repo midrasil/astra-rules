@@ -1,4 +1,4 @@
-<!-- source: 03ad94a8b839 -->
+<!-- source: 6bc4543aa029 -->
 # Fear
 
 **Fear** is a stacking Condition. Each stack imposes:
@@ -7,7 +7,7 @@
 
 At the **end of each Turn** of the affected character, they lose 1 stack of Fear.
 
-Fear is applied, for example, by the **Terrifying** trait (see [NPC Traits](../Personagens/Caracter%C3%ADsticas%20de%20NPC.md)).
+Fear is applied, for example, by the **Terrifying** trait (see [NPC Traits](../Criaturas/Caracter%C3%ADsticas%20de%20NPC.md)).
 
 ---
 
