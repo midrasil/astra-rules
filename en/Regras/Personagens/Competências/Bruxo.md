@@ -1,7 +1,7 @@
-<!-- source: abc3736e38aa -->
+<!-- source: 2c1eefcaf9ec -->
 # Slayer
 
-Slayer represents the character who hunts the creatures the ordinary world fears and does not understand: the dead that do not rest, spirits and aberrations. They recognize the signs those creatures leave, know their weaknesses and endure what they do to others in order to put an end to them for good.
+Slayer represents the character who hunts the creatures the ordinary world fears and does not understand: the dead that do not rest, spirits and aberrations. They recognize the signs those creatures leave, know their weaknesses and face them without fear to put an end to them for good.
 
 This Competency's Capabilities use the [Occultism](../Per%C3%ADcias.md#list-of-skills) Skill.
 
@@ -13,7 +13,7 @@ A **monster** is a creature of the **Undead**, **Spirit** or **Aberration** [Typ
 |---:|---|---:|
 | **1** | Signs of the Supernatural | — |
 | **2** | Know the Monster | — |
-| **3** | Mutant Blood | — |
+| **3** | Slayer's Strike | — |
 | **4** | Weak Spot | +4 |
 | **5** | Monster Slayer | +5 |
 
@@ -44,9 +44,9 @@ Each question reveals a single Resistance, Immunity, Vulnerability or Trait. Whe
 
 When interpreting a monster's traces with [Signs of the Supernatural](#level-1--signs-of-the-supernatural), you can make this test from the traces, without spending an Action. The monster becomes Read by you during the first Scene in which you find it.
 
-## Level 3 — Mutant Blood
+## Level 3 — Slayer's Strike
 
-You get **+2 dice** on tests to resist [Terrifying](../Caracter%C3%ADsticas%20de%20NPC.md#terrifying-potency-2-determination--cunning-stacks-equal-to-potency) and the on-hit effects of any creature: **Venomous**, **Paralyzing**, **Stunning** and **Infectious**.
+You get **+2 dice** when starting a Confrontation with an Attack against a monster [Read](../../Condi%C3%A7%C3%B5es/Lido.md) by you.
 
 ## Level 4 — Weak Spot
 
@@ -56,7 +56,7 @@ The bonus applies to any kind of Attack, including on a tie, when the weapon's D
 
 ## Level 5 — Monster Slayer
 
-You get **+2 dice** when starting a Confrontation with an Attack against a monster [Read](../../Condi%C3%A7%C3%B5es/Lido.md) by you.
+A monster [Read](../../Condi%C3%A7%C3%B5es/Lido.md) by you cannot inflict [Fear](../../Condi%C3%A7%C3%B5es/Medo.md) on you.
 
 All damage you deal to that monster interrupts its [Regeneration](../Caracter%C3%ADsticas%20de%20NPC.md#regeneration-2-interrupted-by-the-damage-type-or-material-set-on-the-creature), whatever the Damage Type or the weapon's Material.
 

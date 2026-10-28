@@ -1,6 +1,6 @@
 # Bruxo
 
-Bruxo representa o personagem que caça as criaturas que o mundo comum teme e não entende: mortos que não descansam, espíritos e aberrações. Ele reconhece os sinais que elas deixam, conhece suas fraquezas e suporta o que elas fazem com os outros para acabar com elas de vez.
+Bruxo representa o personagem que caça as criaturas que o mundo comum teme e não entende: mortos que não descansam, espíritos e aberrações. Ele reconhece os sinais que elas deixam, conhece suas fraquezas e as enfrenta sem medo para acabar com elas de vez.
 
 As Capacidades desta Competência utilizam a Perícia [Ocultismo](../Per%C3%ADcias.md#lista-de-per%C3%ADcias).
 
@@ -12,7 +12,7 @@ Um **monstro** é uma criatura dos [Tipos](../Tipos%20de%20Criatura.md) **Morto-
 |---:|---|---:|
 | **1** | Sinais do Sobrenatural | — |
 | **2** | Conhecer o Monstro | — |
-| **3** | Sangue Mutante | — |
+| **3** | Golpe do Bruxo | — |
 | **4** | Ponto Fraco | +4 |
 | **5** | Matador de Monstros | +5 |
 
@@ -43,9 +43,9 @@ Cada pergunta revela uma única Resistência, Imunidade, Vulnerabilidade ou Cara
 
 Ao interpretar os vestígios de um monstro com os [Sinais do Sobrenatural](#n%C3%ADvel-1--sinais-do-sobrenatural), você pode fazer este teste a partir deles, sem gastar Ação. O monstro fica Lido por você durante a primeira Cena em que você o encontrar.
 
-## Nível 3 — Sangue Mutante
+## Nível 3 — Golpe do Bruxo
 
-Você recebe **+2 dados** nos testes para resistir à [Aterrorizante](../Caracter%C3%ADsticas%20de%20NPC.md#aterrorizante-pot%C3%AAncia-2-determina%C3%A7%C3%A3o--ast%C3%BAcia-ac%C3%BAmulos-iguais-%C3%A0-pot%C3%AAncia) e aos efeitos ao acertar de qualquer criatura: **Venenosa**, **Paralisante**, **Atordoante** e **Infecciosa**.
+Você recebe **+2 dados** ao iniciar um Confronto com um Ataque contra um monstro [Lido](../../Condi%C3%A7%C3%B5es/Lido.md) por você.
 
 ## Nível 4 — Ponto Fraco
 
@@ -55,7 +55,7 @@ O bônus vale para qualquer forma de Ataque, inclusive no empate, quando o Dano 
 
 ## Nível 5 — Matador de Monstros
 
-Você recebe **+2 dados** ao iniciar um Confronto com um Ataque contra um monstro [Lido](../../Condi%C3%A7%C3%B5es/Lido.md) por você.
+Um monstro [Lido](../../Condi%C3%A7%C3%B5es/Lido.md) por você não pode lhe causar [Medo](../../Condi%C3%A7%C3%B5es/Medo.md).
 
 Todo dano que você causar a esse monstro interrompe a [Regeneração](../Caracter%C3%ADsticas%20de%20NPC.md#regenera%C3%A7%C3%A3o-2-interrompida-pelo-tipo-de-dano-ou-material-definido-na-criatura) dele, qualquer que seja o Tipo de Dano ou o Material da arma.
 
