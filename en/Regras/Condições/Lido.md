@@ -1,4 +1,4 @@
-<!-- source: c43a0bb5c5f2 -->
+<!-- source: b79f95b79461 -->
 # Read
 
 A **Read** character has been analyzed by another character, who now understands their emotions, intentions, strengths and weaknesses.
@@ -9,7 +9,7 @@ Read imposes no effect by itself. The Capabilities that refer to this Condition 
 
 The Condition ends at the end of the Scene.
 
-Read is applied, for example, by the Mentalist's [Cold Read](../Personagens/Compet%C3%AAncias/Mentalista.md#level-1--cold-read) and the Hunter's [Know the Prey](../Personagens/Compet%C3%AAncias/Ca%C3%A7ador.md#level-2--know-the-prey).
+Read is applied, for example, by the Mentalist's [Cold Read](../Compet%C3%AAncias/Mentalista.md#level-1--cold-read) and the Hunter's [Know the Prey](../Compet%C3%AAncias/Ca%C3%A7ador.md#level-2--know-the-prey).
 
 ---
 

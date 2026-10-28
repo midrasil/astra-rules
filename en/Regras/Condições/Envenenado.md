@@ -1,11 +1,11 @@
-<!-- source: b92bb37c955c -->
+<!-- source: b6fe9103d700 -->
 # Poisoned
 
 A **Poisoned** character gets:
 
 > **-2 dice on rolls that use a Physical Attribute**
 
-The condition lasts a number of Turns equal to the poison's Potency and is applied by the **Venomous** trait (see [NPC Traits](../Personagens/Caracter%C3%ADsticas%20de%20NPC.md)).
+The condition lasts a number of Turns equal to the poison's Potency and is applied by the **Venomous** trait (see [NPC Traits](../Criaturas/Caracter%C3%ADsticas%20de%20NPC.md)).
 
 ---
 

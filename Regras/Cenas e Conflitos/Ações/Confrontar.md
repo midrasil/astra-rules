@@ -19,7 +19,7 @@ Todo personagem pode usar uma arma em cada mão por padrão. Isso permite manter
 A cada Confronto, atacando ou respondendo, o personagem escolhe qual das duas armas utiliza:
 
 - a **arma principal** é a arma escolhida. Ela define a Reserva, o Dano, o Tipo de Dano e as Propriedades Especiais do Confronto;
-- a **arma secundária** é a da outra mão. Ela não tem efeito no Confronto, a menos que uma Capacidade, como as do [Ambidestro](../../Personagens/Compet%C3%AAncias/Ambidestro.md), determine o contrário.
+- a **arma secundária** é a da outra mão. Ela não tem efeito no Confronto, a menos que uma Capacidade, como as do [Ambidestro](../../Compet%C3%AAncias/Ambidestro.md), determine o contrário.
 
 O [Desarmado](../../Equipamentos/Armas.md#desarmado), armas Naturais e [Escudos](../../Equipamentos/Escudos.md) não contam como arma secundária.
 
@@ -154,7 +154,7 @@ A resposta disponível depende da posição dos personagens e do equipamento uti
 
 **Aceitar o Confronto** exige que o personagem seja capaz de atingir o atacante.
 
-**Defender** exige um Escudo, salvo quando uma Capacidade permitir outra forma, como [Aparar](../../Personagens/Compet%C3%AAncias/Aparador.md#n%C3%ADvel-1--aparar) ou [Cobrir Aliado](../../Personagens/Compet%C3%AAncias/Guardi%C3%A3o.md#n%C3%ADvel-1--cobrir-aliado).
+**Defender** exige um Escudo, salvo quando uma Capacidade permitir outra forma, como [Aparar](../../Compet%C3%AAncias/Aparador.md#n%C3%ADvel-1--aparar) ou [Cobrir Aliado](../../Compet%C3%AAncias/Guardi%C3%A3o.md#n%C3%ADvel-1--cobrir-aliado).
 
 **Esquivar** pode ser utilizada sempre que o personagem for capaz de se mover.
 

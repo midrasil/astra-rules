@@ -55,7 +55,7 @@ O jogador e o Narrador definem juntos se a Convicção será **restaurada** ou *
 
 ## Benefício
 
-**Uma vez por sessão**, no total e não para cada Convicção, quando o personagem age em defesa de uma Convicção ou de seu Pilar, ele pode [usar Vontade](Vontade.md#usando-a-vontade) **sem sofrer o dano superficial de Vontade**, seja para [Rerrolar Dados](Vontade.md#rerrolar-dados), para [Ignorar Penalidades Físicas](Vontade.md#ignorar-penalidades-f%C3%ADsicas) ou para resistir a uma [Complicação comportamental](Complica%C3%A7%C3%B5es/Complica%C3%A7%C3%B5es.md#complica%C3%A7%C3%B5es-comportamentais).
+**Uma vez por sessão**, no total e não para cada Convicção, quando o personagem age em defesa de uma Convicção ou de seu Pilar, ele pode [usar Vontade](Vontade.md#usando-a-vontade) **sem sofrer o dano superficial de Vontade**, seja para [Rerrolar Dados](Vontade.md#rerrolar-dados), para [Ignorar Penalidades Físicas](Vontade.md#ignorar-penalidades-f%C3%ADsicas) ou para resistir a uma [Complicação comportamental](../Complica%C3%A7%C3%B5es/Complica%C3%A7%C3%B5es.md#complica%C3%A7%C3%B5es-comportamentais).
 
 Esse uso é possível mesmo com a trilha de Vontade cheia.
 

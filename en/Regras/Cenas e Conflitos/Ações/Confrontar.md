@@ -1,4 +1,4 @@
-<!-- source: ed582411ad75 -->
+<!-- source: 9ea1b59d5b59 -->
 # Confront
 
 A **Confront** happens when a character decides to attack another character during a Tactical Scene.
@@ -22,7 +22,7 @@ Every character can use one weapon in each hand by default. This lets them keep 
 On each Confront, whether attacking or responding, the character chooses which of the two weapons to use:
 
 - the **main weapon** is the chosen weapon. It sets the Pool, the Damage, the Damage Type and the Special Properties of the Confront;
-- the **off-hand weapon** is the one in the other hand. It has no effect on the Confront, unless a Capability, such as those of [Ambidextrous](../../Personagens/Compet%C3%AAncias/Ambidestro.md), says otherwise.
+- the **off-hand weapon** is the one in the other hand. It has no effect on the Confront, unless a Capability, such as those of [Ambidextrous](../../Compet%C3%AAncias/Ambidestro.md), says otherwise.
 
 [Unarmed](../../Equipamentos/Armas.md#unarmed), Natural weapons and [Shields](../../Equipamentos/Escudos.md) do not count as an off-hand weapon.
 
@@ -157,7 +157,7 @@ The available response depends on the characters' positions and the equipment us
 
 **Accept the Confront** requires the character to be able to hit the attacker.
 
-**Defend** requires a Shield, unless a Capability allows another way, such as [Parry](../../Personagens/Compet%C3%AAncias/Aparador.md#level-1--parry) or [Cover Ally](../../Personagens/Compet%C3%AAncias/Guardi%C3%A3o.md#level-1--cover-ally).
+**Defend** requires a Shield, unless a Capability allows another way, such as [Parry](../../Compet%C3%AAncias/Aparador.md#level-1--parry) or [Cover Ally](../../Compet%C3%AAncias/Guardi%C3%A3o.md#level-1--cover-ally).
 
 **Dodge** can be used whenever the character is able to move.
 

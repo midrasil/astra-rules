@@ -6,7 +6,7 @@ Lido não impõe nenhum efeito por si só. As Capacidades que fazem referência 
 
 A Condição termina no fim da Cena.
 
-Lido é aplicado, por exemplo, pela [Leitura Fria](../Personagens/Compet%C3%AAncias/Mentalista.md#n%C3%ADvel-1--leitura-fria) do Mentalista e pelo [Conhecer a Presa](../Personagens/Compet%C3%AAncias/Ca%C3%A7ador.md#n%C3%ADvel-2--conhecer-a-presa) do Caçador.
+Lido é aplicado, por exemplo, pela [Leitura Fria](../Compet%C3%AAncias/Mentalista.md#n%C3%ADvel-1--leitura-fria) do Mentalista e pelo [Conhecer a Presa](../Compet%C3%AAncias/Ca%C3%A7ador.md#n%C3%ADvel-2--conhecer-a-presa) do Caçador.
 
 ---
 

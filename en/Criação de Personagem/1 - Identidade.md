@@ -1,11 +1,11 @@
-<!-- source: b5d76dcce8c4 -->
+<!-- source: ef7d8a6fb270 -->
 # Identity
 
 Before and beyond the numbers, a character is defined by **who they are**: their concept and what drives them. This subsection gathers those choices.
 
 ## Concept
 
-Define **who the character is** in a few words: origin, occupation, personality and what drives them. The concept guides the following choices — which Attributes to prioritize, which [Privileges](../Regras/Personagens/Privil%C3%A9gios/Privil%C3%A9gios.md) fit and which [Complications](../Regras/Personagens/Complica%C3%A7%C3%B5es/Complica%C3%A7%C3%B5es.md) make sense.
+Define **who the character is** in a few words: origin, occupation, personality and what drives them. The concept guides the following choices — which Attributes to prioritize, which [Privileges](../Regras/Privil%C3%A9gios/Privil%C3%A9gios.md) fit and which [Complications](../Regras/Complica%C3%A7%C3%B5es/Complica%C3%A7%C3%B5es.md) make sense.
 
 ## Ambition and Desire
 
