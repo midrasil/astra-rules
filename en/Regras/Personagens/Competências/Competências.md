@@ -1,4 +1,4 @@
-<!-- source: a6466667292b -->
+<!-- source: e4b00d5f9984 -->
 # Competencies
 
 **Competencies** represent developed ways of acting, fighting, thinking or interacting with the world. Each has its own identity and a fixed progression.
@@ -91,6 +91,7 @@ A Level can grant a new Capability, more than one effect of the same advance, or
 - [Guardian](Guardi%C3%A3o.md) — Defending with a Shield for yourself and your allies: Cover Ally on Defend and Dodge, swapping places to take an Attack, Protection against Zones and blocking on a tie.
 - [Mentalist](Mentalista.md) — reading people and enemies through the Read Condition, Cunning on Attacks and social tests.
 - [Robust](Robusto.md) — a larger Health track that grows with the Competency's Level.
+- [Sentinel](Sentinela.md) — Opportunity Attacks against anyone who leaves your melee weapon's reach or attacks your allies, stopping the target's movement.
 
 ---
 
