@@ -1,11 +1,11 @@
-<!-- source: 8f36bfe56682 -->
+<!-- source: b29748a34fd1 -->
 # Hunter
 
-Hunter represents the character who lives off the wilds and the creatures that dwell in them. They follow tracks others cannot see, know the animals and monsters they pursue in depth and use that knowledge to bring them down.
+Hunter represents the character who lives off the wilds and the creatures that dwell in them. They follow tracks others cannot see, know the animals, monsters and supernatural creatures they pursue in depth and use that knowledge to bring them down.
 
-This Competency's Capabilities use the **Survival** Skill and the **Nature** [Specific Knowledge](../Per%C3%ADcias.md#specific-knowledge): in-depth knowledge of the fauna, flora, terrain and climate of the wilds. Without a Level in Nature, the Pool uses Cunning alone.
+This Competency's Capabilities use the **Survival** Skill, the **Nature** [Specific Knowledge](../Per%C3%ADcias.md#specific-knowledge): in-depth knowledge of the fauna, flora, terrain and climate of the wilds; and the [Occultism](../Per%C3%ADcias.md#list-of-skills) Skill. Without a Level in Nature or Occultism, the Pool uses Cunning alone.
 
-A **prey** is a creature of the **Beast**, **Plant** or **Monstrosity** [Type](../Tipos%20de%20Criatura.md).
+A **prey** is a creature of any [Type](../Tipos%20de%20Criatura.md) except **Humanoid**. Against Beast, Plant, Monstrosity and Dragon, the study uses **Nature**; against Undead, Construct, Elemental, Spirit and Aberration, it uses **Occultism**.
 
 ## Progression
 
@@ -25,7 +25,7 @@ When you successfully follow tracks, you also learn which creature left them, ho
 
 ## Level 2 — Know the Prey
 
-You can use your Action to study a prey you can observe. Test **Cunning + Nature** against a [Difficulty](../../Mec%C3%A2nica%20B%C3%A1sica/Reserva%20de%20Dados.md#difficulty-scale) set by the Narrator.
+You can use your Action to study a prey you can observe. Test **Cunning + Nature** or **Cunning + Occultism**, depending on the prey's Type, against a [Difficulty](../../Mec%C3%A2nica%20B%C3%A1sica/Reserva%20de%20Dados.md#difficulty-scale) set by the Narrator.
 
 Whatever the result, the prey becomes [Read](../../Condi%C3%A7%C3%B5es/Lido.md) by you until the end of the Scene. You cannot study a prey already Read by you.
 
