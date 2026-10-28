@@ -49,9 +49,7 @@ Você recebe **+2 dados** ao iniciar um Confronto com um Ataque contra uma presa
 
 ## Nível 4 — Ponto Fraco
 
-Seus Ataques contra uma presa [Lida](../../Condi%C3%A7%C3%B5es/Lido.md) por você ignoram as Resistências dela que você descobriu com [Conhecer a Presa](#n%C3%ADvel-2--conhecer-a-presa). Imunidades continuam valendo.
-
-Além disso, quando você ataca uma presa Lida por você com um Tipo de Dano ou Material ao qual ela tenha uma [Vulnerabilidade](../../Resist%C3%AAncia%20e%20Vulnerabilidade/Vulnerabilidade.md), o Dano da arma aumenta em uma quantidade igual ao seu **Nível de Caçador**: **+4** no Nível 4 e **+5** no Nível 5.
+Quando você ataca uma presa [Lida](../../Condi%C3%A7%C3%B5es/Lido.md) por você com um Tipo de Dano ou Material ao qual ela tenha uma [Vulnerabilidade](../../Resist%C3%AAncia%20e%20Vulnerabilidade/Vulnerabilidade.md), o Dano da arma aumenta em uma quantidade igual ao seu **Nível de Caçador**: **+4** no Nível 4 e **+5** no Nível 5.
 
 O bônus vale para qualquer forma de Ataque, inclusive no empate, quando o Dano da arma é causado como dano superficial. Ele não acrescenta dados à Reserva.
 

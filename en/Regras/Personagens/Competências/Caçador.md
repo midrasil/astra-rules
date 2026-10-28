@@ -1,4 +1,4 @@
-<!-- source: 0c7d1f8cc853 -->
+<!-- source: 8f36bfe56682 -->
 # Hunter
 
 Hunter represents the character who lives off the wilds and the creatures that dwell in them. They follow tracks others cannot see, know the animals and monsters they pursue in depth and use that knowledge to bring them down.
@@ -50,9 +50,7 @@ You get **+2 dice** when starting a Confrontation with an Attack against a prey 
 
 ## Level 4 — Weak Spot
 
-Your Attacks against a prey [Read](../../Condi%C3%A7%C3%B5es/Lido.md) by you ignore the Resistances you discovered with [Know the Prey](#level-2--know-the-prey). Immunities still apply.
-
-In addition, when you attack a prey Read by you with a Damage Type or Material to which it has a [Vulnerability](../../Resist%C3%AAncia%20e%20Vulnerabilidade/Vulnerabilidade.md), the weapon's Damage increases by an amount equal to your **Hunter Level**: **+4** at Level 4 and **+5** at Level 5.
+When you attack a prey [Read](../../Condi%C3%A7%C3%B5es/Lido.md) by you with a Damage Type or Material to which it has a [Vulnerability](../../Resist%C3%AAncia%20e%20Vulnerabilidade/Vulnerabilidade.md), the weapon's Damage increases by an amount equal to your **Hunter Level**: **+4** at Level 4 and **+5** at Level 5.
 
 The bonus applies to any kind of Attack, including on a tie, when the weapon's Damage is dealt as superficial damage. It does not add dice to the Pool.
 
