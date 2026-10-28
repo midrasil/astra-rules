@@ -1,4 +1,4 @@
-<!-- source: fdb2e97cbb9b -->
+<!-- source: 6c6293b25451 -->
 # Competencies
 
 **Competencies** represent developed ways of acting, fighting, thinking or interacting with the world. Each has its own identity and a fixed progression.
@@ -82,6 +82,7 @@ A Level can grant a new Capability, more than one effect of the same advance, or
 ## List of Competencies
 
 - [Acrobat](Acrobata.md) — Dodges that carry you farther, greater Movement, resisting being surrounded and escaping Zones.
+- [Ambidextrous](Ambidestro.md) — fighting with a weapon in each hand, adding the off-hand weapon's Damage as dice when Attacking, Dodging and Parrying.
 - [Parrier](Aparador.md) — Parrying Attacks with your own weapon, adding its Damage when Defending, first in melee and then at range as well.
 - [Assassin](Assassino.md) — acting first in Initiative, extra damage against targets without a response and Stealth outside combat.
 - [Marksman](Atirador.md) — preparation, keeping the Aim, precision and ranged shots with the Shooting Skill.

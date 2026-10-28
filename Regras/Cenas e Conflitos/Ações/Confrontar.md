@@ -16,7 +16,7 @@ A propriedade [Pesado](../../Equipamentos/Armas.md#uso-opcional) substitui Agili
 
 Todo personagem pode usar uma arma em cada mão por padrão. Isso permite manter duas armas com tipos e propriedades diferentes à disposição, mas não concede dados, dano ou Ataques adicionais por si só.
 
-Em outras palavras, a cada Confronto — seja atacando ou contra-atacando — o personagem pode escolher qual das duas armas irá utilizar.
+Em outras palavras, a cada Confronto — seja atacando ou contra-atacando — o personagem pode escolher qual das duas armas irá utilizar. A Competência [Ambidestro](../../Personagens/Compet%C3%AAncias/Ambidestro.md) permite que a segunda arma também contribua.
 
 ## Respondendo ao Confronto
 
