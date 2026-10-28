@@ -16,7 +16,12 @@ A propriedade [Pesado](../../Equipamentos/Armas.md#uso-opcional) substitui Agili
 
 Todo personagem pode usar uma arma em cada mão por padrão. Isso permite manter duas armas com tipos e propriedades diferentes à disposição, mas não concede dados, dano ou Ataques adicionais por si só.
 
-Em outras palavras, a cada Confronto — seja atacando ou contra-atacando — o personagem pode escolher qual das duas armas irá utilizar.
+A cada Confronto, atacando ou respondendo, o personagem escolhe qual das duas armas utiliza:
+
+- a **arma principal** é a arma escolhida. Ela define a Reserva, o Dano, o Tipo de Dano e as Propriedades Especiais do Confronto;
+- a **arma secundária** é a da outra mão. Ela não tem efeito no Confronto, a menos que uma Capacidade, como as do [Ambidestro](../../Personagens/Compet%C3%AAncias/Ambidestro.md), determine o contrário.
+
+O [Desarmado](../../Equipamentos/Armas.md#desarmado), armas Naturais e [Escudos](../../Equipamentos/Escudos.md) não contam como arma secundária.
 
 ## Respondendo ao Confronto
 

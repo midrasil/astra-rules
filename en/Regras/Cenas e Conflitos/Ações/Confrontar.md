@@ -1,4 +1,4 @@
-<!-- source: e859f0139399 -->
+<!-- source: ed582411ad75 -->
 # Confront
 
 A **Confront** happens when a character decides to attack another character during a Tactical Scene.
@@ -19,7 +19,12 @@ The [Heavy](../../Equipamentos/Armas.md#use-optional) property replaces Agility 
 
 Every character can use one weapon in each hand by default. This lets them keep two weapons with different types and properties at hand, but by itself it grants no extra dice, damage or Attacks.
 
-In other words, on each Confront — whether attacking or striking back — the character can choose which of the two weapons to use.
+On each Confront, whether attacking or responding, the character chooses which of the two weapons to use:
+
+- the **main weapon** is the chosen weapon. It sets the Pool, the Damage, the Damage Type and the Special Properties of the Confront;
+- the **off-hand weapon** is the one in the other hand. It has no effect on the Confront, unless a Capability, such as those of [Ambidextrous](../../Personagens/Compet%C3%AAncias/Ambidestro.md), says otherwise.
+
+[Unarmed](../../Equipamentos/Armas.md#unarmed), Natural weapons and [Shields](../../Equipamentos/Escudos.md) do not count as an off-hand weapon.
 
 ## Responding to the Confront
 
