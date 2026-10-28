@@ -1,0 +1,50 @@
+# Publica a wiki de regras em https://flinmt.github.io/astra-wiki a cada push na main.
+# O site é montado pelo astra-engine (npm run wiki:web), com o mesmo gerador e o mesmo visual da wiki do Foundry.
+# Precisa do segredo ASTRA_WIKI_TOKEN: token com leitura no astra-engine e escrita no astra-wiki.
+name: Wiki
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+concurrency:
+  group: wiki
+  cancel-in-progress: true
+
+env:
+  ENGINE_REF: development
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          path: astra-rules
+
+      - uses: actions/checkout@v4
+        with:
+          repository: Flinmt/astra-engine
+          ref: ${{ env.ENGINE_REF }}
+          token: ${{ secrets.ASTRA_WIKI_TOKEN }}
+          path: astra-engine
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Montar o site
+        run: node astra-engine/tools/build-web-wiki.mjs astra-rules --out site
+
+      - name: Publicar no astra-wiki
+        env:
+          TOKEN: ${{ secrets.ASTRA_WIKI_TOKEN }}
+        run: |
+          cd site
+          git init -q -b main
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -q -m "Publica a wiki de Flinmt/astra-rules@${GITHUB_SHA::7}"
+          git push -f "https://x-access-token:${TOKEN}@github.com/Flinmt/astra-wiki.git" main
