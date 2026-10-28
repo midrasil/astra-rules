@@ -1,4 +1,4 @@
-<!-- source: 6c6293b25451 -->
+<!-- source: a6466667292b -->
 # Competencies
 
 **Competencies** represent developed ways of acting, fighting, thinking or interacting with the world. Each has its own identity and a fixed progression.
@@ -88,6 +88,7 @@ A Level can grant a new Capability, more than one effect of the same advance, or
 - [Marksman](Atirador.md) — preparation, keeping the Aim, precision and ranged shots with the Shooting Skill.
 - [Furious](Furioso.md) — Fury, melee aggression and damage that grows with the wounds suffered.
 - [Guardian](Guardi%C3%A3o.md) — Defending with a Shield for yourself and your allies: Cover Ally on Defend and Dodge, swapping places to take an Attack, Protection against Zones and blocking on a tie.
+- [Hunter](Ca%C3%A7ador.md) — tracking with Survival, studying beasts and monsters with the Nature Specific Knowledge and stronger strikes against Read prey.
 - [Mentalist](Mentalista.md) — reading people and enemies through the Read Condition, Cunning on Attacks and social tests.
 - [Robust](Robusto.md) — a larger Health track that grows with the Competency's Level.
 
