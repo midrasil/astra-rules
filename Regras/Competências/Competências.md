@@ -87,6 +87,7 @@ Um Nível pode conceder uma nova Capacidade, mais de um efeito do mesmo avanço 
 - [Cativante](Cativante.md) — beleza e presença que favorecem interações sociais e causam uma primeira impressão mais forte.
 - [Furioso](Furioso.md) — Fúria, agressão corpo a corpo e dano que cresce com os ferimentos sofridos.
 - [Guardião](Guardi%C3%A3o.md) — Defender com Escudo para si e para os aliados: Cobrir Aliado no Defender e no Esquivar, trocar de lugar para receber um Ataque, Proteção contra Zonas e bloqueio no empate.
+- [Inspirador](Inspirador.md) — Ajudar aliados a distância, fortalecer o bônus de Ajuda e recuperar Vontade.
 - [Mentalista](Mentalista.md) — leitura de pessoas e inimigos pela Condição Lido, Astúcia em Ataques e testes sociais.
 - [Robusto](Robusto.md) — trilha de Vida maior, que cresce com o Nível da Competência.
 - [Sentinela](Sentinela.md) — Ataque de Oportunidade contra quem sai do alcance da sua arma corpo a corpo ou ataca seus aliados, parando o deslocamento do alvo.

@@ -1,4 +1,4 @@
-<!-- source: 5d1801a6a202 -->
+<!-- source: 5cafddd2738f -->
 # Dice Pool
 
 The **Dice Pool** is the number of dice used to resolve an action whose outcome is uncertain.
@@ -171,7 +171,7 @@ The narrative approach can still change the applicable Skill, the Difficulty, th
 
 ## Help
 
-Other characters can help whoever is making a test. Helpers do not roll dice. Help adds **+1 die** to the Dice Pool of whoever makes the test.
+Other characters can help whoever is making a test, provided they are **adjacent** to them. Helpers do not roll dice. Help adds **+1 die** to the Dice Pool of whoever makes the test.
 
 There is no limit on helpers, but the bonus **does not stack**: the test gets at most **+1 die** of help, no matter how many characters help.
 
