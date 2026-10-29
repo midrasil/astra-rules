@@ -1,4 +1,4 @@
-<!-- source: 14a267c73a6f -->
+<!-- source: c50c6f267369 -->
 # Competencies
 
 **Competencies** represent developed ways of acting, fighting, thinking or interacting with the world. Each has its own identity and a fixed progression.
@@ -42,14 +42,14 @@ This value is not a global character Level. It exists to set the cost of acquiri
 
 ## Character creation
 
-During [character creation](../../Cria%C3%A7%C3%A3o%20de%20Personagem/5%20-%20Compet%C3%AAncias.md), each character receives **2 Competency Points**.
+During [character creation](../../Cria%C3%A7%C3%A3o%20de%20Personagem/4%20-%20Compet%C3%AAncias.md), each character receives **2 Competency Points**.
 
 Each point raises a Competency by 1 Level and automatically grants that Level's content. The points can be used to start with:
 
 - Level 2 in one Competency; or
 - Level 1 in two different Competencies.
 
-Unused Competency Points are not converted into XP and cannot be transferred to Privileges or Complications.
+Unused Competency Points are not converted into XP.
 
 ## Acquiring during the campaign
 

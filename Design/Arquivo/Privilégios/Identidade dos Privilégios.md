@@ -1,3 +1,5 @@
+> O módulo de Privilégios e Complicações foi removido; este material serve apenas como fonte histórica para futuras Competências.
+
 # Identidade dos Privilégios
 
 Esta lista registra a identidade aprovada dos Privilégios utilizada na redação das entradas oficiais.

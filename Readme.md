@@ -19,13 +19,11 @@ Para conhecer o sistema, esta é a ordem de leitura recomendada:
 
 ## Regras do sistema
 
-O núcleo está organizado em onze áreas principais:
+O núcleo está organizado em nove áreas principais:
 
 - [Mecânica Básica](Regras/Mec%C3%A2nica%20B%C3%A1sica/Mec%C3%A2nica%20B%C3%A1sica.md) — resolução de testes e resultados.
 - [Personagens](Regras/Personagens/Personagens.md) — capacidades, recursos, motivações e características dos personagens.
-- [Privilégios](Regras/Privil%C3%A9gios/Privil%C3%A9gios.md) — relações, reconhecimento, posição social, propriedades e recursos do personagem.
 - [Competências](Regras/Compet%C3%AAncias/Compet%C3%AAncias.md) — conjuntos de Capacidades que modificam aquilo que o personagem consegue fazer.
-- [Complicações](Regras/Complica%C3%A7%C3%B5es/Complica%C3%A7%C3%B5es.md) — problemas narrativos que criam situações e consequências na história.
 - [Criaturas](Regras/Criaturas/Criaturas.md) — tipos de criatura e características próprias de NPCs.
 - [Cenas e Conflitos](Regras/Cenas%20e%20Conflitos/Cenas%20e%20Conflitos.md) — estrutura das cenas táticas, turnos e ações de confronto.
 - [Movimento](Regras/Movimento/Movimento.md) — deslocamento e ações relacionadas à movimentação.
@@ -39,6 +37,5 @@ O núcleo está organizado em onze áreas principais:
 - [Identidade](Cria%C3%A7%C3%A3o%20de%20Personagem/1%20-%20Identidade.md) — Conceito, Ambição, Desejo e Convicções.
 - [Atributos e Perícias](Cria%C3%A7%C3%A3o%20de%20Personagem/2%20-%20Atributos%20e%20Per%C3%ADcias.md) — array fixo de Atributos e perfis de Perícias.
 - [Características Derivadas](Cria%C3%A7%C3%A3o%20de%20Personagem/3%20-%20Caracter%C3%ADsticas%20Derivadas.md) — Vida, Vontade, Iniciativa e Carga máxima.
-- [Privilégios e Complicações](Cria%C3%A7%C3%A3o%20de%20Personagem/4%20-%20Privilégios%20e%20Complica%C3%A7%C3%B5es.md) — 7 Pontos de Privilégio e 4 Pontos de Complicação.
-- [Competências](Cria%C3%A7%C3%A3o%20de%20Personagem/5%20-%20Compet%C3%AAncias.md) — 2 Pontos de Competência.
-- [Equipamento Inicial](Cria%C3%A7%C3%A3o%20de%20Personagem/6%20-%20Equipamento%20Inicial.md) — equipamento inicial definido pelo cenário.
+- [Competências](Cria%C3%A7%C3%A3o%20de%20Personagem/4%20-%20Compet%C3%AAncias.md) — 2 Pontos de Competência.
+- [Equipamento Inicial](Cria%C3%A7%C3%A3o%20de%20Personagem/5%20-%20Equipamento%20Inicial.md) — equipamento inicial definido pelo cenário.

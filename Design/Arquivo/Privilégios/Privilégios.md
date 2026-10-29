@@ -1,3 +1,5 @@
+> O módulo de Privilégios e Complicações foi removido; este material serve apenas como fonte histórica para futuras Competências.
+
 **Privilégios** representam aquilo que o personagem possui ou representa dentro do mundo, como relações, reconhecimento, posição social, propriedades e recursos.
 
 Cada Privilégio estabelece uma verdade sobre o personagem e sua posição na campanha. Seus detalhes devem ser definidos em conjunto pelo jogador e pelo Narrador.
@@ -83,4 +85,4 @@ Cada Privilégio utiliza o seguinte formato:
 
 ---
 
-← [Voltar para Personagens](../Personagens/Personagens.md)
+← [Voltar para Personagens](../../../Regras/Personagens/Personagens.md)

@@ -35,6 +35,10 @@ A descrição da ação determina qual Perícia se aplica, mas não troca livrem
 | Prestidigitação    | Agilidade          | Realizar manobras rápidas com as mãos: furtar, esconder objetos e executar truques.     |
 | Sobrevivência      | Astúcia            | Subsistir em ambientes hostis: caçar, rastrear, construir abrigo e encontrar recursos.  |
 
+## Idiomas
+
+Todo personagem conhece o idioma comum de sua região. Cada Nível em **Erudição** concede **um idioma adicional**, escolhido pelo jogador e registrado na ficha.
+
 ## Conhecimento Específico
 
 **Conhecimento Geral** cobre o saber mediano do personagem sobre qualquer assunto. Para um domínio aprofundado de um tema, o personagem adquire um **Conhecimento Específico**: uma Perícia de assunto livre, como Medicina, Heráldica ou Folclore do Norte, sempre ligada a **Astúcia**.

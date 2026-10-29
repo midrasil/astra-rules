@@ -1,4 +1,4 @@
-<!-- source: 529986bf2e6a -->
+<!-- source: 5129114e91d0 -->
 # Skills
 
 **Skills** represent trained abilities and areas of expertise a character has developed through practice, study or experience. They do not describe innate talent, but what the character has learned to do.
@@ -37,6 +37,10 @@ The description of the action sets which Skill applies, but does not freely swap
 | Piloting          | Agility          | Flying aircraft and operating other complex vehicles.                                   |
 | Sleight of Hand   | Agility          | Performing quick feats with the hands: pickpocketing, hiding objects and doing tricks.  |
 | Survival          | Cunning          | Getting by in hostile environments: hunting, tracking, building shelter and finding resources. |
+
+## Languages
+
+Every character knows the common language of their region. Each Level in **Scholarship** grants **one additional language**, chosen by the player and recorded on the character sheet.
 
 ## Specific Knowledge
 

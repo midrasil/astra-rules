@@ -39,14 +39,14 @@ Esse valor não é um Nível global do personagem. Ele existe para determinar o 
 
 ## Criação de personagem
 
-Durante a [criação de personagem](../../Cria%C3%A7%C3%A3o%20de%20Personagem/5%20-%20Compet%C3%AAncias.md), cada personagem recebe **2 Pontos de Competência**.
+Durante a [criação de personagem](../../Cria%C3%A7%C3%A3o%20de%20Personagem/4%20-%20Compet%C3%AAncias.md), cada personagem recebe **2 Pontos de Competência**.
 
 Cada ponto aumenta uma Competência em 1 Nível e concede automaticamente o conteúdo daquele Nível. Os pontos podem ser utilizados para começar com:
 
 - Nível 2 em uma Competência; ou
 - Nível 1 em duas Competências diferentes.
 
-Pontos de Competência não utilizados não são convertidos em XP nem podem ser transferidos para Privilégios ou Complicações.
+Pontos de Competência não utilizados não são convertidos em XP.
 
 ## Aquisição durante a campanha
 

@@ -1,4 +1,4 @@
-<!-- source: 7866a20bf069 -->
+<!-- source: fb43d179a981 -->
 # Competencies
 
 Besides Attributes and Skills, the character has **Competencies** that represent developed ways of acting and grant fixed progressions of Capabilities.
@@ -16,7 +16,7 @@ The points can be used to start with:
 
 The Levels acquired also set the character's Total Competency Level.
 
-Unused Competency Points are not converted into XP and cannot be transferred to Privileges or Complications.
+Unused Competency Points are not converted into XP.
 
 See the [list of Competencies](../Regras/Compet%C3%AAncias/Compet%C3%AAncias.md#list-of-competencies) for the available options.
 

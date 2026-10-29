@@ -1,6 +1,8 @@
+> O módulo de Privilégios e Complicações foi removido; este material serve apenas como fonte histórica para futuras Competências.
+
 Esta é a lista de Privilégios do núcleo. Todos seguem as [regras de Privilégios](Privil%C3%A9gios.md).
 
-Nesta lista, um **teste social** é qualquer teste cuja Reserva utilize [Carisma](../Personagens/Atributos.md#carisma).
+Nesta lista, um **teste social** é qualquer teste cuja Reserva utilize [Carisma](../../../Regras/Personagens/Atributos.md#carisma).
 
 ## Aliado
 
@@ -10,7 +12,7 @@ Nesta lista, um **teste social** é qualquer teste cuja Reserva utilize [Carisma
 
 #### Especialista
 
-O jogador escolhe uma área de atuação do Aliado. Quando ele utiliza [Ajuda](../Mec%C3%A2nica%20B%C3%A1sica/Reserva%20de%20Dados.md#ajuda) nessa área, adiciona **2 dados** à Reserva em vez de 1.
+O jogador escolhe uma área de atuação do Aliado. Quando ele utiliza [Ajuda](../../../Regras/Mec%C3%A2nica%20B%C3%A1sica/Reserva%20de%20Dados.md#ajuda) nessa área, adiciona **2 dados** à Reserva em vez de 1.
 
 #### Disponível
 
@@ -86,7 +88,7 @@ Quando o personagem pode consultar o Mentor antes de um teste relacionado à ár
 
 #### Instrutor
 
-Quando o Mentor utiliza [Ajuda](../Mec%C3%A2nica%20B%C3%A1sica/Reserva%20de%20Dados.md#ajuda) dentro de sua área de conhecimento, adiciona **2 dados** à Reserva em vez de 1.
+Quando o Mentor utiliza [Ajuda](../../../Regras/Mec%C3%A2nica%20B%C3%A1sica/Reserva%20de%20Dados.md#ajuda) dentro de sua área de conhecimento, adiciona **2 dados** à Reserva em vez de 1.
 
 ## Prestígio
 
@@ -182,7 +184,7 @@ O Refúgio oferece conforto, decoração e condições apropriadas para receber 
 
 #### Especialistas
 
-Os Seguidores possuem treinamento em uma área definida quando a Especialização é adquirida. Eles podem realizar tarefas comuns dessa área e, quando utilizam [Ajuda](../Mec%C3%A2nica%20B%C3%A1sica/Reserva%20de%20Dados.md#ajuda) nela, adicionam **2 dados** à Reserva em vez de 1.
+Os Seguidores possuem treinamento em uma área definida quando a Especialização é adquirida. Eles podem realizar tarefas comuns dessa área e, quando utilizam [Ajuda](../../../Regras/Mec%C3%A2nica%20B%C3%A1sica/Reserva%20de%20Dados.md#ajuda) nela, adicionam **2 dados** à Reserva em vez de 1.
 
 #### Armados
 
