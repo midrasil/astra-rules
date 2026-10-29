@@ -1,4 +1,4 @@
-<!-- source: 5c990b5d414f -->
+<!-- source: 713b8d5d6352 -->
 # Competencies
 
 **Competencies** represent developed ways of acting, fighting, thinking or interacting with the world. Each has its own identity and a fixed progression.
@@ -88,6 +88,7 @@ A Level can grant a new Capability, more than one effect of the same advance, or
 - [Marksman](Atirador.md) — preparation, keeping the Aim, precision and ranged shots with the Shooting Skill.
 - [Hunter](Ca%C3%A7ador.md) — tracking with Survival, studying any non-Humanoid creature with Nature or Occultism and stronger strikes against Read prey.
 - [Captivating](Cativante.md) — beauty and presence that favor social interactions and make a stronger first impression.
+- [Duelist](Duelista.md) — fighting with a weapon in one hand and the other free, facing isolated targets and challenging opponents.
 - [Furious](Furioso.md) — Fury, melee aggression and damage that grows with the wounds suffered.
 - [Guardian](Guardi%C3%A3o.md) — Defending with a Shield for yourself and your allies: Cover Ally on Defend and Dodge, swapping places to take an Attack, Protection against Zones and blocking on a tie.
 - [Inspirer](Inspirador.md) — Helping allies at range, strengthening the Help bonus and recovering Willpower.

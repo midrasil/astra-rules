@@ -85,6 +85,7 @@ Um Nível pode conceder uma nova Capacidade, mais de um efeito do mesmo avanço 
 - [Atirador](Atirador.md) — preparação, conservação da Mira, precisão e disparos a distância com a Perícia Atirar.
 - [Caçador](Ca%C3%A7ador.md) — rastreio com Sobrevivência, estudo de qualquer criatura não Humanoide com Natureza ou Ocultismo e golpes mais fortes contra a presa Lida.
 - [Cativante](Cativante.md) — beleza e presença que favorecem interações sociais e causam uma primeira impressão mais forte.
+- [Duelista](Duelista.md) — combate com uma arma em uma mão e a outra livre, enfrentando alvos isolados e desafiando adversários.
 - [Furioso](Furioso.md) — Fúria, agressão corpo a corpo e dano que cresce com os ferimentos sofridos.
 - [Guardião](Guardi%C3%A3o.md) — Defender com Escudo para si e para os aliados: Cobrir Aliado no Defender e no Esquivar, trocar de lugar para receber um Ataque, Proteção contra Zonas e bloqueio no empate.
 - [Inspirador](Inspirador.md) — Ajudar aliados a distância, fortalecer o bônus de Ajuda e recuperar Vontade.

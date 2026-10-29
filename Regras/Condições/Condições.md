@@ -15,6 +15,7 @@ As Condições são aplicadas por Ações, Manobras, Capacidades ou outras regra
 - [Medo](Medo.md) — penalidade acumulável em todas as Reservas.
 - [Mirando](Mirando.md) — acumula o bônus da Manobra Mirar para o próximo Ataque à distância.
 - [Lido](Lido.md) — analisado por outro personagem; sem efeito próprio, usado por Capacidades.
+- [Desafiado](Desafiado.md) — provocado por um Duelista; penaliza Confrontos iniciados contra outras criaturas.
 
 ## Relações
 
