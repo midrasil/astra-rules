@@ -1,4 +1,4 @@
-<!-- source: 49815c9f99e6 -->
+<!-- source: b58fbd17a401 -->
 # Conditions
 
 A **Condition** is a state that affects a character during a Scene, imposing mechanical effects while it stays active.
@@ -18,6 +18,7 @@ Conditions are applied by Actions, Maneuvers, Capabilities or other rules. They 
 - [Fear](Medo.md) — stacking penalty on every Pool.
 - [Aiming](Mirando.md) — stacks the bonus of the Aim Maneuver for the next ranged Attack.
 - [Read](Lido.md) — analyzed by another character; no effect of its own, used by Capabilities.
+- [Challenged](Desafiado.md) — provoked by a Duelist; penalizes Confronts started against other creatures.
 
 ## Relations
 
