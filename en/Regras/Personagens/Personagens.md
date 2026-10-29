@@ -1,4 +1,4 @@
-<!-- source: e3a7cbf02aa0 -->
+<!-- source: 8cd978271330 -->
 # Characters
 
 This section gathers the elements that define a character's capabilities, resources, motivations and particularities.
@@ -27,9 +27,7 @@ This section gathers the elements that define a character's capabilities, resour
 
 - [Ambition and Desire](Ambi%C3%A7%C3%A3o%20e%20Desejo.md) — long-term and short-term goals.
 - [Convictions and Pillars](Convic%C3%A7%C3%B5es%20e%20Pilares.md) — principles the character upholds and what sustains them.
-- [Privileges](../Privil%C3%A9gios/Privil%C3%A9gios.md) — the character's relationships, recognition, social standing, property and resources.
 - [Competencies](../Compet%C3%AAncias/Compet%C3%AAncias.md) — sets of Capabilities that change what the character can do.
-- [Complications](../Complica%C3%A7%C3%B5es/Complica%C3%A7%C3%B5es.md) — narrative problems that create situations and consequences in the story.
 
 ## Advancement
 

@@ -1,3 +1,5 @@
+> O módulo de Privilégios e Complicações foi removido; este material serve apenas como fonte histórica para futuras Competências.
+
 Este documento registra exclusivamente as decisões fundamentais para o novo sistema de **Privilégios**.
 
 ## Substituição dos Trunfos

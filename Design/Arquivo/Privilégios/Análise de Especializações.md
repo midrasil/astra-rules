@@ -1,3 +1,5 @@
+> O módulo de Privilégios e Complicações foi removido; este material serve apenas como fonte histórica para futuras Competências.
+
 # Análise de Especializações
 
 Este documento registra a avaliação das Especializações de Privilégios. As listas foram aprovadas e utilizadas na implementação oficial.

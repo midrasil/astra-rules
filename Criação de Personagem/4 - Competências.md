@@ -13,7 +13,7 @@ Os pontos podem ser utilizados para começar com:
 
 Os Níveis adquiridos também determinam o Nível Total de Competências do personagem.
 
-Pontos de Competência não utilizados não são convertidos em XP nem podem ser transferidos para Privilégios ou Complicações.
+Pontos de Competência não utilizados não são convertidos em XP.
 
 Consulte a [lista de Competências](../Regras/Compet%C3%AAncias/Compet%C3%AAncias.md#lista-de-compet%C3%AAncias) para conhecer as opções disponíveis.
 

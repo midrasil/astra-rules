@@ -1,4 +1,4 @@
-<!-- source: aba8d7e291af -->
+<!-- source: 2ceabe5200a3 -->
 # Convictions and Pillars
 
 A **Conviction** is a principle the character refuses to betray — for example, "Never abandon those who fight at my side".
@@ -58,7 +58,7 @@ The player and the Narrator decide together whether the Conviction will be **res
 
 ## Benefit
 
-**Once per session**, in total and not for each Conviction, when the character acts in defense of a Conviction or its Pillar, they can [use Willpower](Vontade.md#using-willpower) **without taking the superficial Willpower damage**, whether to [Reroll Dice](Vontade.md#reroll-dice), to [Ignore Physical Penalties](Vontade.md#ignore-physical-penalties) or to resist a [behavioral Complication](../Complica%C3%A7%C3%B5es/Complica%C3%A7%C3%B5es.md#behavioral-complications).
+**Once per session**, in total and not for each Conviction, when the character acts in defense of a Conviction or its Pillar, they can [use Willpower](Vontade.md#using-willpower) **without taking the superficial Willpower damage**, whether to [Reroll Dice](Vontade.md#reroll-dice) or to [Ignore Physical Penalties](Vontade.md#ignore-physical-penalties).
 
 This use is possible even with a full Willpower track.
 

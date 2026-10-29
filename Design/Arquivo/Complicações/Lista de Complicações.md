@@ -1,3 +1,5 @@
+> O módulo de Privilégios e Complicações foi removido; este material serve apenas como fonte histórica para futuras Competências.
+
 Esta é a lista de Complicações do núcleo. Todas seguem as regras de [Complicações](Complica%C3%A7%C3%B5es.md) e produzem apenas consequências narrativas.
 
 ## Admiradores Obsessivos

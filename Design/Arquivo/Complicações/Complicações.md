@@ -1,3 +1,5 @@
+> O módulo de Privilégios e Complicações foi removido; este material serve apenas como fonte histórica para futuras Competências.
+
 **Complicações** são problemas narrativos associados ao personagem. Elas criam pessoas, situações e consequências que podem interferir em sua história, sem aplicar penalidades ou modificadores mecânicos.
 
 Uma Complicação pode representar um inimigo, uma perseguição, uma obrigação, um segredo, uma reputação problemática, uma relação difícil ou outra situação duradoura capaz de trazer problemas para o personagem.
@@ -21,9 +23,9 @@ A ausência de recompensa é intencional. Cabe ao Narrador fazer as Complicaçõ
 
 Algumas Complicações, como **Boca Grande**, **Arrogante** ou **Fobia**, descrevem impulsos, crenças ou padrões de comportamento. Elas orientam a interpretação do personagem e podem influenciar suas ações.
 
-Quando uma situação pressionar diretamente esse comportamento e o jogador quiser agir contra ele, o personagem pode resistir sofrendo **1 ponto de dano superficial de [Vontade](../Personagens/Vontade.md)**. Não há rolagem. O custo é o mesmo para Complicações Menores e Maiores, e só aumenta quando o Narrador determinar que a situação é extrema.
+Quando uma situação pressionar diretamente esse comportamento e o jogador quiser agir contra ele, o personagem pode resistir sofrendo **1 ponto de dano superficial de [Vontade](../../../Regras/Personagens/Vontade.md)**. Não há rolagem. O custo é o mesmo para Complicações Menores e Maiores, e só aumenta quando o Narrador determinar que a situação é extrema.
 
-Ao pagar o custo, o personagem resiste à Complicação naquele momento. Com a trilha de Vontade cheia, ele ainda pode resistir ao [Romper Limite](../Personagens/Vontade.md#romper-limite), enquanto houver dano superficial na trilha.
+Ao pagar o custo, o personagem resiste à Complicação naquele momento. Com a trilha de Vontade cheia, ele ainda pode resistir ao [Romper Limite](../../../Regras/Personagens/Vontade.md#romper-limite), enquanto houver dano superficial na trilha.
 
 Se o personagem não pagar o custo, a Complicação se manifesta de maneira coerente com a situação. O Narrador determina a consequência imediata da Complicação, mas não assume o controle geral do personagem além do comportamento colocado à prova.
 
@@ -97,4 +99,4 @@ Cada Complicação utiliza o seguinte formato:
 
 ---
 
-← [Voltar para Personagens](../Personagens/Personagens.md)
+← [Voltar para Personagens](../../../Regras/Personagens/Personagens.md)

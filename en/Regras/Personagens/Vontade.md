@@ -1,4 +1,4 @@
-<!-- source: dbdf0442ea56 -->
+<!-- source: 5988532010e4 -->
 # Willpower
 
 **Willpower** represents a character's determination, focus and ability to keep acting under pressure.
@@ -71,13 +71,12 @@ This does not necessarily mean unconsciousness or total loss of control. The con
 
 The specific consequence depends on the circumstances of the scene and the Narrator's decisions for that situation.
 
-After the final resolution of the event that caused the collapse, if its consequences create a lasting narrative problem, the Narrator can give the character a new **Minor** or **Major** [Complication](../Complica%C3%A7%C3%B5es/Complica%C3%A7%C3%B5es.md). The player and the Narrator should customize it according to what happened in the story.
 
 ## Using Willpower
 
 **Willpower** can be used to let a character briefly push past their own limits.
 
-When using Willpower, the character takes **1 point of superficial Willpower damage** and chooses one of the effects below. The same cost lets them resist a [behavioral Complication](../Complica%C3%A7%C3%B5es/Complica%C3%A7%C3%B5es.md#behavioral-complications).
+When using Willpower, the character takes **1 point of superficial Willpower damage** and chooses one of the effects below.
 
 A character with a full Willpower track cannot use Willpower, except to [Break Limit](#break-limit).
 
@@ -111,7 +110,7 @@ The superficial Willpower damage taken to use these effects is marked on the Wil
 
 ### Break Limit
 
-When the Willpower track is full and still has superficial damage on it, the character can keep **Rerolling Dice** or resisting a [behavioral Complication](../Complica%C3%A7%C3%B5es/Complica%C3%A7%C3%B5es.md#behavioral-complications) by **Breaking Limit**.
+When the Willpower track is full and still has superficial damage on it, the character can keep **Rerolling Dice** by **Breaking Limit**.
 
 Each use of Break Limit converts **1 point of superficial Willpower damage** into **aggravated damage**, instead of the usual superficial damage.
 

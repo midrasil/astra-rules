@@ -1,4 +1,4 @@
-<!-- source: 6717f51faeea -->
+<!-- source: d5ad6b42c92e -->
 # Advancement
 
 In **Astra**, characters have no global levels. They grow gradually by acquiring and improving abilities over the campaign.
@@ -29,7 +29,6 @@ XP can be used to:
 
 - raise [Attributes](Atributos.md);
 - raise [Skills](Per%C3%ADcias.md);
-- acquire or raise [Privileges](../Privil%C3%A9gios/Privil%C3%A9gios.md);
 - acquire or raise [Competencies](../Compet%C3%AAncias/Compet%C3%AAncias.md);
 - acquire or develop abilities specific to a setting or module.
 
@@ -49,8 +48,6 @@ If a Capability replaced the Attribute of a formula, the value follows the repla
 |---|---:|
 | Raise an **Attribute** | new level × 5 XP |
 | Raise a **Skill** | new level × 3 XP |
-| Acquire or raise a **Privilege** | 3 XP per level |
-| Acquire a **Privilege Specialization** | 3 XP |
 | Acquire or raise a **Competency** | new Total Competency Level × 3 XP |
 | Other abilities | set by the rule, setting or module |
 
@@ -61,18 +58,10 @@ If a Capability replaced the Attribute of a formula, the value follows the repla
 - Acquiring the first level of a Skill costs **3 XP**.
 - Raising a Skill from 2 to 3 costs **9 XP**.
 - Raising a Skill from 3 to 4 costs **12 XP**.
-- Acquiring `Fame 1` costs **3 XP**.
-- Raising `Fame 2` to `Fame 3` costs **3 XP**.
-- Acquiring a Privilege Specialization costs **3 XP**.
 - A character with Total Competency Level 2 pays **9 XP** to acquire their third Competency Level.
 - A character with Marksman 2 pays **9 XP** to raise Marksman to Level 3.
 - A character with Marksman 1 and another Competency at Level 1 also pays **9 XP** to acquire Level 1 of a third Competency.
 
-## Acquiring and raising Privileges
-
-Each new [Privilege Level](../Privil%C3%A9gios/Privil%C3%A9gios.md#level) costs **3 XP**, whatever the current value. Acquiring the first Level and raising an existing Privilege use the same cost.
-
-Each Privilege Specialization also costs **3 XP**. Raising the Level does not grant Specializations automatically.
 
 ## Acquiring and raising Competencies
 
@@ -86,7 +75,7 @@ After paying, the character raises by 1 the Level of a Competency they already h
 
 Advancement through experience lets characters who went through the same adventures develop in different ways.
 
-One character can focus their XP on mastering a few abilities, while another can spread it across different Skills, Privileges, Competencies and other options.
+One character can focus their XP on mastering a few abilities, while another can spread it across different Skills, Competencies and other options.
 
 Spending XP represents how the experiences lived during the campaign specifically transformed the character.
 

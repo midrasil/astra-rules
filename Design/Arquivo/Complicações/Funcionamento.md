@@ -1,3 +1,5 @@
+> O módulo de Privilégios e Complicações foi removido; este material serve apenas como fonte histórica para futuras Competências.
+
 # Reestruturação das Complicações
 
 Este documento registra as decisões tomadas para o novo funcionamento das **Complicações** no Astra.

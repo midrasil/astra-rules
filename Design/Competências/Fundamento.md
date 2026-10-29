@@ -111,7 +111,7 @@ Cada ponto aumenta uma Competência em 1 Nível e concede automaticamente o cont
 - **especialista inicial:** Nível 2 em uma Competência;
 - **personagem híbrido:** Nível 1 em duas Competências.
 
-Pontos de Competência não utilizados não são convertidos em XP nem transferidos para Privilégios ou Complicações.
+Pontos de Competência não utilizados não são convertidos em XP.
 
 Os Níveis recebidos durante a criação também contam no Nível Total de Competências.
 
@@ -211,13 +211,9 @@ O texto oficial de uma Competência segue estas convenções:
 - **Estrutura:** título, parágrafo de identidade, requisitos comuns às Capacidades (quando houver), tabela **Progressão** (Nível e Capacidade concedida, com coluna extra quando um valor cresce por Nível), uma seção `## Nível N — Nome` por Nível e o link de volta para Competências.
 - **Versão em inglês** em `en/`, no mesmo PR, com o hash `<!-- source -->` do arquivo em português.
 
-## Distinção dos Privilégios
+## Conceitos do arquivo histórico
 
-**Privilégios** representam aquilo que o personagem possui ou representa no mundo, como relações, reconhecimento, posição social, propriedades e recursos.
-
-**Competências** representam formas desenvolvidas de agir e modificam mecanicamente aquilo que o personagem consegue fazer.
-
-Uma Competência não deve ser utilizada para reproduzir riqueza, influência, aliados ou outros elementos já pertencentes aos Privilégios.
+Competências podem absorver conceitos do arquivo de Privilégios, como bônus de 2 dados em testes sociais ou Ajuda com 2 dados. Novas Competências serão escritas individualmente; nenhuma Competência existente precisa absorver esses conceitos agora.
 
 ## Transição do modelo anterior
 
@@ -243,7 +239,6 @@ Os arquivos oficiais de criação, avanço e Competências já utilizam o novo m
 - O custo de XP considera o novo Nível Total de Competências.
 - O multiplicador de XP das Competências é 3.
 - Capacidades não são compradas separadamente.
-- Competências continuam distintas de Privilégios e Complicações.
 - O acúmulo de bônus provenientes de fontes diferentes continua permitido.
 
 ## Decisões pendentes
