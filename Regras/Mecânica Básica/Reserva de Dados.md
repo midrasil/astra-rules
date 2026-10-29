@@ -168,7 +168,7 @@ A abordagem narrativa ainda pode alterar a Perícia aplicável, a Dificuldade, o
 
 ## Ajuda
 
-Outros personagens podem ajudar quem está realizando um teste. Quem ajuda não rola dados. A ajuda adiciona **+1 dado** à Reserva de Dados de quem realiza o teste.
+Outros personagens podem ajudar quem está realizando um teste, desde que estejam **adjacentes** a ele. Quem ajuda não rola dados. A ajuda adiciona **+1 dado** à Reserva de Dados de quem realiza o teste.
 
 Não há limite de ajudantes, mas o bônus **não se acumula**: o teste recebe no máximo **+1 dado** de ajuda, independentemente de quantos personagens ajudem.
 
