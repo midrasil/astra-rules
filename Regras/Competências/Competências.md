@@ -84,6 +84,7 @@ Um Nível pode conceder uma nova Capacidade, mais de um efeito do mesmo avanço 
 - [Assassino](Assassino.md) — agir primeiro na Iniciativa, dano extra contra alvos sem resposta e Furtividade fora de combate.
 - [Atirador](Atirador.md) — preparação, conservação da Mira, precisão e disparos a distância com a Perícia Atirar.
 - [Caçador](Ca%C3%A7ador.md) — rastreio com Sobrevivência, estudo de qualquer criatura não Humanoide com Natureza ou Ocultismo e golpes mais fortes contra a presa Lida.
+- [Cativante](Cativante.md) — beleza e presença que favorecem interações sociais e causam uma primeira impressão mais forte.
 - [Furioso](Furioso.md) — Fúria, agressão corpo a corpo e dano que cresce com os ferimentos sofridos.
 - [Guardião](Guardi%C3%A3o.md) — Defender com Escudo para si e para os aliados: Cobrir Aliado no Defender e no Esquivar, trocar de lugar para receber um Ataque, Proteção contra Zonas e bloqueio no empate.
 - [Mentalista](Mentalista.md) — leitura de pessoas e inimigos pela Condição Lido, Astúcia em Ataques e testes sociais.
