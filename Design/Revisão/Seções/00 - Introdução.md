@@ -116,3 +116,7 @@ Tirar "modular" e a analogia com open source, a menos que o autor pretenda criar
 **Ponto de atenção:** no Foundry, "módulo" é o nome dos pacotes de extensão. Isso pode confundir quando um módulo de regras do Astra for distribuído como módulo do Foundry. Avaliar o termo quando o primeiro módulo existir (ver Q-005).
 
 **Resposta do autor sobre o termo:** os módulos de regras serão distribuídos como módulos do Foundry. O termo coincide de propósito, então o ponto de atenção está resolvido.
+
+**Ajuste do autor (2026-11-01):** o rascunho está bom, mas o sistema seguiu a direção de um **Storyteller montado no formato de Pathfinder 2e e D&D**. O terceiro parágrafo passa a refletir isso, e a menção ao Savage Worlds sai: o caráter genérico já está no primeiro parágrafo.
+
+> No centro do Astra está a resolução da família **Storyteller**: Reservas de d10, dano superficial e agravado, Vontade, Ambição, Desejo e Convicções. Sobre ela, o jogo se organiza no formato de **Pathfinder 2e** e **Dungeons & Dragons**: Turnos com Ação e Movimentação, combate em quadrados, Condições, propriedades de armas e Competências que evoluem por Níveis.
