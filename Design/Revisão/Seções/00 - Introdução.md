@@ -82,3 +82,23 @@ Minha leitura é que a ordem da wiki é mais didática, por dois motivos:
 - Competências vêm depois de Cenas e Conflitos, cujas Ações e Manobras as Capacidades usam.
 
 Por outro lado, mudar a wiki envolve o gerador no astra-engine. **Recomendo adiar a decisão para a seção 53**, quando já teremos visto todas as dependências.
+
+### P-00.5 · Reescrever a apresentação: "genérico" sim, "modular" não (levantada pelo autor)
+
+**Pergunta do autor:** a apresentação ainda descreve o sistema? Ele é genérico, mas parece mais Savage Worlds do que modular.
+
+**Análise:**
+
+- **"Modular" não se sustenta.** Não há módulos, regras opcionais marcadas nem separação entre núcleo e opcional. O que existe são **ganchos para cenários**: fórmulas de Vida e Vontade, Tipos de Criatura, Tamanho e Progressão dizem que "cenários e módulos podem ajustar". Isso é um sistema genérico configurável por cenário, o mesmo modelo das *Setting Rules* do SWADE. A analogia com software open source descreve como o projeto é desenvolvido, não como se joga.
+- **A semelhança com o Savage Worlds está na proposta, não na mecânica.** O que lembra o SWADE é ser genérico, tático em mapa, sem classes nem níveis e ajustável por cenário. Com a saída de Privilégios e Complicações (equivalentes a Edges e Hindrances), a semelhança mecânica diminuiu.
+- **A mecânica é Storyteller (V5) quase por inteiro:** reservas de d10 com sucesso em 6+, par de 10 como crítico, Atributo + Perícia, dano superficial e agravado, rerrolar 3 dados com Vontade, Ambição e Desejo, Convicções e Pilares (equivalentes a Convictions e Touchstones).
+- **A influência de D&D e Pathfinder** está em equipamentos (propriedades de armas), Tamanho, Condições e combate em quadrados.
+
+**Proposta:** reescrever os três primeiros parágrafos para dizer o que o Astra é:
+
+- um sistema genérico, tático, sem classes nem níveis, cujo núcleo os cenários ajustam;
+- e de onde vem cada parte: Storyteller na resolução e no lado pessoal, Savage Worlds na proposta, D&D e Pathfinder nos equipamentos e no combate.
+
+Tirar "modular" e a analogia com open source, a menos que o autor pretenda criar módulos opcionais.
+
+**Questão para o autor:** existe intenção de módulos opcionais (por exemplo magia, veículos, horror)? Isso muda a recomendação. Ver Q-005.
