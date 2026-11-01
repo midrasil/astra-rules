@@ -102,3 +102,15 @@ Por outro lado, mudar a wiki envolve o gerador no astra-engine. **Recomendo adia
 Tirar "modular" e a analogia com open source, a menos que o autor pretenda criar módulos opcionais.
 
 **Questão para o autor:** existe intenção de módulos opcionais (por exemplo magia, veículos, horror)? Isso muda a recomendação. Ver Q-005.
+
+**Resposta do autor (2026-11-01):** pretende criar módulos adicionais. "Modular" fica, mas descrito como estrutura de **núcleo + módulos**, sem dar a entender que os módulos já existem.
+
+**Rascunho proposto** (substitui os três primeiros parágrafos; o parágrafo do Foundry fica como está):
+
+> **Astra** é um sistema genérico de RPG de mesa, pensado para servir a diferentes cenários, gêneros e estilos de jogo. Os personagens são construídos livremente, sem classes nem níveis, e os conflitos podem ser resolvidos de forma narrativa ou tática, em mapa.
+>
+> As regras se organizam em um **núcleo**, comum a qualquer mesa, sobre o qual podem ser construídos **módulos** que acrescentam regras para necessidades específicas, como magia ou veículos. Cada cenário escolhe os módulos que usa e pode ajustar partes do núcleo, como os Tipos de Criatura e os equipamentos disponíveis, sem precisar reescrevê-lo.
+>
+> A resolução de ações e o lado pessoal dos personagens vêm da família **Storyteller**: Reservas de d10, dano superficial e agravado, Vontade, Ambição, Desejo e Convicções. A proposta de um sistema genérico, tático e adaptável por cenário se aproxima do **Savage Worlds**. Equipamentos, Condições e combate em quadrados se inspiram em **Pathfinder** e **Dungeons & Dragons**.
+
+**Ponto de atenção:** no Foundry, "módulo" é o nome dos pacotes de extensão. Isso pode confundir quando um módulo de regras do Astra for distribuído como módulo do Foundry. Avaliar o termo quando o primeiro módulo existir (ver Q-005).
