@@ -28,3 +28,4 @@ Itens para revisitar. Cada um tem um **gatilho**: o momento da revisão em que d
 - **Origem:** seção 00.
 - **Descrição:** a Introdução apresenta o Astra como "núcleo + módulos", mas as regras não indicam o que é núcleo e o que é opcional. Verificar se alguma regra deveria ser marcada como módulo.
 - **Gatilho:** seção 53.
+- **Atualização (2026-11-01):** o autor confirmou que haverá módulos adicionais, distribuídos no Foundry como módulos (pacotes de extensão). Falta definir como as regras do núcleo e as de módulo serão separadas no vault e na wiki.

@@ -114,3 +114,5 @@ Tirar "modular" e a analogia com open source, a menos que o autor pretenda criar
 > A resolução de ações e o lado pessoal dos personagens vêm da família **Storyteller**: Reservas de d10, dano superficial e agravado, Vontade, Ambição, Desejo e Convicções. A proposta de um sistema genérico, tático e adaptável por cenário se aproxima do **Savage Worlds**. Equipamentos, Condições e combate em quadrados se inspiram em **Pathfinder** e **Dungeons & Dragons**.
 
 **Ponto de atenção:** no Foundry, "módulo" é o nome dos pacotes de extensão. Isso pode confundir quando um módulo de regras do Astra for distribuído como módulo do Foundry. Avaliar o termo quando o primeiro módulo existir (ver Q-005).
+
+**Resposta do autor sobre o termo:** os módulos de regras serão distribuídos como módulos do Foundry. O termo coincide de propósito, então o ponto de atenção está resolvido.
