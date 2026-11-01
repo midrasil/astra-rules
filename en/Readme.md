@@ -1,13 +1,19 @@
-<!-- source: eaf6ea205039 -->
+<!-- source: f04293dc4135 -->
 # Astra
 
-**Astra** is a generic and modular tabletop RPG system, designed to serve as a base for different settings, genres and play styles.
+**Astra** is a generic tabletop RPG system, designed to serve different settings, genres and play styles. Characters are built freely, without classes or levels, and conflicts can be resolved narratively or tactically, on a map.
 
-Its structure takes as its main reference the systems of the **Storyteller** family, especially their most recent editions, using dice pools and an approach centered on characters, conflicts and consequences. At the same time, it brings in concepts inspired by systems such as **Savage Worlds Adventure Edition (SWADE)**, **Pathfinder** and **Dungeons & Dragons**, mainly in aspects related to modularity, character customization and tactical combat.
+The rules are organized into a **core**, shared by every table, on top of which **modules** can be built to add rules for specific needs, such as magic or vehicles. Each setting chooses the modules it uses and can adjust parts of the core, such as Creature Types and available equipment, without having to rewrite it.
 
-Astra was conceived with a philosophy similar to that of an open source software project: there is a consistent rules core, on top of which different modules, adaptations and settings can be built without all of them having to use exactly the same tools.
+At the heart of Astra is the resolution of the **Storyteller** family: d10 Dice Pools, superficial and aggravated damage, Willpower, Ambition, Desire and Convictions. On top of it, play is organized in the format of **Pathfinder 2e** and **Dungeons & Dragons**: Turns with an Action and Movement, combat on a square grid, Conditions, weapon properties and Competencies that advance by Levels.
 
 The system is tightly integrated with **Foundry Virtual Tabletop**, which works as its main digital implementation. The goal, however, is not to limit Astra to the virtual table: its rules are designed so they can be used both at in-person tables and on other platforms.
+
+## How to play
+
+A game of Astra brings together a **Narrator** and a group of **players**. Each player controls a character, called a **player character**. The Narrator describes the world and the situations, plays every other character, called **NPCs**, and applies the rules.
+
+When a character attempts something whose outcome is uncertain, the player makes a test: they roll ten-sided dice and count the Successes (see [Basic Mechanics](Regras/Mec%C3%A2nica%20B%C3%A1sica/Mec%C3%A2nica%20B%C3%A1sica.md)).
 
 ## Start here
 
@@ -34,9 +40,4 @@ The core is organized into nine main areas:
 
 ## Character creation
 
-- [Character creation overview](Cria%C3%A7%C3%A3o%20de%20Personagem/0%20-%20Cria%C3%A7%C3%A3o%20de%20Personagem.md)
-- [Identity](Cria%C3%A7%C3%A3o%20de%20Personagem/1%20-%20Identidade.md) — Concept, Ambition, Desire and Convictions.
-- [Attributes and Skills](Cria%C3%A7%C3%A3o%20de%20Personagem/2%20-%20Atributos%20e%20Per%C3%ADcias.md) — fixed Attribute array and Skill profiles.
-- [Derived Traits](Cria%C3%A7%C3%A3o%20de%20Personagem/3%20-%20Caracter%C3%ADsticas%20Derivadas.md) — Health, Willpower, Initiative and Maximum Load.
-- [Competencies](Cria%C3%A7%C3%A3o%20de%20Personagem/4%20-%20Compet%C3%AAncias.md) — 2 Competency Points.
-- [Starting Equipment](Cria%C3%A7%C3%A3o%20de%20Personagem/5%20-%20Equipamento%20Inicial.md) — starting equipment defined by the setting.
+To build a character, follow the steps in [Character Creation](Cria%C3%A7%C3%A3o%20de%20Personagem/0%20-%20Cria%C3%A7%C3%A3o%20de%20Personagem.md).

@@ -1,12 +1,18 @@
 # Astra
 
-**Astra** é um sistema genérico e modular de RPG de mesa, desenvolvido para servir como base para diferentes cenários, gêneros e estilos de jogo.
+**Astra** é um sistema genérico de RPG de mesa, pensado para servir a diferentes cenários, gêneros e estilos de jogo. Os personagens são construídos livremente, sem classes nem níveis, e os conflitos podem ser resolvidos de forma narrativa ou tática, em mapa.
 
-Sua estrutura tem como principal referência os sistemas da família **Storyteller**, especialmente suas edições mais recentes, utilizando pools de dados e uma abordagem centrada em personagens, conflitos e consequências. Ao mesmo tempo, incorpora conceitos inspirados por sistemas como **Savage Worlds Adventure Edition (SWADE)**, **Pathfinder** e **Dungeons & Dragons**, principalmente em aspectos relacionados à modularidade, customização de personagens e combate tático.
+As regras se organizam em um **núcleo**, comum a qualquer mesa, sobre o qual podem ser construídos **módulos** que acrescentam regras para necessidades específicas, como magia ou veículos. Cada cenário escolhe os módulos que usa e pode ajustar partes do núcleo, como os Tipos de Criatura e os equipamentos disponíveis, sem precisar reescrevê-lo.
 
-O Astra foi concebido com uma filosofia semelhante à de um projeto de software open source: existe um núcleo de regras consistente, sobre o qual diferentes módulos, adaptações e cenários podem ser construídos sem que todos precisem utilizar exatamente as mesmas ferramentas.
+No centro do Astra está a resolução da família **Storyteller**: Reservas de d10, dano superficial e agravado, Vontade, Ambição, Desejo e Convicções. Sobre ela, o jogo se organiza no formato de **Pathfinder 2e** e **Dungeons & Dragons**: Turnos com Ação e Movimentação, combate em quadrados, Condições, propriedades de armas e Competências que evoluem por Níveis.
 
 O sistema possui forte integração com o **Foundry Virtual Tabletop**, que funciona como sua principal implementação digital. A proposta, entretanto, não é limitar o Astra ao ambiente virtual: suas regras são desenvolvidas para que possam ser utilizadas tanto em mesas presenciais quanto em outras plataformas.
+
+## Como se joga
+
+Uma partida de Astra reúne um **Narrador** e um grupo de **jogadores**. Cada jogador controla um personagem, chamado **personagem de jogador**. O Narrador descreve o mundo e as situações, interpreta todos os demais personagens, chamados **NPCs**, e aplica as regras.
+
+Quando um personagem tenta algo cujo resultado é incerto, o jogador faz um teste: rola dados de dez faces e conta os Sucessos obtidos (ver [Mecânica Básica](Regras/Mec%C3%A2nica%20B%C3%A1sica/Mec%C3%A2nica%20B%C3%A1sica.md)).
 
 ## Comece por aqui
 
@@ -33,9 +39,4 @@ O núcleo está organizado em nove áreas principais:
 
 ## Criação de personagem
 
-- [Visão geral da criação de personagem](Cria%C3%A7%C3%A3o%20de%20Personagem/0%20-%20Cria%C3%A7%C3%A3o%20de%20Personagem.md)
-- [Identidade](Cria%C3%A7%C3%A3o%20de%20Personagem/1%20-%20Identidade.md) — Conceito, Ambição, Desejo e Convicções.
-- [Atributos e Perícias](Cria%C3%A7%C3%A3o%20de%20Personagem/2%20-%20Atributos%20e%20Per%C3%ADcias.md) — array fixo de Atributos e perfis de Perícias.
-- [Características Derivadas](Cria%C3%A7%C3%A3o%20de%20Personagem/3%20-%20Caracter%C3%ADsticas%20Derivadas.md) — Vida, Vontade, Iniciativa e Carga máxima.
-- [Competências](Cria%C3%A7%C3%A3o%20de%20Personagem/4%20-%20Compet%C3%AAncias.md) — 2 Pontos de Competência.
-- [Equipamento Inicial](Cria%C3%A7%C3%A3o%20de%20Personagem/5%20-%20Equipamento%20Inicial.md) — equipamento inicial definido pelo cenário.
+Para montar um personagem, siga as etapas da [Criação de Personagem](Cria%C3%A7%C3%A3o%20de%20Personagem/0%20-%20Cria%C3%A7%C3%A3o%20de%20Personagem.md).

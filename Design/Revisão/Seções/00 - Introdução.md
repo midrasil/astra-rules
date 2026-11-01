@@ -1,7 +1,7 @@
 # 00 · Introdução
 
 **Arquivo:** `Readme.md` (e `en/Readme.md`)
-**Status:** em discussão
+**Status:** propostas decididas (D-002 a D-006); aguardando o autor confirmar o PR
 
 ## O que está estabelecido
 
