@@ -34,10 +34,10 @@ Percorrer todo o sistema, da Introdução às Condições, uma seção por vez, 
 Status: `[ ]` pendente · `[~]` em discussão · `[x]` concluída
 
 **Introdução**
-- [~] 00 · [Introdução](Seções/00%20-%20Introdução.md) (`Readme.md`)
+- [x] 00 · [Introdução](Seções/00%20-%20Introdução.md) (`Readme.md`)
 
 **Mecânica Básica**
-- [ ] 01 · Mecânica Básica (índice) + Reserva de Dados
+- [~] 01 · [Mecânica Básica (índice) + Reserva de Dados](Seções/01%20-%20Mecânica%20Básica.md)
 
 **Personagens**
 - [ ] 02 · Personagens (índice) + Atributos
