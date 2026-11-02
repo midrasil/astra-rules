@@ -2,7 +2,7 @@
 
 **Arquivo:** `Regras/Competências/Robusto.md` (e `en/`)
 **Relacionadas:** Vida (trilha e recuperação), Fundamento das Competências, Furioso (Sangue por Sangue, D-046), Assassino (D-041)
-**Status:** decidida (D-050), sem mudança nas regras; aguardando o merge do PR
+**Status:** concluída (PR #46, mergeado em 2026-11-02)
 
 ## O que está estabelecido
 
