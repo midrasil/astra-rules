@@ -1,4 +1,4 @@
-<!-- source: 0496c9cd790a -->
+<!-- source: 18ee1fdb591e -->
 # Attributes
 
 **Attributes** represent a character's fundamental abilities. They describe their physical and spiritual aptitudes and are part of most **Dice Pools** used during play.
@@ -6,6 +6,18 @@
 Whenever an action calls for a test, a **Skill** is usually combined with its **linked Attribute** to form the Dice Pool.
 
 For example, lifting a heavy object might call for **Strength**, while quickly noticing something out of the ordinary might involve **Cunning**.
+
+## Scale
+
+A character's Attributes range from **1 to 5**:
+
+| Value | Meaning |
+| --- | --- |
+| 1 | Weak |
+| 2 | Average, the norm for an ordinary adult |
+| 3 | Notable |
+| 4 | Exceptional |
+| 5 | Human peak |
 
 ## Categories
 
@@ -16,13 +28,11 @@ Each Attribute belongs to a **category**: **Physical** or **Spiritual**.
 | Physical  | Strength, Agility, Vigor           |
 | Spiritual | Charisma, Determination, Cunning   |
 
-Some rules affect only rolls of one category, such as the penalties of [Debilitated](../Condi%C3%A7%C3%B5es/Debilitado.md), [Overload](../Equipamentos/Equipamentos.md#overload) and [full Willpower](Vontade.md#full-willpower). In those cases, the category of the **Attribute actually used** in the Dice Pool applies. If a rule replaces the Attribute, the replacement's category applies instead. If the Pool uses two Attributes of different categories, the penalties of both categories apply.
+Some penalties only affect rolls of one category, such as those of [Debilitated](../Condi%C3%A7%C3%B5es/Debilitado.md), [Overload](../Equipamentos/Equipamentos.md#overload) and [full Willpower](Vontade.md#full-willpower). See how they apply in [Penalties](../Mec%C3%A2nica%20B%C3%A1sica/Reserva%20de%20Dados.md#penalties).
 
 ## Linked Attributes and replacements
 
-Each [Skill](Per%C3%ADcias.md) has a linked Attribute, which forms its default Pool. The narrative description of the action does not allow freely swapping that Attribute.
-
-Actions, equipment, Capabilities and other rules can set express replacements. A replacement swaps one Attribute for another without adding the two values together. When a Capability sets a Pool's Attribute, it always takes precedence over Actions, equipment and earlier rules.
+Each [Skill](Per%C3%ADcias.md) has a linked Attribute, which forms its default Pool. It only changes when a rule expressly says so (see [Attribute Replacements](../Mec%C3%A2nica%20B%C3%A1sica/Reserva%20de%20Dados.md#attribute-replacements)).
 
 Capabilities can also replace Attributes in fixed formulas, such as Health, Willpower, Load or Initiative. That replacement affects only the given formula and does not change the other roles of the Attributes involved.
 

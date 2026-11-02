@@ -1,4 +1,4 @@
-<!-- source: 8cd978271330 -->
+<!-- source: 2d137932550e -->
 # Characters
 
 This section gathers the elements that define a character's capabilities, resources, motivations and particularities.
@@ -7,7 +7,7 @@ This section gathers the elements that define a character's capabilities, resour
 
 - [Character Creation](../../Cria%C3%A7%C3%A3o%20de%20Personagem/0%20-%20Cria%C3%A7%C3%A3o%20de%20Personagem.md) — how to build a character from scratch.
 
-## Abilities
+## Attributes and Skills
 
 - [Attributes](Atributos.md) — fundamental physical and spiritual abilities.
 - [Skills](Per%C3%ADcias.md) — knowledge and abilities the character has developed.

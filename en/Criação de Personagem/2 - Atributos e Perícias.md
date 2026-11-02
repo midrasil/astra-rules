@@ -1,11 +1,11 @@
-<!-- source: 086bcb756650 -->
+<!-- source: 31bd4ffd63f6 -->
 # Attributes and Skills
 
 Beyond the concept, a character is defined numerically by their [Attributes](../Regras/Personagens/Atributos.md) and [Skills](../Regras/Personagens/Per%C3%ADcias.md). This subsection covers the starting distribution of points between them.
 
 ## Attributes
 
-Every character has the six core [Attributes](../Regras/Personagens/Atributos.md), with values from **1 to 5** (1 = weak, 2 = average, 5 = human peak).
+Every character has the six core [Attributes](../Regras/Personagens/Atributos.md), with values from **1 to 5** (see [Scale](../Regras/Personagens/Atributos.md#scale)).
 
 Distribute the fixed array below, choosing **where each value goes**:
 

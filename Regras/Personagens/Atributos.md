@@ -1,8 +1,20 @@
-Os **Atributos** representam as capacidades fundamentais de um personagem. Eles descrevem suas aptidões físicas e espirituais e fazem parte da maioria das **Reservas de Dados** utilizadas durante o jogo.
+Os **Atributos** representam as aptidões fundamentais de um personagem. Eles descrevem suas aptidões físicas e espirituais e fazem parte da maioria das **Reservas de Dados** utilizadas durante o jogo.
 
 Sempre que uma ação exigir um teste, normalmente uma **Perícia** será combinada com seu **Atributo vinculado** para formar a Reserva de Dados.
 
 Por exemplo, levantar um objeto pesado pode exigir **Força**, enquanto perceber rapidamente algo fora do comum pode envolver **Astúcia**.
+
+## Escala
+
+Os Atributos de um personagem variam de **1 a 5**:
+
+| Valor | Significado |
+| --- | --- |
+| 1 | Fraco |
+| 2 | Médio, a média de um adulto comum |
+| 3 | Notável |
+| 4 | Excepcional |
+| 5 | Auge humano |
 
 ## Categorias
 
@@ -13,13 +25,11 @@ Cada Atributo pertence a uma **categoria**: **Físico** ou **Espiritual**.
 | Físico     | Força, Agilidade, Vigor        |
 | Espiritual | Carisma, Determinação, Astúcia |
 
-Algumas regras afetam apenas rolagens de uma categoria, como as penalidades de [Debilitado](../Condi%C3%A7%C3%B5es/Debilitado.md), [Sobrecarga](../Equipamentos/Equipamentos.md#sobrecarga) e [Vontade preenchida](Vontade.md#vontade-preenchida). Nesses casos, vale a categoria do **Atributo efetivamente utilizado** na Reserva de Dados. Se uma regra substituir o Atributo, passa a valer a categoria do substituto. Se a Reserva usar dois Atributos de categorias diferentes, valem as penalidades das duas categorias.
+Algumas penalidades afetam apenas rolagens de uma categoria, como as de [Debilitado](../Condi%C3%A7%C3%B5es/Debilitado.md), [Sobrecarga](../Equipamentos/Equipamentos.md#sobrecarga) e [Vontade preenchida](Vontade.md#vontade-preenchida). Veja como elas se aplicam em [Penalidades](../Mec%C3%A2nica%20B%C3%A1sica/Reserva%20de%20Dados.md#penalidades).
 
 ## Atributos vinculados e substituições
 
-Cada [Perícia](Per%C3%ADcias.md) possui um Atributo vinculado, que forma sua Reserva padrão. A descrição narrativa da ação não permite trocar livremente esse Atributo.
-
-Ações, equipamentos, Capacidades e outras regras podem estabelecer substituições expressas. Uma substituição troca um Atributo por outro sem somar os dois valores. Quando uma Capacidade estabelece o Atributo de uma Reserva, ela sempre prevalece sobre Ações, equipamentos e regras anteriores.
+Cada [Perícia](Per%C3%ADcias.md) possui um Atributo vinculado, que forma sua Reserva padrão. Ele só é trocado quando uma regra determina isso expressamente (ver [Substituições de Atributo](../Mec%C3%A2nica%20B%C3%A1sica/Reserva%20de%20Dados.md#substitui%C3%A7%C3%B5es-de-atributo)).
 
 Capacidades também podem substituir Atributos em fórmulas fixas, como Vida, Vontade, Carga ou Iniciativa. Essa substituição afeta apenas a fórmula indicada e não altera as demais funções dos Atributos envolvidos.
 
