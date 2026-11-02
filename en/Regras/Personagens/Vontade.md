@@ -1,11 +1,11 @@
-<!-- source: 5988532010e4 -->
+<!-- source: 3019592e848a -->
 # Willpower
 
 **Willpower** represents a character's determination, focus and ability to keep acting under pressure.
 
 While [Health](Vida.md) represents the character's physical condition, Willpower represents their mental and emotional endurance in difficult situations.
 
-It can be used to withstand fear, pressure, suffering, psychological influence or other circumstances that can shake the character's resolve.
+Willpower is a **resource**: the character spends it to push past their own limits (see [Using Willpower](#using-willpower)). The damage built up on the track represents the state of their **psyche**: the strain of that effort and the marks left by their Convictions.
 
 ## Willpower Track
 
@@ -15,7 +15,7 @@ The track represents how much mental and emotional strain the character can bear
 
 When the character takes **Willpower damage**, that damage is recorded on the track the same way as damage on the Health track.
 
-Boxes are filled from left to right.
+Keep aggravated damage on the left of the track and superficial damage on the right.
 
 A character's Willpower track has:
 
@@ -34,7 +34,7 @@ Like Health, Willpower can take both **damage severities**:
 
 The difference between them represents how severe the psychological impact on the character is.
 
-Unlike physical damage, Willpower damage **has no default severity**: it is always set by the source that causes it — for example, using Willpower to [Reroll Dice](#reroll-dice) deals superficial damage.
+**By default, all Willpower damage is superficial.** It is aggravated only when the source says so, such as Conviction Fractures and [Break Limit](#break-limit).
 
 ### Superficial Damage
 
@@ -46,19 +46,15 @@ This damage severity usually represents hard situations that leave no deep psych
 
 **Aggravated Willpower damage** represents serious psychological trauma or situations that can deeply affect the character's state of mind.
 
-Especially violent, terrifying or supernatural experiences can deal aggravated Willpower damage.
-
 This damage severity is harder to recover from and can stay with the character for long periods.
 
 Each **Fracture** a Conviction receives deals **1 point of aggravated Willpower damage** (see [Convictions and Pillars](Convic%C3%A7%C3%B5es%20e%20Pilares.md)).
 
 ### Full Willpower
 
-As the Willpower track fills with superficial damage, the character nears their emotional and mental limit. When there are no boxes left, the character is under heavy psychological strain and suffers a **-2 dice** penalty on every roll that uses a [Spiritual Attribute](Atributos.md#categories).
-
-If they keep taking damage, superficial or aggravated, and there are no free boxes left, the extra damage converts boxes already filled with superficial damage into aggravated damage, as on the [Health](Vida.md) track.
-
-If the whole track is filled with aggravated damage, the character may become unable to keep reacting normally to the situation. The **-2 dice** penalty then applies to **every roll**, of any category, and they suffer consequences that depend on the origin and nature of the trauma.
+- When the **Willpower track is full**, with any mix of superficial and aggravated damage, the character suffers **-2 dice** on rolls that use a [Spiritual Attribute](Atributos.md#categories).
+- With the track full, **each point** of extra damage, superficial or aggravated, converts **1 box** of superficial damage into aggravated, as on the [Health](Vida.md) track.
+- When the **whole track is filled with aggravated damage**, the **-2 dice** penalty applies to **every roll**, in place of the Spiritual penalty, and the character suffers a consequence that depends on the origin and nature of the trauma. It lasts until at least 1 point of aggravated Willpower damage becomes superficial.
 
 This does not necessarily mean unconsciousness or total loss of control. The consequence can take different forms, such as:
 
@@ -78,7 +74,7 @@ The specific consequence depends on the circumstances of the scene and the Narra
 
 When using Willpower, the character takes **1 point of superficial Willpower damage** and chooses one of the effects below.
 
-A character with a full Willpower track cannot use Willpower, except to [Break Limit](#break-limit).
+With a full Willpower track, any use of Willpower is paid by [Breaking Limit](#break-limit).
 
 Once per session, in total, a **Conviction** lets them use Willpower without taking the superficial damage, even with a full track (see [Convictions and Pillars](Convic%C3%A7%C3%B5es%20e%20Pilares.md)).
 
@@ -110,11 +106,9 @@ The superficial Willpower damage taken to use these effects is marked on the Wil
 
 ### Break Limit
 
-When the Willpower track is full and still has superficial damage on it, the character can keep **Rerolling Dice** by **Breaking Limit**.
+When the Willpower track is full and still has superficial damage on it, the character can keep using Willpower by **Breaking Limit**. This applies to any use of Willpower, including the Willpower costs of Capabilities.
 
-Each use of Break Limit converts **1 point of superficial Willpower damage** into **aggravated damage**, instead of the usual superficial damage.
-
-Capabilities can allow their Willpower costs to be paid by Breaking Limit, such as the Marksman's [Improved Shooting Stance](../Compet%C3%AAncias/Atirador.md#level-4--improved-shooting-stance).
+Each point of Willpower damage the use would deal converts **1 point of superficial Willpower damage** into **aggravated damage**, as in [Full Willpower](#full-willpower).
 
 With the track entirely filled with aggravated damage, it is not possible to Break Limit.
 

@@ -2,7 +2,7 @@
 
 **Arquivo:** `Regras/Personagens/Vontade.md` (e `en/`)
 **Relacionadas:** Vida, Descanso Prolongado, Convicções e Pilares, Ambição e Desejo, Medo, Características de NPC (Aterrorizante) e as Competências que usam Vontade (Atirador, Furioso, Guardião, Inspirador, Mentalista, Sentinela)
-**Status:** em discussão
+**Status:** P-06.1 a P-06.3 decididas (D-026 a D-028) e aplicadas; P-06.4 aguardando o autor
 
 ## O que está estabelecido
 
@@ -100,3 +100,10 @@ Opções:
 - Ordem igual à da Vida.
 
 Nenhuma regra muda além das propostas acima.
+
+## Decisões do autor (2026-11-02)
+
+- **P-06.1:** a Vontade é um recurso e representa a psique do personagem. Foram aplicadas a gravidade padrão superficial e a nova introdução. Não foi adotado o dano livre causado pelo Narrador (D-026).
+- **P-06.2:** aprovada (D-027).
+- **P-06.3:** opção (c), Romper Limite para qualquer uso (D-028).
+- **P-06.4:** sem resposta até agora.
