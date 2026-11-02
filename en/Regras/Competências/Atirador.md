@@ -1,4 +1,4 @@
-<!-- source: 36543d5f88fe -->
+<!-- source: 55fc37c272ea -->
 # Marksman
 
 Marksman represents the character who prepares their shots and keeps their Aim to hit a target with precision. Its Capabilities apply to any Attack with the **Shooting** Skill.
@@ -15,7 +15,7 @@ Marksman represents the character who prepares their shots and keeps their Aim t
 
 ## Level 1 — Shooting Stance
 
-During your Turn, before making an Attack with the Shooting Skill, if you have not moved yet, you can take a Shooting Stance until the end of the Turn. While in this stance:
+You can take a **Shooting Stance** before making an Attack with Shooting, if you have not moved yet this Turn. It lasts until the end of the Turn and, while in it:
 
 - you get +2 dice to the Pool of Attacks made with Shooting;
 - you ignore the first -2 dice penalty for attacking beyond the weapon's normal range;
@@ -29,7 +29,7 @@ In addition, being forcibly moved does not make you lose your Aiming stacks. You
 
 ## Level 3 — Steady Aim
 
-While in the Shooting Stance, you can move up to half your base Movement during the Turn, instead of staying still.
+You can take the Shooting Stance even after moving and, while in it, you can move. The total in the Turn cannot exceed **half your base Movement**.
 
 This move does not make you lose your [Aiming](../Condi%C3%A7%C3%B5es/Mirando.md) stacks.
 
@@ -43,7 +43,7 @@ Your [Unshakable Focus](#level-2--unshakable-focus) evolves. At the start of you
 
 In addition, the maximum number of Aiming stacks you can have becomes:
 
-> **Cunning + Marksman Level**
+> **Cunning + 5**
 
 This limit replaces the one set by Cunning in every rule, including [Improved Shooting Stance](#level-4--improved-shooting-stance).
 

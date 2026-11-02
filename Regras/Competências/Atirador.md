@@ -14,7 +14,7 @@ Atirador representa o personagem que prepara seus disparos e conserva a Mira par
 
 ## Nível 1 — Postura de Tiro
 
-Durante seu Turno, antes de realizar um Ataque com a Perícia Atirar, caso ainda não tenha se movimentado, você pode assumir uma Postura de Tiro até o final do Turno. Enquanto estiver nessa postura:
+Você pode assumir uma **Postura de Tiro** antes de realizar um Ataque com Atirar, se ainda não tiver se movimentado no Turno. Ela dura até o final do Turno e, enquanto estiver nela:
 
 - recebe +2 dados na Reserva de Ataques realizados com Atirar;
 - ignora a primeira penalidade de -2 dados provocada por atacar além do alcance normal da arma;
@@ -28,7 +28,7 @@ Além disso, ser deslocado à força não faz com que você perca seus acúmulos
 
 ## Nível 3 — Mira Estável
 
-Enquanto estiver na Postura de Tiro, você pode se movimentar até metade da sua Movimentação base durante o Turno, em vez de permanecer parado.
+Você pode assumir a Postura de Tiro mesmo depois de se movimentar e, enquanto estiver nela, pode se movimentar. O total no Turno não pode passar de **metade da sua Movimentação base**.
 
 Esse deslocamento não provoca a perda dos seus acúmulos de [Mirando](../Condi%C3%A7%C3%B5es/Mirando.md).
 
@@ -42,7 +42,7 @@ Seu [Foco Imperturbável](#n%C3%ADvel-2--foco-imperturb%C3%A1vel) evolui. No com
 
 Além disso, a quantidade máxima de acúmulos de Mirando que você pode possuir passa a ser:
 
-> **Astúcia + Nível de Atirador**
+> **Astúcia + 5**
 
 Esse limite substitui o determinado pela Astúcia em todas as regras, incluindo a [Postura de Tiro Aprimorada](#n%C3%ADvel-4--postura-de-tiro-aprimorada).
 
