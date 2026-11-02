@@ -1,9 +1,9 @@
-<!-- source: 05ad3494164b -->
+<!-- source: 793b75294523 -->
 # Sentinel
 
 Sentinel represents the fighter who controls the space around them, punishing anyone who tries to escape their weapon's reach and anyone who attacks their allies.
 
-The Capabilities of this Competency require you to be holding a melee weapon and use its Reach. They do not work while you are surprised, incapacitated or [Paralyzed](../Condi%C3%A7%C3%B5es/Paralisado.md).
+The Capabilities of this Competency require you to be holding a melee weapon and use its Reach. They do not work while you are surprised, [Incapacitated](../Condi%C3%A7%C3%B5es/Incapacitado.md) or [Paralyzed](../Condi%C3%A7%C3%B5es/Paralisado.md).
 
 ## Progression
 

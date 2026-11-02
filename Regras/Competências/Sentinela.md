@@ -2,7 +2,7 @@
 
 Sentinela representa o combatente que controla o espaço ao seu redor, punindo quem tenta escapar do alcance da sua arma e quem ataca os seus aliados.
 
-As Capacidades desta Competência exigem que você esteja empunhando uma arma corpo a corpo e utilizam o Alcance dela. Elas não funcionam enquanto você estiver surpreendido, incapacitado ou [Paralisado](../Condi%C3%A7%C3%B5es/Paralisado.md).
+As Capacidades desta Competência exigem que você esteja empunhando uma arma corpo a corpo e utilizam o Alcance dela. Elas não funcionam enquanto você estiver surpreendido, [Incapacitado](../Condi%C3%A7%C3%B5es/Incapacitado.md) ou [Paralisado](../Condi%C3%A7%C3%B5es/Paralisado.md).
 
 ## Progressão
 
