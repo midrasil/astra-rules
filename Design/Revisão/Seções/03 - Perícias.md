@@ -1,7 +1,7 @@
 # 03 · Perícias
 
 **Arquivo:** `Regras/Personagens/Perícias.md` (e a versão em `en/`)
-**Status:** em discussão
+**Status:** propostas aprovadas (D-016 a D-019) e aplicadas. A ideia de proficiências de combate está em discussão (Q-008).
 
 ## O que está estabelecido
 

@@ -12,7 +12,7 @@ Nenhum Atributo pode passar de **4** durante a criação — o valor **5** só �
 
 ## Perícias
 
-As [Perícias](../Regras/Personagens/Per%C3%ADcias.md) variam de **0 a 5** (0 = sem treino). Cada Perícia possui um **Atributo vinculado**, utilizado normalmente para formar sua Reserva de Dados.
+As [Perícias](../Regras/Personagens/Per%C3%ADcias.md) variam de **0 a 5** (ver [Escala](../Regras/Personagens/Per%C3%ADcias.md#escala)). Cada Perícia possui um **Atributo vinculado**, utilizado normalmente para formar sua Reserva de Dados.
 
 O núcleo possui **24 Perícias**, incluindo **Acrobacia**, **Arremessar**, **Conhecimento Geral** e **Consertar**. Comece com todas em **0** e escolha **um** dos três perfis:
 

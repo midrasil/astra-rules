@@ -89,3 +89,22 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
 - **Decisão:** é intencional que Vigor e Determinação não tenham Perícias. O peso deles vem de Vida, Vontade, Iniciativa e resistências. Isso não precisa constar no texto.
 - **Status:** mantida por intenção de design.
 - **Consequência para revisões futuras:** não propor vincular Perícias a esses dois Atributos.
+
+**D-016 · 2026-11-02 · 03 Perícias (P-03.1)**
+- **Decisão:** dar ao Conhecimento Específico a função de **profundidade**. Em testes sobre o seu assunto, ele pode substituir Conhecimento Geral, Erudição ou Ocultismo, e o Narrador pode exigi-lo para informações raras. O exemplo "Medicina", que se sobrepunha a Curar, vira "Venenos".
+- **Status:** aprovada, na opção (a).
+- **Justificativa:** com o mesmo custo de uma Perícia ampla e sem função própria, era sempre melhor aumentar Erudição.
+- **Arquivos:** `Regras/Personagens/Perícias.md` e a versão em `en/`.
+
+**D-017 · 2026-11-02 · 03 Perícias (P-03.2)**
+- **Decisão:** a regra de substituição sai de Perícias. Fica uma frase com link para a Reserva de Dados.
+- **Status:** aprovada.
+
+**D-018 · 2026-11-02 · 03 Perícias (P-03.3)**
+- **Decisão:** a escala de Perícias passa a ficar em Perícias: 0 Sem treino, 1 Iniciante, 2 Competente, 3 Especialista, 4 Mestre e 5 Referência na área. A página diz que Perícia 0 não acrescenta dados. A Criação aponta para essa escala.
+- **Status:** aprovada.
+- **Arquivos:** `Regras/Personagens/Perícias.md`, `Criação de Personagem/2 - Atributos e Perícias.md` e as versões em `en/`.
+
+**D-019 · 2026-11-02 · 03 Perícias (P-03.4)**
+- **Decisão:** "áreas de competência" vira "áreas de conhecimento".
+- **Status:** aprovada.

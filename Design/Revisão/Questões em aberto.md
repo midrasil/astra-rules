@@ -40,3 +40,9 @@ Itens para revisitar. Cada um tem um **gatilho**: o momento da revisão em que d
 - **Origem:** seção 02.
 - **Descrição:** a escala de 1 a 5 é definida para personagens, e não está dito se criaturas podem passar de 5. As Reservas de resistência usam pares de Atributos definidos caso a caso (Vigor + Determinação, Determinação + Astúcia, Vigor + Força), sem um padrão geral.
 - **Gatilho:** seções 30 (Características de NPC) e 48 (Condições).
+
+**Q-008 · Proficiências de combate e maestria de armas**
+- **Origem:** seção 03, ideia do autor.
+- **Descrição:** substituir Lutar, Arremessar e Atirar por proficiências (0 a 5) por arma ou grupo de armas. A proficiência máxima daria acesso a uma maestria da arma ou do grupo. Isso reabre a decisão de `Design/Equipamentos/Conversão de Maestrias em Propriedades.md` ("a arma determina o que ela faz; a Competência determina o que o personagem sabe fazer").
+- **Afeta:** Perícias, Confrontar, Manobras, Defender, Desarmado, Armas e Propriedades Especiais, Competências de combate, Características de NPC, criação, custos de XP e o astra-engine.
+- **Gatilho:** em discussão na seção 03. O detalhamento provavelmente fica para a seção 42 (Armas).

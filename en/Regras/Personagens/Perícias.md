@@ -1,13 +1,28 @@
-<!-- source: 5129114e91d0 -->
+<!-- source: f2d3143b8449 -->
 # Skills
 
-**Skills** represent trained abilities and areas of expertise a character has developed through practice, study or experience. They do not describe innate talent, but what the character has learned to do.
+**Skills** represent trained abilities and areas of knowledge a character has developed through practice, study or experience. They do not describe innate talent, but what the character has learned to do.
 
 Each Skill has a **linked Attribute**, normally used to form its [Dice Pool](../Mec%C3%A2nica%20B%C3%A1sica/Reserva%20de%20Dados.md).
 
 > **Linked Attribute + Skill = Dice Pool**
 
-The description of the action sets which Skill applies, but does not freely swap its Attribute. Actions, equipment, Capabilities and other rules can set express replacements.
+The description of the action determines which Skill applies. The linked Attribute only changes when a rule expressly says so (see [Attribute Replacements](../Mec%C3%A2nica%20B%C3%A1sica/Reserva%20de%20Dados.md#attribute-replacements)).
+
+## Scale
+
+Skills range from **0 to 5**:
+
+| Value | Meaning |
+| --- | --- |
+| 0 | Untrained |
+| 1 | Beginner |
+| 2 | Competent |
+| 3 | Expert |
+| 4 | Master |
+| 5 | Leading authority |
+
+A Skill at 0 adds no dice: the Pool is formed by the Attribute alone.
 
 ## List of Skills
 
@@ -44,23 +59,11 @@ Every character knows the common language of their region. Each Level in **Schol
 
 ## Specific Knowledge
 
-**General Knowledge** covers the character's average knowledge of any subject. For in-depth mastery of a topic, the character acquires a **Specific Knowledge**: a Skill with a free subject, such as Medicine, Heraldry or Northern Folklore, always linked to **Cunning**.
+**General Knowledge** covers the character's average knowledge of any subject. For in-depth mastery of a topic, the character acquires a **Specific Knowledge**: a Skill with a free subject, such as Poisons, Heraldry or Northern Folklore, always linked to **Cunning**.
 
 Each Specific Knowledge is a separate Skill, with its own Level, and follows the same distribution and cost rules as the other Skills.
 
-## Linked Attributes and replacements
-
-The linked Attribute is the Skill's default rule. The way the action is described can change its Difficulty, consequences, bonuses or penalties, but does not allow freely choosing another Attribute.
-
-A replacement only happens when a rule expressly sets it. For example:
-
-- a weapon's **Heavy** property makes its Attacks use Strength instead of Agility;
-- a Capability can allow Cunning instead of Charisma on Persuasion tests;
-- a Capability can set another Attribute for a whole Action.
-
-Replacing an Attribute does not add the two values together. When more than one replacement is available, only one sets the final Attribute. **Capabilities always take precedence** over Actions, equipment and other earlier rules that set an Attribute.
-
-When no Skill applies, the action can use just one Attribute, following the [Dice Pool](../Mec%C3%A2nica%20B%C3%A1sica/Reserva%20de%20Dados.md) rules.
+On tests about its subject, the character can use the Specific Knowledge instead of General Knowledge, Scholarship or Occultism. The Narrator can also decide that certain information, such as rare details and trade secrets, is only within reach of someone with the matching Specific Knowledge.
 
 ## Skills by Setting
 
