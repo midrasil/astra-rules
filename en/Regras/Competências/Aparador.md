@@ -1,4 +1,4 @@
-<!-- source: 7b00c798e413 -->
+<!-- source: 5d3bef76a64e -->
 # Parrier
 
 Parrier represents the character trained to block blows with their own weapon, without relying on a shield.
@@ -12,7 +12,7 @@ Parrier represents the character trained to block blows with their own weapon, w
 
 ## Level 1 — Parry
 
-You can choose to [Defend](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Confrontar.md#defend) against a melee Attack using a melee weapon you are holding, even without a Shield.
+You can **Parry**: choose to [Defend](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Confrontar.md#defend) against a melee Attack using a melee weapon you are holding, even without a Shield.
 
 When Parrying, instead of the normal Defend Pool, you use the same Pool as a melee [Attack](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Confrontar.md) with the weapon used and, in place of the Shield's Protection, add the **weapon's Damage**:
 

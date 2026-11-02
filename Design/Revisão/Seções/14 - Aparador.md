@@ -2,7 +2,7 @@
 
 **Arquivo:** `Regras/Competências/Aparador.md` (e `en/`)
 **Relacionadas:** Confrontar (Defender), Escudos, Armas (Pesado, Flexível), Ambidestro (Guarda Cruzada)
-**Status:** em discussão
+**Status:** decidida (D-040) e aplicada; aguardando o merge do PR
 
 ## O que está estabelecido
 
@@ -53,3 +53,8 @@ No Nível 1, a primeira frase passa a ser: "Você pode **Aparar**: escolher Defe
 ### Registro
 
 Q-013: armas grandes com Aparador contra Escudos. Revisitar nas seções 42 e 45.
+
+## Decisões do autor (2026-11-02)
+
+- **P-14.1:** aprovada (D-040).
+- **Q-013:** o registro foi aceito.

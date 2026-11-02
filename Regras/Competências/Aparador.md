@@ -11,7 +11,7 @@ Aparador representa o personagem treinado para bloquear golpes com a própria ar
 
 ## Nível 1 — Aparar
 
-Você pode escolher [Defender](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Confrontar.md#defender) contra um Ataque corpo a corpo usando uma arma corpo a corpo que esteja empunhando, mesmo sem um Escudo.
+Você pode **Aparar**: escolher [Defender](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Confrontar.md#defender) contra um Ataque corpo a corpo usando uma arma corpo a corpo que esteja empunhando, mesmo sem um Escudo.
 
 Ao Aparar, em vez da Reserva normal de Defender, você utiliza a mesma Reserva de um [Ataque](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Confrontar.md) corpo a corpo com a arma utilizada e, no lugar da Proteção do Escudo, adiciona o **Dano da arma**:
 
