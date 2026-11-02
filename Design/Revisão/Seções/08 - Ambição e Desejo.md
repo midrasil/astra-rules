@@ -2,7 +2,7 @@
 
 **Arquivo:** `Regras/Personagens/Ambição e Desejo.md` (e `en/`)
 **Relacionadas:** Vontade, Convicções e Pilares, Criação de Personagem (Identidade)
-**Status:** em discussão
+**Status:** decidida (D-031 e D-032) e aplicada; aguardando o merge do PR
 
 ## O que está estabelecido
 
@@ -58,3 +58,9 @@ O Desejo continua podendo ser trocado no início de cada sessão.
 - As listas de exemplos e o resumo final ficam.
 
 Nenhuma regra muda além das propostas acima.
+
+## Decisões do autor (2026-11-02)
+
+- **P-08.1:** rejeitada. O Desejo pode durar várias sessões. Depois de cumprido, um novo só é escolhido na sessão seguinte (D-031).
+- **P-08.2:** aprovada (D-032).
+- **P-08.3:** aprovada (D-032).

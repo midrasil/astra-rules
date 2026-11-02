@@ -189,3 +189,16 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
 - **Status:** aprovada.
 - **Arquivos:** `Regras/Personagens/Descanso Prolongado.md` e a versão em `en/`.
 
+**D-031 · 2026-11-02 · 08 Ambição e Desejo (P-08.1): Desejo cumprido**
+- **Decisão:** rejeitada. Um novo Desejo continua sendo escolhido só no início da sessão. O Desejo pode durar várias sessões, e, depois de cumprido, o personagem fica sem Desejo até a próxima sessão. O texto passa a dizer isso explicitamente.
+- **Status:** rejeitada (regra mantida e esclarecida).
+- **Arquivos:** `Regras/Personagens/Ambição e Desejo.md` e a versão em `en/`.
+
+**D-032 · 2026-11-02 · 08 Ambição e Desejo (P-08.2 e P-08.3): critério e troca da Ambição; texto**
+- **Decisão:**
+  - **critério:** "trabalhou ativamente" é o único critério da Ambição, e os exemplos de progresso viraram exemplos de trabalho ativo;
+  - **troca:** a Ambição pode ser trocada no início de uma sessão, quando for concluída, se tornar impossível ou quando as motivações do personagem mudarem de verdade;
+  - **texto:** a página foi enxugada, de cerca de 900 para cerca de 540 palavras, e os exemplos foram mantidos.
+- **Status:** aprovada.
+- **Arquivos:** `Regras/Personagens/Ambição e Desejo.md` e a versão em `en/`.
+
