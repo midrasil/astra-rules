@@ -2,7 +2,7 @@
 
 **Arquivo:** `Regras/Competências/Atirador.md` (e `en/`), mais a linha na lista de Competências
 **Relacionadas:** Mirando (Condição), Manobras (Mirar), Confrontar (Atacar Além do Alcance), Movimentação, Vontade (Romper Limite, D-028)
-**Status:** análise pronta; aguardando decisão do autor
+**Status:** decidida (D-042) e aplicada; aguardando o merge do PR
 
 ## O que está estabelecido
 
@@ -67,3 +67,9 @@ Reescrever o Nível 3:
 - Nível 1 abre com "Você pode assumir uma **Postura de Tiro** antes de realizar um Ataque com Atirar, se ainda não tiver se movimentado no Turno. Ela dura até o final do Turno e, enquanto estiver nela:" (lista igual).
 - Nível 5: "Astúcia + Nível de Atirador" vira **Astúcia + 5**.
 - Linha da lista: "postura de tiro com bônus e alcance maior, Mira gratuita a cada Turno, mover-se sem perder a Mira e acúmulos de Mira pagos com Vontade."
+
+## Decisões do autor (2026-11-02)
+
+- **P-16.1:** o autor confirmou que dano de Vontade não conta como dano. Em vez de mexer só na Mirando, a regra geral foi para a Vontade: "O dano de Vontade não conta como sofrer dano: quando uma regra fala em sofrer dano sem citar a Vontade, ela se refere à Vida." Isso cobre a Mirando, a Manobra Mirar e o Foco Imperturbável sem alterar o texto deles (D-042).
+- **P-16.2:** aprovada, só na Condição Mirando. A Manobra Mirar continua com "depois de Mirar", que está correto para quem ganha o bônus pela Manobra. A duplicação entre Manobras e Mirando fica para a seção de Manobras (D-042).
+- **P-16.3 e P-16.4:** aprovadas (D-042).

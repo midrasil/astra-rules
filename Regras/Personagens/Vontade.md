@@ -18,6 +18,8 @@ Assim como a Vida, a Vontade sofre dano **superficial** e **agravado**.
 
 **Por padrão, todo dano de Vontade é superficial.** Ele é agravado somente quando a fonte indicar, como as Fraturas de Convicção e o [Romper Limite](#romper-limite).
 
+O dano de Vontade não conta como **sofrer dano**: quando uma regra fala em sofrer dano sem citar a Vontade, ela se refere à [Vida](Vida.md).
+
 - **Dano superficial** representa estresse, frustração, medo momentâneo e outros desgastes dos quais o personagem se recupera com relativa rapidez.
 - **Dano agravado** representa traumas e marcas profundas no estado mental do personagem, que podem permanecer com ele por muito tempo. Cada **Fratura** recebida por uma Convicção causa **1 ponto de dano agravado de Vontade** (ver [Convicções e Pilares](Convic%C3%A7%C3%B5es%20e%20Pilares.md)).
 

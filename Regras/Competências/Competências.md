@@ -65,7 +65,7 @@ Cada Competência apresenta sua identidade, uma tabela de **Progressão** e uma 
 - [Ambidestro](Ambidestro.md) — lutar com uma arma em cada mão, somando o Dano da arma secundária em dados ao Atacar, ao Esquivar e ao Aparar, e no Nível 3 qualquer arma de uma mão como secundária.
 - [Aparador](Aparador.md) — Aparar Ataques com a própria arma, somando o Dano dela ao Defender, primeiro corpo a corpo e depois também à distância.
 - [Assassino](Assassino.md) — agir primeiro na Iniciativa, surpreender, dano extra contra alvos sem resposta, Furtividade e chegada rápida ao combate.
-- [Atirador](Atirador.md) — preparação, conservação da Mira, precisão e disparos a distância com a Perícia Atirar.
+- [Atirador](Atirador.md) — postura de tiro com bônus e alcance maior, Mira gratuita a cada Turno, mover-se sem perder a Mira e acúmulos de Mira pagos com Vontade.
 - [Caçador](Ca%C3%A7ador.md) — rastreio com Sobrevivência, estudo de qualquer criatura não Humanoide com Natureza ou Ocultismo e golpes mais fortes contra a presa Lida.
 - [Cativante](Cativante.md) — beleza e presença que favorecem interações sociais e causam uma primeira impressão mais forte.
 - [Duelista](Duelista.md) — combate com uma arma em uma mão e a outra livre, enfrentando alvos isolados e desafiando adversários.

@@ -1,4 +1,4 @@
-<!-- source: a38cba1f953a -->
+<!-- source: 49cfe484379c -->
 # Aiming
 
 An **Aiming** character has used the [Aim](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Manobras.md#aim) Maneuver and is focusing on the target. Each stack gives:
@@ -11,7 +11,7 @@ The character holds at most a number of stacks equal to their **Cunning**.
 
 All stacks are lost if, before attacking, the character:
 
-- uses their Movement after Aiming;
+- uses their Movement while Aiming;
 - is moved by force;
 - takes damage;
 - becomes [Prone](Ca%C3%ADdo.md).

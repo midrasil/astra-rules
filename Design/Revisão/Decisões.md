@@ -260,3 +260,8 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
 - **Decisão:** o Nível 5 continua só aumentando os valores. No Golpe Furtivo, a lista de motivos (que incluía a Reserva abaixo de 1 dado, obsoleta pela D-007) saiu: o bônus vale para qualquer alvo sem resposta, "inclusive quando ele foi surpreendido pelo Primeiro Golpe", e os casos ficam só na página do Alvo sem Resposta. Nova linha na lista de Competências.
 - **Status:** aprovada.
 - **Arquivos:** `Regras/Competências/Assassino.md`, `Regras/Competências/Competências.md` e as versões em `en/`.
+
+**D-042 · 2026-11-02 · 16 Atirador (P-16.1 a P-16.4)**
+- **Decisão:** dano de Vontade não conta como sofrer dano; regras que falam em sofrer dano sem citar a Vontade se referem à Vida (regra geral em Vontade). Na Mirando, os acúmulos se perdem ao "utilizar sua Movimentação enquanto estiver Mirando", qualquer que seja a origem deles. A Mira Estável permite assumir a Postura depois de se mover e se mover nela, até metade da Movimentação base no Turno. O Nível 1 do Atirador abre com "Você pode assumir uma Postura de Tiro", o limite do Nível 5 é Astúcia + 5, e a linha da lista foi reescrita.
+- **Status:** aprovada.
+- **Arquivos:** `Regras/Personagens/Vontade.md`, `Regras/Condições/Mirando.md`, `Regras/Competências/Atirador.md`, `Regras/Competências/Competências.md` e as versões em `en/`.

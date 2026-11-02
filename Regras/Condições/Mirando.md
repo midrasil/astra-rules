@@ -8,7 +8,7 @@ O personagem acumula no máximo um número de acúmulos igual à sua **Astúcia*
 
 Todos os acúmulos são perdidos se, antes de atacar, o personagem:
 
-- utilizar sua Movimentação depois de Mirar;
+- utilizar sua Movimentação enquanto estiver Mirando;
 - for deslocado à força;
 - sofrer dano;
 - ficar [Caído](Ca%C3%ADdo.md).

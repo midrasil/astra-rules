@@ -1,4 +1,4 @@
-<!-- source: d3060b38541c -->
+<!-- source: 8f66efaa60fc -->
 # Willpower
 
 **Willpower** is a **resource**: the character spends it to push past their own limits. While [Health](Vida.md) represents the character's physical condition, the damage built up on the Willpower track represents the state of their **psyche**: the strain of that effort and the marks left by their Convictions.
@@ -20,6 +20,8 @@ Willpower damage is marked as on the Health track: aggravated damage stays on th
 Like Health, Willpower takes **superficial** and **aggravated** damage.
 
 **By default, all Willpower damage is superficial.** It is aggravated only when the source says so, such as Conviction Fractures and [Break Limit](#break-limit).
+
+Willpower damage does not count as **taking damage**: when a rule speaks of taking damage without mentioning Willpower, it refers to [Health](Vida.md).
 
 - **Superficial damage** represents stress, frustration, momentary fear and other strain the character recovers from relatively quickly.
 - **Aggravated damage** represents trauma and deep marks on the character's state of mind, which can stay with them for a long time. Each **Fracture** a Conviction receives deals **1 point of aggravated Willpower damage** (see [Convictions and Pillars](Convic%C3%A7%C3%B5es%20e%20Pilares.md)).
