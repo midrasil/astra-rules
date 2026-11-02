@@ -2,7 +2,7 @@
 
 **Arquivo:** `Regras/Competências/Furioso.md` (e `en/`), mais a linha na lista de Competências
 **Relacionadas:** Vida (gravidade padrão e trilha preenchida), Vontade (Romper Limite, D-028; dano de Vontade, D-042), Debilitado, Incapacitado (D-023), Medo, Correr, Movimentação, Confrontar (Atributos de Ataque)
-**Status:** análise pronta; aguardando decisão do autor
+**Status:** decidida (D-046) e aplicada; aguardando o merge do PR
 
 ## O que está estabelecido
 
@@ -58,3 +58,8 @@ Trocar "não deixa você incapacitado imediatamente" por "não deixa você [Inca
 - Tirar a frase redundante da Investida Furiosa.
 - Em Além da Dor, deixar só "Os acúmulos perdidos ao entrar em Fúria não retornam quando ela termina."
 - Linha da lista: "Fúria, agressão corpo a corpo, dano que cresce com os ferimentos, avanço rápido, imunidade ao Medo e recusa em cair."
+
+## Decisões do autor (2026-11-02)
+
+- **P-20.1:** opção (b), o Sangue por Sangue mantém +1 por superficial e +2 por agravado (D-046).
+- **P-20.2 e P-20.3:** aprovadas (D-046).

@@ -1,4 +1,4 @@
-<!-- source: 15248b2c6812 -->
+<!-- source: f8af466d4849 -->
 # Competencies
 
 **Competencies** represent developed ways of acting, fighting, thinking or interacting with the world. Each has its own identity and a fixed progression.
@@ -72,7 +72,7 @@ Each Competency presents its identity, a **Progression** table and a section for
 - [Hunter](Ca%C3%A7ador.md) — tracking with Survival, studying any non-Humanoid creature with Nature or Occultism, stronger Attacks and damage against Read prey and a hunt that is never lost.
 - [Captivating](Cativante.md) — appearance that favors social interactions and makes a stronger first impression.
 - [Duelist](Duelista.md) — fighting with a weapon in one hand and the other free, an edge against isolated targets, resistance to being surrounded and challenges that bind the opponent to you.
-- [Furious](Furioso.md) — Fury, melee aggression and damage that grows with the wounds suffered.
+- [Furious](Furioso.md) — Fury, melee aggression, damage that grows with wounds, a fast advance, immunity to Fear and refusing to fall.
 - [Guardian](Guardi%C3%A3o.md) — Defending with a Shield for yourself and your allies: Cover Ally on Defend and Dodge, swapping places to take an Attack, Protection against Zones and blocking on a tie.
 - [Inspirer](Inspirador.md) — Helping allies at range, strengthening the Help bonus and recovering Willpower.
 - [Mentalist](Mentalista.md) — reading people and enemies through the Read Condition, Cunning on Attacks and social tests.
