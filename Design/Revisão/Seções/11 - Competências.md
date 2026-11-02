@@ -2,7 +2,7 @@
 
 **Arquivo:** `Regras/Competências/Competências.md` (e `en/`)
 **Relacionadas:** Progressão, Criação de Personagem (4 - Competências), `Design/Competências/Fundamento.md`
-**Status:** em discussão
+**Status:** decidida (D-037) e aplicada; aguardando o merge do PR
 
 ## O que está estabelecido
 
@@ -52,3 +52,7 @@ Nenhuma regra muda.
 ### P-11.3 · Lista atualizada a cada Competência (processo)
 
 Nas seções 12 a 25, cada PR de Competência também revisa a linha dela na lista.
+
+## Decisões do autor (2026-11-02)
+
+- **P-11.1, P-11.2 e P-11.3:** aprovadas (D-037).

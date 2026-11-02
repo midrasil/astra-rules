@@ -1,4 +1,4 @@
-<!-- source: 713b8d5d6352 -->
+<!-- source: 7254534a7bdb -->
 # Competencies
 
 **Competencies** represent developed ways of acting, fighting, thinking or interacting with the world. Each has its own identity and a fixed progression.
@@ -12,11 +12,7 @@ Every Competency has a **Level from 0 to 5**, unless its progression sets a lowe
 - **Level 0:** the character does not have the Competency;
 - **Levels 1 to 5:** the character has every Capability granted up to that Level.
 
-Simpler Competencies can have fewer Levels. In that case, the last Level in its progression table is its maximum Level.
-
-Each increase automatically grants the content set for the new Level. There are no choices from a catalog and no separate purchase for the Capability.
-
-To reach a Level, the character must have every previous Level of the same Competency. No Competency can go beyond Level 5 or the maximum Level set in its progression.
+Each increase automatically grants the content set for the new Level, with no choices from a catalog and no separate purchase for the Capability. To reach a Level, the character must have every previous Level of the same Competency.
 
 ## Capabilities
 
@@ -42,14 +38,7 @@ This value is not a global character Level. It exists to set the cost of acquiri
 
 ## Character creation
 
-During [character creation](../../Cria%C3%A7%C3%A3o%20de%20Personagem/4%20-%20Compet%C3%AAncias.md), each character receives **2 Competency Points**.
-
-Each point raises a Competency by 1 Level and automatically grants that Level's content. The points can be used to start with:
-
-- Level 2 in one Competency; or
-- Level 1 in two different Competencies.
-
-Unused Competency Points are not converted into XP.
+At creation, the character receives **2 Competency Points** (see [Character Creation](../../Cria%C3%A7%C3%A3o%20de%20Personagem/4%20-%20Compet%C3%AAncias.md)).
 
 ## Acquiring during the campaign
 
@@ -71,13 +60,7 @@ There is no limit to the Total Competency Level. The steadily rising XP cost nat
 
 ## Format of a Competency
 
-Each Competency presents:
-
-- its name and a description of its identity;
-- its Level progression;
-- the name and mechanical effect of its Capabilities and what each Level grants.
-
-A Level can grant a new Capability, more than one effect of the same advance, or increase the potency of a Capability the character already has.
+Each Competency presents its identity, a **Progression** table and a section for each Level, with the name and effect of the Capabilities it grants. A Level can grant a new Capability or increase the potency of one the character already has.
 
 ## List of Competencies
 
@@ -98,4 +81,4 @@ A Level can grant a new Capability, more than one effect of the same advance, or
 
 ---
 
-← [Back to Characters](../Personagens/Personagens.md)
+← [Back to Astra](../../Readme.md)
