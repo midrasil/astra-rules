@@ -42,7 +42,7 @@ Ao utilizar Vontade, o personagem sofre **1 ponto de dano superficial de Vontade
 
 Com a trilha de Vontade cheia, qualquer uso de Vontade é pago ao [Romper Limite](#romper-limite).
 
-Uma vez por sessão, no total, uma **Convicção** permite utilizar Vontade sem sofrer o dano superficial, mesmo com a trilha cheia (ver [Convicções e Pilares](Convic%C3%A7%C3%B5es%20e%20Pilares.md)).
+Uma vez por sessão, no total, uma **Convicção** permite Rerrolar Dados ou Ignorar Penalidades Físicas sem sofrer o dano superficial, mesmo com a trilha cheia. Esse benefício não paga custos de Vontade de Capacidades (ver [Convicções e Pilares](Convic%C3%A7%C3%B5es%20e%20Pilares.md)).
 
 ### Rerrolar Dados
 

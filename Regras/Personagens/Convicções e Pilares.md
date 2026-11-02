@@ -59,7 +59,7 @@ O jogador e o Narrador definem juntos se a Convicção será **restaurada** ou *
 
 Esse uso é possível mesmo com a trilha de Vontade cheia.
 
-Uma Convicção rompida não concede esse benefício.
+O benefício não paga custos de Vontade de Capacidades. Uma Convicção rompida não concede esse benefício.
 
 ## Convicções na História
 

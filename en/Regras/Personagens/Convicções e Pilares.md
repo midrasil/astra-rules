@@ -1,4 +1,4 @@
-<!-- source: 2ceabe5200a3 -->
+<!-- source: d6d9c56b6cf7 -->
 # Convictions and Pillars
 
 A **Conviction** is a principle the character refuses to betray — for example, "Never abandon those who fight at my side".
@@ -62,7 +62,7 @@ The player and the Narrator decide together whether the Conviction will be **res
 
 This use is possible even with a full Willpower track.
 
-A broken Conviction does not grant this benefit.
+The benefit does not pay the Willpower costs of Capabilities. A broken Conviction does not grant this benefit.
 
 ## Convictions in the Story
 
