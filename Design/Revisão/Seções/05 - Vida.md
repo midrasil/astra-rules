@@ -64,3 +64,39 @@ Recomendo a **(a)** com a definição mecânica acima. Se o autor quiser mais le
 > Em **instalações adequadas**, como um hospital, o tratamento diário converte pelo menos 1 ponto, mesmo sem Sucessos.
 
 - **Consequência:** fica uma regra só, e o hospital passa a ser um piso, não uma alternativa pior.
+
+## Discussão (2026-11-02)
+
+**Respostas do autor:**
+- **P-05.1:** aprovada, na opção (a). A morte fica a critério do Narrador.
+- **P-05.2:** aprovada.
+- **P-05.3:** não foi respondida explicitamente. Assumi que está aprovada, e isso foi comunicado ao autor.
+- **P-05.4:** o autor quer rever o tratamento como um todo antes de decidir.
+
+### Como o tratamento funciona hoje
+
+- **Dano superficial.** Some sozinho: Vigor pontos por Descanso Prolongado, uma vez por dia.
+- **Dano agravado.** Não some sozinho. Precisa de uma cena de tratamento:
+  - exige material de Curar, higiene e algum conforto;
+  - quem trata rola **Astúcia + Curar** (pode ser o próprio ferido), e Ajuda vale;
+  - cada Sucesso converte 1 ponto agravado em superficial;
+  - não há Dificuldade;
+  - cada paciente recebe no máximo 1 tratamento por dia.
+- **Hospitalizado:** converte 1 ponto por dia, sem rolagem.
+
+**Ritmo.** Com Vigor 3 e 6 pontos agravados:
+
+| Quem trata | Dados | Conversões por dia (média) | Dias até a cura total |
+| --- | --- | --- | --- |
+| Curador treinado (Astúcia 3 + Curar 2) | 5 | 2,6 | cerca de 2 a 3 |
+| Leigo (Astúcia 2, Curar 0) | 2 | 1 | cerca de 6 a 7 |
+| Hospital, sem rolagem | — | 1 | 6 a 7 |
+
+O superficial convertido se cura no Descanso do mesmo dia.
+
+### Problemas
+
+1. **O hospital é igual a um leigo, e pior do que um curador.** Isso inverte a ficção.
+2. **"Material de Curar" não existe nos Equipamentos.** A exigência não tem item correspondente.
+3. **Não há nada durante a Cena.** Agora Incapacitado só termina com 1 ponto convertido, e o tratamento exige uma cena de cuidados. Um aliado que cai fica fora até o fim do combate, e o Curar não tem papel tático. Pode ser intencional.
+4. **Autotratamento de quem está Incapacitado.** O texto permite tratar a si mesmo, mas o Incapacitado não age. Isso precisa ficar explícito.
