@@ -2,7 +2,7 @@
 
 Caçador representa o personagem que vive dos ermos e das criaturas que habitam neles. Ele segue rastros que outros não veem, conhece a fundo os animais, os monstros e as criaturas sobrenaturais que persegue e usa esse saber para abatê-los.
 
-As Capacidades desta Competência utilizam a Perícia **Sobrevivência**, o [Conhecimento Específico](../Personagens/Per%C3%ADcias.md#conhecimento-espec%C3%ADfico) **Natureza**: o saber aprofundado sobre a fauna, a flora, os terrenos e o clima dos ermos; e a Perícia [Ocultismo](../Personagens/Per%C3%ADcias.md#lista-de-per%C3%ADcias). Sem Nível em Natureza ou Ocultismo, a Reserva utiliza apenas Astúcia.
+As Capacidades desta Competência utilizam a Perícia **Sobrevivência**, o [Conhecimento Específico](../Personagens/Per%C3%ADcias.md#conhecimento-espec%C3%ADfico) **Natureza**: o saber aprofundado sobre a fauna, a flora, os terrenos e o clima dos ermos; e a Perícia [Ocultismo](../Personagens/Per%C3%ADcias.md#lista-de-per%C3%ADcias).
 
 Uma **presa** é uma criatura de qualquer [Tipo](../Criaturas/Tipos%20de%20Criatura.md), exceto **Humanoide**. Contra Besta, Planta, Monstruosidade e Dragão, o estudo utiliza **Natureza**; contra Morto-vivo, Constructo, Elemental, Espírito e Aberração, utiliza **Ocultismo**.
 
@@ -39,7 +39,7 @@ Qualquer que seja o resultado, a presa fica [Lida](../Condi%C3%A7%C3%B5es/Lido.m
 - Como ela caça, ataca ou se defende?
 - Ela está ferida, faminta ou acuada?
 
-Cada pergunta revela uma única Resistência, Imunidade, Vulnerabilidade ou Característica. Quando a presa não possuir nenhuma, o Narrador informa isso.
+Cada pergunta revela uma única Resistência, Imunidade, Vulnerabilidade ou Característica. Você pode repetir uma pergunta para descobrir outra. Quando a presa não possuir nenhuma, o Narrador informa isso.
 
 Ao seguir os rastros de uma presa com o [Rastreador](#n%C3%ADvel-1--rastreador), você pode fazer este teste a partir deles, sem gastar Ação. A presa fica Lida por você durante a primeira Cena em que você a encontrar.
 

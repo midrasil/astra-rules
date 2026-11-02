@@ -2,7 +2,7 @@
 
 **Arquivo:** `Regras/Competências/Caçador.md` (e `en/`), mais a linha na lista de Competências
 **Relacionadas:** Lido (Condição), Perícias (Conhecimento Específico), Reserva de Dados, Tipos de Criatura, Resistência e Vulnerabilidade
-**Status:** análise pronta; aguardando decisão do autor
+**Status:** decidida (D-043) e aplicada; aguardando o merge do PR
 
 ## O que está estabelecido
 
@@ -50,3 +50,7 @@ Remover "Sem Nível em Natureza ou Ocultismo, a Reserva utiliza apenas Astúcia.
 ### P-17.3 · Linha da lista
 
 "rastreio com Sobrevivência, estudo de qualquer criatura não Humanoide com Natureza ou Ocultismo, Ataques e dano maiores contra a presa Lida e uma caçada que não se perde."
+
+## Decisões do autor (2026-11-02)
+
+- **P-17.1, P-17.2 e P-17.3:** aprovadas (D-043).
