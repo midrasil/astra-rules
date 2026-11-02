@@ -2,7 +2,7 @@
 
 **Arquivo:** `Regras/Personagens/Progressão.md` (e `en/`)
 **Relacionadas:** Atributos, Perícias, Competências (regras gerais), Convicções e Pilares, Criação de Personagem
-**Status:** em discussão
+**Status:** decidida (D-036) e aplicada; aguardando o merge do PR
 
 ## O que está estabelecido
 
@@ -79,3 +79,8 @@ Acrescentar uma linha: Atributos e Perícias vão até **5**, e cada Competênci
 ### Pergunta (sem proposta)
 
 O ritmo da tabela acima (cerca de 3 Níveis de Competência em 20 sessões) é o que você quer?
+
+## Decisões do autor (2026-11-02)
+
+- **P-10.1, P-10.2 e P-10.3:** aprovadas (D-036).
+- **Ritmo:** 2 XP por sessão é só uma sugestão. Cada campanha segue o ritmo definido pelo Narrador, que pode, por exemplo, dar XP apenas ao concluir missões.

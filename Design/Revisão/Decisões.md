@@ -218,3 +218,12 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
 - **Status:** aprovada.
 - **Arquivos:** `Regras/Personagens/Convicções e Pilares.md` e a versão em `en/`.
 
+**D-036 · 2026-11-02 · 10 Progressão (P-10.1 a P-10.3)**
+- **Decisão:**
+  - **P-10.1:** a penalidade de Convicções rompidas (+2 XP por Convicção rompida) aparece abaixo da tabela de custos, com link.
+  - **P-10.2:** linha de máximos. Atributos e Perícias vão até 5, e cada Competência até o máximo da sua progressão.
+  - **P-10.3:** a regra completa de Competências fica em Competências. Progressão mantém a linha da tabela, um exemplo e o link. Exemplos reduzidos a um por linha e texto final em um parágrafo.
+  - **Ritmo de XP:** os 2 XP por sessão são uma sugestão. Cada campanha define seu ritmo a critério do Narrador (por exemplo, XP só ao concluir missões). O texto passa a dizer isso.
+- **Status:** aprovada. O ritmo foi esclarecido pelo autor.
+- **Arquivos:** `Regras/Personagens/Progressão.md` e a versão em `en/`.
+
