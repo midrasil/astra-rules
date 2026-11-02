@@ -1,14 +1,14 @@
-<!-- source: 3baa87583c45 -->
+<!-- source: eab2ee0919ca -->
 # Captivating
 
 Captivating represents a character whose beauty, elegance or personal presence influences how others perceive them.
 
 ## Progression
 
-| Level | Capability granted | Beautiful |
-|---:|---|---:|
-| **1** | Beautiful | +2 dice |
-| **2** | First Impression | +4 dice |
+| Level | Capability granted |
+|---:|---|
+| **1** | Beautiful |
+| **2** | First Impression |
 
 ## Level 1 — Beautiful
 
@@ -18,9 +18,7 @@ The bonus can apply, for example, to **Persuasion**, **Deception**, **Performanc
 
 ## Level 2 — First Impression
 
-The first time in each Scene that you make a test against a person that benefits from [Beautiful](#level-1--beautiful), the bonus increases from **+2 to +4 dice**.
-
-Each person can grant this benefit only once per Scene, even if you use different Skills or approaches.
+The first time in each Scene that you make a test against a person that benefits from [Beautiful](#level-1--beautiful), whatever the Skill or approach, the bonus increases from **+2 to +4 dice**.
 
 ---
 

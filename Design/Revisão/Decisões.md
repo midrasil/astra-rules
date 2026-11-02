@@ -270,3 +270,8 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
 - **Decisão:** no Conhecer a Presa, uma pergunta pode ser repetida para descobrir outra Resistência, Imunidade, Vulnerabilidade ou Característica. Saiu a frase redundante sobre a Reserva sem Nível em Natureza ou Ocultismo. Nova linha na lista de Competências.
 - **Status:** aprovada.
 - **Arquivos:** `Regras/Competências/Caçador.md`, `Regras/Competências/Competências.md` e as versões em `en/`.
+
+**D-044 · 2026-11-02 · 18 Cativante (P-18.1 a P-18.3)**
+- **Decisão:** a tabela de Progressão perdeu a coluna de bônus, que sugeria +4 em todos os testes no Nível 2. A Primeira Impressão virou uma frase só ("qualquer que seja a Perícia ou a abordagem"), com o link para Bonito codificado como os demais. A linha da lista fala em "aparência".
+- **Status:** aprovada.
+- **Arquivos:** `Regras/Competências/Cativante.md`, `Regras/Competências/Competências.md` e as versões em `en/`.

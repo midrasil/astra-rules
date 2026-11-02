@@ -2,7 +2,7 @@
 
 **Arquivo:** `Regras/Competências/Caçador.md` (e `en/`), mais a linha na lista de Competências
 **Relacionadas:** Lido (Condição), Perícias (Conhecimento Específico), Reserva de Dados, Tipos de Criatura, Resistência e Vulnerabilidade
-**Status:** decidida (D-043) e aplicada; aguardando o merge do PR
+**Status:** concluída (PR #39, mergeado em 2026-11-02)
 
 ## O que está estabelecido
 
