@@ -2,7 +2,7 @@
 
 **Arquivo:** `Regras/Personagens/Descanso Prolongado.md` (e `en/`)
 **Relacionadas:** Vida, Vontade, Condições
-**Status:** em discussão
+**Status:** P-07.1 aprovada (D-030) e aplicada; aguardando o merge do PR
 
 ## O que está estabelecido
 
@@ -36,3 +36,7 @@ Acrescentar uma frase:
 ### Fora das propostas
 
 - **Descanso curto** (uma pausa durante o dia que recupera algo). Não proponho. A falta dele é o que dá valor ao Desejo, que recupera Vontade durante a sessão, e às Capacidades de recuperação, como as do Inspirador.
+
+## Decisão do autor (2026-11-02)
+
+- **P-07.1:** aprovada (D-030).
