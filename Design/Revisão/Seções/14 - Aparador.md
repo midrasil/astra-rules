@@ -2,7 +2,7 @@
 
 **Arquivo:** `Regras/Competências/Aparador.md` (e `en/`)
 **Relacionadas:** Confrontar (Defender), Escudos, Armas (Pesado, Flexível), Ambidestro (Guarda Cruzada)
-**Status:** decidida (D-040) e aplicada; aguardando o merge do PR
+**Status:** concluída (PR #36, mergeado em 2026-11-02)
 
 ## O que está estabelecido
 

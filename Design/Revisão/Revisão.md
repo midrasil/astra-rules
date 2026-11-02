@@ -54,8 +54,8 @@ Status: `[ ]` pendente · `[~]` em discussão · `[x]` concluída
 - [x] 11 · [Competências (regras gerais)](Seções/11%20-%20Compet%C3%AAncias.md)
 - [x] 12 · [Acrobata](Seções/12%20-%20Acrobata.md)
 - [x] 13 · [Ambidestro](Seções/13%20-%20Ambidestro.md)
-- [~] 14 · [Aparador](Seções/14%20-%20Aparador.md)
-- [ ] 15 · Assassino
+- [x] 14 · [Aparador](Seções/14%20-%20Aparador.md)
+- [~] 15 · [Assassino](Seções/15%20-%20Assassino.md)
 - [ ] 16 · Atirador
 - [ ] 17 · Caçador
 - [ ] 18 · Cativante
