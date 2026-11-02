@@ -135,3 +135,24 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
 - **Decisão:** uma criatura Minúscula pode ocupar o quadrado de outra criatura e pode ser atravessada por qualquer uma. Na tabela, o espaço dela passa a ser "divide um quadrado".
 - **Status:** aprovada.
 - **Arquivos:** `Regras/Personagens/Tamanho.md` e a versão em `en/`.
+
+**D-023 · 2026-11-02 · 05 Vida (P-05.1): Condição Incapacitado**
+- **Decisão:** nova Condição **Incapacitado**. Ela se aplica quando a trilha de Vida está toda agravada. O personagem fica Caído, sem Ação, sem Movimentação e sem responder a Confrontos (é um alvo sem resposta). A Condição termina quando ao menos 1 ponto agravado é convertido. Mais dano fica a critério do Narrador (opção a).
+- **Status:** aprovada.
+- **Arquivos:** `Regras/Condições/Incapacitado.md` (novo), `Regras/Condições/Condições.md`, `Regras/Personagens/Vida.md`, `Regras/Cenas e Conflitos/Ações/Confrontar.md` e as versões em `en/`.
+
+**D-024 · 2026-11-02 · 05 Vida (P-05.2 e P-05.3)**
+- **Decisão:** com a trilha cheia, cada ponto de dano adicional converte 1 espaço superficial em agravado. O agravado fica à esquerda na trilha. O texto foi reorganizado: a regra "por padrão todo dano é agravado" abre a seção Gravidade do Dano, e a conversão por armadura e Resistência aparece uma vez só.
+- **Status:** aprovada. A reorganização (P-05.3) foi assumida como aprovada e comunicada ao autor.
+- **Arquivos:** `Regras/Personagens/Vida.md` e a versão em `en/`.
+
+**D-025 · 2026-11-02 · 05 Vida (P-05.4): Tratamento e instalações adequadas**
+- **Decisão:**
+  - **Tratamento:** fora da Cena Tática, exige material de cura (sem material, não há como tratar; com ele, não há bônus). Astúcia + Curar, cada Sucesso converte 1 ponto agravado, no máximo uma vez por dia por personagem. Quem está Incapacitado não pode tratar a si mesmo.
+  - **Instalações adequadas:** dispensam o material, dão +2 dados e garantem no mínimo 3 pontos. Sem curador no grupo, a equipe do local garante o mínimo.
+  - Os Primeiros Socorros como regra separada **não** foram adotados.
+- **Status:** aprovada, depois de três rodadas de discussão.
+- **Justificativa:** o hospital tem que ser o melhor lugar de cura, o que o autor exigiu. Com um piso de 3 e +2 dados, ele é sempre melhor que tratar o mesmo paciente fora dele, sem esvaziar quem investe em Curar.
+- **Futuro:** uma Competência poderá permitir Tratar durante a Cena Tática ou sem material.
+- **Pendência:** "material de cura" precisa virar um item em Equipamentos (Q-009).
+- **Arquivos:** `Regras/Personagens/Vida.md` e a versão em `en/`.

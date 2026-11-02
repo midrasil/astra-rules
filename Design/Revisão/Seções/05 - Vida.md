@@ -1,7 +1,7 @@
 # 05 · Vida
 
 **Arquivo:** `Regras/Personagens/Vida.md` (e a versão em `en/`)
-**Status:** em discussão
+**Status:** propostas decididas (D-023 a D-025) e aplicadas; aguardando o merge do PR
 
 ## O que está estabelecido
 

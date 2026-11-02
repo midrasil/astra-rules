@@ -1,4 +1,4 @@
-<!-- source: 9e11c3286ee0 -->
+<!-- source: ac311a2b4b9f -->
 # Health
 
 **Health** represents a character's physical condition and their ability to keep acting after being wounded.
@@ -9,73 +9,63 @@ Health does not represent only visible wounds. It can also represent physical ex
 
 ## Health Track
 
-Each character has a limited number of boxes on their **Health track**.
-
-When they take damage, the player marks a number of boxes equal to the damage taken.
-
-Boxes are filled from left to right.
-
-A character's Health track has:
+Each character has a limited number of boxes on their **Health track**:
 
 > **3 + Vigor** boxes
 
 Vigor is the **Health Attribute** by default. Settings, Capabilities and other rules can adjust this value or replace the Attribute used in the formula.
 
-When a Capability replaces Vigor, the number of boxes is immediately recalculated from the new Attribute. The replacement affects only the size of the track: recovery, Vigor tests and other rules are not changed, unless the Capability itself says otherwise.
+When a Capability replaces Vigor, the number of boxes is recalculated immediately from the new Attribute. The replacement only affects the size of the track: recovery, Vigor tests and other rules are not changed, unless the Capability itself says otherwise.
+
+When they take damage, the player marks a number of boxes equal to the damage taken. Keep aggravated damage on the left of the track and superficial damage on the right.
 
 ## Damage Severity
 
-Astra uses two main damage **severities**:
+Astra uses two damage **severities**: **superficial** and **aggravated**. The difference between them represents how serious the wound is and what it takes to recover from it.
 
-- **Superficial Damage**
-- **Aggravated Damage**
+**By default, all damage is aggravated.** The exception is damage that its own source marks as superficial, such as [Unarmed](../Equipamentos/Armas.md#unarmed) attacks and Nonlethal weapons. The Narrator can also decide that other sources deal superficial damage when the situation calls for it.
 
-The difference between them represents how serious the wound is and how hard it is to recover from.
+[Armor](../Equipamentos/Armaduras.md) and [Resistances](../Resist%C3%AAncia%20e%20Vulnerabilidade/Resist%C3%AAncia%20e%20Vulnerabilidade.md) can convert aggravated damage into superficial damage at the moment it is taken.
 
-The **Damage Type** — the nature of the wound (slashing, bludgeoning, piercing, fire, ice, electric etc.) — is separate from severity: it is set by the damage source, such as weapons (see [Weapons](../Equipamentos/Armas.md)).
+The **Damage Type**, the nature of the wound (slashing, bludgeoning, piercing, fire, cold, electric and so on), is separate from severity. It is set by the source of the damage, such as [Weapons](../Equipamentos/Armas.md).
 
-## Superficial Damage
+### Superficial Damage
 
-**Superficial Damage** represents less serious wounds, physical wear and trauma that a character can recover from with relative ease.
+**Superficial damage** represents lesser wounds, physical wear and traumas a character can recover from with relative ease: unarmed blows, light impacts and wounds that do not put their body at immediate risk.
 
-Unarmed blows, light impacts and other wounds that do not put the character's physical integrity at immediate risk are examples of superficial damage, when the damage source or the Narrator says so. Aggravated wounds can also become superficial through armor, Resistances and other effects.
+It is recorded on the Health track as a **/** mark.
 
-Superficial damage is recorded on the Health track as a / mark.
+### Aggravated Damage
 
-## Aggravated Damage
+**Aggravated damage** represents serious and potentially incapacitating wounds: deep cuts and stabs, severe burns, lethal electricity and other especially dangerous forms of damage.
 
-**Aggravated Damage** represents serious and potentially incapacitating wounds.
-
-Deep punctures, severe burns, lethal electricity and other especially dangerous forms of damage can deal aggravated damage.
-
-This damage severity represents more serious consequences and is usually harder to recover from than superficial damage.
-
-Certain equipment, Capabilities or effects can turn **aggravated damage into superficial damage**.
-
-**By default, all damage is aggravated** — unless the damage source itself (weapon, Attack, effect) says otherwise. This is the case for most Attacks, especially those made with weapons. [Armor](../Equipamentos/Armaduras.md) and [Resistances](../Resist%C3%AAncia%20e%20Vulnerabilidade/Resist%C3%AAncia.md) can convert aggravated damage to superficial (see [Resistance and Vulnerability](../Resist%C3%AAncia%20e%20Vulnerabilidade/Resist%C3%AAncia%20e%20Vulnerabilidade.md)).
-
-The main exception is **unarmed combat**, which deals **superficial damage** by default — punches, kicks and grabs are rarely fatal. The Narrator can also decide that other damage sources deal superficial damage when the situation calls for it.
-
-Aggravated damage is recorded on the Health track as an X mark.
+It is recorded on the Health track as an **X**.
 
 ## Full Health Track
 
-- When the **Health track is full**, with any mix of superficial and aggravated damage, the character becomes **Debilitated** (see [Debilitated](../Condi%C3%A7%C3%B5es/Debilitado.md)).
-- If they keep taking damage, superficial or aggravated, and there are no free boxes left, the extra damage starts **converting boxes already filled with superficial damage into aggravated damage**.
-- When **the whole Health track is filled with aggravated damage**, the character is **incapacitated** and in a potentially fatal situation. In practical terms, they can no longer carry on normally in the scene, and survival depends on the situation and the Narrator's narrative decision.
+- When the **Health track is full**, with any combination of superficial and aggravated damage, the character becomes [Debilitated](../Condi%C3%A7%C3%B5es/Debilitado.md).
+- With the track full, **each point** of additional damage, superficial or aggravated, converts **1 box** of superficial damage into aggravated.
+- When **the whole track is filled with aggravated damage**, the character becomes [Incapacitated](../Condi%C3%A7%C3%B5es/Incapacitado.md). The fate of an Incapacitated character who keeps taking damage is up to the Narrator.
 
 ## Recovery
 
-Wounds do not disappear as soon as a conflict ends.  
-Recovery depends on the **severity** of the damage taken.
+Wounds do not vanish as soon as a conflict ends. Recovery depends on the **severity** of the damage taken.
 
-**Superficial Damage** — heals with time, with no need for treatment. On completing a [Long Rest](Descanso%20Prolongado.md), the character recovers an amount of superficial damage equal to their **Vigor**.
+**Superficial damage** heals with time. When completing a [Long Rest](Descanso%20Prolongado.md), the character recovers an amount of superficial damage equal to their **Vigor**.
 
-**Aggravated Damage** — does not recover with time. It stays on the track until it receives **treatment**, which converts it to superficial damage; the converted damage then heals normally.
+**Aggravated damage** does not recover with time. It is only converted into superficial damage through **Treatment**. After that, it heals normally.
 
-Treatment is a **care scene** that requires minimum conditions: Healing supplies, hygiene and some comfort. Whoever treats rolls **Cunning + Healing** (the character themselves or someone else). **Each success converts 1 point** of aggravated damage to superficial. With no successes, the treatment converts nothing. A character can receive one treatment **per in-game day**.
+### Treatment
 
-If the character is **hospitalized**, in proper facilities, no roll is needed: they convert 1 point of aggravated damage to superficial per in-game day, until fully recovered.
+Outside a Tactical Scene, a character with **healing supplies** can treat themselves or another character. Without supplies, treatment is not possible.
+
+Whoever treats rolls **Cunning + Healing**. **Each Success converts 1 point** of aggravated damage into superficial. With no Successes, nothing is converted.
+
+Each character receives at most **one Treatment per day**. An Incapacitated character cannot treat themselves.
+
+### Proper Facilities
+
+In a hospital or an equivalent place, Treatment needs no healing supplies, gets **+2 dice** and converts **at least 3 points** of aggravated damage. If no one in the group can treat, the facility's staff guarantees that minimum.
 
 ---
 
