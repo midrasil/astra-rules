@@ -2,7 +2,7 @@
 
 **Arquivos:** `Criação de Personagem/4 - Competências.md` e `Criação de Personagem/5 - Equipamento Inicial.md` (e `en/`)
 **Relacionadas:** Competências (seção 11; D-037: a Criação de Personagem é a única fonte da regra de criação), Progressão, Equipamentos (Valor, Carga, Sobrecarga), Catálogos de Armas, Armaduras e Escudos, Características Derivadas (D-053), Q-003, Q-009
-**Status:** decidida (D-054) e aplicada; aguardando o merge do PR
+**Status:** concluída (PR #50, mergeado em 2026-11-02)
 
 ## O que está estabelecido
 
