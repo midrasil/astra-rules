@@ -337,3 +337,14 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
 - **Decisão:** não existe criatura sem tipo: cada criatura tem um único Tipo, o que melhor descreve o que ela é agora (um dragão morto-vivo é Morto-vivo). O Tipo só tem efeito quando uma regra o cita, como o Caçador; tipos novos de cenários e módulos devem dizer como essas regras os tratam.
 - **Status:** aprovada.
 - **Arquivos:** `Regras/Criaturas/Tipos de Criatura.md` e a versão em `en/`.
+
+**D-056 · 2026-11-02 · 30 Características de NPC (P-30.1 a P-30.5)**
+- **Decisão:**
+  - "Ataque natural" definido: Ataque com o corpo da criatura, com Dano, Tipo de Dano e Alcance na ficha, como uma arma, usando Agilidade + Lutar salvo indicação;
+  - criaturas que não são humanas podem ter Atributos acima de 5; personagens ficam limitados a 5;
+  - Reservas padrão para resistir quando a característica não indicar: Vigor + Determinação (corpo) e Determinação + Astúcia (mente); as características atuais mantêm as suas (fecha a Q-007);
+  - o Aterrorizante não causa dano de Vontade (fecha a parte de NPCs da Q-011);
+  - Frenesi usa o Alcance; Teia ganha Alcance 6; sai a frase repetida do Aterrorizante; "token" vira "espaço que ela ocupa";
+  - novas questões: Q-014 (ficha de criatura) e Q-015 (lista única de Capacidades, mantendo as Competências para os jogadores).
+- **Status:** aprovada.
+- **Arquivos:** `Regras/Criaturas/Características de NPC.md`, `Regras/Personagens/Atributos.md` e as versões em `en/`.

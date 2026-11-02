@@ -1,7 +1,9 @@
-<!-- source: b04861687d8f -->
+<!-- source: 5468df1196cd -->
 # NPC Traits
 
 **NPC Traits** are abilities belonging to NPCs, creatures and enemies. They are set directly on the creature's sheet and are not part of the characters' Competency system.
+
+A **Natural Attack** is an Attack made with the creature's body, such as claws, bites, horns or stingers. The creature's sheet sets its Damage, Damage Type and Reach, like those of a [weapon](../Equipamentos/Armas.md), and it uses **Agility + Fighting**, unless the sheet sets another Pool.
 
 ## Configurable values
 
@@ -10,6 +12,8 @@ Each trait comes with **default values** in parentheses, such as **Potency**, th
 **Potency** is the [Difficulty](../Mec%C3%A2nica%20B%C3%A1sica/Reserva%20de%20Dados.md#difficulty-scale) of the test the target makes to resist, when the trait calls for one.
 
 When a Trait mentions a Skill without spelling out the full Pool, it uses the Skill's linked Attribute. Pools expressly made of two Attributes, such as Vigor + Determination, stay unchanged.
+
+When a trait does not set the Pool to resist, use **Vigor + Determination** against effects on the body and **Determination + Cunning** against effects on the mind.
 
 ## Special movement
 
@@ -57,7 +61,7 @@ When the creature **wins an Attack with a melee natural Attack**, the target mak
 
 ### Frenzy
 
-- **Description:** once per Turn, on winning an Attack, the creature makes another Attack against another adjacent target, with **-2 dice**.
+- **Description:** once per Turn, on winning an Attack, the creature makes another Attack against another target within its Reach, with **-2 dice**.
 
 ### Improved Frenzy
 
@@ -82,11 +86,11 @@ When the creature **wins an Attack with a melee natural Attack**, the target mak
 
 ### Terrifying (Potency 2; Determination + Cunning; stacks equal to Potency)
 
-- **Description:** whoever sees the creature for the first time in the scene makes the test to resist. Whoever fails receives stacks of [Fear](../Condi%C3%A7%C3%B5es/Medo.md). It happens once per scene for each character.
+- **Description:** whoever sees the creature for the first time in the scene makes the test to resist. Whoever fails receives stacks of [Fear](../Condi%C3%A7%C3%B5es/Medo.md).
 
-### Web (Potency 2; Attack: Agility + Shooting; escape: Strength + Athletics)
+### Web (Potency 2; Range 6; Attack: Agility + Shooting; escape: Strength + Athletics)
 
-- **Description:** the creature makes a ranged Attack with **Agility + Shooting**. A sheet can expressly set another Attack Attribute for its Web. On a win, it leaves the target [Grappled](../Condi%C3%A7%C3%B5es/Agarrado.md) by the web. To break free, the target uses their Action and tests **Strength + Athletics** against the Potency.
+- **Description:** the creature makes a ranged Attack, up to the Range, with **Agility + Shooting**. A sheet can expressly set another Attack Attribute for its Web. On a win, it leaves the target [Grappled](../Condi%C3%A7%C3%B5es/Agarrado.md) by the web. To break free, the target uses their Action and tests **Strength + Athletics** against the Potency.
 
 ### Burrowing Ambush
 
@@ -95,7 +99,7 @@ When the creature **wins an Attack with a melee natural Attack**, the target mak
 
 ### Swarm (damage by Size)
 
-- **Description:** the creature is a swarm of small critters, treated as a single one. At the **start of each of its Turns**, every creature **inside the token or adjacent to it** takes **superficial damage**, with no Attack roll. The base damage comes from Size (**Medium 2, Large 4, Huge 6**) and drops by **1 for each creature hit beyond the first**, to a minimum of 1. The creature's on-hit effects, such as [Venomous](#venomous-potency-2-vigor--determination), apply to each creature hit. The base damage can change on each creature. It is usually **Immune to Slashing and Piercing**.
+- **Description:** the creature is a swarm of small critters, treated as a single one. At the **start of each of its Turns**, every creature **in the space it occupies or adjacent to it** takes **superficial damage**, with no Attack roll. The base damage comes from Size (**Medium 2, Large 4, Huge 6**) and drops by **1 for each creature hit beyond the first**, to a minimum of 1. The creature's on-hit effects, such as [Venomous](#venomous-potency-2-vigor--determination), apply to each creature hit. The base damage can change on each creature. It is usually **Immune to Slashing and Piercing**.
 
 ## Recovery
 

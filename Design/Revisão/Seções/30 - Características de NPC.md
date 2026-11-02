@@ -2,7 +2,7 @@
 
 **Arquivo:** `Regras/Criaturas/Características de NPC.md` (e `en/`)
 **Relacionadas:** Atributos (Escala; seção 02), Vida (Trilha de Vida Preenchida), Vontade (D-026), Movimentação, Zonas, Armaduras (Absorção), Armas (Alcance), Tamanho, Condições (Medo, Envenenado, Paralisado, Atordoado, Agarrado), Iluminação, Q-007, Q-011
-**Status:** análise pronta; aguardando decisão do autor
+**Status:** decidida (D-056) e aplicada; aguardando o merge do PR
 
 ## O que está estabelecido
 
@@ -74,3 +74,12 @@ Manter como está. A parte da Q-011 sobre características de NPC fica fechada; 
 - **Teia:** acrescentar Alcance ao título, com valor padrão **6**: "Teia (Potência 2; Alcance 6; Ataque: Agilidade + Atirar; escapar: Força + Atletismo)", e na descrição, "um Ataque à distância, até o Alcance, com **Agilidade + Atirar**".
 - **Aterrorizante:** tirar "Acontece uma vez por cena para cada personagem."
 - **Enxame:** "dentro do token ou adjacentes" vira "no espaço que ela ocupa ou adjacentes".
+
+## Decisões do autor (2026-11-02)
+
+- **Reestruturação proposta pelo autor:** uma lista única de Capacidades, sem Nível nem restrição, usada pelas Competências (progressões fixas) e pelos NPCs (Capacidades soltas). Discutimos trocar as Competências por feats e decidimos **manter as Competências** para os jogadores. O tema virou a Q-015 e será desenhado à parte.
+- **P-30.1:** aprovada. "Ataque natural" definido; a ficha de criatura virou a Q-014 (D-056).
+- **P-30.2:** opção (a). Criaturas não humanas podem passar de 5; personagens ficam em 5 (D-056).
+- **P-30.3:** opção (a). Reservas padrão para resistir, sem mudar as características atuais (D-056). A Q-007 está resolvida.
+- **P-30.4:** o Aterrorizante não causa dano de Vontade (D-056). A parte de NPCs da Q-011 está fechada.
+- **P-30.5:** aprovada (D-056).
