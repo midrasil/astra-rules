@@ -2,7 +2,7 @@
 
 **Arquivo:** `Regras/Personagens/Descanso Prolongado.md` (e `en/`)
 **Relacionadas:** Vida, Vontade, Condições
-**Status:** P-07.1 aprovada (D-030) e aplicada; aguardando o merge do PR
+**Status:** concluída (PR #29, mergeado em 2026-11-02)
 
 ## O que está estabelecido
 
