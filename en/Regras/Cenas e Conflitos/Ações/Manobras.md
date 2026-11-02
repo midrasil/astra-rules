@@ -1,4 +1,4 @@
-<!-- source: 708ab100f635 -->
+<!-- source: 1304abea4223 -->
 # Maneuvers
 
 **Maneuvers** represent physical and tactical actions used to gain an advantage during a Tactical Scene, either by changing another character's position, condition or freedom of movement, or by preparing the character themselves to act more effectively.
@@ -59,7 +59,7 @@ If the character who started the Maneuver gets more Successes, they can move the
 
 This move can represent a shove, a pull, steering the body or any other similar way of taking the target out of their position.
 
-The character can only Reposition a target of the **same [Size](../../Personagens/Tamanho.md) or smaller**.
+The character can only Reposition a target at most **one [Size](../../Personagens/Tamanho.md#size-limit) category larger** than themselves.
 
 On a tie or a win for the target, nothing happens.
 
@@ -83,7 +83,7 @@ If the chosen square takes the target off an edge, platform or similar position,
 
 When using the **Trip** Maneuver, the character uses their **Action** to try to put another character on the ground.
 
-To perform the Maneuver, the character must be **close enough to physically interact with the target**.
+To perform the Maneuver, the character must be **close enough to physically interact with the target**. The target can be at most one [Size](../../Personagens/Tamanho.md#size-limit) category larger.
 
 The Dice Pool of whoever starts it is:
 
@@ -103,7 +103,7 @@ On a tie or a win for the target, nothing happens.
 
 When using the **Grapple** Maneuver, the character uses their **Action** to try to restrain another character.
 
-To perform the Maneuver, the character must be **close enough to physically interact with the target**.
+To perform the Maneuver, the character must be **close enough to physically interact with the target**. The target can be at most one [Size](../../Personagens/Tamanho.md#size-limit) category larger.
 
 The Dice Pool of whoever starts it is:
 

@@ -1,4 +1,4 @@
-<!-- source: 971e35141878 -->
+<!-- source: c331fd8a37d9 -->
 # Size
 
 **Size** gives the physical build of a character or creature and how much space they take up on the map during a [Tactical Scene](../Cenas%20e%20Conflitos/Cenas%20T%C3%A1ticas.md).
@@ -7,7 +7,7 @@ Every character has a Size. The default is **Medium**.
 
 | Size | Space taken up |
 |---|---|
-| **Tiny** | ½ × ½ square |
+| **Tiny** | shares a square |
 | **Small** | 1 × 1 square |
 | **Medium** | 1 × 1 square |
 | **Large** | 2 × 2 squares |
@@ -16,11 +16,13 @@ Every character has a Size. The default is **Medium**.
 
 A creature that takes up more than one square is considered **adjacent** to everything next to any of the squares it occupies, including diagonally.
 
-## Moving another creature
+A **Tiny** creature can occupy the same square as another creature and can be moved through by anyone.
 
-A creature can only **move another creature of the same Size or smaller**.
+## Size Limit
 
-This applies to every rule that moves a character against their will, such as the [Reposition](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Manobras.md#reposition) Maneuver or dragging a [Grappled](../Condi%C3%A7%C3%B5es/Agarrado.md) target. A smaller creature can still try to Trip, Grapple or Disarm a larger one, but cannot move it from its place.
+A creature can only **Grapple**, **Trip** or **move against their will** a target at most **one category larger** than itself.
+
+The limit applies to the [Grapple](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Manobras.md#grapple), [Trip](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Manobras.md#trip) and [Reposition](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Manobras.md#reposition) Maneuvers, to dragging a [Grappled](../Condi%C3%A7%C3%B5es/Agarrado.md) target and to any other rule that moves a character against their will. Disarm has no Size limit.
 
 ## Size in the Attack
 
