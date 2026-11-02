@@ -105,7 +105,7 @@ Um personagem que esteja impossibilitado de se mover não pode escolher Esquivar
 
 ## Alvo sem Resposta
 
-Quando o alvo não pode responder ao Confronto, seja por estar surpreendido, inconsciente, sem nenhuma resposta válida ou com a Reserva de Dados reduzida a menos de 1 dado, apenas o atacante rola. O resultado do alvo é considerado sempre **1 Sucesso**.
+Quando o alvo não pode responder ao Confronto, seja por estar surpreendido, inconsciente ou sem nenhuma resposta válida, apenas o atacante rola. O resultado do alvo é considerado sempre **1 Sucesso**.
 
 O Confronto é resolvido normalmente com esse valor, incluindo a regra de empate. Se o atacante não obtiver nenhum Sucesso, o Ataque falha e ninguém sofre dano.
 

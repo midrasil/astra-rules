@@ -40,3 +40,31 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
 **D-006 · 2026-11-01 · 00 Introdução (P-00.4)**
 - **Decisão:** a ordem das áreas no Readme e na wiki fica para a seção 53.
 - **Status:** adiada (Q-001).
+
+**D-007 · 2026-11-02 · 01 Mecânica Básica (P-01.1)**
+- **Decisão:** penalidades nunca reduzem uma Reserva a menos de 1 dado. Saem a regra "menos de 1 dado = 1 Sucesso" e a menção correspondente em *Alvo sem Resposta*. Regras que impedem a ação nesse caso, como o Alcance em Confrontar, continuam valendo como exceção.
+- **Status:** aprovada.
+- **Justificativa:** com a regra antiga, ser penalizado até zerar a Reserva era melhor do que rolar 1 dado (1 Sucesso garantido contra 50% de chance).
+- **Impacto:** quem só é penalizado continua rolando 1 dado. *Alvo sem Resposta* passa a valer só para quem de fato não pode responder.
+- **Arquivos:** `Regras/Mecânica Básica/Reserva de Dados.md`, `Regras/Cenas e Conflitos/Ações/Confrontar.md` e as versões em `en/`.
+
+**D-008 · 2026-11-02 · 01 Mecânica Básica (P-01.2)**
+- **Decisão:** criar uma regra geral de **teste oposto**. Vence quem tiver mais Sucessos e, no empate, prevalece a situação atual. Regras específicas podem mudar o empate, como Confrontar, em que o atacante vence.
+- **Status:** aprovada.
+- **Justificativa:** não havia resposta para empates fora das regras específicas. O padrão escolhido é o que Manobras e Agarrado já usavam.
+- **Arquivos:** `Regras/Mecânica Básica/Reserva de Dados.md` e a versão em `en/`.
+
+**D-009 · 2026-11-02 · 01 Mecânica Básica (P-01.3)**
+- **Decisão:** reorganizar a Reserva de Dados nesta ordem: dados, montagem, Sucessos, Dificuldade, testes opostos, penalidades, substituições e Ajuda. As quatro explicações do Atributo vinculado viram uma só, e o exemplo repetido sai. Nenhuma regra muda.
+- **Status:** aprovada.
+- **Arquivos:** `Regras/Mecânica Básica/Reserva de Dados.md` e a versão em `en/`.
+
+**D-010 · 2026-11-02 · 01 Mecânica Básica (P-01.4)**
+- **Decisão:** a exigência de estar adjacente e de gastar a Ação vale na Cena Tática. Fora dela, basta que o ajudante possa participar da tarefa, a critério do Narrador.
+- **Status:** aprovada.
+- **Arquivos:** `Regras/Mecânica Básica/Reserva de Dados.md` e a versão em `en/`.
+
+**D-011 · 2026-11-02 · 01 Mecânica Básica (Q-006)**
+- **Decisão:** a Ajuda continua com +1 dado e custo de uma Ação. Ela é fraca de propósito, como base a ser ampliada por Competências como o Inspirador.
+- **Status:** mantida por intenção de design.
+- **Consequência para revisões futuras:** não propor fortalecer a Ajuda base. Avaliar o valor dela nas Competências que a ampliam.
