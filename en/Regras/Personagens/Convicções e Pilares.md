@@ -1,4 +1,4 @@
-<!-- source: 2ceabe5200a3 -->
+<!-- source: c887c659538e -->
 # Convictions and Pillars
 
 A **Conviction** is a principle the character refuses to betray — for example, "Never abandon those who fight at my side".
@@ -36,7 +36,7 @@ On gaining a Fracture, the character takes **1 point of aggravated [Willpower](V
 
 At the end of a session in which the character defended a Conviction that is not broken, or its Pillar, paying a **real cost** — such as risk, loss or sacrifice —, remove **1 Fracture** from that Conviction. Repairing a Fracture turns **1 point of aggravated [Willpower](Vontade.md) damage** into superficial damage.
 
-This can happen **once per session for each Conviction**.
+This can happen **once per session for each Conviction**. An intact Conviction has no Fracture to repair: defending it does not convert Willpower damage.
 
 ## Broken Conviction
 
@@ -62,7 +62,7 @@ The player and the Narrator decide together whether the Conviction will be **res
 
 This use is possible even with a full Willpower track.
 
-A broken Conviction does not grant this benefit.
+The benefit does not pay the Willpower costs of Capabilities. A broken Conviction does not grant this benefit.
 
 ## Convictions in the Story
 

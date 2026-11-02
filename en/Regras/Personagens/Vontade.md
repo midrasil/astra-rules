@@ -1,4 +1,4 @@
-<!-- source: 12b9feb26b9d -->
+<!-- source: d3060b38541c -->
 # Willpower
 
 **Willpower** is a **resource**: the character spends it to push past their own limits. While [Health](Vida.md) represents the character's physical condition, the damage built up on the Willpower track represents the state of their **psyche**: the strain of that effort and the marks left by their Convictions.
@@ -45,7 +45,7 @@ When using Willpower, the character takes **1 point of superficial Willpower dam
 
 With a full Willpower track, any use of Willpower is paid by [Breaking Limit](#break-limit).
 
-Once per session, in total, a **Conviction** lets them use Willpower without taking the superficial damage, even with a full track (see [Convictions and Pillars](Convic%C3%A7%C3%B5es%20e%20Pilares.md)).
+Once per session, in total, a **Conviction** lets them Reroll Dice or Ignore Physical Penalties without taking the superficial damage, even with a full track. This benefit does not pay the Willpower costs of Capabilities (see [Convictions and Pillars](Convic%C3%A7%C3%B5es%20e%20Pilares.md)).
 
 ### Reroll Dice
 

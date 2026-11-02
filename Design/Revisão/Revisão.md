@@ -46,8 +46,8 @@ Status: `[ ]` pendente · `[~]` em discussão · `[x]` concluída
 - [x] 05 · [Vida](Seções/05%20-%20Vida.md)
 - [x] 06 · [Vontade](Seções/06%20-%20Vontade.md)
 - [x] 07 · [Descanso Prolongado](Seções/07%20-%20Descanso%20Prolongado.md)
-- [~] 08 · [Ambição e Desejo](Seções/08%20-%20Ambi%C3%A7%C3%A3o%20e%20Desejo.md)
-- [ ] 09 · Convicções e Pilares
+- [x] 08 · [Ambição e Desejo](Seções/08%20-%20Ambi%C3%A7%C3%A3o%20e%20Desejo.md)
+- [~] 09 · [Convicções e Pilares](Seções/09%20-%20Convic%C3%A7%C3%B5es%20e%20Pilares.md)
 - [ ] 10 · Progressão
 
 **Competências**
