@@ -52,8 +52,8 @@ Status: `[ ]` pendente · `[~]` em discussão · `[x]` concluída
 
 **Competências**
 - [x] 11 · [Competências (regras gerais)](Seções/11%20-%20Compet%C3%AAncias.md)
-- [~] 12 · [Acrobata](Seções/12%20-%20Acrobata.md)
-- [ ] 13 · Ambidestro
+- [x] 12 · [Acrobata](Seções/12%20-%20Acrobata.md)
+- [~] 13 · [Ambidestro](Seções/13%20-%20Ambidestro.md)
 - [ ] 14 · Aparador
 - [ ] 15 · Assassino
 - [ ] 16 · Atirador
