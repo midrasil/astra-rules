@@ -2,7 +2,7 @@
 
 **Arquivo:** `Regras/Competências/Cativante.md` (e `en/`), mais a linha na lista de Competências
 **Relacionadas:** Perícias (Perícias de Carisma), Atributos (Carisma)
-**Status:** decidida (D-044) e aplicada; aguardando o merge do PR
+**Status:** concluída (PR #40, mergeado em 2026-11-02)
 
 ## O que está estabelecido
 

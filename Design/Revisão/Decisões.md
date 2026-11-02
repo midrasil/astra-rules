@@ -275,3 +275,8 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
 - **Decisão:** a tabela de Progressão perdeu a coluna de bônus, que sugeria +4 em todos os testes no Nível 2. A Primeira Impressão virou uma frase só ("qualquer que seja a Perícia ou a abordagem"), com o link para Bonito codificado como os demais. A linha da lista fala em "aparência".
 - **Status:** aprovada.
 - **Arquivos:** `Regras/Competências/Cativante.md`, `Regras/Competências/Competências.md` e as versões em `en/`.
+
+**D-045 · 2026-11-02 · 19 Duelista (P-19.1 a P-19.3)**
+- **Decisão:** a exigência de arma corpo a corpo em uma mão e a outra livre é dita uma vez, na introdução, e sai do começo de cada Nível. Na Superioridade Técnica saiu "corpo a corpo", redundante com a Vantagem Numérica. A penalidade do Desafio e da Condição Desafiado é fixa em -3 dados. Nova linha na lista de Competências.
+- **Status:** aprovada.
+- **Arquivos:** `Regras/Competências/Duelista.md`, `Regras/Condições/Desafiado.md`, `Regras/Competências/Competências.md` e as versões em `en/`.
