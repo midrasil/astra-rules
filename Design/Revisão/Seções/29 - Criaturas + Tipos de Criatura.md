@@ -23,7 +23,7 @@
    - **Opção B: manter e definir no Caçador**, por exemplo, Sem tipo conta como presa e usa Ocultismo. Isso acrescenta uma regra para um caso que talvez nunca apareça.
 3. **Tipos novos de cenários e módulos também ficam sem resposta no Caçador (lacuna pequena).** Se um cenário cria o tipo "Fada", o Caçador não sabe se usa Natureza ou Ocultismo. Basta dizer que quem cria um tipo diz como as regras que citam tipos o tratam.
 4. **Uma criatura pode ter mais de um Tipo? (lacuna pequena).** Um dragão morto-vivo é Dragão ou Morto-vivo? Para o Caçador, isso decide a Perícia. A regra mais simples é um Tipo por criatura, escolhido pelo que ela é agora (o dragão morto-vivo é Morto-vivo).
-5. **Os tipos não têm descrição (observação).** A lista só tem nomes. A fronteira entre Besta e Monstruosidade, ou entre Morto-vivo e Espírito (um fantasma é o quê?), fica com o Narrador. Isso pesa pouco hoje, porque só o Caçador usa o Tipo, e as duas fronteiras mais confusas caem no mesmo lado da regra do Caçador, exceto Morto-vivo/Espírito, que caem ambos em Ocultismo. Ou seja: nenhuma dúvida de fronteira muda a Perícia usada. Não proponho descrições agora; fica para quando mais regras usarem o Tipo.
+5. **Os tipos não têm descrição (observação).** A lista só tem nomes. A fronteira entre Besta e Monstruosidade, ou entre Morto-vivo e Espírito (um fantasma é o quê?), fica com o Narrador. Isso pesa pouco hoje, porque só o Caçador usa o Tipo, e nas duas fronteiras mais confusas os dois lados usam a mesma Perícia: Besta e Monstruosidade usam Natureza; Morto-vivo e Espírito usam Ocultismo. Não proponho descrições agora; fica para quando mais regras usarem o Tipo.
 
 ### Texto e estrutura
 
