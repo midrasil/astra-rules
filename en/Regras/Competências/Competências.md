@@ -1,4 +1,4 @@
-<!-- source: 4e4fa4cde7a7 -->
+<!-- source: 722a70c5c038 -->
 # Competencies
 
 **Competencies** represent developed ways of acting, fighting, thinking or interacting with the world. Each has its own identity and a fixed progression.
@@ -70,7 +70,7 @@ Each Competency presents its identity, a **Progression** table and a section for
 - [Assassin](Assassino.md) — acting first in Initiative, surprising, extra damage against targets without a response, Stealth and a quick arrival in combat.
 - [Marksman](Atirador.md) — shooting stance with a bonus and longer range, free Aim every Turn, moving without losing the Aim and Aim stacks paid with Willpower.
 - [Hunter](Ca%C3%A7ador.md) — tracking with Survival, studying any non-Humanoid creature with Nature or Occultism, stronger Attacks and damage against Read prey and a hunt that is never lost.
-- [Captivating](Cativante.md) — beauty and presence that favor social interactions and make a stronger first impression.
+- [Captivating](Cativante.md) — appearance that favors social interactions and makes a stronger first impression.
 - [Duelist](Duelista.md) — fighting with a weapon in one hand and the other free, facing isolated targets and challenging opponents.
 - [Furious](Furioso.md) — Fury, melee aggression and damage that grows with the wounds suffered.
 - [Guardian](Guardi%C3%A3o.md) — Defending with a Shield for yourself and your allies: Cover Ally on Defend and Dodge, swapping places to take an Attack, Protection against Zones and blocking on a tie.

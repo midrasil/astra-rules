@@ -4,10 +4,10 @@ Cativante representa o personagem cuja beleza, elegância ou presença pessoal i
 
 ## Progressão
 
-| Nível | Capacidade concedida | Bonito |
-|---:|---|---:|
-| **1** | Bonito | +2 dados |
-| **2** | Primeira Impressão | +4 dados |
+| Nível | Capacidade concedida |
+|---:|---|
+| **1** | Bonito |
+| **2** | Primeira Impressão |
 
 ## Nível 1 — Bonito
 
@@ -17,9 +17,7 @@ O bônus pode se aplicar, por exemplo, a **Persuadir**, **Mentir**, **Performanc
 
 ## Nível 2 — Primeira Impressão
 
-Na primeira vez em cada Cena que você realizar contra uma pessoa um teste beneficiado por [Bonito](#nível-1--bonito), o bônus aumenta de **+2 para +4 dados**.
-
-Cada pessoa só pode conceder esse benefício uma vez por Cena, mesmo que você utilize Perícias ou abordagens diferentes.
+Na primeira vez em cada Cena que você realizar contra uma pessoa um teste beneficiado por [Bonito](#n%C3%ADvel-1--bonito), qualquer que seja a Perícia ou a abordagem, o bônus aumenta de **+2 para +4 dados**.
 
 ---
 

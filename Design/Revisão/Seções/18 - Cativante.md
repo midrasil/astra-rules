@@ -2,7 +2,7 @@
 
 **Arquivo:** `Regras/Competências/Cativante.md` (e `en/`), mais a linha na lista de Competências
 **Relacionadas:** Perícias (Perícias de Carisma), Atributos (Carisma)
-**Status:** análise pronta; aguardando decisão do autor
+**Status:** decidida (D-044) e aplicada; aguardando o merge do PR
 
 ## O que está estabelecido
 
@@ -43,3 +43,7 @@ Isso também corrige o link (item 6).
 ### P-18.3 · Linha da lista
 
 "aparência que favorece interações sociais e causa uma primeira impressão mais forte."
+
+## Decisões do autor (2026-11-02)
+
+- **P-18.1, P-18.2 e P-18.3:** aprovadas (D-044).
