@@ -315,3 +315,12 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
 - **Decisão:** a primeira frase da visão geral cita a identidade e usa "equipamento inicial", e a linha da Identidade inclui os Pilares. Na Identidade, uma frase diz que os Pilares são combinados com o Narrador, porque passam a fazer parte da história.
 - **Status:** aprovada.
 - **Arquivos:** `Criação de Personagem/0 - Criação de Personagem.md`, `Criação de Personagem/1 - Identidade.md` e as versões em `en/`.
+
+**D-053 · 2026-11-02 · 27 Atributos e Perícias + Características Derivadas (P-27.1 a P-27.4)**
+- **Decisão:**
+  - "array fixo" vira "valores" na página e "valores fixos" na visão geral (fecha a Q-004);
+  - sai a lista de exemplos das 24 Perícias; os dois tetos de 4 viram uma seção curta, "Teto na criação"; nova frase sobre Conhecimento Específico e idiomas de Erudição;
+  - perfis de Perícias igualados em 90 XP: Generalista com seis Perícias em 1 (eram sete) e Equilibrado com seis (eram cinco);
+  - Características Derivadas: os novos espaços de Vida ou Vontade entram vazios; sai a menção vaga a "outras regras anteriores".
+- **Status:** aprovada.
+- **Arquivos:** `Criação de Personagem/0 - Criação de Personagem.md`, `Criação de Personagem/2 - Atributos e Perícias.md`, `Criação de Personagem/3 - Características Derivadas.md` e as versões em `en/`.

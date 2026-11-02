@@ -5,7 +5,7 @@ As etapas são feitas em ordem, mas você pode voltar e ajustar escolhas anterio
 ## Subseções
 
 - [Identidade](1%20-%20Identidade.md) — Conceito, Ambição, Desejo, Convicções e Pilares.
-- [Atributos e Perícias](2%20-%20Atributos%20e%20Per%C3%ADcias.md) — Atributos (array fixo) e Perícias (perfis).
+- [Atributos e Perícias](2%20-%20Atributos%20e%20Per%C3%ADcias.md) — Atributos (valores fixos) e Perícias (perfis).
 - [Características Derivadas](3%20-%20Caracter%C3%ADsticas%20Derivadas.md) — Vida, Vontade, Iniciativa e Carga máxima.
 - [Competências](4%20-%20Competências.md) — 2 Pontos de Competência.
 - [Equipamento Inicial](5%20-%20Equipamento%20Inicial.md) — o que o personagem começa carregando.

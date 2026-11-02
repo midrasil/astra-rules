@@ -68,8 +68,8 @@ Status: `[ ]` pendente · `[~]` em discussão · `[x]` concluída
 - [x] 25 · [Sentinela](Seções/25%20-%20Sentinela.md)
 
 **Criação de Personagem**
-- [~] 26 · [Visão geral + Identidade](Seções/26%20-%20Vis%C3%A3o%20geral%20%2B%20Identidade.md)
-- [ ] 27 · Atributos e Perícias + Características Derivadas
+- [x] 26 · [Visão geral + Identidade](Seções/26%20-%20Vis%C3%A3o%20geral%20%2B%20Identidade.md)
+- [~] 27 · [Atributos e Perícias + Características Derivadas](Seções/27%20-%20Atributos%20e%20Per%C3%ADcias%20%2B%20Caracter%C3%ADsticas%20Derivadas.md)
 - [ ] 28 · Competências + Equipamento Inicial
 
 **Criaturas**

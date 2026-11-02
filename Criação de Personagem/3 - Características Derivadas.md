@@ -17,7 +17,7 @@ Por exemplo, se uma Capacidade determinar que a Vida utiliza Astúcia no lugar d
 
 Essa substituição não faz Astúcia funcionar como Vigor em testes, recuperação ou qualquer outra regra.
 
-Quando o Atributo que atualmente compõe uma característica derivada aumentar, o valor é recalculado imediatamente. Capacidades sempre prevalecem sobre as fórmulas padrão e sobre outras regras anteriores que estabeleçam seus Atributos.
+Quando o Atributo que atualmente compõe uma característica derivada aumentar, o valor é recalculado imediatamente, e os novos espaços de Vida ou Vontade entram vazios. Capacidades sempre prevalecem sobre as fórmulas padrão.
 
 ---
 

@@ -1,4 +1,4 @@
-<!-- source: 6e3713fe0eec -->
+<!-- source: da4f7cd1ece5 -->
 # Derived Traits
 
 Some of the character's values are not chosen directly: they are **calculated from the Attributes**.
@@ -20,7 +20,7 @@ For example, if a Capability says Health uses Cunning instead of Vigor, its form
 
 This replacement does not make Cunning work as Vigor in tests, recovery or any other rule.
 
-When the Attribute that currently makes up a derived trait increases, the value is recalculated immediately. Capabilities always take precedence over the default formulas and over other earlier rules that set their Attributes.
+When the Attribute that currently makes up a derived trait increases, the value is recalculated immediately, and new Health or Willpower boxes start empty. Capabilities always take precedence over the default formulas.
 
 ---
 
