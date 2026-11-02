@@ -14,7 +14,7 @@ Acrobata representa o personagem que escapa de golpes, atravessa o campo de bata
 
 ## Nível 1 — Esquiva Acrobática
 
-Ao vencer ao [Esquivar](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Confrontar.md#esquivar), você pode se deslocar até a sua **Movimentação base completa**, em vez de metade dela.
+Ao vencer uma [Esquiva](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Confrontar.md#esquivar), você pode se deslocar até a sua **Movimentação base completa**, em vez de metade dela.
 
 Durante esse deslocamento, você pode atravessar quadrados ocupados por inimigos, mas não pode terminá-lo em um deles.
 
@@ -37,7 +37,7 @@ Esses efeitos não funcionam enquanto você estiver impossibilitado de se mover.
 
 ## Nível 4 — Evasão
 
-Ao resistir a uma [Zona de dano](../Cenas%20e%20Conflitos/Zonas.md#zonas-de-dano), se obtiver Sucessos **iguais ou maiores que o Dano da Zona** e puder sair da área com o deslocamento de uma Esquiva vencida, você se desloca para fora da Zona e **não sofre nenhum dano**. O deslocamento precisa terminar fora da área da Zona.
+Ao resistir a uma [Zona de dano](../Cenas%20e%20Conflitos/Zonas.md#zonas-de-dano), se obtiver Sucessos **iguais ou maiores que o Dano da Zona** e puder sair da área com o deslocamento de uma Esquiva vencida, você se desloca para fora da Zona e **não sofre nenhum dano**. Esse deslocamento é o de uma Esquiva e segue suas regras. Ele precisa terminar fora da área da Zona.
 
 Se não obtiver Sucessos suficientes, não puder sair da área ou decidir não se deslocar, a resistência à Zona é resolvida normalmente.
 

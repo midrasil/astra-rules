@@ -1,4 +1,4 @@
-<!-- source: d11ee7c7354f -->
+<!-- source: 29aa88b41629 -->
 # Acrobat
 
 Acrobat represents the character who slips past blows, crosses the battlefield and refuses to be surrounded.
@@ -38,7 +38,7 @@ These effects do not work while you are unable to move.
 
 ## Level 4 — Evasion
 
-When resisting a [Damage Zone](../Cenas%20e%20Conflitos/Zonas.md#damage-zones), if you get Successes **equal to or greater than the Zone's Damage** and can leave the area with the movement of a won Dodge, you move out of the Zone and **take no damage**. The movement must end outside the Zone's area.
+When resisting a [Damage Zone](../Cenas%20e%20Conflitos/Zonas.md#damage-zones), if you get Successes **equal to or greater than the Zone's Damage** and can leave the area with the movement of a won Dodge, you move out of the Zone and **take no damage**. This movement is a Dodge's movement and follows its rules. It must end outside the Zone's area.
 
 If you do not get enough Successes, cannot leave the area or choose not to move, resisting the Zone is resolved as usual.
 

@@ -2,7 +2,7 @@
 
 **Arquivo:** `Regras/Competências/Acrobata.md` (e `en/`), mais a linha na lista de Competências
 **Relacionadas:** Confrontar (Esquivar, Vantagem Numérica), Zonas, Movimentação, Correr, Caído
-**Status:** em discussão
+**Status:** decidida (D-038) e aplicada; aguardando o merge do PR
 
 ## O que está estabelecido
 
@@ -48,3 +48,8 @@ Acrescentar: "Esse deslocamento segue as regras do deslocamento da Esquiva."
 
 - "Ao vencer ao Esquivar" vira "Ao vencer uma Esquiva".
 - A linha da lista passa a ser: "Esquiva que desloca mais longe e atravessa inimigos, Movimentação maior, resistência a cercos, fuga de Zonas e vitória no empate ao Esquivar."
+
+## Decisões do autor (2026-11-02)
+
+- **P-12.1:** aprovada. A Evasão é uma Esquiva (D-038).
+- **P-12.2:** aprovada (D-038).
