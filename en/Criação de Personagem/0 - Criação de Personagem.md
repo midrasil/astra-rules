@@ -1,13 +1,13 @@
-<!-- source: d380b65a3984 -->
+<!-- source: 682ce5c14aa6 -->
 # Character Creation
 
-**Character Creation** is the process of building a new character in Astra. The result is a sheet ready to play, with Attributes, Skills, Competencies and starting equipment.
+**Character Creation** is the process of building a new character in Astra. The result is a sheet ready to play, with identity, Attributes, Skills, Competencies and starting equipment.
 
 The steps are done in order, but you can go back and adjust earlier choices while the character's concept takes shape.
 
 ## Subsections
 
-- [Identity](1%20-%20Identidade.md) — Concept, Ambition, Desire and Convictions.
+- [Identity](1%20-%20Identidade.md) — Concept, Ambition, Desire, Convictions and Pillars.
 - [Attributes and Skills](2%20-%20Atributos%20e%20Per%C3%ADcias.md) — Attributes (fixed array) and Skills (profiles).
 - [Derived Traits](3%20-%20Caracter%C3%ADsticas%20Derivadas.md) — Health, Willpower, Initiative and Maximum Load.
 - [Competencies](4%20-%20Competências.md) — 2 Competency Points.

@@ -2,7 +2,7 @@
 
 **Arquivo:** `Regras/Competências/Sentinela.md` (e `en/`)
 **Relacionadas:** Confrontar (Defender, Esquivar), Movimentação (Movimentação e Inimigos), Correr, Aparador, Acrobata (seção 12), Guardião (D-047), Incapacitado (D-023), Vontade (Romper Limite, D-028)
-**Status:** decidida (D-051) e aplicada; aguardando o merge do PR
+**Status:** concluída (PR #47, mergeado em 2026-11-02)
 
 ## O que está estabelecido
 

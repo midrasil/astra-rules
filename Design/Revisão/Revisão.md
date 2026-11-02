@@ -65,10 +65,10 @@ Status: `[ ]` pendente · `[~]` em discussão · `[x]` concluída
 - [x] 22 · [Inspirador](Seções/22%20-%20Inspirador.md)
 - [x] 23 · [Mentalista](Seções/23%20-%20Mentalista.md)
 - [x] 24 · [Robusto](Seções/24%20-%20Robusto.md)
-- [~] 25 · [Sentinela](Seções/25%20-%20Sentinela.md)
+- [x] 25 · [Sentinela](Seções/25%20-%20Sentinela.md)
 
 **Criação de Personagem**
-- [ ] 26 · Visão geral + Identidade
+- [~] 26 · [Visão geral + Identidade](Seções/26%20-%20Vis%C3%A3o%20geral%20%2B%20Identidade.md)
 - [ ] 27 · Atributos e Perícias + Características Derivadas
 - [ ] 28 · Competências + Equipamento Inicial
 

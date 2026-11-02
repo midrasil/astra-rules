@@ -310,3 +310,8 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
 - **Decisão:** na introdução, "incapacitado" passa a ser a Condição [Incapacitado], com link, como no Furioso (D-046) e no Guardião (D-047). A interação com o Acrobata não precisa de regra própria, e o custo de Vontade da Vigilância Incansável não muda (acompanhamento da D-028).
 - **Status:** aprovada.
 - **Arquivos:** `Regras/Competências/Sentinela.md` e a versão em `en/`.
+
+**D-052 · 2026-11-02 · 26 Visão geral + Identidade (P-26.1 e P-26.2)**
+- **Decisão:** a primeira frase da visão geral cita a identidade e usa "equipamento inicial", e a linha da Identidade inclui os Pilares. Na Identidade, uma frase diz que os Pilares são combinados com o Narrador, porque passam a fazer parte da história.
+- **Status:** aprovada.
+- **Arquivos:** `Criação de Personagem/0 - Criação de Personagem.md`, `Criação de Personagem/1 - Identidade.md` e as versões em `en/`.

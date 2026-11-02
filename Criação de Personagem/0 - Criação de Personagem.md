@@ -1,10 +1,10 @@
-**Criação de Personagem** é o processo de montar um novo personagem no Astra. O resultado é uma ficha pronta para jogar, com Atributos, Perícias, Competências e equipamentos iniciais.
+**Criação de Personagem** é o processo de montar um novo personagem no Astra. O resultado é uma ficha pronta para jogar, com identidade, Atributos, Perícias, Competências e equipamento inicial.
 
 As etapas são feitas em ordem, mas você pode voltar e ajustar escolhas anteriores enquanto o conceito do personagem se firma.
 
 ## Subseções
 
-- [Identidade](1%20-%20Identidade.md) — Conceito, Ambição, Desejo e Convicções.
+- [Identidade](1%20-%20Identidade.md) — Conceito, Ambição, Desejo, Convicções e Pilares.
 - [Atributos e Perícias](2%20-%20Atributos%20e%20Per%C3%ADcias.md) — Atributos (array fixo) e Perícias (perfis).
 - [Características Derivadas](3%20-%20Caracter%C3%ADsticas%20Derivadas.md) — Vida, Vontade, Iniciativa e Carga máxima.
 - [Competências](4%20-%20Competências.md) — 2 Pontos de Competência.
