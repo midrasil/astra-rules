@@ -72,7 +72,7 @@ Cada Competência apresenta sua identidade, uma tabela de **Progressão** e uma 
 - [Furioso](Furioso.md) — Fúria, agressão corpo a corpo, dano que cresce com os ferimentos, avanço rápido, imunidade ao Medo e recusa em cair.
 - [Guardião](Guardi%C3%A3o.md) — Defender com Escudo para si e para os aliados: Cobrir Aliado no Defender e no Esquivar, trocar de lugar para receber um Ataque, Proteção contra Zonas e bloqueio no empate.
 - [Inspirador](Inspirador.md) — Ajudar aliados a distância com bônus maior, transferir Vontade e inspirar vários aliados de uma vez.
-- [Mentalista](Mentalista.md) — leitura de pessoas e inimigos pela Condição Lido, Astúcia em Ataques e testes sociais.
+- [Mentalista](Mentalista.md) — leitura de pessoas e inimigos pela Condição Lido, Astúcia em Ataques, Perceber e testes sociais, e dados garantidos contra quem você leu.
 - [Robusto](Robusto.md) — trilha de Vida maior, que cresce com o Nível da Competência.
 - [Sentinela](Sentinela.md) — Ataque de Oportunidade contra quem sai do alcance da sua arma corpo a corpo ou ataca seus aliados, parando o deslocamento do alvo.
 

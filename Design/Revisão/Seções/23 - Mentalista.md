@@ -2,7 +2,7 @@
 
 **Arquivo:** `Regras/Competências/Mentalista.md` (e `en/`), mais a linha na lista de Competências
 **Relacionadas:** Lido (Condição), Confrontar (Alvo sem Resposta), Reserva de Dados (testes opostos), Caçador (D-043), Vontade (Romper Limite, D-028)
-**Status:** análise pronta; aguardando decisão do autor
+**Status:** decidida (D-049) e aplicada; aguardando o merge do PR
 
 ## O que está estabelecido
 
@@ -45,3 +45,7 @@ Trocar "uma quantidade de dano superficial de Vontade limitada pelo seu Nível d
 ### P-23.3 · Linha da lista
 
 "leitura de pessoas e inimigos pela Condição Lido, Astúcia em Ataques, Perceber e testes sociais, e dados garantidos contra quem você leu."
+
+## Decisões do autor (2026-11-02)
+
+- **P-23.1, P-23.2 e P-23.3:** aprovadas (D-049). A Manipulação continua sem exigir alvo Lido, e o custo de Vontade de Eu Já Sabia fica como está (acompanhamento da D-028).

@@ -1,4 +1,4 @@
-<!-- source: e4f404822b27 -->
+<!-- source: 259d37ffba52 -->
 # Mentalist
 
 Mentalist represents the character who reads people through trained observation, picking up emotions, intentions, lies and an enemy's strengths and weaknesses.
@@ -36,7 +36,7 @@ Whatever the result, the target becomes [Read](../Condi%C3%A7%C3%B5es/Lido.md) b
 - What is one of their [Resistances](../Resist%C3%AAncia%20e%20Vulnerabilidade/Resist%C3%AAncia.md) or [Immunities](../Resist%C3%AAncia%20e%20Vulnerabilidade/Imunidade.md)?
 - What is one of their [Vulnerabilities](../Resist%C3%AAncia%20e%20Vulnerabilidade/Vulnerabilidade.md)?
 
-Each question about strengths and weaknesses reveals a single Resistance, Immunity or Vulnerability, with its Damage Type or Material. When the target has none, the Narrator says so.
+Each question about strengths and weaknesses reveals a single Resistance, Immunity or Vulnerability, with its Damage Type or Material. You can repeat a question to discover another. When the target has none, the Narrator says so.
 
 The Narrator answers truthfully, the way the target's body and behavior reveal it: impressions, not exact thoughts, names or specific secrets. When the target is a player character, their player answers.
 
@@ -58,7 +58,7 @@ These dice are a bonus, not a second Attribute: the test still uses the Skill's 
 
 ## Level 5 — I Knew It
 
-Before rolling any test whose Pool uses **Cunning** against a target [Read](../Condi%C3%A7%C3%B5es/Lido.md) by you, you can take an amount of superficial Willpower damage limited by your Mentalist Level. This includes Attacks made with [Combat Read](#level-2--combat-read).
+Before rolling any test whose Pool uses **Cunning** against a target [Read](../Condi%C3%A7%C3%B5es/Lido.md) by you, you can take **up to 5 points** of superficial Willpower damage. This includes Attacks made with [Combat Read](#level-2--combat-read).
 
 For each point taken, 1 die of that test's Pool becomes a **guaranteed die**: it is not rolled and counts as 1 Success.
 

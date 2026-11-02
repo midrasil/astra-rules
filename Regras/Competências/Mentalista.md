@@ -35,7 +35,7 @@ Qualquer que seja o resultado, o alvo fica [Lido](../Condi%C3%A7%C3%B5es/Lido.md
 - Qual é uma de suas [Resistências](../Resist%C3%AAncia%20e%20Vulnerabilidade/Resist%C3%AAncia.md) ou [Imunidades](../Resist%C3%AAncia%20e%20Vulnerabilidade/Imunidade.md)?
 - Qual é uma de suas [Vulnerabilidades](../Resist%C3%AAncia%20e%20Vulnerabilidade/Vulnerabilidade.md)?
 
-Cada pergunta sobre forças e fraquezas revela uma única Resistência, Imunidade ou Vulnerabilidade, com seu Tipo de Dano ou Material. Quando o alvo não possuir nenhuma, o Narrador informa isso.
+Cada pergunta sobre forças e fraquezas revela uma única Resistência, Imunidade ou Vulnerabilidade, com seu Tipo de Dano ou Material. Você pode repetir uma pergunta para descobrir outra. Quando o alvo não possuir nenhuma, o Narrador informa isso.
 
 O Narrador responde com a verdade, da forma como o corpo e o comportamento do alvo a revelam: impressões, e não pensamentos exatos, nomes ou segredos específicos. Quando o alvo for um personagem de jogador, quem responde é o seu jogador.
 
@@ -57,7 +57,7 @@ Esses dados são um bônus, e não um segundo Atributo: o teste continua utiliza
 
 ## Nível 5 — Eu Já Sabia
 
-Antes de rolar qualquer teste cuja Reserva utilize **Astúcia** contra um alvo [Lido](../Condi%C3%A7%C3%B5es/Lido.md) por você, você pode sofrer uma quantidade de dano superficial de Vontade limitada pelo seu Nível de Mentalista. Isso inclui os Ataques realizados com a [Leitura de Combate](#n%C3%ADvel-2--leitura-de-combate).
+Antes de rolar qualquer teste cuja Reserva utilize **Astúcia** contra um alvo [Lido](../Condi%C3%A7%C3%B5es/Lido.md) por você, você pode sofrer **até 5 pontos** de dano superficial de Vontade. Isso inclui os Ataques realizados com a [Leitura de Combate](#n%C3%ADvel-2--leitura-de-combate).
 
 Para cada ponto sofrido, 1 dado da Reserva desse teste se torna um **dado garantido**: ele não é rolado e conta como 1 Sucesso.
 
