@@ -65,7 +65,7 @@ Igualar a Dificuldade já garante o sucesso. Cada Sucesso **acima** da Dificulda
 
 ## Testes Opostos
 
-Em um **teste oposto**, dois personagens rolam suas Reservas de Dados e vence quem obtiver mais Sucessos. Por exemplo, a Furtividade de quem se esconde contra a Percepção de quem procura.
+Em um **teste oposto**, dois personagens rolam suas Reservas de Dados e vence quem obtiver mais Sucessos. Por exemplo, a Furtividade de quem se esconde contra o Perceber de quem procura.
 
 Em caso de empate, **prevalece a situação atual**: quem tenta mudar algo não consegue. Regras específicas, como [Confrontar](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Confrontar.md), podem determinar outro resultado para o empate.
 

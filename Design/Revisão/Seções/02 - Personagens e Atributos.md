@@ -1,7 +1,7 @@
 # 02 · Personagens (índice) + Atributos
 
 **Arquivos:** `Regras/Personagens/Personagens.md`, `Regras/Personagens/Atributos.md` (e as versões em `en/`)
-**Status:** propostas decididas (D-012 a D-015) e aplicadas; aguardando o merge do PR
+**Status:** concluída (PR #24, mergeado em 2026-11-02)
 
 ## O que está estabelecido
 
