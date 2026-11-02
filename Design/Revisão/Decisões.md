@@ -285,3 +285,8 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
 - **Decisão:** o Sangue por Sangue continua com +1 por superficial e +2 por agravado, mesmo com o dano agravado por padrão. Recusar a Queda usa a Condição Incapacitado. A introdução diz que a Fúria é um estado da Competência, não uma Condição, e saíram duas frases redundantes (Investida Furiosa e Além da Dor). Nova linha na lista. O custo de Vontade da Fúria foi reavaliado (acompanhamento da D-028) e fica como está.
 - **Status:** aprovada.
 - **Arquivos:** `Regras/Competências/Furioso.md`, `Regras/Competências/Competências.md` e as versões em `en/`.
+
+**D-047 · 2026-11-02 · 21 Guardião (P-21.1)**
+- **Decisão:** a restrição de uso enquanto surpreendido, Incapacitado ou Paralisado foi para a introdução e vale para o Cobrir Aliado e o Interpor-se, com link para a Condição Incapacitado. O custo de Vontade do Interpor-se e dos usos extras do Cobrir Aliado foi reavaliado (acompanhamento da D-028) e fica como está.
+- **Status:** aprovada.
+- **Arquivos:** `Regras/Competências/Guardião.md` e a versão em `en/`.
