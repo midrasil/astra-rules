@@ -145,3 +145,17 @@ O superficial convertido se cura no Descanso do mesmo dia.
 
   A futura Competência apenas permitiria Tratar durante a Cena Tática.
 - **Hospital como melhor ponto:** converte **3 pontos por dia**, sem rolagem e sem material. É melhor que um curador treinado (média de 2,6) e não depende de quem está no grupo.
+
+### Terceira rodada (2026-11-02)
+
+**Observação do autor:** um curador muito bom (por exemplo Astúcia 5 + Curar 5, 10 dados, média de 5,2) cura mais por dia do que um hospital fixo em 3.
+
+**Proposta:** o hospital deixa de ser um número fixo e vira o **melhor lugar** para tratar.
+
+> Em instalações adequadas, o Tratamento dispensa o material, recebe **+2 dados** e converte **no mínimo 3 pontos**. Sem um curador no grupo, a equipe do local garante esse mínimo.
+
+- Um leigo no hospital converte 3, e fora dele 1.
+- Um curador mestre no hospital converte em média 6,3, e fora dele 5,2.
+- Assim, o hospital é sempre melhor do que tratar o mesmo paciente fora dele, com o mesmo curador.
+
+**Alternativa:** um teto para o Tratamento fora do hospital (por exemplo, 2 pontos por dia). Isso reduz o valor de investir em Curar.
