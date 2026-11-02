@@ -2,7 +2,7 @@
 
 **Arquivo:** `Regras/Competências/Guardião.md` (e `en/`)
 **Relacionadas:** Confrontar (Defender, Esquivar), Escudos, Zonas (Zonas de dano), Aparador, Incapacitado (D-023), Paralisado, Vontade (Romper Limite, D-028)
-**Status:** análise pronta; aguardando decisão do autor
+**Status:** decidida (D-047) e aplicada; aguardando o merge do PR
 
 ## O que está estabelecido
 
@@ -44,3 +44,7 @@ Tirar a frase do fim do Cobrir Aliado e pôr na introdução, depois da exigênc
 
 - **Por quê:** fecha a lacuna do Interpor-se e usa a Condição Incapacitado, numa frase só.
 - **Alternativa:** deixar a frase no Cobrir Aliado e repetir no Interpor-se.
+
+## Decisões do autor (2026-11-02)
+
+- **P-21.1:** aprovada (D-047). O custo de Vontade do Guardião foi reavaliado (acompanhamento da D-028) e fica como está.

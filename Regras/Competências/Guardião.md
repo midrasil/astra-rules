@@ -4,6 +4,8 @@ Guardião representa o combatente de escudo que se planta entre o perigo e quem 
 
 As Capacidades desta Competência exigem que você esteja empunhando um [Escudo](../Equipamentos/Escudos.md) e utilizam somente a Proteção dele. Elas não se aplicam sem um Escudo empunhado nem ao [Aparar](Aparador.md#n%C3%ADvel-1--aparar).
 
+Você não pode usar [Cobrir Aliado](#n%C3%ADvel-1--cobrir-aliado) nem [Interpor-se](#n%C3%ADvel-3--interpor-se) enquanto estiver surpreendido, [Incapacitado](../Condi%C3%A7%C3%B5es/Incapacitado.md) ou [Paralisado](../Condi%C3%A7%C3%B5es/Paralisado.md).
+
 ## Progressão
 
 | Nível | Capacidade concedida |
@@ -25,8 +27,6 @@ Uma vez por Rodada, quando um aliado adjacente a você for alvo de um Ataque, el
 Se o aliado Defender empunhando um Escudo próprio, ele utiliza a maior Proteção entre os dois. As Proteções não se somam.
 
 Você decide usar Cobrir Aliado depois que o Ataque é declarado e antes de o aliado escolher sua resposta. Se ele Aceitar o Confronto, o uso da Rodada é perdido.
-
-Você não pode Cobrir um aliado enquanto estiver surpreendido, incapacitado ou [Paralisado](../Condi%C3%A7%C3%B5es/Paralisado.md).
 
 ## Nível 2 — Domínio do Escudo
 

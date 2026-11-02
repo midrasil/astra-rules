@@ -1,9 +1,11 @@
-<!-- source: 23e2ddb0a351 -->
+<!-- source: 54f6a983e729 -->
 # Guardian
 
 Guardian represents the shield fighter who plants themselves between danger and those at their side, protecting themselves and extending their defense to their allies.
 
 The Capabilities of this Competency require you to be holding a [Shield](../Equipamentos/Escudos.md) and use only its Protection. They do not apply without a Shield in hand, nor to [Parry](Aparador.md#level-1--parry).
+
+You cannot use [Cover Ally](#level-1--cover-ally) or [Intercept](#level-3--intercept) while you are surprised, [Incapacitated](../Condi%C3%A7%C3%B5es/Incapacitado.md) or [Paralyzed](../Condi%C3%A7%C3%B5es/Paralisado.md).
 
 ## Progression
 
@@ -26,8 +28,6 @@ Once per Round, when an ally adjacent to you is the target of an Attack, they ad
 If the ally Defends holding a Shield of their own, they use the higher Protection of the two. The Protections do not stack.
 
 You decide to use Cover Ally after the Attack is declared and before the ally chooses their response. If they Accept the Confront, the use for the Round is lost.
-
-You cannot Cover an ally while you are surprised, incapacitated or [Paralyzed](../Condi%C3%A7%C3%B5es/Paralisado.md).
 
 ## Level 2 — Shield Mastery
 
