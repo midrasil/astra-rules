@@ -2,7 +2,7 @@
 
 **Arquivo:** `Regras/Competências/Furioso.md` (e `en/`), mais a linha na lista de Competências
 **Relacionadas:** Vida (gravidade padrão e trilha preenchida), Vontade (Romper Limite, D-028; dano de Vontade, D-042), Debilitado, Incapacitado (D-023), Medo, Correr, Movimentação, Confrontar (Atributos de Ataque)
-**Status:** decidida (D-046) e aplicada; aguardando o merge do PR
+**Status:** concluída (PR #42, mergeado em 2026-11-02)
 
 ## O que está estabelecido
 

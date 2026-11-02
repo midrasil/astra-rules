@@ -60,8 +60,8 @@ Status: `[ ]` pendente · `[~]` em discussão · `[x]` concluída
 - [x] 17 · [Caçador](Seções/17%20-%20Ca%C3%A7ador.md)
 - [x] 18 · [Cativante](Seções/18%20-%20Cativante.md)
 - [x] 19 · [Duelista](Seções/19%20-%20Duelista.md)
-- [~] 20 · [Furioso](Seções/20%20-%20Furioso.md)
-- [ ] 21 · Guardião
+- [x] 20 · [Furioso](Seções/20%20-%20Furioso.md)
+- [~] 21 · [Guardião](Seções/21%20-%20Guardi%C3%A3o.md)
 - [ ] 22 · Inspirador
 - [ ] 23 · Mentalista
 - [ ] 24 · Robusto
