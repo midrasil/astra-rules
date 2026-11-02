@@ -68,3 +68,24 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
 - **Decisão:** a Ajuda continua com +1 dado e custo de uma Ação. Ela é fraca de propósito, como base a ser ampliada por Competências como o Inspirador.
 - **Status:** mantida por intenção de design.
 - **Consequência para revisões futuras:** não propor fortalecer a Ajuda base. Avaliar o valor dela nas Competências que a ampliam.
+
+**D-012 · 2026-11-02 · 02 Personagens + Atributos (P-02.1)**
+- **Decisão:** a página de Atributos deixa de repetir as regras de penalidade por categoria e de substituição e passa a apontar para a Reserva de Dados. A regra das substituições em fórmulas fixas continua em Atributos.
+- **Status:** aprovada.
+- **Arquivos:** `Regras/Personagens/Atributos.md` e a versão em `en/`.
+
+**D-013 · 2026-11-02 · 02 Personagens + Atributos (P-02.2)**
+- **Decisão:** a seção **Escala** passa a ficar em Atributos: 1 Fraco, 2 Médio, 3 Notável, 4 Excepcional, 5 Auge humano. A Criação de Personagem aponta para ela.
+- **Status:** aprovada. Os níveis 3 e 4 também foram aprovados.
+- **Arquivos:** `Regras/Personagens/Atributos.md`, `Criação de Personagem/2 - Atributos e Perícias.md` e as versões em `en/`.
+
+**D-014 · 2026-11-02 · 02 Personagens + Atributos (P-02.3)**
+- **Decisão:** a palavra "Capacidade" fica reservada ao termo das Competências. O título "Capacidades" do índice de Personagens vira "Atributos e Perícias", e "capacidades fundamentais" vira "aptidões fundamentais".
+- **Status:** aprovada.
+- **Consequência para revisões futuras:** apontar outros usos genéricos de "capacidade" ou "capacidades" no texto das regras.
+- **Arquivos:** `Regras/Personagens/Personagens.md`, `Regras/Personagens/Atributos.md` e as versões em `en/`.
+
+**D-015 · 2026-11-02 · 02 Personagens + Atributos (P-02.4)**
+- **Decisão:** é intencional que Vigor e Determinação não tenham Perícias. O peso deles vem de Vida, Vontade, Iniciativa e resistências. Isso não precisa constar no texto.
+- **Status:** mantida por intenção de design.
+- **Consequência para revisões futuras:** não propor vincular Perícias a esses dois Atributos.

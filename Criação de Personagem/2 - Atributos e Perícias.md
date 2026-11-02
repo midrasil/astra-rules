@@ -2,7 +2,7 @@ Além do conceito, um personagem é definido numericamente por seus [Atributos](
 
 ## Atributos
 
-Todo personagem possui os seis [Atributos](../Regras/Personagens/Atributos.md) do núcleo, com valores de **1 a 5** (1 = fraco, 2 = médio, 5 = auge humano).
+Todo personagem possui os seis [Atributos](../Regras/Personagens/Atributos.md) do núcleo, com valores de **1 a 5** (ver [Escala](../Regras/Personagens/Atributos.md#escala)).
 
 Distribua o array fixo abaixo, escolhendo **onde cada valor entra**:
 

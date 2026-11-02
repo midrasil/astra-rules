@@ -22,7 +22,7 @@ Percorrer todo o sistema, da Introdução às Condições, uma seção por vez, 
 2. Discussão.
 3. Aprovação ou rejeição de cada proposta.
 4. Aplicação das aprovadas em português e em `en/`, com o hash de origem atualizado.
-5. Registro em [Decisões](Decisões.md) e seção marcada como concluída quando o autor confirmar.
+5. Registro em [Decisões](Decisões.md). O merge do PR da seção conta como confirmação do autor de que ela está concluída (combinado em 2026-11-02).
 
 ## Fontes
 
@@ -37,10 +37,10 @@ Status: `[ ]` pendente · `[~]` em discussão · `[x]` concluída
 - [x] 00 · [Introdução](Seções/00%20-%20Introdução.md) (`Readme.md`)
 
 **Mecânica Básica**
-- [~] 01 · [Mecânica Básica (índice) + Reserva de Dados](Seções/01%20-%20Mecânica%20Básica.md)
+- [x] 01 · [Mecânica Básica (índice) + Reserva de Dados](Seções/01%20-%20Mecânica%20Básica.md)
 
 **Personagens**
-- [ ] 02 · Personagens (índice) + Atributos
+- [~] 02 · [Personagens (índice) + Atributos](Seções/02%20-%20Personagens%20e%20Atributos.md)
 - [ ] 03 · Perícias
 - [ ] 04 · Tamanho
 - [ ] 05 · Vida

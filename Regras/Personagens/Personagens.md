@@ -4,7 +4,7 @@ Esta seção reúne os elementos que definem as capacidades, recursos, motivaç�
 
 - [Criação de Personagem](../../Cria%C3%A7%C3%A3o%20de%20Personagem/0%20-%20Cria%C3%A7%C3%A3o%20de%20Personagem.md) — como montar um personagem do zero.
 
-## Capacidades
+## Atributos e Perícias
 
 - [Atributos](Atributos.md) — capacidades fundamentais físicas e espirituais.
 - [Perícias](Per%C3%ADcias.md) — conhecimentos e habilidades desenvolvidos pelo personagem.
