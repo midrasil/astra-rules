@@ -25,6 +25,7 @@ Itens para revisitar. Cada um tem um **gatilho**: o momento da revisão em que d
 - **Origem:** seção 00.
 - **Descrição:** o Readme e a Criação de Personagem usam "array fixo", um anglicismo. Avaliar um termo em português.
 - **Gatilho:** seção 27.
+- **Resolvida (2026-11-02):** "array fixo" virou "valores" na página e "valores fixos" na visão geral; "perfis" ficou (D-053).
 
 **Q-005 · O que é núcleo e o que é módulo**
 - **Origem:** seção 00.

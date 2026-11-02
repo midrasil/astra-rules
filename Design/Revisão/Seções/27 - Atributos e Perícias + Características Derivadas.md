@@ -2,7 +2,7 @@
 
 **Arquivos:** `Criação de Personagem/2 - Atributos e Perícias.md` e `Criação de Personagem/3 - Características Derivadas.md` (e `en/`), mais a linha da visão geral
 **Relacionadas:** Atributos (seção 02), Perícias (seção 03; Idiomas e Conhecimento Específico), Vida, Vontade, Progressão (seção 10), Robusto (D-050), Assassino (Iniciativa), A Cena (Iniciativa), Equipamentos (Carga), Q-004
-**Status:** análise pronta; aguardando decisão do autor
+**Status:** decidida (D-053) e aplicada; aguardando o merge do PR
 
 ## O que está estabelecido
 
@@ -81,3 +81,9 @@
 
 - "Quando o Atributo que atualmente compõe uma característica derivada aumentar, o valor é recalculado imediatamente." vira "Quando o Atributo que atualmente compõe uma característica derivada aumentar, o valor é recalculado imediatamente, e os novos espaços de Vida ou Vontade entram vazios."
 - "Capacidades sempre prevalecem sobre as fórmulas padrão e sobre outras regras anteriores que estabeleçam seus Atributos." vira "Capacidades sempre prevalecem sobre as fórmulas padrão."
+
+## Decisões do autor (2026-11-02)
+
+- **P-27.1, P-27.2 e P-27.4:** aprovadas (D-053). A Q-004 está resolvida.
+- **P-27.3:** opção (a). Os três perfis valem 90 XP: Generalista e Equilibrado passam a ter seis Perícias em 1 (D-053).
+- A trilha que diminui (item 5) e os "slots" da Carga (item 11) ficam anotados, sem mudança agora.
