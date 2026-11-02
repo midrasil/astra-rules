@@ -126,3 +126,22 @@ O superficial convertido se cura no Descanso do mesmo dia.
 - Exigem o mesmo material?
 - O limite diário é separado do limite do tratamento, ou é o mesmo?
 - Como ficam as instalações adequadas (o hospital)?
+
+### Respostas do autor (2026-11-02, segunda rodada)
+
+- Os Primeiros Socorros **não funcionam durante a Cena Tática**, só depois dela. Uma Competência poderá mudar isso no futuro.
+- **O hospital tem que ser o melhor ponto de cura.**
+- O autor perguntou se haveria outro tratamento além do hospitalar. Resposta: sim, a "cena de cuidados", que já existe hoje.
+
+**Análise:** com os Primeiros Socorros fora da Cena Tática, eles e a cena de cuidados acontecem no mesmo momento, depois do combate. A única diferença é que a cena de cuidados converte por Sucesso, e os Primeiros Socorros convertem 1 contra uma Dificuldade.
+
+- **(A) Três níveis:**
+  - Primeiros Socorros: logo após o combate, converte 1 ponto contra Dificuldade igual ao agravado;
+  - Tratamento: cena de cuidados, converte 1 ponto por Sucesso;
+  - Hospital.
+- **(B) Dois níveis (recomendado):**
+  - Tratamento: a qualquer momento fora da Cena Tática, com material, converte 1 ponto por Sucesso, uma vez por dia por alvo;
+  - Hospital.
+
+  A futura Competência apenas permitiria Tratar durante a Cena Tática.
+- **Hospital como melhor ponto:** converte **3 pontos por dia**, sem rolagem e sem material. É melhor que um curador treinado (média de 2,6) e não depende de quem está no grupo.
