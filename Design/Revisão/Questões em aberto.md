@@ -69,3 +69,13 @@ Itens para revisitar. Cada um tem um **gatilho**: o momento da revisão em que d
 - **Origem:** seção 06.
 - **Descrição:** nenhuma regra causa dano de Vontade de fora, salvo a decisão do Narrador. Avaliar se o Aterrorizante, alguma Condição ou alguma Ação social deve causar dano de Vontade, e se há teste para resistir.
 - **Gatilho:** seções 30 (Características de NPC) e 48 (Condições).
+
+**Q-012 · Outras fontes de recuperação de agravado de Vontade**
+- **Origem:** seção 09 (D-035).
+- **Descrição:** o autor quer outras formas de curar dano agravado de Vontade além do reparo de Fraturas. Hoje já existem:
+  - a Ambição (1 por sessão);
+  - a restauração de uma Convicção rompida (até 2).
+
+  Avaliar se isso basta ou se deve haver outra fonte, como uma Competência (paralela à Q-010) ou um "tratamento" mental fora de cena.
+- **Gatilho:** decisão do autor; revisitar nas Competências (seções 11 a 25).
+

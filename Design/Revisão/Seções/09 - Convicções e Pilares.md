@@ -2,7 +2,7 @@
 
 **Arquivo:** `Regras/Personagens/Convicções e Pilares.md` (e `en/`)
 **Relacionadas:** Vontade, Ambição e Desejo, Progressão, Criação de Personagem (Identidade)
-**Status:** em discussão
+**Status:** decidida (D-033 a D-035) e aplicada; aguardando o merge do PR
 
 ## O que está estabelecido
 
@@ -58,3 +58,9 @@
 ### P-09.3 · Reparo só com Fratura (esclarecimento)
 
 Acrescentar a "Reparando uma Fratura": "Uma Convicção íntegra não tem o que reparar: defendê-la não converte dano de Vontade."
+
+## Decisões do autor (2026-11-02)
+
+- **P-09.1:** opção (a) (D-033).
+- **P-09.2:** rejeitada. A regra do Pilar fica como está (D-034).
+- **P-09.3:** aprovada. O reparo só acontece com Fratura (D-035). O autor quer outras fontes de cura de agravado de Vontade (Q-012).

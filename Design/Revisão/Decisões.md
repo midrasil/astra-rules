@@ -202,3 +202,19 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
 - **Status:** aprovada.
 - **Arquivos:** `Regras/Personagens/Ambição e Desejo.md` e a versão em `en/`.
 
+**D-033 · 2026-11-02 · 09 Convicções e Pilares (P-09.1): alcance do benefício**
+- **Decisão:** opção (a). O benefício da Convicção (uma vez por sessão, ao agir por ela) serve só para Rerrolar Dados ou Ignorar Penalidades Físicas e não paga custos de Vontade de Capacidades. A página de Vontade foi corrigida para dizer o mesmo.
+- **Status:** aprovada.
+- **Arquivos:** `Regras/Personagens/Convicções e Pilares.md`, `Regras/Personagens/Vontade.md` e as versões em `en/`.
+
+**D-034 · 2026-11-02 · 09 Convicções e Pilares (P-09.2): Fraturas pelo Pilar**
+- **Decisão:** rejeitada. A regra fica como está:
+  - Pilar ferido ou corrompido dá 1 Fratura;
+  - Pilar perdido ou morto dá 2 Fraturas e rompe a Convicção.
+- **Status:** rejeitada.
+
+**D-035 · 2026-11-02 · 09 Convicções e Pilares (P-09.3): reparo só com Fratura**
+- **Decisão:** reparar uma Fratura converte 1 agravado de Vontade. Uma Convicção íntegra não tem o que reparar, e defendê-la não converte dano. O autor quer outras formas de curar agravado de Vontade além das Fraturas (Q-012).
+- **Status:** aprovada.
+- **Arquivos:** `Regras/Personagens/Convicções e Pilares.md` e a versão em `en/`.
+

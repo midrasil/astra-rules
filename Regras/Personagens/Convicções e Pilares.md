@@ -33,7 +33,7 @@ Ao ganhar uma Fratura, o personagem sofre **1 ponto de dano agravado de [Vontade
 
 Ao final de uma sessão em que o personagem defendeu uma Convicção que não está rompida, ou seu Pilar, pagando um **custo real** — como risco, perda ou renúncia —, remova **1 Fratura** dessa Convicção. Reparar uma Fratura torna **1 ponto de dano agravado de [Vontade](Vontade.md)** em dano superficial.
 
-Isso pode ocorrer **uma vez por sessão para cada Convicção**.
+Isso pode ocorrer **uma vez por sessão para cada Convicção**. Uma Convicção íntegra não tem Fratura a reparar: defendê-la não converte dano de Vontade.
 
 ## Convicção Rompida
 
