@@ -2,7 +2,7 @@
 
 **Arquivo:** `Regras/Competências/Inspirador.md` (e `en/`), mais a linha na lista de Competências
 **Relacionadas:** Reserva de Dados (Ajuda; D-010, D-011), Aguardar (Preparar uma Ação), Vontade (Romper Limite, D-028), Q-012
-**Status:** análise pronta; aguardando decisão do autor
+**Status:** decidida (D-048) e aplicada; aguardando o merge do PR
 
 ## O que está estabelecido
 
@@ -40,3 +40,7 @@ Tirar a coluna "Inspiração". A tabela fica só com Nível e Capacidade.
 ### P-22.2 · Linha da lista
 
 "Ajudar aliados a distância com bônus maior, transferir Vontade e inspirar vários aliados de uma vez."
+
+## Decisões do autor (2026-11-02)
+
+- **P-22.1 e P-22.2:** aprovadas (D-048). O custo de Vontade do Refrão foi reavaliado (acompanhamento da D-028) e fica como está.

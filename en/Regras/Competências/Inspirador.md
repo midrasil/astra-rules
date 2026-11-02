@@ -1,15 +1,15 @@
-<!-- source: cc012974ddba -->
+<!-- source: 4e84a0516de8 -->
 # Inspirer
 
 Inspirer represents a character capable of awakening courage and determination through music, speeches, stories, performance or another form of expression.
 
 ## Progression
 
-| Level | Capability granted | Inspiration |
-|---:|---|---:|
-| **1** | Inspiration | +2 dice |
-| **2** | Lift the Spirit | +2 dice |
-| **3** | Inspiring Chorus | +2 dice |
+| Level | Capability granted |
+|---:|---|
+| **1** | Inspiration |
+| **2** | Lift the Spirit |
+| **3** | Inspiring Chorus |
 
 ## Level 1 — Inspiration
 

@@ -290,3 +290,8 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
 - **Decisão:** a restrição de uso enquanto surpreendido, Incapacitado ou Paralisado foi para a introdução e vale para o Cobrir Aliado e o Interpor-se, com link para a Condição Incapacitado. O custo de Vontade do Interpor-se e dos usos extras do Cobrir Aliado foi reavaliado (acompanhamento da D-028) e fica como está.
 - **Status:** aprovada.
 - **Arquivos:** `Regras/Competências/Guardião.md` e a versão em `en/`.
+
+**D-048 · 2026-11-02 · 22 Inspirador (P-22.1 e P-22.2)**
+- **Decisão:** a tabela de Progressão perdeu a coluna "Inspiração", que era sempre +2. Nova linha na lista. O valor da Ajuda ampliada foi avaliado (pedido da D-011) e não muda, e o custo de Vontade do Refrão também fica como está (acompanhamento da D-028).
+- **Status:** aprovada.
+- **Arquivos:** `Regras/Competências/Inspirador.md`, `Regras/Competências/Competências.md` e as versões em `en/`.
