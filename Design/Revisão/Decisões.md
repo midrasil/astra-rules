@@ -227,3 +227,11 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
 - **Status:** aprovada. O ritmo foi esclarecido pelo autor.
 - **Arquivos:** `Regras/Personagens/Progressão.md` e a versão em `en/`.
 
+**D-037 · 2026-11-02 · 11 Competências (P-11.1 a P-11.3)**
+- **Decisão:**
+  - **P-11.1:** o rodapé volta para o Astra (Readme), como nas outras áreas.
+  - **P-11.2:** a seção Nível foi enxugada. A criação virou uma frase com link para a Criação de Personagem, que passa a ser a única fonte da regra. "Formato" virou uma frase.
+  - **P-11.3:** nas seções 12 a 25, cada PR de Competência também revisa a sua linha na lista de Competências.
+- **Status:** aprovada.
+- **Arquivos:** `Regras/Competências/Competências.md` e a versão em `en/`.
+

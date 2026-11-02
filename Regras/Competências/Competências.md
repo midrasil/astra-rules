@@ -9,11 +9,7 @@ Toda Competência possui um **Nível de 0 a 5**, salvo quando sua progressão in
 - **Nível 0:** o personagem não possui a Competência;
 - **Níveis 1 a 5:** o personagem possui todas as Capacidades concedidas até aquele Nível.
 
-Competências mais simples podem possuir menos Níveis. Nesse caso, o último Nível de sua tabela de progressão é o seu Nível máximo.
-
-Cada aumento concede automaticamente o conteúdo definido para o novo Nível. Não existem escolhas em um catálogo nem uma compra separada para a Capacidade.
-
-Para alcançar um Nível, o personagem precisa possuir todos os Níveis anteriores da mesma Competência. Nenhuma Competência pode ultrapassar o Nível 5 nem o Nível máximo indicado em sua progressão.
+Cada aumento concede automaticamente o conteúdo definido para o novo Nível, sem escolhas em um catálogo nem compra separada para a Capacidade. Para alcançar um Nível, o personagem precisa possuir todos os Níveis anteriores da mesma Competência.
 
 ## Capacidades
 
@@ -39,14 +35,7 @@ Esse valor não é um Nível global do personagem. Ele existe para determinar o 
 
 ## Criação de personagem
 
-Durante a [criação de personagem](../../Cria%C3%A7%C3%A3o%20de%20Personagem/4%20-%20Compet%C3%AAncias.md), cada personagem recebe **2 Pontos de Competência**.
-
-Cada ponto aumenta uma Competência em 1 Nível e concede automaticamente o conteúdo daquele Nível. Os pontos podem ser utilizados para começar com:
-
-- Nível 2 em uma Competência; ou
-- Nível 1 em duas Competências diferentes.
-
-Pontos de Competência não utilizados não são convertidos em XP.
+Na criação, o personagem recebe **2 Pontos de Competência** (ver [Criação de Personagem](../../Cria%C3%A7%C3%A3o%20de%20Personagem/4%20-%20Compet%C3%AAncias.md)).
 
 ## Aquisição durante a campanha
 
@@ -68,13 +57,7 @@ Não existe um limite para o Nível Total de Competências. O aumento progressiv
 
 ## Formato de uma Competência
 
-Cada Competência apresenta:
-
-- nome e descrição de sua identidade;
-- sua progressão de Níveis;
-- o nome e o efeito mecânico de suas Capacidades e o que cada Nível concede.
-
-Um Nível pode conceder uma nova Capacidade, mais de um efeito do mesmo avanço ou aumentar a potência de uma Capacidade que o personagem já possui.
+Cada Competência apresenta sua identidade, uma tabela de **Progressão** e uma seção para cada Nível, com o nome e o efeito das Capacidades concedidas. Um Nível pode conceder uma nova Capacidade ou aumentar a potência de uma que o personagem já possui.
 
 ## Lista de Competências
 
@@ -95,4 +78,4 @@ Um Nível pode conceder uma nova Capacidade, mais de um efeito do mesmo avanço 
 
 ---
 
-← [Voltar para Personagens](../Personagens/Personagens.md)
+← [Voltar ao Astra](../../Readme.md)
