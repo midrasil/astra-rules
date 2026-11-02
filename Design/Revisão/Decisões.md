@@ -173,3 +173,14 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
 - **Consequências:** Furioso (entrar em Fúria), Guardião, Sentinela e Inspirador passam a poder pagar seus custos com dano agravado quando a trilha está cheia. Reavaliar nas seções 20, 21, 22 e 25.
 - **Arquivos:** `Regras/Personagens/Vontade.md`, `Regras/Competências/Atirador.md`, `Regras/Competências/Mentalista.md` e as versões em `en/`.
 
+**D-029 · 2026-11-02 · 06 Vontade (P-06.4): texto enxuto**
+- **Decisão:**
+  - introdução em um parágrafo;
+  - superficial e agravado em uma frase cada;
+  - saíram as frases redundantes, sobre a trilha de Vida em Ignorar Penalidades e sobre "marcado normalmente";
+  - o Desejo entrou na lista de Recuperação;
+  - a ordem segue a da Vida.
+  As âncoras usadas por outras páginas foram mantidas.
+- **Status:** aprovada.
+- **Arquivos:** `Regras/Personagens/Vontade.md` e a versão em `en/`.
+
