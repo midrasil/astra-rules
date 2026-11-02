@@ -100,3 +100,29 @@ O superficial convertido se cura no Descanso do mesmo dia.
 2. **"Material de Curar" não existe nos Equipamentos.** A exigência não tem item correspondente.
 3. **Não há nada durante a Cena.** Agora Incapacitado só termina com 1 ponto convertido, e o tratamento exige uma cena de cuidados. Um aliado que cai fica fora até o fim do combate, e o Curar não tem papel tático. Pode ser intencional.
 4. **Autotratamento de quem está Incapacitado.** O texto permite tratar a si mesmo, mas o Incapacitado não age. Isso precisa ficar explícito.
+
+### Proposta do autor (2026-11-02)
+
+- **Material:** fora de instalações adequadas, tratar exige material. Ele não dá bônus, e a falta dele não dá penalidade: sem material, simplesmente não é possível tratar. No futuro, uma Competência vai permitir curar sem equipamento.
+- **Primeiros Socorros:** Astúcia + Curar contra Dificuldade igual à **quantidade de dano agravado** do alvo. Em caso de sucesso, converte 1 agravado em superficial. Limite de uma vez por dia por alvo.
+
+**Análise:**
+
+- O material binário é simples e cria espaço para a futura Competência. Concordo.
+- **Com essa Dificuldade, quem está Incapacitado quase não volta.** Um alvo Incapacitado tem a trilha inteira agravada, ou seja, 3 + Vigor (4 a 8) pontos. Com 5 dados, as chances de sucesso ficam assim:
+
+  | Dificuldade | Chance |
+  | --- | --- |
+  | 4 | 22% |
+  | 5 | 6% |
+  | 6 | cerca de 1% |
+
+  Na prática, os Primeiros Socorros servem para feridos leves e quase nunca para quem caiu. Se a intenção é que quem cai fique fora do combate, a regra funciona. Se a intenção é que o curador consiga levantar alguém, ela não funciona.
+- **Alternativa:** Dificuldade = **metade** do agravado, arredondada para baixo. Um Incapacitado com Vigor 3 fica com Dificuldade 3 (51% com 5 dados) e com Vigor 5, Dificuldade 4 (22%). A ideia de "quanto pior, mais difícil" continua.
+
+**Pontos a definir:**
+
+- Os Primeiros Socorros gastam uma Ação na Cena Tática?
+- Exigem o mesmo material?
+- O limite diário é separado do limite do tratamento, ou é o mesmo?
+- Como ficam as instalações adequadas (o hospital)?
