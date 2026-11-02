@@ -2,7 +2,7 @@
 
 **Arquivo:** `Regras/Personagens/Progressão.md` (e `en/`)
 **Relacionadas:** Atributos, Perícias, Competências (regras gerais), Convicções e Pilares, Criação de Personagem
-**Status:** decidida (D-036) e aplicada; aguardando o merge do PR
+**Status:** concluída (PR #32, mergeado em 2026-11-02)
 
 ## O que está estabelecido
 

@@ -48,10 +48,10 @@ Status: `[ ]` pendente · `[~]` em discussão · `[x]` concluída
 - [x] 07 · [Descanso Prolongado](Seções/07%20-%20Descanso%20Prolongado.md)
 - [x] 08 · [Ambição e Desejo](Seções/08%20-%20Ambi%C3%A7%C3%A3o%20e%20Desejo.md)
 - [x] 09 · [Convicções e Pilares](Seções/09%20-%20Convic%C3%A7%C3%B5es%20e%20Pilares.md)
-- [~] 10 · [Progressão](Seções/10%20-%20Progress%C3%A3o.md)
+- [x] 10 · [Progressão](Seções/10%20-%20Progress%C3%A3o.md)
 
 **Competências**
-- [ ] 11 · Competências (regras gerais)
+- [~] 11 · [Competências (regras gerais)](Seções/11%20-%20Compet%C3%AAncias.md)
 - [ ] 12 · Acrobata
 - [ ] 13 · Ambidestro
 - [ ] 14 · Aparador
