@@ -58,8 +58,8 @@ Status: `[ ]` pendente · `[~]` em discussão · `[x]` concluída
 - [x] 15 · [Assassino](Seções/15%20-%20Assassino.md)
 - [x] 16 · [Atirador](Seções/16%20-%20Atirador.md)
 - [x] 17 · [Caçador](Seções/17%20-%20Ca%C3%A7ador.md)
-- [~] 18 · [Cativante](Seções/18%20-%20Cativante.md)
-- [ ] 19 · Duelista
+- [x] 18 · [Cativante](Seções/18%20-%20Cativante.md)
+- [~] 19 · [Duelista](Seções/19%20-%20Duelista.md)
 - [ ] 20 · Furioso
 - [ ] 21 · Guardião
 - [ ] 22 · Inspirador
