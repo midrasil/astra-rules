@@ -62,7 +62,7 @@ Cada Competência apresenta sua identidade, uma tabela de **Progressão** e uma 
 ## Lista de Competências
 
 - [Acrobata](Acrobata.md) — Esquiva que desloca mais longe e atravessa inimigos, Movimentação maior, resistência a cercos, fuga de Zonas e vitória no empate ao Esquivar.
-- [Ambidestro](Ambidestro.md) — lutar com uma arma em cada mão, somando o Dano da arma secundária em dados ao Atacar, ao Esquivar e ao Aparar.
+- [Ambidestro](Ambidestro.md) — lutar com uma arma em cada mão, somando o Dano da arma secundária em dados ao Atacar, ao Esquivar e ao Aparar, e no Nível 3 qualquer arma de uma mão como secundária.
 - [Aparador](Aparador.md) — Aparar Ataques com a própria arma, somando o Dano dela ao Defender, primeiro corpo a corpo e depois também à distância.
 - [Assassino](Assassino.md) — agir primeiro na Iniciativa, dano extra contra alvos sem resposta e Furtividade fora de combate.
 - [Atirador](Atirador.md) — preparação, conservação da Mira, precisão e disparos a distância com a Perícia Atirar.

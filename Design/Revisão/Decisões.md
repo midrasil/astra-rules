@@ -242,3 +242,11 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
 - **Status:** aprovada.
 - **Arquivos:** `Regras/Competências/Acrobata.md`, `Regras/Competências/Competências.md` e as versões em `en/`.
 
+**D-039 · 2026-11-02 · 13 Ambidestro (P-13.1 a P-13.3)**
+- **Decisão:**
+  - **P-13.1:** a secundária precisa alcançar o oponente do Confronto só ao atacar ou Aceitar o Confronto, porque o objetivo é causar dano. Na defesa (Guarda Cruzada), o alcance não é exigido.
+  - **P-13.2:** no Nível 3, uma arma Flexível conta como arma de uma mão, com o Dano de uma mão. Antes disso, só armas Leves servem como secundária.
+  - **P-13.3:** a linha da lista cita o Nível 3.
+- **Status:** aprovada. A leitura de P-13.1 (alcance só no ataque) foi interpretada da resposta do autor e comunicada.
+- **Arquivos:** `Regras/Competências/Ambidestro.md`, `Regras/Competências/Competências.md` e as versões em `en/`.
+

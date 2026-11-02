@@ -1,9 +1,9 @@
-<!-- source: 7e380e4638d3 -->
+<!-- source: 123dbd26938d -->
 # Ambidextrous
 
 Ambidextrous represents the fighter who uses both weapons in the same strike: while one opens the enemy's guard, the other lands the blow.
 
-The Capabilities of this Competency require a melee weapon held in each hand, following [Two-Weapon Fighting](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Confrontar.md#two-weapon-fighting). The off-hand weapon must have the [Light](../Equipamentos/Armas.md#grip-optional) Property and be able to reach the target.
+The Capabilities of this Competency require a melee weapon held in each hand, following [Two-Weapon Fighting](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Confrontar.md#two-weapon-fighting). The off-hand weapon must have the [Light](../Equipamentos/Armas.md#grip-optional) Property. When attacking or Accepting the Confront, it must also be able to reach the opponent in the Confront.
 
 ## Progression
 
@@ -29,7 +29,7 @@ When Parrying, the main weapon is the one used to Parry and adds its own Damage 
 
 ## Level 3 — Ambidexterity
 
-The off-hand weapon can be any one-handed melee weapon, not only a Light weapon.
+The off-hand weapon can be any one-handed melee weapon, not only a Light weapon. A Flexible weapon counts as a one-handed weapon and uses its one-handed Damage.
 
 ---
 

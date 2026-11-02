@@ -2,7 +2,7 @@
 
 **Arquivo:** `Regras/Competências/Acrobata.md` (e `en/`), mais a linha na lista de Competências
 **Relacionadas:** Confrontar (Esquivar, Vantagem Numérica), Zonas, Movimentação, Correr, Caído
-**Status:** decidida (D-038) e aplicada; aguardando o merge do PR
+**Status:** concluída (PR #34, mergeado em 2026-11-02)
 
 ## O que está estabelecido
 
