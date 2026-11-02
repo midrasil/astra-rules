@@ -80,3 +80,8 @@ Itens para revisitar. Cada um tem um **gatilho**: o momento da revisão em que d
   Avaliar se isso basta ou se deve haver outra fonte, como uma Competência (paralela à Q-010) ou um "tratamento" mental fora de cena.
 - **Gatilho:** decisão do autor; revisitar nas Competências (seções 11 a 25).
 
+**Q-013 · Armas grandes com Aparador contra Escudos**
+- **Origem:** seção 14.
+- **Descrição:** com Aparador, uma arma de Dano 4 dá +4 ao Defender, mais do que o Escudo de Corpo (+3), e ainda ataca. O Escudo não exige Competência, mas ocupa a mão e tem custos. Avaliar se o Escudo precisa de algo que a arma não tem.
+- **Gatilho:** seções 42 (Armas) e 45 (Escudos).
+

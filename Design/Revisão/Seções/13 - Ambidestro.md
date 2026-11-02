@@ -2,7 +2,7 @@
 
 **Arquivo:** `Regras/Competências/Ambidestro.md` (e `en/`), mais a linha na lista de Competências
 **Relacionadas:** Confrontar (Combate com Duas Armas, Esquivar, Aceitar o Confronto), Aparador, Armas, Catálogo de Armas
-**Status:** decidida (D-039) e aplicada; aguardando o merge do PR
+**Status:** concluída (PR #35, mergeado em 2026-11-02)
 
 ## O que está estabelecido
 

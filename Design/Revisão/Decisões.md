@@ -250,3 +250,8 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
 - **Status:** aprovada. A leitura de P-13.1 (alcance só no ataque) foi interpretada da resposta do autor e comunicada.
 - **Arquivos:** `Regras/Competências/Ambidestro.md`, `Regras/Competências/Competências.md` e as versões em `en/`.
 
+**D-040 · 2026-11-02 · 14 Aparador (P-14.1)**
+- **Decisão:** o Nível 1 define o termo: "Você pode **Aparar**: escolher Defender... usando uma arma corpo a corpo". O autor também concordou com o registro da Q-013 (armas grandes contra Escudos) para as seções 42 e 45.
+- **Status:** aprovada.
+- **Arquivos:** `Regras/Competências/Aparador.md` e a versão em `en/`.
+
