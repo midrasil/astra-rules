@@ -159,3 +159,15 @@ O superficial convertido se cura no Descanso do mesmo dia.
 - Assim, o hospital é sempre melhor do que tratar o mesmo paciente fora dele, com o mesmo curador.
 
 **Alternativa:** um teto para o Tratamento fora do hospital (por exemplo, 2 pontos por dia). Isso reduz o valor de investir em Curar.
+
+### Rascunho das regras de recuperação (para aprovação)
+
+> **Dano Superficial.** Cura com o tempo. Ao completar um Descanso Prolongado, o personagem recupera uma quantidade de dano superficial igual ao seu Vigor.
+>
+> **Dano Agravado.** Não se recupera com o tempo. Ele só é convertido em dano superficial por meio de **Tratamento**. Depois disso, cura normalmente.
+>
+> **Tratamento.** Fora de uma Cena Tática, um personagem com **material de cura** pode tratar a si mesmo ou outro personagem. Quem trata rola **Astúcia + Curar**, e **cada Sucesso converte 1 ponto** de dano agravado em superficial. Sem material, não é possível tratar. Cada personagem recebe no máximo **um Tratamento por dia**. Um personagem Incapacitado não pode tratar a si mesmo.
+>
+> **Instalações adequadas.** Em um hospital ou local equivalente, o Tratamento dispensa o material, recebe **+2 dados** e converte **no mínimo 3 pontos**. Sem ninguém do grupo para tratar, a equipe do local garante esse mínimo.
+
+> **Incapacitado (Condição).** Um personagem fica Incapacitado quando toda a sua trilha de Vida está preenchida por dano agravado. Ele está Caído e não pode realizar Ações, Movimentação nem responder a Confrontos. A Condição termina quando ao menos 1 ponto de dano agravado de Vida é convertido em superficial. O destino de um personagem Incapacitado que continue sofrendo dano fica a critério do Narrador.
