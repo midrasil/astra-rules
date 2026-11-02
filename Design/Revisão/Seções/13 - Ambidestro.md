@@ -2,7 +2,7 @@
 
 **Arquivo:** `Regras/Competências/Ambidestro.md` (e `en/`), mais a linha na lista de Competências
 **Relacionadas:** Confrontar (Combate com Duas Armas, Esquivar, Aceitar o Confronto), Aparador, Armas, Catálogo de Armas
-**Status:** em discussão
+**Status:** decidida (D-039) e aplicada; aguardando o merge do PR
 
 ## O que está estabelecido
 
@@ -47,3 +47,9 @@ No Nível 3, acrescentar: "Uma arma Flexível conta como arma de uma mão e usa 
 ### P-13.3 · Linha da lista
 
 Acrescentar ", e no Nível 3 qualquer arma de uma mão como secundária".
+
+## Decisões do autor (2026-11-02)
+
+- **P-13.1:** aprovada. O alcance é exigido só ao atacar ou Aceitar o Confronto (D-039).
+- **P-13.2:** aprovada. A arma Flexível só vale como secundária no Nível 3 (D-039).
+- **P-13.3:** aprovada (D-039).
