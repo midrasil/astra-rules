@@ -2,7 +2,7 @@
 
 **Arquivo:** `Regras/Personagens/Convicções e Pilares.md` (e `en/`)
 **Relacionadas:** Vontade, Ambição e Desejo, Progressão, Criação de Personagem (Identidade)
-**Status:** decidida (D-033 a D-035) e aplicada; aguardando o merge do PR
+**Status:** concluída (PR #31, mergeado em 2026-11-02)
 
 ## O que está estabelecido
 
