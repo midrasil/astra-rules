@@ -2,7 +2,7 @@
 
 Furioso representa o combatente que troca defesa por agressão e transforma dor e Vontade em força bruta.
 
-Fúria não é uma Condição do núcleo: suas regras são definidas somente nesta Competência.
+A **Fúria** é um estado desta Competência, não uma Condição.
 
 ## Progressão
 
@@ -41,7 +41,7 @@ Esse bônus não acrescenta dados à Reserva e não se aplica ao revide ao Aceit
 
 Enquanto estiver em Fúria, sua Movimentação base aumenta em **+2 quadrados**.
 
-Além disso, ao entrar em Fúria, você recebe imediatamente o efeito da Ação [Correr](../Movimento/Correr.md) naquele Turno, sem gastar sua Ação. O aumento de Movimentação também vale para esse Correr.
+Além disso, ao entrar em Fúria, você recebe imediatamente o efeito da Ação [Correr](../Movimento/Correr.md) naquele Turno, sem gastar sua Ação.
 
 ## Nível 4 — Além da Dor
 
@@ -50,15 +50,15 @@ Enquanto estiver em Fúria:
 - você ignora a penalidade de [Debilitado](../Condi%C3%A7%C3%B5es/Debilitado.md);
 - não recebe acúmulos de [Medo](../Condi%C3%A7%C3%B5es/Medo.md). Ao entrar em Fúria, você perde todos os acúmulos de Medo que possuir.
 
-Quando a Fúria termina, efeitos que voltariam a aplicar Medo funcionam normalmente a partir desse momento. Acúmulos perdidos ao entrar em Fúria não retornam.
+Os acúmulos perdidos ao entrar em Fúria não retornam quando ela termina.
 
 ## Nível 5 — Recusar a Queda
 
-Enquanto estiver em Fúria, ter toda a trilha de Vida preenchida por dano agravado não deixa você incapacitado imediatamente. Você continua agindo normalmente, mas no começo de cada um dos seus Turnos nessa situação precisa sofrer **1 ponto de dano agravado de Vontade** para continuar de pé.
+Enquanto estiver em Fúria, ter toda a trilha de Vida preenchida por dano agravado não deixa você [Incapacitado](../Condi%C3%A7%C3%B5es/Incapacitado.md). Você continua agindo normalmente, mas no começo de cada um dos seus Turnos nessa situação precisa sofrer **1 ponto de dano agravado de Vontade** para continuar de pé.
 
 Além disso, cada instância de dano na Vida que você sofrer nessa situação, de qualquer fonte, provoca **1 ponto de dano agravado de Vontade**, independentemente da quantidade de dano causada.
 
-Você fica incapacitado quando:
+Você fica [Incapacitado](../Condi%C3%A7%C3%B5es/Incapacitado.md) quando:
 
 - decide não sofrer o dano de Vontade no começo do seu Turno;
 - toda a sua trilha de Vontade estiver preenchida por dano agravado;

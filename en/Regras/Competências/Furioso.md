@@ -1,9 +1,9 @@
-<!-- source: 6dfdda0b2113 -->
+<!-- source: d10c13071bc4 -->
 # Furious
 
 Furious represents the fighter who trades defense for aggression and turns pain and Willpower into brute force.
 
-Fury is not a core Condition: its rules are set only in this Competency.
+**Fury** is a state of this Competency, not a Condition.
 
 ## Progression
 
@@ -42,7 +42,7 @@ This bonus adds no dice to the Pool and does not apply to the counterattack when
 
 While in Fury, your base Movement increases by **+2 squares**.
 
-In addition, on entering Fury, you immediately get the effect of the [Run](../Movimento/Correr.md) Action on that Turn, without spending your Action. The Movement increase also applies to this Run.
+In addition, on entering Fury, you immediately get the effect of the [Run](../Movimento/Correr.md) Action on that Turn, without spending your Action.
 
 ## Level 4 — Beyond Pain
 
@@ -51,15 +51,15 @@ While in Fury:
 - you ignore the [Debilitated](../Condi%C3%A7%C3%B5es/Debilitado.md) penalty;
 - you do not receive [Fear](../Condi%C3%A7%C3%B5es/Medo.md) stacks. On entering Fury, you lose every Fear stack you have.
 
-When Fury ends, effects that would apply Fear again work as usual from that moment on. Stacks lost on entering Fury do not come back.
+Stacks lost on entering Fury do not come back when it ends.
 
 ## Level 5 — Refuse to Fall
 
-While in Fury, having your whole Health track filled with aggravated damage does not leave you incapacitated right away. You keep acting as usual, but at the start of each of your Turns in this situation you must take **1 point of aggravated Willpower damage** to stay on your feet.
+While in Fury, having your whole Health track filled with aggravated damage does not leave you [Incapacitated](../Condi%C3%A7%C3%B5es/Incapacitado.md). You keep acting as usual, but at the start of each of your Turns in this situation you must take **1 point of aggravated Willpower damage** to stay on your feet.
 
 In addition, each instance of Health damage you take in this situation, from any source, causes **1 point of aggravated Willpower damage**, whatever the amount of damage dealt.
 
-You become incapacitated when:
+You become [Incapacitated](../Condi%C3%A7%C3%B5es/Incapacitado.md) when:
 
 - you decide not to take the Willpower damage at the start of your Turn;
 - your whole Willpower track is filled with aggravated damage;

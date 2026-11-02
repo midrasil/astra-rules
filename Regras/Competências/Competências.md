@@ -69,7 +69,7 @@ Cada Competência apresenta sua identidade, uma tabela de **Progressão** e uma 
 - [Caçador](Ca%C3%A7ador.md) — rastreio com Sobrevivência, estudo de qualquer criatura não Humanoide com Natureza ou Ocultismo, Ataques e dano maiores contra a presa Lida e uma caçada que não se perde.
 - [Cativante](Cativante.md) — aparência que favorece interações sociais e causa uma primeira impressão mais forte.
 - [Duelista](Duelista.md) — combate com uma arma em uma mão e a outra livre, vantagem contra alvos isolados, resistência a cercos e desafios que prendem o adversário a você.
-- [Furioso](Furioso.md) — Fúria, agressão corpo a corpo e dano que cresce com os ferimentos sofridos.
+- [Furioso](Furioso.md) — Fúria, agressão corpo a corpo, dano que cresce com os ferimentos, avanço rápido, imunidade ao Medo e recusa em cair.
 - [Guardião](Guardi%C3%A3o.md) — Defender com Escudo para si e para os aliados: Cobrir Aliado no Defender e no Esquivar, trocar de lugar para receber um Ataque, Proteção contra Zonas e bloqueio no empate.
 - [Inspirador](Inspirador.md) — Ajudar aliados a distância, fortalecer o bônus de Ajuda e recuperar Vontade.
 - [Mentalista](Mentalista.md) — leitura de pessoas e inimigos pela Condição Lido, Astúcia em Ataques e testes sociais.

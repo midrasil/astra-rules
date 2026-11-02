@@ -2,7 +2,7 @@
 
 **Arquivo:** `Regras/Competências/Duelista.md` (e `en/`), mais a linha na lista de Competências
 **Relacionadas:** Desafiado (Condição), Confrontar (Vantagem Numérica), Reserva de Dados (Testes Opostos)
-**Status:** decidida (D-045) e aplicada; aguardando o merge do PR
+**Status:** concluída (PR #41, mergeado em 2026-11-02)
 
 ## O que está estabelecido
 

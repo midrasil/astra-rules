@@ -280,3 +280,8 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
 - **Decisão:** a exigência de arma corpo a corpo em uma mão e a outra livre é dita uma vez, na introdução, e sai do começo de cada Nível. Na Superioridade Técnica saiu "corpo a corpo", redundante com a Vantagem Numérica. A penalidade do Desafio e da Condição Desafiado é fixa em -3 dados. Nova linha na lista de Competências.
 - **Status:** aprovada.
 - **Arquivos:** `Regras/Competências/Duelista.md`, `Regras/Condições/Desafiado.md`, `Regras/Competências/Competências.md` e as versões em `en/`.
+
+**D-046 · 2026-11-02 · 20 Furioso (P-20.1 a P-20.3)**
+- **Decisão:** o Sangue por Sangue continua com +1 por superficial e +2 por agravado, mesmo com o dano agravado por padrão. Recusar a Queda usa a Condição Incapacitado. A introdução diz que a Fúria é um estado da Competência, não uma Condição, e saíram duas frases redundantes (Investida Furiosa e Além da Dor). Nova linha na lista. O custo de Vontade da Fúria foi reavaliado (acompanhamento da D-028) e fica como está.
+- **Status:** aprovada.
+- **Arquivos:** `Regras/Competências/Furioso.md`, `Regras/Competências/Competências.md` e as versões em `en/`.
