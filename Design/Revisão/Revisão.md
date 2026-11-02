@@ -41,8 +41,8 @@ Status: `[ ]` pendente · `[~]` em discussão · `[x]` concluída
 
 **Personagens**
 - [x] 02 · [Personagens (índice) + Atributos](Seções/02%20-%20Personagens%20e%20Atributos.md)
-- [~] 03 · [Perícias](Seções/03%20-%20Perícias.md)
-- [ ] 04 · Tamanho
+- [x] 03 · [Perícias](Seções/03%20-%20Perícias.md)
+- [~] 04 · [Tamanho](Seções/04%20-%20Tamanho.md)
 - [ ] 05 · Vida
 - [ ] 06 · Vontade
 - [ ] 07 · Descanso Prolongado
