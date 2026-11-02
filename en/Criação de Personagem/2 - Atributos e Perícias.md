@@ -1,4 +1,4 @@
-<!-- source: 31bd4ffd63f6 -->
+<!-- source: 9511de6fb9db -->
 # Attributes and Skills
 
 Beyond the concept, a character is defined numerically by their [Attributes](../Regras/Personagens/Atributos.md) and [Skills](../Regras/Personagens/Per%C3%ADcias.md). This subsection covers the starting distribution of points between them.
@@ -15,7 +15,7 @@ No Attribute can go above **4** during creation — the value **5** is only reac
 
 ## Skills
 
-[Skills](../Regras/Personagens/Per%C3%ADcias.md) range from **0 to 5** (0 = untrained). Each Skill has a **linked Attribute**, normally used to form its Dice Pool.
+[Skills](../Regras/Personagens/Per%C3%ADcias.md) range from **0 to 5** (see [Scale](../Regras/Personagens/Per%C3%ADcias.md#scale)). Each Skill has a **linked Attribute**, normally used to form its Dice Pool.
 
 The core has **24 Skills**, including **Acrobatics**, **Throwing**, **General Knowledge** and **Repair**. Start with all of them at **0** and choose **one** of the three profiles:
 

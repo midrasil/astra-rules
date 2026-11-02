@@ -89,3 +89,37 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
 - **Decisão:** é intencional que Vigor e Determinação não tenham Perícias. O peso deles vem de Vida, Vontade, Iniciativa e resistências. Isso não precisa constar no texto.
 - **Status:** mantida por intenção de design.
 - **Consequência para revisões futuras:** não propor vincular Perícias a esses dois Atributos.
+
+**D-016 · 2026-11-02 · 03 Perícias (P-03.1)**
+- **Decisão:** dar ao Conhecimento Específico a função de **profundidade**. Em testes sobre o seu assunto, ele pode substituir Conhecimento Geral, Erudição ou Ocultismo, e o Narrador pode exigi-lo para informações raras. O exemplo "Medicina", que se sobrepunha a Curar, vira "Venenos".
+- **Status:** aprovada, na opção (a).
+- **Justificativa:** com o mesmo custo de uma Perícia ampla e sem função própria, era sempre melhor aumentar Erudição.
+- **Arquivos:** `Regras/Personagens/Perícias.md` e a versão em `en/`.
+
+**D-017 · 2026-11-02 · 03 Perícias (P-03.2)**
+- **Decisão:** a regra de substituição sai de Perícias. Fica uma frase com link para a Reserva de Dados.
+- **Status:** aprovada.
+
+**D-018 · 2026-11-02 · 03 Perícias (P-03.3)**
+- **Decisão:** a escala de Perícias passa a ficar em Perícias: 0 Sem treino, 1 Iniciante, 2 Competente, 3 Especialista, 4 Mestre e 5 Referência na área. A página diz que Perícia 0 não acrescenta dados. A Criação aponta para essa escala.
+- **Status:** aprovada.
+- **Arquivos:** `Regras/Personagens/Perícias.md`, `Criação de Personagem/2 - Atributos e Perícias.md` e as versões em `en/`.
+
+**D-019 · 2026-11-02 · 03 Perícias (P-03.4)**
+- **Decisão:** "áreas de competência" vira "áreas de conhecimento".
+- **Status:** aprovada.
+
+**D-020 · 2026-11-02 · 03 Perícias (Q-008): direção das maestrias de arma**
+- **Decisão (princípio):**
+  - Lutar, Atirar e Arremessar continuam como Perícias.
+  - Cada arma pode ter **uma maestria**, tirada de um catálogo.
+  - Quando uma Perícia de Ataque chega a **5**, o personagem ganha a maestria de **uma arma específica** de sua escolha (por exemplo espada longa ou adaga). Cada arma adicional custa **3 XP**.
+- **Status:** aprovada como direção. A aplicação nas regras fica para a seção 42 (Armas).
+- **A detalhar na seção 42:**
+  - se a categoria Especial (Letal, Varredura, Debilitante) vira o catálogo de Maestrias;
+  - a linha nova na tabela de Progressão;
+  - o caso da arma usada com duas Perícias (por exemplo, a adaga corpo a corpo com Lutar e arremessada com Arremessar);
+  - Desarmado;
+  - como os NPCs recebem maestria;
+  - possíveis sobreposições com Competências de combate.
+- **Consequência:** a maestria é da arma escolhida, não do efeito. Dominar a espada longa não libera a mesma maestria em outra arma que também a tenha.

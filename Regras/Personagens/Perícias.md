@@ -1,10 +1,25 @@
-As **Perícias** representam habilidades treinadas e áreas de competência que um personagem desenvolveu por prática, estudo ou experiência. Elas não descrevem talento inato, mas aquilo que o personagem aprendeu a fazer.
+As **Perícias** representam habilidades treinadas e áreas de conhecimento que um personagem desenvolveu por prática, estudo ou experiência. Elas não descrevem talento inato, mas aquilo que o personagem aprendeu a fazer.
 
 Cada Perícia possui um **Atributo vinculado**, utilizado normalmente para formar sua [Reserva de Dados](../Mec%C3%A2nica%20B%C3%A1sica/Reserva%20de%20Dados.md).
 
 > **Atributo vinculado + Perícia = Reserva de Dados**
 
-A descrição da ação determina qual Perícia se aplica, mas não troca livremente seu Atributo. Ações, equipamentos, Capacidades e outras regras podem estabelecer substituições expressas.
+A descrição da ação determina qual Perícia se aplica. O Atributo vinculado só é trocado quando uma regra determina isso expressamente (ver [Substituições de Atributo](../Mec%C3%A2nica%20B%C3%A1sica/Reserva%20de%20Dados.md#substitui%C3%A7%C3%B5es-de-atributo)).
+
+## Escala
+
+As Perícias variam de **0 a 5**:
+
+| Valor | Significado |
+| --- | --- |
+| 0 | Sem treino |
+| 1 | Iniciante |
+| 2 | Competente |
+| 3 | Especialista |
+| 4 | Mestre |
+| 5 | Referência na área |
+
+Uma Perícia em 0 não acrescenta dados: a Reserva é formada apenas pelo Atributo.
 
 ## Lista de Perícias
 
@@ -41,23 +56,11 @@ Todo personagem conhece o idioma comum de sua região. Cada Nível em **Erudiç�
 
 ## Conhecimento Específico
 
-**Conhecimento Geral** cobre o saber mediano do personagem sobre qualquer assunto. Para um domínio aprofundado de um tema, o personagem adquire um **Conhecimento Específico**: uma Perícia de assunto livre, como Medicina, Heráldica ou Folclore do Norte, sempre ligada a **Astúcia**.
+**Conhecimento Geral** cobre o saber mediano do personagem sobre qualquer assunto. Para um domínio aprofundado de um tema, o personagem adquire um **Conhecimento Específico**: uma Perícia de assunto livre, como Venenos, Heráldica ou Folclore do Norte, sempre ligada a **Astúcia**.
 
 Cada Conhecimento Específico é uma Perícia separada, com Nível próprio, e segue as mesmas regras de distribuição e de custo das demais Perícias.
 
-## Atributos vinculados e substituições
-
-O Atributo vinculado é a regra padrão da Perícia. A maneira como a ação é descrita pode alterar sua Dificuldade, consequências, bônus ou penalidades, mas não permite escolher livremente outro Atributo.
-
-Uma substituição só acontece quando uma regra a determina expressamente. Por exemplo:
-
-- a propriedade **Pesado** de uma arma faz seus Ataques utilizarem Força no lugar de Agilidade;
-- uma Capacidade pode permitir Astúcia no lugar de Carisma em testes de Persuadir;
-- uma Capacidade pode estabelecer outro Atributo para uma Ação inteira.
-
-Substituir um Atributo não soma os dois valores. Quando mais de uma substituição estiver disponível, apenas uma determina o Atributo final. **Capacidades sempre prevalecem** sobre Ações, equipamentos e outras regras anteriores que estabeleçam um Atributo.
-
-Quando nenhuma Perícia se aplicar, a ação pode utilizar apenas um Atributo, conforme as regras de [Reserva de Dados](../Mec%C3%A2nica%20B%C3%A1sica/Reserva%20de%20Dados.md).
+Em testes sobre o seu assunto, o personagem pode utilizar o Conhecimento Específico no lugar de Conhecimento Geral, Erudição ou Ocultismo. O Narrador também pode determinar que certas informações, como detalhes raros e segredos de ofício, só estejam ao alcance de quem possui o Conhecimento Específico correspondente.
 
 ## Perícias por Cenário
 

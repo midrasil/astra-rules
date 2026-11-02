@@ -1,4 +1,4 @@
-<!-- source: 1b9a36ad17eb -->
+<!-- source: ba50d4a45c2b -->
 # Dice Pool
 
 The **Dice Pool** is the number of dice used to resolve an action whose outcome is uncertain. The larger the Pool, the better the character's chances of a good result.

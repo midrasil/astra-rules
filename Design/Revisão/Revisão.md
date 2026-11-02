@@ -40,8 +40,8 @@ Status: `[ ]` pendente · `[~]` em discussão · `[x]` concluída
 - [x] 01 · [Mecânica Básica (índice) + Reserva de Dados](Seções/01%20-%20Mecânica%20Básica.md)
 
 **Personagens**
-- [~] 02 · [Personagens (índice) + Atributos](Seções/02%20-%20Personagens%20e%20Atributos.md)
-- [ ] 03 · Perícias
+- [x] 02 · [Personagens (índice) + Atributos](Seções/02%20-%20Personagens%20e%20Atributos.md)
+- [~] 03 · [Perícias](Seções/03%20-%20Perícias.md)
 - [ ] 04 · Tamanho
 - [ ] 05 · Vida
 - [ ] 06 · Vontade
