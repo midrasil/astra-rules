@@ -2,7 +2,7 @@
 
 **Arquivo:** `Regras/Competências/Inspirador.md` (e `en/`), mais a linha na lista de Competências
 **Relacionadas:** Reserva de Dados (Ajuda; D-010, D-011), Aguardar (Preparar uma Ação), Vontade (Romper Limite, D-028), Q-012
-**Status:** decidida (D-048) e aplicada; aguardando o merge do PR
+**Status:** concluída (PR #44, mergeado em 2026-11-02)
 
 ## O que está estabelecido
 

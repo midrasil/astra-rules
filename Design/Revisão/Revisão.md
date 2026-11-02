@@ -62,8 +62,8 @@ Status: `[ ]` pendente · `[~]` em discussão · `[x]` concluída
 - [x] 19 · [Duelista](Seções/19%20-%20Duelista.md)
 - [x] 20 · [Furioso](Seções/20%20-%20Furioso.md)
 - [x] 21 · [Guardião](Seções/21%20-%20Guardi%C3%A3o.md)
-- [~] 22 · [Inspirador](Seções/22%20-%20Inspirador.md)
-- [ ] 23 · Mentalista
+- [x] 22 · [Inspirador](Seções/22%20-%20Inspirador.md)
+- [~] 23 · [Mentalista](Seções/23%20-%20Mentalista.md)
 - [ ] 24 · Robusto
 - [ ] 25 · Sentinela
 

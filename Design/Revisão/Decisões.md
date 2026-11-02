@@ -295,3 +295,8 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
 - **Decisão:** a tabela de Progressão perdeu a coluna "Inspiração", que era sempre +2. Nova linha na lista. O valor da Ajuda ampliada foi avaliado (pedido da D-011) e não muda, e o custo de Vontade do Refrão também fica como está (acompanhamento da D-028).
 - **Status:** aprovada.
 - **Arquivos:** `Regras/Competências/Inspirador.md`, `Regras/Competências/Competências.md` e as versões em `en/`.
+
+**D-049 · 2026-11-02 · 23 Mentalista (P-23.1 a P-23.3)**
+- **Decisão:** na Leitura Fria, uma pergunta sobre forças e fraquezas pode ser repetida, como no Caçador (D-043). Em Eu Já Sabia, o limite é "até 5 pontos" de dano superficial de Vontade. Nova linha na lista. A Manipulação continua valendo contra qualquer alvo, e o custo de Vontade de Eu Já Sabia não muda (acompanhamento da D-028).
+- **Status:** aprovada.
+- **Arquivos:** `Regras/Competências/Mentalista.md`, `Regras/Competências/Competências.md` e as versões em `en/`.

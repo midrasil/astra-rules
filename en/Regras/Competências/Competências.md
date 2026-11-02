@@ -1,4 +1,4 @@
-<!-- source: a4912cb6eed7 -->
+<!-- source: b8b850a7ef6e -->
 # Competencies
 
 **Competencies** represent developed ways of acting, fighting, thinking or interacting with the world. Each has its own identity and a fixed progression.
@@ -75,7 +75,7 @@ Each Competency presents its identity, a **Progression** table and a section for
 - [Furious](Furioso.md) — Fury, melee aggression, damage that grows with wounds, a fast advance, immunity to Fear and refusing to fall.
 - [Guardian](Guardi%C3%A3o.md) — Defending with a Shield for yourself and your allies: Cover Ally on Defend and Dodge, swapping places to take an Attack, Protection against Zones and blocking on a tie.
 - [Inspirer](Inspirador.md) — Helping allies at range with a bigger bonus, transferring Willpower and inspiring several allies at once.
-- [Mentalist](Mentalista.md) — reading people and enemies through the Read Condition, Cunning on Attacks and social tests.
+- [Mentalist](Mentalista.md) — reading people and enemies through the Read Condition, Cunning on Attacks, Perception and social tests, and guaranteed dice against those you have read.
 - [Robust](Robusto.md) — a larger Health track that grows with the Competency's Level.
 - [Sentinel](Sentinela.md) — Opportunity Attacks against anyone who leaves your melee weapon's reach or attacks your allies, stopping the target's movement.
 
