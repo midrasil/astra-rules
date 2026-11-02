@@ -332,3 +332,8 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
   - no Equipamento Inicial, Valor e Carga máxima viram links, sem repetir a fórmula da Carga e a regra de substituição.
 - **Status:** aprovada.
 - **Arquivos:** `Criação de Personagem/4 - Competências.md`, `Criação de Personagem/5 - Equipamento Inicial.md` e as versões em `en/`.
+
+**D-055 · 2026-11-02 · 29 Criaturas + Tipos de Criatura (P-29.1 e P-29.2)**
+- **Decisão:** não existe criatura sem tipo: cada criatura tem um único Tipo, o que melhor descreve o que ela é agora (um dragão morto-vivo é Morto-vivo). O Tipo só tem efeito quando uma regra o cita, como o Caçador; tipos novos de cenários e módulos devem dizer como essas regras os tratam.
+- **Status:** aprovada.
+- **Arquivos:** `Regras/Criaturas/Tipos de Criatura.md` e a versão em `en/`.
