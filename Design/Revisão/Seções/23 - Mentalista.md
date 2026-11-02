@@ -2,7 +2,7 @@
 
 **Arquivo:** `Regras/Competências/Mentalista.md` (e `en/`), mais a linha na lista de Competências
 **Relacionadas:** Lido (Condição), Confrontar (Alvo sem Resposta), Reserva de Dados (testes opostos), Caçador (D-043), Vontade (Romper Limite, D-028)
-**Status:** decidida (D-049) e aplicada; aguardando o merge do PR
+**Status:** concluída (PR #45, mergeado em 2026-11-02)
 
 ## O que está estabelecido
 

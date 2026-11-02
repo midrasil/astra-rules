@@ -63,8 +63,8 @@ Status: `[ ]` pendente · `[~]` em discussão · `[x]` concluída
 - [x] 20 · [Furioso](Seções/20%20-%20Furioso.md)
 - [x] 21 · [Guardião](Seções/21%20-%20Guardi%C3%A3o.md)
 - [x] 22 · [Inspirador](Seções/22%20-%20Inspirador.md)
-- [~] 23 · [Mentalista](Seções/23%20-%20Mentalista.md)
-- [ ] 24 · Robusto
+- [x] 23 · [Mentalista](Seções/23%20-%20Mentalista.md)
+- [~] 24 · [Robusto](Seções/24%20-%20Robusto.md)
 - [ ] 25 · Sentinela
 
 **Criação de Personagem**
