@@ -2,7 +2,7 @@
 
 **Arquivos:** `Regras/Criaturas/Criaturas.md` e `Regras/Criaturas/Tipos de Criatura.md` (e `en/`)
 **Relacionadas:** Caçador (seção 17; D-043), Personagens (índice, grupo Natureza), Readme, Perícias (Conhecimento Específico), Características de NPC (seção 30)
-**Status:** análise pronta; aguardando decisão do autor
+**Status:** decidida (D-055) e aplicada; aguardando o merge do PR
 
 ## O que está estabelecido
 
@@ -47,3 +47,8 @@ Trocar o último parágrafo por:
 - **(b) Manter "Sem tipo"**, acrescentar a frase do Tipo único, e definir no Caçador que uma criatura Sem tipo é presa e usa Ocultismo.
 
 **Recomendo (a).** Fecha as duas lacunas com uma frase e não cria regra nova no Caçador.
+
+## Decisões do autor (2026-11-02)
+
+- **P-29.1:** aprovada (D-055).
+- **P-29.2:** opção (a). Não existe criatura sem tipo: cada criatura tem um único Tipo, o que ela é agora (D-055).
