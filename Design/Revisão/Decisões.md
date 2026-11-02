@@ -324,3 +324,11 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
   - Características Derivadas: os novos espaços de Vida ou Vontade entram vazios; sai a menção vaga a "outras regras anteriores".
 - **Status:** aprovada.
 - **Arquivos:** `Criação de Personagem/0 - Criação de Personagem.md`, `Criação de Personagem/2 - Atributos e Perícias.md`, `Criação de Personagem/3 - Características Derivadas.md` e as versões em `en/`.
+
+**D-054 · 2026-11-02 · 28 Competências + Equipamento Inicial (P-28.1 a P-28.3)**
+- **Decisão:**
+  - os Pontos de Competência são usados na criação: não podem ser guardados nem convertidos em XP; o Nível Total ganhou link;
+  - sem indicação do cenário, o orçamento inicial é de **100 de Valor**;
+  - no Equipamento Inicial, Valor e Carga máxima viram links, sem repetir a fórmula da Carga e a regra de substituição.
+- **Status:** aprovada.
+- **Arquivos:** `Criação de Personagem/4 - Competências.md`, `Criação de Personagem/5 - Equipamento Inicial.md` e as versões em `en/`.

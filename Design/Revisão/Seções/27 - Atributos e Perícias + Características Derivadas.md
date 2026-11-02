@@ -2,7 +2,7 @@
 
 **Arquivos:** `Criação de Personagem/2 - Atributos e Perícias.md` e `Criação de Personagem/3 - Características Derivadas.md` (e `en/`), mais a linha da visão geral
 **Relacionadas:** Atributos (seção 02), Perícias (seção 03; Idiomas e Conhecimento Específico), Vida, Vontade, Progressão (seção 10), Robusto (D-050), Assassino (Iniciativa), A Cena (Iniciativa), Equipamentos (Carga), Q-004
-**Status:** decidida (D-053) e aplicada; aguardando o merge do PR
+**Status:** concluída (PR #49, mergeado em 2026-11-02)
 
 ## O que está estabelecido
 

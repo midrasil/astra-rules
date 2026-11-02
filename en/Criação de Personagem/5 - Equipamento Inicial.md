@@ -1,4 +1,4 @@
-<!-- source: 98e57b51c682 -->
+<!-- source: 28f023c5b10b -->
 # Starting Equipment
 
 Every character starts with some equipment. What they carry at first is set by the **setting** being played. The setting can offer:
@@ -6,11 +6,13 @@ Every character starts with some equipment. What they carry at first is set by t
 - a ready-made **starting package**; or
 - a **budget** in **Value**, for the player to buy from the catalog.
 
-Every item has a **Value**, and the **currency** used varies by setting.
+Without guidance from the setting, use a budget of **100 Value**.
+
+Every item has a [Value](../Regras/Equipamentos/Equipamentos.md#value), and the **currency** used varies by setting.
 
 The core offers the [Weapon Catalog](../Regras/Equipamentos/Cat%C3%A1logo%20de%20Armas.md), the [Armor Catalog](../Regras/Equipamentos/Cat%C3%A1logo%20de%20Armaduras.md) and the [Shield Catalog](../Regras/Equipamentos/Cat%C3%A1logo%20de%20Escudos.md). The setting can limit, replace or expand these options.
 
-The character can carry items up to their **Maximum Load**, usually `5 + Strength`; going beyond that leaves them [Overloaded](../Regras/Equipamentos/Equipamentos.md#overload). Capabilities can replace the Attribute used in this formula.
+The character can carry items up to their [Maximum Load](3%20-%20Caracter%C3%ADsticas%20Derivadas.md); going beyond that leaves them [Overloaded](../Regras/Equipamentos/Equipamentos.md#overload).
 
 ---
 

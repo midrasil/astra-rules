@@ -11,9 +11,9 @@ Os pontos podem ser utilizados para começar com:
 - Nível 2 em uma Competência; ou
 - Nível 1 em duas Competências diferentes.
 
-Os Níveis adquiridos também determinam o Nível Total de Competências do personagem.
+Os Níveis adquiridos também determinam o [Nível Total de Competências](../Regras/Compet%C3%AAncias/Compet%C3%AAncias.md#n%C3%ADvel-total-de-compet%C3%AAncias) do personagem.
 
-Pontos de Competência não utilizados não são convertidos em XP.
+Os pontos são usados na criação: não podem ser guardados nem convertidos em XP.
 
 Consulte a [lista de Competências](../Regras/Compet%C3%AAncias/Compet%C3%AAncias.md#lista-de-compet%C3%AAncias) para conhecer as opções disponíveis.
 
