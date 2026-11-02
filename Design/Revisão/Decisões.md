@@ -255,3 +255,8 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
 - **Status:** aprovada.
 - **Arquivos:** `Regras/Competências/Aparador.md` e a versão em `en/`.
 
+
+**D-041 · 2026-11-02 · 15 Assassino (P-15.1 a P-15.3)**
+- **Decisão:** o Nível 5 continua só aumentando os valores. No Golpe Furtivo, a lista de motivos (que incluía a Reserva abaixo de 1 dado, obsoleta pela D-007) saiu: o bônus vale para qualquer alvo sem resposta, "inclusive quando ele foi surpreendido pelo Primeiro Golpe", e os casos ficam só na página do Alvo sem Resposta. Nova linha na lista de Competências.
+- **Status:** aprovada.
+- **Arquivos:** `Regras/Competências/Assassino.md`, `Regras/Competências/Competências.md` e as versões em `en/`.

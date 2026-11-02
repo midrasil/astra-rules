@@ -28,7 +28,7 @@ Um alvo que utilizou [Atrasar o Turno](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/
 
 Ao vencer um Ataque contra um [alvo sem resposta](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Confrontar.md#alvo-sem-resposta), você soma ao dano uma quantidade igual ao seu **Nível de Assassino**.
 
-O bônus vale qualquer que seja o motivo de o alvo não poder responder: surpreendido pelo [Primeiro Golpe](#n%C3%ADvel-1--primeiro-golpe), inconsciente, [Paralisado](../Condi%C3%A7%C3%B5es/Paralisado.md) ou com a Reserva reduzida a menos de 1 dado. Ele também se aplica fora de uma Cena Tática, quando o Narrador determinar que o alvo não percebe o Ataque.
+O bônus vale qualquer que seja o motivo de o alvo não poder responder, inclusive quando ele foi surpreendido pelo [Primeiro Golpe](#n%C3%ADvel-1--primeiro-golpe). Ele também se aplica fora de uma Cena Tática, quando o Narrador determinar que o alvo não percebe o Ataque.
 
 O bônus soma-se ao Dano da arma, vale para qualquer forma de Ataque e não acrescenta dados à Reserva. Ele não se aplica em caso de empate.
 

@@ -1,4 +1,4 @@
-<!-- source: acdd4976c76a -->
+<!-- source: de7182459326 -->
 # Assassin
 
 Assassin represents the character who reaches the target unnoticed, acts first and strikes before the opponent can react.
@@ -29,7 +29,7 @@ A target who used [Delay the Turn](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Agua
 
 When you win an Attack against a [target without a response](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Confrontar.md#target-without-a-response), you add to the damage an amount equal to your **Assassin Level**.
 
-The bonus applies whatever the reason the target cannot respond: surprised by [First Strike](#level-1--first-strike), unconscious, [Paralyzed](../Condi%C3%A7%C3%B5es/Paralisado.md) or with their Pool reduced below 1 die. It also applies outside a Tactical Scene, when the Narrator determines that the target does not notice the Attack.
+The bonus applies whatever the reason the target cannot respond, including when they were surprised by [First Strike](#level-1--first-strike). It also applies outside a Tactical Scene, when the Narrator determines that the target does not notice the Attack.
 
 The bonus adds to the weapon's Damage, applies to any kind of Attack and does not add dice to the Pool. It does not apply on a tie.
 
