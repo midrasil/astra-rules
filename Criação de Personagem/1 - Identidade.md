@@ -16,6 +16,8 @@ Escolha **3 Convicções** e o **Pilar** que sustenta cada uma (ver [Convicçõe
 
 A Convicção é um princípio que o personagem se recusa a trair; o Pilar, a pessoa, lugar ou objeto que a encarna.
 
+Combine os Pilares com o Narrador, porque eles passam a fazer parte da história.
+
 ---
 
 ← [Voltar para Criação de Personagem](0%20-%20Cria%C3%A7%C3%A3o%20de%20Personagem.md)

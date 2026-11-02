@@ -2,7 +2,7 @@
 
 **Arquivos:** `Criação de Personagem/0 - Criação de Personagem.md` e `Criação de Personagem/1 - Identidade.md` (e `en/`)
 **Relacionadas:** Ambição e Desejo (seção 08; D-031, D-032), Convicções e Pilares (seção 09; D-033 a D-035), Progressão, Readme (D-005: link único para a visão geral), Q-004
-**Status:** análise pronta; aguardando decisão do autor
+**Status:** decidida (D-052) e aplicada; aguardando o merge do PR
 
 ## O que está estabelecido
 
@@ -49,3 +49,7 @@ Na Identidade, depois de "A Convicção é um princípio que o personagem se rec
 - **Alternativa:** manter como está e deixar isso para a mesa.
 
 **Recomendo aprovar as duas.** A P-26.2 é uma preferência; se você achar óbvio, pode recusar sem prejuízo.
+
+## Decisões do autor (2026-11-02)
+
+- **P-26.1 e P-26.2:** aprovadas (D-052). A Q-004 ("array fixo" e "perfis") continua para a seção 27 e vale também para a visão geral.
