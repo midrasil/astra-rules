@@ -19,6 +19,7 @@ Itens para revisitar. Cada um tem um **gatilho**: o momento da revisão em que d
 - **Descrição:** notas já incorporadas (*Manobras e Reservas*, *Atributos e Perícias Vinculados*) e nomes que ainda citam Privilégios (*Trunfos não convertidos em Privilégios*). Estão fora da wiki e fora do escopo das regras.
 - **Gatilho:** seção 53.
 - **Nota (seção 11):** `Design/Competências/Fundamento.md`, leitura obrigatória pelo `CLAUDE.md`, está desatualizado: aviso de "estado da reestruturação" e exemplos com Competências que não existem (Escaramuçador, Atirador de Guerra).
+- **Nota (seção 24):** o Fundamento deve prever Competências que só aumentam um valor, sem Capacidades e sem Ápice, como o Robusto (D-050), e Níveis que só aumentam valores, como o Nível 5 do Assassino (D-041).
 
 **Q-004 · Termo "array" e "perfis" na Criação de Personagem**
 - **Origem:** seção 00.

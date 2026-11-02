@@ -300,3 +300,8 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
 - **Decisão:** na Leitura Fria, uma pergunta sobre forças e fraquezas pode ser repetida, como no Caçador (D-043). Em Eu Já Sabia, o limite é "até 5 pontos" de dano superficial de Vontade. Nova linha na lista. A Manipulação continua valendo contra qualquer alvo, e o custo de Vontade de Eu Já Sabia não muda (acompanhamento da D-028).
 - **Status:** aprovada.
 - **Arquivos:** `Regras/Competências/Mentalista.md`, `Regras/Competências/Competências.md` e as versões em `en/`.
+
+**D-050 · 2026-11-02 · 24 Robusto (P-24.1)**
+- **Decisão:** o Robusto continua como Competência de valor (+1 de Vida por Nível, sem Capacidades e sem Ápice). O Fundamento deve prever esse tipo de Competência; a nota foi para a Q-003 (seção 53).
+- **Status:** aprovada.
+- **Arquivos:** nenhum arquivo de regras; `Design/Revisão/Questões em aberto.md`.

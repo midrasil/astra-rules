@@ -2,7 +2,7 @@
 
 **Arquivo:** `Regras/Competências/Robusto.md` (e `en/`)
 **Relacionadas:** Vida (trilha e recuperação), Fundamento das Competências, Furioso (Sangue por Sangue, D-046), Assassino (D-041)
-**Status:** análise pronta; aguardando decisão do autor
+**Status:** decidida (D-050), sem mudança nas regras; aguardando o merge do PR
 
 ## O que está estabelecido
 
@@ -40,3 +40,7 @@
 - **(c) Reescrever no formato padrão**, com uma seção por Nível dizendo "+1 de Vida". Fica mais longo sem ganhar nada.
 
 **Recomendo (a).** A regra é clara, curta e já funciona. A única mudança é no Fundamento, que fica para a seção 53.
+
+## Decisões do autor (2026-11-02)
+
+- **P-24.1:** opção (a). O Robusto fica como está, e a exceção ao Fundamento foi registrada na Q-003 para a seção 53 (D-050). Nenhum arquivo de regras muda nesta seção.
