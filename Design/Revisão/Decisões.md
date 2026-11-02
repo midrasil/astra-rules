@@ -265,3 +265,8 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
 - **Decisão:** dano de Vontade não conta como sofrer dano; regras que falam em sofrer dano sem citar a Vontade se referem à Vida (regra geral em Vontade). Na Mirando, os acúmulos se perdem ao "utilizar sua Movimentação enquanto estiver Mirando", qualquer que seja a origem deles. A Mira Estável permite assumir a Postura depois de se mover e se mover nela, até metade da Movimentação base no Turno. O Nível 1 do Atirador abre com "Você pode assumir uma Postura de Tiro", o limite do Nível 5 é Astúcia + 5, e a linha da lista foi reescrita.
 - **Status:** aprovada.
 - **Arquivos:** `Regras/Personagens/Vontade.md`, `Regras/Condições/Mirando.md`, `Regras/Competências/Atirador.md`, `Regras/Competências/Competências.md` e as versões em `en/`.
+
+**D-043 · 2026-11-02 · 17 Caçador (P-17.1 a P-17.3)**
+- **Decisão:** no Conhecer a Presa, uma pergunta pode ser repetida para descobrir outra Resistência, Imunidade, Vulnerabilidade ou Característica. Saiu a frase redundante sobre a Reserva sem Nível em Natureza ou Ocultismo. Nova linha na lista de Competências.
+- **Status:** aprovada.
+- **Arquivos:** `Regras/Competências/Caçador.md`, `Regras/Competências/Competências.md` e as versões em `en/`.

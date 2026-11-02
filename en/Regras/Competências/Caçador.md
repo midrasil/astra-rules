@@ -1,9 +1,9 @@
-<!-- source: 797d59ee9c13 -->
+<!-- source: 11f3359a7cdd -->
 # Hunter
 
 Hunter represents the character who lives off the wilds and the creatures that dwell in them. They follow tracks others cannot see, know the animals, monsters and supernatural creatures they pursue in depth and use that knowledge to bring them down.
 
-This Competency's Capabilities use the **Survival** Skill, the **Nature** [Specific Knowledge](../Personagens/Per%C3%ADcias.md#specific-knowledge): in-depth knowledge of the fauna, flora, terrain and climate of the wilds; and the [Occultism](../Personagens/Per%C3%ADcias.md#list-of-skills) Skill. Without a Level in Nature or Occultism, the Pool uses Cunning alone.
+This Competency's Capabilities use the **Survival** Skill, the **Nature** [Specific Knowledge](../Personagens/Per%C3%ADcias.md#specific-knowledge): in-depth knowledge of the fauna, flora, terrain and climate of the wilds; and the [Occultism](../Personagens/Per%C3%ADcias.md#list-of-skills) Skill.
 
 A **prey** is a creature of any [Type](../Criaturas/Tipos%20de%20Criatura.md) except **Humanoid**. Against Beast, Plant, Monstrosity and Dragon, the study uses **Nature**; against Undead, Construct, Elemental, Spirit and Aberration, it uses **Occultism**.
 
@@ -40,7 +40,7 @@ Whatever the result, the prey becomes [Read](../Condi%C3%A7%C3%B5es/Lido.md) by 
 - How does it hunt, attack or defend itself?
 - Is it wounded, hungry or cornered?
 
-Each question reveals a single Resistance, Immunity, Vulnerability or Trait. When the prey has none, the Narrator says so.
+Each question reveals a single Resistance, Immunity, Vulnerability or Trait. You can repeat a question to discover another. When the prey has none, the Narrator says so.
 
 When following a prey's tracks with [Tracker](#level-1--tracker), you can make this test from the tracks, without spending an Action. The prey becomes Read by you during the first Scene in which you find it.
 

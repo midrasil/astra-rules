@@ -2,7 +2,7 @@
 
 **Arquivo:** `Regras/Competências/Atirador.md` (e `en/`), mais a linha na lista de Competências
 **Relacionadas:** Mirando (Condição), Manobras (Mirar), Confrontar (Atacar Além do Alcance), Movimentação, Vontade (Romper Limite, D-028)
-**Status:** decidida (D-042) e aplicada; aguardando o merge do PR
+**Status:** concluída (PR #38, mergeado em 2026-11-02)
 
 ## O que está estabelecido
 
