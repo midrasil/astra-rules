@@ -2,7 +2,7 @@
 
 **Arquivos:** `Criação de Personagem/0 - Criação de Personagem.md` e `Criação de Personagem/1 - Identidade.md` (e `en/`)
 **Relacionadas:** Ambição e Desejo (seção 08; D-031, D-032), Convicções e Pilares (seção 09; D-033 a D-035), Progressão, Readme (D-005: link único para a visão geral), Q-004
-**Status:** decidida (D-052) e aplicada; aguardando o merge do PR
+**Status:** concluída (PR #48, mergeado em 2026-11-02)
 
 ## O que está estabelecido
 
