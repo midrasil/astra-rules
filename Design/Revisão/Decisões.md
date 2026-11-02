@@ -235,3 +235,10 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
 - **Status:** aprovada.
 - **Arquivos:** `Regras/Competências/Competências.md` e a versão em `en/`.
 
+**D-038 · 2026-11-02 · 12 Acrobata (P-12.1 e P-12.2)**
+- **Decisão:**
+  - **P-12.1:** o deslocamento da Evasão é o de uma Esquiva e segue suas regras. O autor resumiu: "a Evasão é uma Esquiva".
+  - **P-12.2:** "Ao vencer ao Esquivar" virou "Ao vencer uma Esquiva", e a linha da lista de Competências foi atualizada.
+- **Status:** aprovada.
+- **Arquivos:** `Regras/Competências/Acrobata.md`, `Regras/Competências/Competências.md` e as versões em `en/`.
+
