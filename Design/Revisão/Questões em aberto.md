@@ -53,3 +53,13 @@ Itens para revisitar. Cada um tem um **gatilho**: o momento da revisão em que d
   - **Proposta em discussão:** unificar com a categoria Especial. Hoje todas as Propriedades Especiais (Letal, Varredura, Debilitante) vieram de antigas maestrias. A categoria "Especial" passaria a se chamar "Maestria", com no máximo uma por arma, e só pode usá-la quem tiver a Perícia de Ataque da arma no patamar exigido.
   - **Em aberto:** o patamar exigido (5, como o autor propôs, ou menor) e se a maestria vale para qualquer arma da Perícia ou só para armas escolhidas.
   - **Detalhamento do catálogo:** seção 42 (Armas).
+
+**Q-009 · Item "material de cura"**
+- **Origem:** seção 05 (D-025).
+- **Descrição:** o Tratamento exige material de cura, mas esse item não existe em Equipamentos.
+- **Gatilho:** seção 41 (Equipamentos).
+
+**Q-010 · Futura Competência de cura**
+- **Origem:** seção 05.
+- **Descrição:** o autor pretende criar uma Competência que permita Tratar durante a Cena Tática e/ou sem material de cura.
+- **Gatilho:** quando as Competências forem revisadas (seções 11 a 25), ou depois disso.

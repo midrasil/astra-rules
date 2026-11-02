@@ -42,8 +42,8 @@ Status: `[ ]` pendente · `[~]` em discussão · `[x]` concluída
 **Personagens**
 - [x] 02 · [Personagens (índice) + Atributos](Seções/02%20-%20Personagens%20e%20Atributos.md)
 - [x] 03 · [Perícias](Seções/03%20-%20Perícias.md)
-- [~] 04 · [Tamanho](Seções/04%20-%20Tamanho.md)
-- [ ] 05 · Vida
+- [x] 04 · [Tamanho](Seções/04%20-%20Tamanho.md)
+- [~] 05 · [Vida](Seções/05%20-%20Vida.md)
 - [ ] 06 · Vontade
 - [ ] 07 · Descanso Prolongado
 - [ ] 08 · Ambição e Desejo

@@ -1,7 +1,7 @@
 # 04 · Tamanho
 
 **Arquivo:** `Regras/Personagens/Tamanho.md` (e a versão em `en/`)
-**Status:** propostas decididas (D-021, D-022) e aplicadas; aguardando o merge do PR
+**Status:** concluída (PR #26, mergeado em 2026-11-02)
 
 ## O que está estabelecido
 

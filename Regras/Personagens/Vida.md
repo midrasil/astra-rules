@@ -6,13 +6,7 @@ A Vida não representa apenas ferimentos visíveis. Ela também pode representar
 
 ## Trilha de Vida
 
-Cada personagem possui uma quantidade limitada de espaços em sua **trilha de Vida**.
-
-Quando sofre dano, o jogador marca uma quantidade de espaços correspondente ao dano recebido.
-
-Os espaços são preenchidos da esquerda para a direita.
-
-A trilha de Vida de um personagem é composta por:
+Cada personagem possui uma quantidade limitada de espaços em sua **trilha de Vida**:
 
 > **3 + Vigor** espaços
 
@@ -20,59 +14,55 @@ Vigor é o **Atributo da Vida** por padrão. Cenários, Capacidades e outras reg
 
 Quando uma Capacidade substituir Vigor, a quantidade de espaços é recalculada imediatamente a partir do novo Atributo. A substituição afeta somente o tamanho da trilha: recuperação, testes de Vigor e outras regras não são alterados, salvo quando a própria Capacidade disser o contrário.
 
+Quando sofre dano, o jogador marca uma quantidade de espaços igual ao dano recebido. Mantenha o dano agravado à esquerda da trilha e o dano superficial à direita.
+
 ## Gravidade do Dano
 
-O Astra utiliza duas **gravidades** principais de dano:
+O Astra utiliza duas **gravidades** de dano: **superficial** e **agravado**. A diferença entre elas representa a gravidade do ferimento e o que é necessário para se recuperar dele.
 
-- **Dano Superficial**
-- **Dano Agravado**
+**Por padrão, todo dano é agravado.** A exceção é o dano que a própria fonte indica como superficial, como o [Desarmado](../Equipamentos/Armas.md#desarmado) e as armas Não letais. O Narrador também pode determinar que outras fontes causem dano superficial quando a situação pedir.
 
-A diferença entre eles representa a gravidade do ferimento e a dificuldade necessária para sua recuperação.
+[Armaduras](../Equipamentos/Armaduras.md) e [Resistências](../Resist%C3%AAncia%20e%20Vulnerabilidade/Resist%C3%AAncia%20e%20Vulnerabilidade.md) podem converter dano agravado em superficial no momento em que ele é sofrido.
 
-O **Tipo de Dano** — a natureza do ferimento (corte, contusão, perfurante, fogo, gelo, elétrica etc.) — é uma informação separada da gravidade: ele é definido pela fonte do dano, como as armas (ver [Armas](../Equipamentos/Armas.md)).
+O **Tipo de Dano**, a natureza do ferimento (corte, contusão, perfurante, fogo, gelo, elétrica etc.), é uma informação separada da gravidade. Ele é definido pela fonte do dano, como as [Armas](../Equipamentos/Armas.md).
 
-## Dano Superficial
+### Dano Superficial
 
-O **Dano Superficial** representa ferimentos menos graves, desgaste físico e traumas dos quais um personagem consegue se recuperar com relativa facilidade.
+O **dano superficial** representa ferimentos menos graves, desgaste físico e traumas dos quais um personagem consegue se recuperar com relativa facilidade: golpes desarmados, impactos leves e ferimentos que não colocam sua integridade em risco imediato.
 
-Golpes desarmados, impactos leves e outros ferimentos que não colocam a integridade física do personagem em risco imediato são exemplos de dano superficial, quando a fonte do dano ou o Narrador assim determinar. Ferimentos agravados também podem se tornar superficiais por meio de armaduras, Resistências e outros efeitos.
+É registrado na trilha de Vida como um traço **/**.
 
-O dano superficial é registrado na trilha de Vida como um traço /.
+### Dano Agravado
 
-## Dano Agravado
+O **dano agravado** representa ferimentos graves e potencialmente incapacitantes: cortes e perfurações profundas, queimaduras severas, eletricidade letal e outras formas particularmente perigosas de dano.
 
-O **Dano Agravado** representa ferimentos graves e potencialmente incapacitantes.
-
-Perfurações profundas, queimaduras severas, eletricidade letal e outras formas particularmente perigosas de dano podem causar dano agravado.
-
-Essa gravidade de dano representa consequências mais sérias e normalmente é mais difícil de recuperar do que dano superficial.
-
-Determinados equipamentos, Capacidades ou efeitos podem transformar **dano agravado em dano superficial**.
-
-**Por padrão, todo dano é agravado** — a menos que a própria fonte do dano (arma, Ataque, efeito) especifique o contrário. É o caso da maioria dos Ataques, especialmente os desferidos com armas. [Armaduras](../Equipamentos/Armaduras.md) e [Resistências](../Resist%C3%AAncia%20e%20Vulnerabilidade/Resist%C3%AAncia.md) podem converter dano agravado em superficial (ver [Resistência e Vulnerabilidade](../Resist%C3%AAncia%20e%20Vulnerabilidade/Resist%C3%AAncia%20e%20Vulnerabilidade.md)).
-
-A principal exceção é o **combate desarmado**, que causa **dano superficial** por padrão — socos, chutes e agarrões raramente são fatais. O Narrador também pode determinar que outras fontes de dano causam superficial quando a situação assim pedir.
-
-O dano agravado é registrado na trilha de Vida como um traço X.
+É registrado na trilha de Vida como um **X**.
 
 ## Trilha de Vida Preenchida
 
-- Quando a **trilha de Vida fica cheia**, com qualquer combinação de dano superficial e agravado, o personagem fica **Debilitado** (ver [Debilitado](../Condi%C3%A7%C3%B5es/Debilitado.md)).
-- Se continuar recebendo dano, superficial ou agravado, e não houver mais espaços livres, o dano adicional começa a **converter espaços já preenchidos por dano superficial em dano agravado**.
-- Quando **toda a trilha de Vida estiver preenchida por dano agravado**, o personagem está **incapacitado** e em uma situação potencialmente fatal. Em termos práticos, ele deixa de conseguir continuar normalmente na cena, e a sobrevivência passa a depender da situação e da decisão narrativa do Narrador.
+- Quando a **trilha de Vida fica cheia**, com qualquer combinação de dano superficial e agravado, o personagem fica [Debilitado](../Condi%C3%A7%C3%B5es/Debilitado.md).
+- Com a trilha cheia, **cada ponto** de dano adicional, superficial ou agravado, converte **1 espaço** de dano superficial em agravado.
+- Quando **toda a trilha estiver preenchida por dano agravado**, o personagem fica [Incapacitado](../Condi%C3%A7%C3%B5es/Incapacitado.md). O destino de um personagem Incapacitado que continue sofrendo dano fica a critério do Narrador.
 
 ## Recuperação
 
-Ferimentos não desaparecem imediatamente após o término de um conflito.  
-A recuperação depende da **gravidade** do dano sofrido.
+Ferimentos não desaparecem imediatamente após o término de um conflito. A recuperação depende da **gravidade** do dano sofrido.
 
-**Dano Superficial** — cura com o tempo, sem necessidade de tratamento. Ao completar um [Descanso Prolongado](Descanso%20Prolongado.md), o personagem recupera uma quantidade de dano superficial igual ao seu **Vigor**.
+**Dano superficial** cura com o tempo. Ao completar um [Descanso Prolongado](Descanso%20Prolongado.md), o personagem recupera uma quantidade de dano superficial igual ao seu **Vigor**.
 
-**Dano Agravado** — não se recupera com o tempo. Ele permanece na trilha até receber **tratamento**, que o converte em dano superficial; o dano convertido volta a se curar normalmente depois disso.
+**Dano agravado** não se recupera com o tempo. Ele só é convertido em dano superficial por meio de **Tratamento**. Depois disso, cura normalmente.
 
-O tratamento é uma **cena de cuidados** que exige condições mínimas: material de Curar, higiene e algum conforto. Quem trata rola **Astúcia + Curar** (o próprio personagem ou outro). **Cada sucesso converte 1 ponto** de dano agravado em superficial. Sem nenhum sucesso, o tratamento não converte nada. Um personagem pode receber um tratamento **por dia em jogo**.
+### Tratamento
 
-Se o personagem estiver **hospitalizado**, em instalações adequadas, nenhuma rolagem é necessária: ele converte 1 ponto de dano agravado em superficial por dia de jogo, até a recuperação total.
+Fora de uma Cena Tática, um personagem com **material de cura** pode tratar a si mesmo ou outro personagem. Sem material, não é possível tratar.
+
+Quem trata rola **Astúcia + Curar**. **Cada Sucesso converte 1 ponto** de dano agravado em superficial. Sem nenhum Sucesso, nada é convertido.
+
+Cada personagem recebe no máximo **um Tratamento por dia**. Um personagem Incapacitado não pode tratar a si mesmo.
+
+### Instalações Adequadas
+
+Em um hospital ou local equivalente, o Tratamento dispensa o material de cura, recebe **+2 dados** e converte **no mínimo 3 pontos** de dano agravado. Se ninguém do grupo puder tratar, a equipe do local garante esse mínimo.
 
 ---
 

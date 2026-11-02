@@ -7,6 +7,7 @@ As Condições são aplicadas por Ações, Manobras, Capacidades ou outras regra
 - [Caído](Ca%C3%ADdo.md) — no chão; penaliza as próprias rolagens e altera Ataques feitos contra ele.
 - [Agarrado](Agarrado.md) — imobilizado por outro personagem; sem movimentação.
 - [Debilitado](Debilitado.md) — trilha de Vida cheia.
+- [Incapacitado](Incapacitado.md) — trilha de Vida toda agravada; caído, sem agir nem responder.
 - [Lento](Lento.md) — Movimentação reduzida até o próximo Turno de quem aplicou.
 - [Abalado](Abalado.md) — penalidade no próximo Ataque.
 - [Envenenado](Envenenado.md) — penalidade em rolagens Físicas.
