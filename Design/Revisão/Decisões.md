@@ -123,3 +123,15 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
   - como os NPCs recebem maestria;
   - possíveis sobreposições com Competências de combate.
 - **Consequência:** a maestria é da arma escolhida, não do efeito. Dominar a espada longa não libera a mesma maestria em outra arma que também a tenha.
+
+**D-021 · 2026-11-02 · 04 Tamanho (P-04.1 e P-04.3)**
+- **Decisão:** **Limite de Tamanho** único. Uma criatura só pode Agarrar, Derrubar ou mover contra a vontade (Reposicionar, arrastar alguém Agarrado) um alvo de no máximo **uma categoria maior** que ela. Desarmar não tem limite. A regra antiga, "mover só alvos do mesmo Tamanho ou menor", sai.
+- **Status:** aprovada. O autor considerou que a pergunta sobre Pequeno contra Médio entra nessa mesma regra.
+- **Justificativa:** uma criatura muito menor não deve conseguir imobilizar ou derrubar uma muito maior. Uma regra só, para todos os casos, é mais simples.
+- **Consequências:** um personagem Pequeno agora move um Médio, e um Médio move um Grande (antes não podia). Um Médio não agarra nem derruba mais um alvo Enorme.
+- **Arquivos:** `Regras/Personagens/Tamanho.md`, `Regras/Cenas e Conflitos/Ações/Manobras.md`, `Regras/Condições/Agarrado.md` e as versões em `en/`.
+
+**D-022 · 2026-11-02 · 04 Tamanho (P-04.2)**
+- **Decisão:** uma criatura Minúscula pode ocupar o quadrado de outra criatura e pode ser atravessada por qualquer uma. Na tabela, o espaço dela passa a ser "divide um quadrado".
+- **Status:** aprovada.
+- **Arquivos:** `Regras/Personagens/Tamanho.md` e a versão em `en/`.

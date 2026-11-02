@@ -56,7 +56,7 @@ Se o personagem que iniciou a Manobra obtiver mais Sucessos, ele pode deslocar o
 
 Esse deslocamento pode representar um empurrão, puxão, condução corporal ou qualquer outra forma semelhante de retirar o alvo de sua posição.
 
-O personagem só pode Reposicionar um alvo do **mesmo [Tamanho](../../Personagens/Tamanho.md) ou menor**.
+O personagem só pode Reposicionar um alvo de no máximo **uma categoria de [Tamanho](../../Personagens/Tamanho.md#limite-de-tamanho) maior** que ele.
 
 Em caso de empate ou vitória do alvo, nada acontece.
 
@@ -80,7 +80,7 @@ Caso o quadrado escolhido leve o alvo para fora de uma borda, plataforma ou posi
 
 Ao utilizar a Manobra **Derrubar**, o personagem usa sua **Ação** para tentar colocar outro personagem no chão.
 
-Para realizar a Manobra, o personagem precisa estar em **alcance suficiente para interagir fisicamente com o alvo**.
+Para realizar a Manobra, o personagem precisa estar em **alcance suficiente para interagir fisicamente com o alvo**. O alvo pode ser no máximo uma categoria de [Tamanho](../../Personagens/Tamanho.md#limite-de-tamanho) maior.
 
 A Reserva de Dados de quem inicia é:
 
@@ -100,7 +100,7 @@ Em caso de empate ou vitória do alvo, nada acontece.
 
 Ao utilizar a Manobra **Agarrar**, o personagem usa sua **Ação** para tentar imobilizar outro personagem.
 
-Para realizar a Manobra, o personagem precisa estar em **alcance suficiente para interagir fisicamente com o alvo**.
+Para realizar a Manobra, o personagem precisa estar em **alcance suficiente para interagir fisicamente com o alvo**. O alvo pode ser no máximo uma categoria de [Tamanho](../../Personagens/Tamanho.md#limite-de-tamanho) maior.
 
 A Reserva de Dados de quem inicia é:
 

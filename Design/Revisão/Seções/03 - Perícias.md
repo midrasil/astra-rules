@@ -1,7 +1,7 @@
 # 03 · Perícias
 
 **Arquivo:** `Regras/Personagens/Perícias.md` (e a versão em `en/`)
-**Status:** propostas aprovadas (D-016 a D-019) e aplicadas. A ideia de proficiências de combate está em discussão (Q-008).
+**Status:** concluída (PR #25, mergeado em 2026-11-02). Maestrias: direção aprovada (D-020), aplicação na seção 42.
 
 ## O que está estabelecido
 

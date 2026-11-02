@@ -1,4 +1,4 @@
-<!-- source: da78fe9932e4 -->
+<!-- source: e5c566a34006 -->
 # Grappled
 
 A **Grappled** character suffers the following effects.
@@ -11,7 +11,7 @@ When making an Attack against any target other than the character grappling them
 
 Attacks made against whoever is holding the grapple do not suffer this penalty.
 
-The character holding the grapple can drag or carry the target while moving, as long as the target is of the **same [Size](../Personagens/Tamanho.md) or smaller**. This movement is treated as **Special Movement** and follows the rules that apply to that kind of movement.
+The character holding the grapple can drag or carry the target while moving, as long as the target is at most **one [Size](../Personagens/Tamanho.md#size-limit) category larger** than them. This movement is treated as **Special Movement** and follows the rules that apply to that kind of movement.
 
 ## How to escape
 

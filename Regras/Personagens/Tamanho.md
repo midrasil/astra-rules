@@ -4,7 +4,7 @@ Todo personagem possui um Tamanho. O padrão é **Médio**.
 
 | Tamanho | Espaço ocupado |
 |---|---|
-| **Minúsculo** | ½ × ½ quadrado |
+| **Minúsculo** | divide um quadrado |
 | **Pequeno** | 1 × 1 quadrado |
 | **Médio** | 1 × 1 quadrado |
 | **Grande** | 2 × 2 quadrados |
@@ -13,11 +13,13 @@ Todo personagem possui um Tamanho. O padrão é **Médio**.
 
 Uma criatura que ocupa mais de um quadrado é considerada **adjacente** a tudo que estiver ao lado de qualquer um dos quadrados que ocupa, inclusive na diagonal.
 
-## Mover outra criatura
+Uma criatura **Minúscula** pode ocupar o mesmo quadrado de outra criatura e pode ser atravessada por qualquer uma.
 
-Uma criatura só pode **mover outra criatura do mesmo Tamanho ou menor**.
+## Limite de Tamanho
 
-Isso vale para toda regra que desloca um personagem contra a vontade dele, como a Manobra [Reposicionar](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Manobras.md#reposicionar) ou arrastar um alvo [Agarrado](../Condi%C3%A7%C3%B5es/Agarrado.md). Uma criatura menor ainda pode tentar Derrubar, Agarrar ou Desarmar uma maior, mas não consegue tirá-la do lugar.
+Uma criatura só pode **Agarrar**, **Derrubar** ou **mover contra a vontade** um alvo de no máximo **uma categoria maior** que ela.
+
+O limite vale para as Manobras [Agarrar](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Manobras.md#agarrar), [Derrubar](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Manobras.md#derrubar) e [Reposicionar](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Manobras.md#reposicionar), para arrastar um alvo [Agarrado](../Condi%C3%A7%C3%B5es/Agarrado.md) e para qualquer outra regra que desloque um personagem contra a vontade dele. Desarmar não tem limite de Tamanho.
 
 ## Tamanho no Ataque
 
