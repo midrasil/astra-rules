@@ -1,4 +1,4 @@
-<!-- source: 9ea1b59d5b59 -->
+<!-- source: 577811537f31 -->
 # Confront
 
 A **Confront** happens when a character decides to attack another character during a Tactical Scene.
@@ -108,7 +108,7 @@ A character who is unable to move cannot choose to Dodge.
 
 ## Target without a Response
 
-When the target cannot respond to the Confront, whether because they are surprised, unconscious, have no valid response or have their Dice Pool reduced below 1 die, only the attacker rolls. The target's result always counts as **1 Success**.
+When the target cannot respond to the Confront, whether because they are surprised, unconscious or have no valid response, only the attacker rolls. The target's result always counts as **1 Success**.
 
 The Confront is resolved as usual with that value, including the tie rule. If the attacker gets no Successes, the Attack fails and no one takes damage.
 

@@ -34,3 +34,4 @@ Itens para revisitar. Cada um tem um **gatilho**: o momento da revisão em que d
 - **Origem:** seção 01.
 - **Descrição:** ajudar gasta a Ação inteira por +1 dado (cerca de +0,5 Sucesso esperado). Fora do Inspirador, isso raramente compensa numa Cena Tática.
 - **Gatilho:** seções 32 (Ação) e 33 (Confrontar).
+- **Resolvida (2026-11-02):** a Ajuda é fraca de propósito e serve de base para Competências que a ampliam (D-011).
