@@ -46,3 +46,10 @@ Itens para revisitar. Cada um tem um **gatilho**: o momento da revisão em que d
 - **Descrição:** substituir Lutar, Arremessar e Atirar por proficiências (0 a 5) por arma ou grupo de armas. A proficiência máxima daria acesso a uma maestria da arma ou do grupo. Isso reabre a decisão de `Design/Equipamentos/Conversão de Maestrias em Propriedades.md` ("a arma determina o que ela faz; a Competência determina o que o personagem sabe fazer").
 - **Afeta:** Perícias, Confrontar, Manobras, Defender, Desarmado, Armas e Propriedades Especiais, Competências de combate, Características de NPC, criação, custos de XP e o astra-engine.
 - **Gatilho:** em discussão na seção 03. O detalhamento provavelmente fica para a seção 42 (Armas).
+- **Discussão de 2026-11-02:**
+  - **Decidido pelo autor:** Lutar, Atirar e Arremessar continuam como Perícias, sem divisão por arma ou grupo.
+  - **Decidido pelo autor:** a maestria é uma propriedade da arma, tirada de um **catálogo de maestrias**, que exige domínio do personagem para ser usada. Cada arma tem a sua.
+  - **Referência:** as maestrias de arma do D&D, por exemplo "ao andar 4 quadrados em linha reta, ganha X".
+  - **Proposta em discussão:** unificar com a categoria Especial. Hoje todas as Propriedades Especiais (Letal, Varredura, Debilitante) vieram de antigas maestrias. A categoria "Especial" passaria a se chamar "Maestria", com no máximo uma por arma, e só pode usá-la quem tiver a Perícia de Ataque da arma no patamar exigido.
+  - **Em aberto:** o patamar exigido (5, como o autor propôs, ou menor) e se a maestria vale para qualquer arma da Perícia ou só para armas escolhidas.
+  - **Detalhamento do catálogo:** seção 42 (Armas).
