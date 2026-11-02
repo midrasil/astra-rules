@@ -44,8 +44,8 @@ Status: `[ ]` pendente · `[~]` em discussão · `[x]` concluída
 - [x] 03 · [Perícias](Seções/03%20-%20Perícias.md)
 - [x] 04 · [Tamanho](Seções/04%20-%20Tamanho.md)
 - [x] 05 · [Vida](Seções/05%20-%20Vida.md)
-- [~] 06 · [Vontade](Seções/06%20-%20Vontade.md)
-- [ ] 07 · Descanso Prolongado
+- [x] 06 · [Vontade](Seções/06%20-%20Vontade.md)
+- [~] 07 · [Descanso Prolongado](Seções/07%20-%20Descanso%20Prolongado.md)
 - [ ] 08 · Ambição e Desejo
 - [ ] 09 · Convicções e Pilares
 - [ ] 10 · Progressão

@@ -184,3 +184,8 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
 - **Status:** aprovada.
 - **Arquivos:** `Regras/Personagens/Vontade.md` e a versão em `en/`.
 
+**D-030 · 2026-11-02 · 07 Descanso Prolongado (P-07.1): descanso interrompido**
+- **Decisão:** um conflito ou outro esforço significativo interrompe o descanso, que precisa ser recomeçado. Interrupções breves, como um turno de vigia, não o impedem.
+- **Status:** aprovada.
+- **Arquivos:** `Regras/Personagens/Descanso Prolongado.md` e a versão em `en/`.
+

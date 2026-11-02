@@ -7,6 +7,8 @@ Ao completar um Descanso Prolongado, o personagem:
 
 O Descanso Prolongado não recupera nem converte dano agravado de Vida ou de Vontade.
 
+Se o descanso for interrompido por um conflito ou outro esforço significativo, ele não é concluído e precisa ser recomeçado. Interrupções breves, como acordar para um turno de vigia, não impedem o descanso.
+
 Um personagem só pode receber os benefícios de um Descanso Prolongado uma vez por dia.
 
 ---

@@ -2,7 +2,7 @@
 
 **Arquivo:** `Regras/Personagens/Vontade.md` (e `en/`)
 **Relacionadas:** Vida, Descanso Prolongado, Convicções e Pilares, Ambição e Desejo, Medo, Características de NPC (Aterrorizante) e as Competências que usam Vontade (Atirador, Furioso, Guardião, Inspirador, Mentalista, Sentinela)
-**Status:** propostas decididas (D-026 a D-029) e aplicadas; aguardando o merge do PR
+**Status:** concluída (PR #28, mergeado em 2026-11-02)
 
 ## O que está estabelecido
 
