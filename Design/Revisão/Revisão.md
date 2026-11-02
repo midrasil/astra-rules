@@ -73,8 +73,8 @@ Status: `[ ]` pendente · `[~]` em discussão · `[x]` concluída
 - [x] 28 · [Competências + Equipamento Inicial](Seções/28%20-%20Compet%C3%AAncias%20%2B%20Equipamento%20Inicial.md)
 
 **Criaturas**
-- [~] 29 · [Criaturas (índice) + Tipos de Criatura](Seções/29%20-%20Criaturas%20%2B%20Tipos%20de%20Criatura.md)
-- [ ] 30 · Características de NPC
+- [x] 29 · [Criaturas (índice) + Tipos de Criatura](Seções/29%20-%20Criaturas%20%2B%20Tipos%20de%20Criatura.md)
+- [~] 30 · [Características de NPC](Seções/30%20-%20Caracter%C3%ADsticas%20de%20NPC.md)
 
 **Cenas e Conflitos**
 - [ ] 31 · Cenas e Conflitos (índice) + Cenas Táticas + A Cena

@@ -44,6 +44,7 @@ Itens para revisitar. Cada um tem um **gatilho**: o momento da revisão em que d
 - **Descrição:** a escala de 1 a 5 é definida para personagens, e não está dito se criaturas podem passar de 5. As Reservas de resistência usam pares de Atributos definidos caso a caso (Vigor + Determinação, Determinação + Astúcia, Vigor + Força), sem um padrão geral.
 - **Gatilho:** seções 30 (Características de NPC) e 48 (Condições).
 - **Nota (D-026):** a Vontade é um recurso. Só deve haver dano externo se uma regra específica o definir, nunca por decisão livre do Narrador.
+- **Resolvida (2026-11-02, D-056):** criaturas que não são humanas podem ter Atributos acima de 5; personagens ficam em 5. Reservas padrão para resistir: Vigor + Determinação (corpo) e Determinação + Astúcia (mente); as características atuais mantêm as suas.
 
 **Q-008 · Proficiências de combate e maestria de armas**
 - **Origem:** seção 03, ideia do autor.
@@ -72,6 +73,7 @@ Itens para revisitar. Cada um tem um **gatilho**: o momento da revisão em que d
 - **Origem:** seção 06.
 - **Descrição:** nenhuma regra causa dano de Vontade de fora, salvo a decisão do Narrador. Avaliar se o Aterrorizante, alguma Condição ou alguma Ação social deve causar dano de Vontade, e se há teste para resistir.
 - **Gatilho:** seções 30 (Características de NPC) e 48 (Condições).
+- **Parte de NPCs resolvida (2026-11-02, D-056):** o Aterrorizante não causa dano de Vontade; o Medo basta. A parte das Condições segue para a seção 48.
 
 **Q-012 · Outras fontes de recuperação de agravado de Vontade**
 - **Origem:** seção 09 (D-035).
@@ -87,3 +89,15 @@ Itens para revisitar. Cada um tem um **gatilho**: o momento da revisão em que d
 - **Descrição:** com Aparador, uma arma de Dano 4 dá +4 ao Defender, mais do que o Escudo de Corpo (+3), e ainda ataca. O Escudo não exige Competência, mas ocupa a mão e tem custos. Avaliar se o Escudo precisa de algo que a arma não tem.
 - **Gatilho:** seções 42 (Armas) e 45 (Escudos).
 
+**Q-014 · Ficha de criatura**
+- **Origem:** seção 30.
+- **Descrição:** o núcleo não diz como definir a Vida, a Vontade, a Absorção base e os Ataques naturais de NPCs, nem se eles seguem as fórmulas dos personagens. Hoje o Narrador usa as fórmulas dos personagens.
+- **Gatilho:** seção 53, ou um futuro guia de criação de criaturas. Depende da Q-015.
+
+**Q-015 · Lista única de Capacidades para personagens e NPCs**
+- **Origem:** seção 30 (ideia do autor).
+- **Descrição:** criar uma lista única de Capacidades, sem Nível nem restrição, usada de duas formas:
+  - as Competências montam suas progressões fixas com Capacidades dessa lista;
+  - NPCs recebem Capacidades soltas da lista, sem precisar de Competências.
+- **Decidido em princípio:** as Competências continuam existindo para os jogadores (não viram feats compráveis um a um). Capacidades que hoje escalam com o Nível da Competência passam a ter um valor configurável, como "Nada Escapa (N)": na Competência, N é o Nível; no NPC, é o valor escolhido. As Características de NPC atuais entram na mesma lista.
+- **Gatilho:** desenho à parte, com a Q-003 (Fundamento) na seção 53.

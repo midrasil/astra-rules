@@ -1,4 +1,4 @@
-<!-- source: 18ee1fdb591e -->
+<!-- source: fa42962f14ed -->
 # Attributes
 
 **Attributes** represent a character's fundamental abilities. They describe their physical and spiritual aptitudes and are part of most **Dice Pools** used during play.
@@ -18,6 +18,8 @@ A character's Attributes range from **1 to 5**:
 | 3 | Notable |
 | 4 | Exceptional |
 | 5 | Human peak |
+
+Creatures that are not human can have Attributes above 5; characters are limited to 5.
 
 ## Categories
 

@@ -2,7 +2,7 @@
 
 **Arquivos:** `Regras/Criaturas/Criaturas.md` e `Regras/Criaturas/Tipos de Criatura.md` (e `en/`)
 **Relacionadas:** Caçador (seção 17; D-043), Personagens (índice, grupo Natureza), Readme, Perícias (Conhecimento Específico), Características de NPC (seção 30)
-**Status:** decidida (D-055) e aplicada; aguardando o merge do PR
+**Status:** concluída (PR #51, mergeado em 2026-11-02)
 
 ## O que está estabelecido
 

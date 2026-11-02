@@ -1,5 +1,7 @@
 **Características de NPC** são capacidades próprias de NPCs, criaturas e inimigos. Elas são definidas diretamente na ficha da criatura e não pertencem ao sistema de Competências dos personagens.
 
+Um **Ataque natural** é um Ataque feito com o corpo da criatura, como garras, mordidas, chifres ou ferrões. A ficha da criatura define seu Dano, Tipo de Dano e Alcance, como os de uma [arma](../Equipamentos/Armas.md), e ele usa **Agilidade + Lutar**, salvo quando a ficha indicar outra Reserva.
+
 ## Valores configuráveis
 
 Cada característica traz **valores padrão** entre parênteses, como a **Potência**, a Reserva usada para resistir, a duração ou a quantidade de acúmulos. Esses valores são **configuráveis em cada criatura**: duas criaturas com a mesma característica podem ter valores diferentes.
@@ -7,6 +9,8 @@ Cada característica traz **valores padrão** entre parênteses, como a **Potên
 A **Potência** é a [Dificuldade](../Mec%C3%A2nica%20B%C3%A1sica/Reserva%20de%20Dados.md#escala-de-dificuldade) do teste que o alvo faz para resistir, quando a característica pede um.
 
 Quando uma Característica menciona uma Perícia sem escrever a Reserva completa, ela utiliza o Atributo vinculado da Perícia. Reservas formadas expressamente por dois Atributos, como Vigor + Determinação, permanecem inalteradas.
+
+Quando uma característica não indicar a Reserva para resistir, use **Vigor + Determinação** contra efeitos no corpo e **Determinação + Astúcia** contra efeitos na mente.
 
 ## Movimentos especiais
 
@@ -54,7 +58,7 @@ Quando a criatura **vence um Ataque com um Ataque natural corpo a corpo**, o alv
 
 ### Frenesi
 
-- **Descrição:** uma vez por Turno, ao vencer um Ataque, a criatura faz outro Ataque contra outro alvo adjacente, com **-2 dados**.
+- **Descrição:** uma vez por Turno, ao vencer um Ataque, a criatura faz outro Ataque contra outro alvo ao seu Alcance, com **-2 dados**.
 
 ### Frenesi Aprimorado
 
@@ -79,11 +83,11 @@ Quando a criatura **vence um Ataque com um Ataque natural corpo a corpo**, o alv
 
 ### Aterrorizante (Potência 2; Determinação + Astúcia; acúmulos iguais à Potência)
 
-- **Descrição:** quem vê a criatura pela primeira vez na cena faz o teste para resistir. Quem falhar recebe acúmulos de [Medo](../Condi%C3%A7%C3%B5es/Medo.md). Acontece uma vez por cena para cada personagem.
+- **Descrição:** quem vê a criatura pela primeira vez na cena faz o teste para resistir. Quem falhar recebe acúmulos de [Medo](../Condi%C3%A7%C3%B5es/Medo.md).
 
-### Teia (Potência 2; Ataque: Agilidade + Atirar; escapar: Força + Atletismo)
+### Teia (Potência 2; Alcance 6; Ataque: Agilidade + Atirar; escapar: Força + Atletismo)
 
-- **Descrição:** a criatura realiza um Ataque à distância com **Agilidade + Atirar**. Uma ficha pode estabelecer expressamente outro Atributo de Ataque para sua Teia. Ao vencer, deixa o alvo [Agarrado](../Condi%C3%A7%C3%B5es/Agarrado.md) pela teia. Para se soltar, o alvo usa sua Ação e testa **Força + Atletismo** contra a Potência.
+- **Descrição:** a criatura realiza um Ataque à distância, até o Alcance, com **Agilidade + Atirar**. Uma ficha pode estabelecer expressamente outro Atributo de Ataque para sua Teia. Ao vencer, deixa o alvo [Agarrado](../Condi%C3%A7%C3%B5es/Agarrado.md) pela teia. Para se soltar, o alvo usa sua Ação e testa **Força + Atletismo** contra a Potência.
 
 ### Emboscada Subterrânea
 
@@ -92,7 +96,7 @@ Quando a criatura **vence um Ataque com um Ataque natural corpo a corpo**, o alv
 
 ### Enxame (dano pelo Tamanho)
 
-- **Descrição:** a criatura é um enxame de bichos pequenos, tratado como uma só. No **começo de cada Turno** dela, todas as criaturas **dentro do token ou adjacentes** sofrem **dano superficial**, sem rolagem de Ataque. O dano base vem do Tamanho (**Médio 2, Grande 4, Enorme 6**) e cai **1 para cada criatura atingida além da primeira**, até o mínimo de 1. Efeitos ao acertar da criatura, como [Venenosa](#venenosa-pot%C3%AAncia-2-vigor--determina%C3%A7%C3%A3o), valem para cada atingido. O dano base pode mudar em cada criatura. Costuma ser **Imune a Corte e Perfurante**.
+- **Descrição:** a criatura é um enxame de bichos pequenos, tratado como uma só. No **começo de cada Turno** dela, todas as criaturas **no espaço que ela ocupa ou adjacentes** sofrem **dano superficial**, sem rolagem de Ataque. O dano base vem do Tamanho (**Médio 2, Grande 4, Enorme 6**) e cai **1 para cada criatura atingida além da primeira**, até o mínimo de 1. Efeitos ao acertar da criatura, como [Venenosa](#venenosa-pot%C3%AAncia-2-vigor--determina%C3%A7%C3%A3o), valem para cada atingido. O dano base pode mudar em cada criatura. Costuma ser **Imune a Corte e Perfurante**.
 
 ## Recuperação
 

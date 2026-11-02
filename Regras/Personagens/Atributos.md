@@ -16,6 +16,8 @@ Os Atributos de um personagem variam de **1 a 5**:
 | 4 | Excepcional |
 | 5 | Auge humano |
 
+Criaturas que não são humanas podem ter Atributos acima de 5; personagens ficam limitados a 5.
+
 ## Categorias
 
 Cada Atributo pertence a uma **categoria**: **Físico** ou **Espiritual**.
