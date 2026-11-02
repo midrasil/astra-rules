@@ -40,6 +40,7 @@ Itens para revisitar. Cada um tem um **gatilho**: o momento da revisão em que d
 - **Origem:** seção 02.
 - **Descrição:** a escala de 1 a 5 é definida para personagens, e não está dito se criaturas podem passar de 5. As Reservas de resistência usam pares de Atributos definidos caso a caso (Vigor + Determinação, Determinação + Astúcia, Vigor + Força), sem um padrão geral.
 - **Gatilho:** seções 30 (Características de NPC) e 48 (Condições).
+- **Nota (D-026):** a Vontade é um recurso. Só deve haver dano externo se uma regra específica o definir, nunca por decisão livre do Narrador.
 
 **Q-008 · Proficiências de combate e maestria de armas**
 - **Origem:** seção 03, ideia do autor.
@@ -63,3 +64,8 @@ Itens para revisitar. Cada um tem um **gatilho**: o momento da revisão em que d
 - **Origem:** seção 05.
 - **Descrição:** o autor pretende criar uma Competência que permita Tratar durante a Cena Tática e/ou sem material de cura.
 - **Gatilho:** quando as Competências forem revisadas (seções 11 a 25), ou depois disso.
+
+**Q-011 · Dano de Vontade causado por fontes externas**
+- **Origem:** seção 06.
+- **Descrição:** nenhuma regra causa dano de Vontade de fora, salvo a decisão do Narrador. Avaliar se o Aterrorizante, alguma Condição ou alguma Ação social deve causar dano de Vontade, e se há teste para resistir.
+- **Gatilho:** seções 30 (Características de NPC) e 48 (Condições).

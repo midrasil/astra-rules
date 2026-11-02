@@ -59,7 +59,7 @@ Esses dados são um bônus, e não um segundo Atributo: o teste continua utiliza
 
 Antes de rolar qualquer teste cuja Reserva utilize **Astúcia** contra um alvo [Lido](../Condi%C3%A7%C3%B5es/Lido.md) por você, você pode sofrer uma quantidade de dano superficial de Vontade limitada pelo seu Nível de Mentalista. Isso inclui os Ataques realizados com a [Leitura de Combate](#n%C3%ADvel-2--leitura-de-combate).
 
-Para cada ponto sofrido, 1 dado da Reserva desse teste se torna um **dado garantido**: ele não é rolado e conta como 1 Sucesso. Com a trilha de Vontade cheia, cada ponto pode ser pago ao [Romper Limite](../Personagens/Vontade.md#romper-limite).
+Para cada ponto sofrido, 1 dado da Reserva desse teste se torna um **dado garantido**: ele não é rolado e conta como 1 Sucesso.
 
 ---
 

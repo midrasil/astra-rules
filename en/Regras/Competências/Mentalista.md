@@ -1,4 +1,4 @@
-<!-- source: 82297b386809 -->
+<!-- source: e4f404822b27 -->
 # Mentalist
 
 Mentalist represents the character who reads people through trained observation, picking up emotions, intentions, lies and an enemy's strengths and weaknesses.
@@ -60,7 +60,7 @@ These dice are a bonus, not a second Attribute: the test still uses the Skill's 
 
 Before rolling any test whose Pool uses **Cunning** against a target [Read](../Condi%C3%A7%C3%B5es/Lido.md) by you, you can take an amount of superficial Willpower damage limited by your Mentalist Level. This includes Attacks made with [Combat Read](#level-2--combat-read).
 
-For each point taken, 1 die of that test's Pool becomes a **guaranteed die**: it is not rolled and counts as 1 Success. With a full Willpower track, each point can be paid by [Breaking Limit](../Personagens/Vontade.md#break-limit).
+For each point taken, 1 die of that test's Pool becomes a **guaranteed die**: it is not rolled and counts as 1 Success.
 
 ---
 

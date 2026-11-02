@@ -1,4 +1,4 @@
-<!-- source: 3d62c496e8bb -->
+<!-- source: 36543d5f88fe -->
 # Marksman
 
 Marksman represents the character who prepares their shots and keeps their Aim to hit a target with precision. Its Capabilities apply to any Attack with the **Shooting** Skill.
@@ -35,7 +35,7 @@ This move does not make you lose your [Aiming](../Condi%C3%A7%C3%B5es/Mirando.md
 
 ## Level 4 — Improved Shooting Stance
 
-While in the Shooting Stance, you can take any amount of superficial Willpower damage. For each point taken, you get 1 [Aiming](../Condi%C3%A7%C3%B5es/Mirando.md) stack without spending your Action. The stack limit set by your Cunning still applies, and points taken beyond that limit grant no stacks. With a full Willpower track, each point can be paid by [Breaking Limit](../Personagens/Vontade.md#break-limit).
+While in the Shooting Stance, you can take any amount of superficial Willpower damage. For each point taken, you get 1 [Aiming](../Condi%C3%A7%C3%B5es/Mirando.md) stack without spending your Action. The stack limit set by your Cunning still applies, and points taken beyond that limit grant no stacks.
 
 ## Level 5 — Unwavering Focus
 

@@ -34,7 +34,7 @@ Esse deslocamento não provoca a perda dos seus acúmulos de [Mirando](../Condi%
 
 ## Nível 4 — Postura de Tiro Aprimorada
 
-Enquanto estiver na Postura de Tiro, você pode sofrer qualquer quantidade de dano superficial de Vontade. Para cada ponto sofrido, recebe 1 acúmulo de [Mirando](../Condi%C3%A7%C3%B5es/Mirando.md) sem gastar sua Ação. O limite de acúmulos determinado pela sua Astúcia continua sendo aplicado, e pontos sofridos além desse limite não concedem acúmulos. Com a trilha de Vontade cheia, cada ponto pode ser pago ao [Romper Limite](../Personagens/Vontade.md#romper-limite).
+Enquanto estiver na Postura de Tiro, você pode sofrer qualquer quantidade de dano superficial de Vontade. Para cada ponto sofrido, recebe 1 acúmulo de [Mirando](../Condi%C3%A7%C3%B5es/Mirando.md) sem gastar sua Ação. O limite de acúmulos determinado pela sua Astúcia continua sendo aplicado, e pontos sofridos além desse limite não concedem acúmulos.
 
 ## Nível 5 — Foco Inabalável
 

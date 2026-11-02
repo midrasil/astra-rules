@@ -1,20 +1,8 @@
-A **Vontade** representa a determinação, o foco e a capacidade de um personagem de continuar agindo sob pressão.
-
-Enquanto a [Vida](Vida.md) representa a condição física do personagem, a Vontade representa sua resistência mental e emocional diante de situações difíceis.
-
-Ela pode ser utilizada para suportar medo, pressão, sofrimento, influência psicológica ou outras circunstâncias capazes de abalar a determinação do personagem.
+A **Vontade** é um **recurso**: o personagem a gasta para ultrapassar seus próprios limites. Enquanto a [Vida](Vida.md) representa a condição física do personagem, o dano acumulado na trilha de Vontade representa o estado da sua **psique**: o desgaste desse esforço e as marcas deixadas por suas Convicções.
 
 ## Trilha de Vontade
 
-Cada personagem possui uma quantidade limitada de espaços em sua **trilha de Vontade**.
-
-A trilha representa quanto desgaste mental e emocional o personagem consegue suportar antes que sua capacidade de agir seja comprometida.
-
-Quando o personagem sofre **dano de Vontade**, esse dano é registrado na trilha da mesma forma que o dano recebido na trilha de Vida.
-
-Os espaços são preenchidos da esquerda para a direita.
-
-A trilha de Vontade de um personagem é composta por:
+Cada personagem possui uma quantidade limitada de espaços em sua **trilha de Vontade**:
 
 > **3 + Determinação** espaços
 
@@ -22,42 +10,24 @@ Determinação é o **Atributo da Vontade** por padrão. Cenários, Capacidades 
 
 Quando uma Capacidade substituir Determinação, a quantidade de espaços é recalculada imediatamente a partir do novo Atributo. A substituição afeta somente o tamanho da trilha: testes de Determinação, a Iniciativa e outras regras não são alterados, salvo quando a própria Capacidade disser o contrário.
 
-## Dano de Vontade
+O dano de Vontade é marcado como na trilha de Vida: o dano agravado fica à esquerda da trilha e o dano superficial, à direita.
 
-Assim como a Vida, a Vontade pode sofrer as duas **gravidades de dano**:
+## Gravidade do Dano
 
-- **Dano Superficial**
-- **Dano Agravado**
+Assim como a Vida, a Vontade sofre dano **superficial** e **agravado**.
 
-A diferença entre eles representa a gravidade do impacto psicológico sofrido pelo personagem.
+**Por padrão, todo dano de Vontade é superficial.** Ele é agravado somente quando a fonte indicar, como as Fraturas de Convicção e o [Romper Limite](#romper-limite).
 
-Diferente do dano físico, o dano de Vontade **não tem uma gravidade padrão**: ela é sempre definida pela fonte que o causa — por exemplo, o uso de Vontade para [Rerrolar Dados](#rerrolar-dados) causa dano superficial.
+- **Dano superficial** representa estresse, frustração, medo momentâneo e outros desgastes dos quais o personagem se recupera com relativa rapidez.
+- **Dano agravado** representa traumas e marcas profundas no estado mental do personagem, que podem permanecer com ele por muito tempo. Cada **Fratura** recebida por uma Convicção causa **1 ponto de dano agravado de Vontade** (ver [Convicções e Pilares](Convic%C3%A7%C3%B5es%20e%20Pilares.md)).
 
-### Dano Superficial
+## Vontade Preenchida
 
-O **dano superficial de Vontade** representa estresse, ansiedade, frustração, medo momentâneo, pressão emocional e outros desgastes dos quais o personagem consegue se recuperar relativamente rápido.
+- Quando a **trilha de Vontade fica cheia**, com qualquer combinação de dano superficial e agravado, o personagem sofre **-2 dados** nas rolagens que utilizem um [Atributo Espiritual](Atributos.md#categorias).
+- Com a trilha cheia, **cada ponto** de dano adicional, superficial ou agravado, converte **1 espaço** de dano superficial em agravado, como na trilha de [Vida](Vida.md).
+- Quando **toda a trilha estiver preenchida por dano agravado**, a penalidade de **-2 dados** passa a valer para **todas as rolagens**, no lugar da penalidade Espiritual, e o personagem sofre uma consequência que depende da origem e da natureza do trauma. Ela dura até que ao menos 1 ponto de dano agravado de Vontade se torne superficial.
 
-Essa gravidade de dano normalmente representa situações difíceis, mas que não deixam consequências psicológicas profundas.
-
-### Dano Agravado
-
-O **dano agravado de Vontade** representa traumas psicológicos graves ou situações capazes de afetar profundamente o estado mental do personagem.
-
-Experiências particularmente violentas, aterrorizantes ou sobrenaturais podem causar dano agravado de Vontade.
-
-Essa gravidade de dano é mais difícil de recuperar e pode permanecer com o personagem por períodos prolongados.
-
-Cada **Fratura** recebida por uma Convicção causa **1 ponto de dano agravado de Vontade** (ver [Convicções e Pilares](Convic%C3%A7%C3%B5es%20e%20Pilares.md)).
-
-### Vontade Preenchida
-
-À medida que a trilha de Vontade é preenchida por dano superficial, o personagem se aproxima de seu limite emocional e mental. Quando não houver mais espaços disponíveis, o personagem encontra-se sob forte desgaste psicológico e sofre uma penalidade de **-2 dados** em todas as rolagens que utilizem um [Atributo Espiritual](Atributos.md#categorias).
-
-Se continuar recebendo dano, superficial ou agravado, e não houver mais espaços livres, o dano adicional converte espaços já preenchidos por dano superficial em dano agravado, como na trilha de [Vida](Vida.md).
-
-Se toda a trilha estiver preenchida por dano agravado, o personagem pode ficar incapaz de continuar reagindo normalmente à situação. A penalidade de **-2 dados** passa a valer para **todas as rolagens**, de qualquer categoria, e ele sofre consequências que dependem da origem e da natureza do trauma sofrido.
-
-Isso não representa necessariamente inconsciência ou perda total de controle. A consequência pode assumir diferentes formas, como:
+Essa consequência não representa necessariamente inconsciência ou perda total de controle. O Narrador a define conforme as circunstâncias da cena, por exemplo:
 
 - paralisia diante da situação;
 - colapso emocional;
@@ -66,64 +36,42 @@ Isso não representa necessariamente inconsciência ou perda total de controle. 
 - perda momentânea de controle;
 - incapacidade de continuar enfrentando determinada ameaça.
 
-A consequência específica depende das circunstâncias da cena e das decisões do Narrador para aquela situação.
-
-
 ## Usando a Vontade
 
-A **Vontade** pode ser utilizada para permitir que um personagem ultrapasse momentaneamente seus próprios limites.
+Ao utilizar Vontade, o personagem sofre **1 ponto de dano superficial de Vontade** e escolhe um dos efeitos abaixo. Algumas Capacidades concedidas por Competências também exigem o uso de Vontade.
 
-Ao utilizar Vontade, o personagem sofre **1 ponto de dano superficial de Vontade** e escolhe um dos efeitos abaixo.
-
-Um personagem com a trilha de Vontade cheia não pode utilizar Vontade, exceto para [Romper Limite](#romper-limite).
+Com a trilha de Vontade cheia, qualquer uso de Vontade é pago ao [Romper Limite](#romper-limite).
 
 Uma vez por sessão, no total, uma **Convicção** permite utilizar Vontade sem sofrer o dano superficial, mesmo com a trilha cheia (ver [Convicções e Pilares](Convic%C3%A7%C3%B5es%20e%20Pilares.md)).
 
-Algumas Capacidades concedidas por Competências exigem o uso de Vontade para serem ativadas.
-
 ### Rerrolar Dados
 
-Após realizar um teste, o personagem pode sofrer **1 ponto de dano superficial de Vontade** para **rerrolar até 3 dados** de sua Reserva de Dados.
-
-O jogador escolhe quais dados serão rerrolados e deve utilizar os novos resultados.
+Após realizar um teste, o personagem pode sofrer **1 ponto de dano superficial de Vontade** para **rerrolar até 3 dados** de sua Reserva de Dados. O jogador escolhe quais dados serão rerrolados e deve utilizar os novos resultados.
 
 É possível rerrolar mais de uma vez no mesmo teste, sofrendo **1 ponto de dano superficial de Vontade** a cada uso.
 
 Em uma rolagem oposta, quem iniciou a ação (por exemplo, o atacante em um Confronto) decide primeiro se vai rerrolar. Depois, o outro participante decide.
 
-Esse recurso permite ao personagem insistir em uma ação importante, mesmo quando a primeira tentativa não produziu o resultado desejado.
-
 ### Ignorar Penalidades Físicas
 
-O personagem também pode sofrer **1 ponto de dano superficial de Vontade** para ignorar, na rolagem em que a Vontade for utilizada, as penalidades em dados provocadas por sua condição física, como as de [Debilitado](../Condi%C3%A7%C3%B5es/Debilitado.md), [Caído](../Condi%C3%A7%C3%B5es/Ca%C3%ADdo.md), [Agarrado](../Condi%C3%A7%C3%B5es/Agarrado.md) e [Sobrecarga](../Equipamentos/Equipamentos.md#sobrecarga).
-
-Isso inclui penalidades causadas pelo preenchimento de sua **trilha de Vida**.
+O personagem pode sofrer **1 ponto de dano superficial de Vontade** para ignorar, na rolagem em que a Vontade for utilizada, as penalidades em dados provocadas por sua condição física, como as de [Debilitado](../Condi%C3%A7%C3%B5es/Debilitado.md), [Caído](../Condi%C3%A7%C3%B5es/Ca%C3%ADdo.md), [Agarrado](../Condi%C3%A7%C3%B5es/Agarrado.md) e [Sobrecarga](../Equipamentos/Equipamentos.md#sobrecarga).
 
 Por exemplo, um personagem **Debilitado** normalmente sofre **-2 dados em rolagens que utilizem um Atributo Físico**. Ao utilizar Vontade, ele pode ignorar essa penalidade naquela rolagem.
 
-Esse uso representa o personagem forçando o próprio corpo a continuar funcionando apesar da dor, exaustão ou gravidade de seus ferimentos.
-
-O dano superficial de Vontade sofrido para utilizar esses efeitos é marcado normalmente na trilha de Vontade.
-
 ### Romper Limite
 
-Quando a trilha de Vontade estiver cheia e ainda houver dano superficial nela, o personagem pode continuar a **Rerrolar Dados** ao **Romper Limite**.
+Quando a trilha de Vontade estiver cheia e ainda houver dano superficial nela, o personagem pode continuar usando Vontade ao **Romper Limite**. Isso vale para qualquer uso de Vontade, inclusive os custos de Vontade de Capacidades.
 
-Cada uso de Romper Limite converte **1 ponto de dano superficial de Vontade** em **dano agravado**, no lugar do dano superficial normal.
-
-Capacidades podem permitir que seus custos de Vontade sejam pagos ao Romper Limite, como a [Postura de Tiro Aprimorada](../Compet%C3%AAncias/Atirador.md#n%C3%ADvel-4--postura-de-tiro-aprimorada) do Atirador.
+Cada ponto de dano de Vontade que o uso causaria converte **1 ponto de dano superficial de Vontade** em **dano agravado**, como em [Vontade Preenchida](#vontade-preenchida).
 
 Com a trilha inteiramente preenchida por dano agravado, não é possível Romper Limite.
 
 ## Recuperação
 
-Ferimentos de Vontade não desaparecem ao final dos conflitos.  
-A recuperação depende da **gravidade** do dano sofrido.
+O dano de Vontade não desaparece ao final dos conflitos. A recuperação depende da **gravidade** do dano sofrido.
 
-- **Dano Superficial:** Ao completar um [Descanso Prolongado](Descanso%20Prolongado.md), o personagem recupera todo o dano superficial de Vontade.
-- **Dano Agravado:** Não se recupera com o tempo. Ele se torna superficial quando o personagem trabalha ativamente em direção à sua **Ambição**, quando uma **Fratura** de Convicção é reparada (1 ponto) ou quando uma Convicção rompida é **restaurada** (até 2 pontos) (ver [Convicções e Pilares](Convic%C3%A7%C3%B5es%20e%20Pilares.md)).
-
-Agir em favor de seu **Desejo** também permite recuperar dano superficial de Vontade. Os detalhes estão em [Ambição e Desejo](Ambi%C3%A7%C3%A3o%20e%20Desejo.md).
+- **Dano superficial:** ao completar um [Descanso Prolongado](Descanso%20Prolongado.md), o personagem recupera todo o dano superficial de Vontade. Agir para cumprir seu **Desejo** também recupera dano superficial (ver [Ambição e Desejo](Ambi%C3%A7%C3%A3o%20e%20Desejo.md)).
+- **Dano agravado:** não se recupera com o tempo. Ele se torna superficial quando o personagem trabalha ativamente em direção à sua **Ambição**, quando uma **Fratura** de Convicção é reparada (1 ponto) ou quando uma Convicção rompida é **restaurada** (até 2 pontos) (ver [Convicções e Pilares](Convic%C3%A7%C3%B5es%20e%20Pilares.md)).
 
 ---
 

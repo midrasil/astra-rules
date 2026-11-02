@@ -156,3 +156,31 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
 - **Futuro:** uma Competência poderá permitir Tratar durante a Cena Tática ou sem material.
 - **Pendência:** "material de cura" precisa virar um item em Equipamentos (Q-009).
 - **Arquivos:** `Regras/Personagens/Vida.md` e a versão em `en/`.
+
+**D-026 · 2026-11-02 · 06 Vontade (P-06.1): Vontade como recurso**
+- **Decisão:** a Vontade é um recurso que o personagem gasta, e sua trilha representa a psique dele. A introdução passa a dizer isso, e sai a menção a "suportar medo, pressão, influência psicológica". Por padrão, todo dano de Vontade é superficial. Ele é agravado só quando a fonte indicar (Fraturas, Romper Limite, Capacidades). A cláusula que deixava o Narrador causar dano de Vontade livremente não foi adotada.
+- **Status:** aprovada. A resposta do autor ("a Vontade é para ser uma forma de usar recursos e representa a psique do personagem") foi lida como escolha da alternativa, mantendo a gravidade padrão.
+- **Arquivos:** `Regras/Personagens/Vontade.md` e a versão em `en/`.
+
+**D-027 · 2026-11-02 · 06 Vontade (P-06.2): trilha preenchida igual à da Vida**
+- **Decisão:** a trilha cheia, com qualquer combinação de dano, dá -2 dados nas rolagens Espirituais. Cada ponto de dano adicional converte 1 espaço superficial em agravado, e o agravado fica à esquerda. Com a trilha toda agravada, o -2 vale para todas as rolagens, no lugar do Espiritual (não soma), e a consequência dura até que 1 ponto agravado se torne superficial.
+- **Status:** aprovada.
+- **Arquivos:** `Regras/Personagens/Vontade.md` e a versão em `en/`.
+
+**D-028 · 2026-11-02 · 06 Vontade (P-06.3): Romper Limite para qualquer uso**
+- **Decisão:** com a trilha cheia, qualquer uso de Vontade, inclusive o custo de Vontade das Capacidades, é pago ao Romper Limite (opção c). As menções específicas em Atirador e Mentalista saíram, porque ficaram redundantes.
+- **Status:** aprovada, contra a recomendação (a).
+- **Consequências:** Furioso (entrar em Fúria), Guardião, Sentinela e Inspirador passam a poder pagar seus custos com dano agravado quando a trilha está cheia. Reavaliar nas seções 20, 21, 22 e 25.
+- **Arquivos:** `Regras/Personagens/Vontade.md`, `Regras/Competências/Atirador.md`, `Regras/Competências/Mentalista.md` e as versões em `en/`.
+
+**D-029 · 2026-11-02 · 06 Vontade (P-06.4): texto enxuto**
+- **Decisão:**
+  - introdução em um parágrafo;
+  - superficial e agravado em uma frase cada;
+  - saíram as frases redundantes, sobre a trilha de Vida em Ignorar Penalidades e sobre "marcado normalmente";
+  - o Desejo entrou na lista de Recuperação;
+  - a ordem segue a da Vida.
+  As âncoras usadas por outras páginas foram mantidas.
+- **Status:** aprovada.
+- **Arquivos:** `Regras/Personagens/Vontade.md` e a versão em `en/`.
+
