@@ -2,7 +2,7 @@
 
 **Arquivo:** `Regras/Competências/Assassino.md` (e `en/`), mais a linha na lista de Competências
 **Relacionadas:** A Cena (Iniciativa), Confrontar (Alvo sem Resposta), Aguardar, Correr, Reserva de Dados (Reserva Mínima)
-**Status:** análise pronta; aguardando decisão do autor
+**Status:** decidida (D-041) e aplicada; aguardando o merge do PR
 
 ## O que está estabelecido
 
@@ -54,3 +54,9 @@ Em Golpe Furtivo, trocar "inconsciente, Paralisado ou com a Reserva reduzida a m
 ### P-15.3 · Linha da lista
 
 "agir primeiro na Iniciativa, surpreender, dano extra contra alvos sem resposta, Furtividade e chegada rápida ao combate."
+
+## Decisões do autor (2026-11-02)
+
+- **P-15.1:** opção (c), o Nível 5 fica como está, só aumentando os valores (D-041).
+- **P-15.2:** alterada. O alvo sem resposta tem mais casos que os listados, então a enumeração saiu: o Golpe Furtivo vale qualquer que seja o motivo, "inclusive quando ele foi surpreendido pelo Primeiro Golpe". Os casos ficam só na página do Alvo sem Resposta (D-041).
+- **P-15.3:** aprovada (D-041).
