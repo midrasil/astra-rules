@@ -305,3 +305,8 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
 - **Decisão:** o Robusto continua como Competência de valor (+1 de Vida por Nível, sem Capacidades e sem Ápice). O Fundamento deve prever esse tipo de Competência; a nota foi para a Q-003 (seção 53).
 - **Status:** aprovada.
 - **Arquivos:** nenhum arquivo de regras; `Design/Revisão/Questões em aberto.md`.
+
+**D-051 · 2026-11-02 · 25 Sentinela (P-25.1)**
+- **Decisão:** na introdução, "incapacitado" passa a ser a Condição [Incapacitado], com link, como no Furioso (D-046) e no Guardião (D-047). A interação com o Acrobata não precisa de regra própria, e o custo de Vontade da Vigilância Incansável não muda (acompanhamento da D-028).
+- **Status:** aprovada.
+- **Arquivos:** `Regras/Competências/Sentinela.md` e a versão em `en/`.

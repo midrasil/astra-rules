@@ -2,7 +2,7 @@
 
 **Arquivo:** `Regras/Competências/Sentinela.md` (e `en/`)
 **Relacionadas:** Confrontar (Defender, Esquivar), Movimentação (Movimentação e Inimigos), Correr, Aparador, Acrobata (seção 12), Guardião (D-047), Incapacitado (D-023), Vontade (Romper Limite, D-028)
-**Status:** análise pronta; aguardando decisão do autor
+**Status:** decidida (D-051) e aplicada; aguardando o merge do PR
 
 ## O que está estabelecido
 
@@ -41,3 +41,7 @@ A regra geral diz que sair do alcance de um inimigo não provoca Ataques; o Sent
 ### P-25.1 · Incapacitado (problema objetivo)
 
 Na introdução, trocar "incapacitado" por "[Incapacitado](../Condi%C3%A7%C3%B5es/Incapacitado.md)".
+
+## Decisões do autor (2026-11-02)
+
+- **P-25.1:** aprovada (D-051). A interação com o Acrobata (acompanhamento da seção 12) não precisa de regra própria, e o custo de Vontade da Vigilância Incansável fica como está (acompanhamento da D-028).
