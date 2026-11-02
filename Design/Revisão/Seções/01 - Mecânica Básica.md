@@ -1,7 +1,7 @@
 # 01 · Mecânica Básica + Reserva de Dados
 
 **Arquivos:** `Regras/Mecânica Básica/Mecânica Básica.md`, `Regras/Mecânica Básica/Reserva de Dados.md` (e as versões em `en/`)
-**Status:** propostas aprovadas (D-007 a D-011) e aplicadas; aguardando o autor confirmar o PR
+**Status:** concluída (PR #23, confirmada pelo autor em 2026-11-02)
 
 ## O que está estabelecido
 

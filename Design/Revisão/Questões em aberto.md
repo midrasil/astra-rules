@@ -35,3 +35,8 @@ Itens para revisitar. Cada um tem um **gatilho**: o momento da revisão em que d
 - **Descrição:** ajudar gasta a Ação inteira por +1 dado (cerca de +0,5 Sucesso esperado). Fora do Inspirador, isso raramente compensa numa Cena Tática.
 - **Gatilho:** seções 32 (Ação) e 33 (Confrontar).
 - **Resolvida (2026-11-02):** a Ajuda é fraca de propósito e serve de base para Competências que a ampliam (D-011).
+
+**Q-007 · Atributos acima de 5 e padrão das Reservas de resistência**
+- **Origem:** seção 02.
+- **Descrição:** a escala de 1 a 5 é definida para personagens, e não está dito se criaturas podem passar de 5. As Reservas de resistência usam pares de Atributos definidos caso a caso (Vigor + Determinação, Determinação + Astúcia, Vigor + Força), sem um padrão geral.
+- **Gatilho:** seções 30 (Características de NPC) e 48 (Condições).

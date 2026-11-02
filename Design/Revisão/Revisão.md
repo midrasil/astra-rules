@@ -37,10 +37,10 @@ Status: `[ ]` pendente · `[~]` em discussão · `[x]` concluída
 - [x] 00 · [Introdução](Seções/00%20-%20Introdução.md) (`Readme.md`)
 
 **Mecânica Básica**
-- [~] 01 · [Mecânica Básica (índice) + Reserva de Dados](Seções/01%20-%20Mecânica%20Básica.md)
+- [x] 01 · [Mecânica Básica (índice) + Reserva de Dados](Seções/01%20-%20Mecânica%20Básica.md)
 
 **Personagens**
-- [ ] 02 · Personagens (índice) + Atributos
+- [~] 02 · [Personagens (índice) + Atributos](Seções/02%20-%20Personagens%20e%20Atributos.md)
 - [ ] 03 · Perícias
 - [ ] 04 · Tamanho
 - [ ] 05 · Vida
