@@ -69,8 +69,8 @@ Status: `[ ]` pendente · `[~]` em discussão · `[x]` concluída
 
 **Criação de Personagem**
 - [x] 26 · [Visão geral + Identidade](Seções/26%20-%20Vis%C3%A3o%20geral%20%2B%20Identidade.md)
-- [~] 27 · [Atributos e Perícias + Características Derivadas](Seções/27%20-%20Atributos%20e%20Per%C3%ADcias%20%2B%20Caracter%C3%ADsticas%20Derivadas.md)
-- [ ] 28 · Competências + Equipamento Inicial
+- [x] 27 · [Atributos e Perícias + Características Derivadas](Seções/27%20-%20Atributos%20e%20Per%C3%ADcias%20%2B%20Caracter%C3%ADsticas%20Derivadas.md)
+- [~] 28 · [Competências + Equipamento Inicial](Seções/28%20-%20Compet%C3%AAncias%20%2B%20Equipamento%20Inicial.md)
 
 **Criaturas**
 - [ ] 29 · Criaturas (índice) + Tipos de Criatura
