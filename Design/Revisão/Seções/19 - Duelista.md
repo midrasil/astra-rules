@@ -2,7 +2,7 @@
 
 **Arquivo:** `Regras/Competências/Duelista.md` (e `en/`), mais a linha na lista de Competências
 **Relacionadas:** Desafiado (Condição), Confrontar (Vantagem Numérica), Reserva de Dados (Testes Opostos)
-**Status:** análise pronta; aguardando decisão do autor
+**Status:** decidida (D-045) e aplicada; aguardando o merge do PR
 
 ## O que está estabelecido
 
@@ -52,3 +52,7 @@ Na tabela, no Desafio e na Condição Desafiado, trocar "igual ao seu Nível de 
 ### P-19.3 · Linha da lista
 
 "combate com uma arma em uma mão e a outra livre, vantagem contra alvos isolados, resistência a cercos e desafios que prendem o adversário a você."
+
+## Decisões do autor (2026-11-02)
+
+- **P-19.1, P-19.2 e P-19.3:** aprovadas (D-045). A observação sobre o Nível 1 fica registrada, sem mudança.
