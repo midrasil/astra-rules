@@ -2,7 +2,7 @@
 
 **Arquivo:** `Regras/Competências/Guardião.md` (e `en/`)
 **Relacionadas:** Confrontar (Defender, Esquivar), Escudos, Zonas (Zonas de dano), Aparador, Incapacitado (D-023), Paralisado, Vontade (Romper Limite, D-028)
-**Status:** decidida (D-047) e aplicada; aguardando o merge do PR
+**Status:** concluída (PR #43, mergeado em 2026-11-02)
 
 ## O que está estabelecido
 

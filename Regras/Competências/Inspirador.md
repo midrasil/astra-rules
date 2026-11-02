@@ -4,11 +4,11 @@ Inspirador representa o personagem capaz de despertar coragem e determinação p
 
 ## Progressão
 
-| Nível | Capacidade concedida | Inspiração |
-|---:|---|---:|
-| **1** | Inspiração | +2 dados |
-| **2** | Levantar o Ânimo | +2 dados |
-| **3** | Refrão Inspirador | +2 dados |
+| Nível | Capacidade concedida |
+|---:|---|
+| **1** | Inspiração |
+| **2** | Levantar o Ânimo |
+| **3** | Refrão Inspirador |
 
 ## Nível 1 — Inspiração
 
