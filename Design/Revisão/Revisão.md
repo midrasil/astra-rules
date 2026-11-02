@@ -55,8 +55,8 @@ Status: `[ ]` pendente · `[~]` em discussão · `[x]` concluída
 - [x] 12 · [Acrobata](Seções/12%20-%20Acrobata.md)
 - [x] 13 · [Ambidestro](Seções/13%20-%20Ambidestro.md)
 - [x] 14 · [Aparador](Seções/14%20-%20Aparador.md)
-- [~] 15 · [Assassino](Seções/15%20-%20Assassino.md)
-- [ ] 16 · Atirador
+- [x] 15 · [Assassino](Seções/15%20-%20Assassino.md)
+- [~] 16 · [Atirador](Seções/16%20-%20Atirador.md)
 - [ ] 17 · Caçador
 - [ ] 18 · Cativante
 - [ ] 19 · Duelista
