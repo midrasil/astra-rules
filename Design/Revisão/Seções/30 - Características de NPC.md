@@ -2,7 +2,7 @@
 
 **Arquivo:** `Regras/Criaturas/Características de NPC.md` (e `en/`)
 **Relacionadas:** Atributos (Escala; seção 02), Vida (Trilha de Vida Preenchida), Vontade (D-026), Movimentação, Zonas, Armaduras (Absorção), Armas (Alcance), Tamanho, Condições (Medo, Envenenado, Paralisado, Atordoado, Agarrado), Iluminação, Q-007, Q-011
-**Status:** decidida (D-056) e aplicada; aguardando o merge do PR
+**Status:** concluída (PR #52, mergeado em 2026-11-02)
 
 ## O que está estabelecido
 
