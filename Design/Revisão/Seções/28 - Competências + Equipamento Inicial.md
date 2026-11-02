@@ -2,7 +2,7 @@
 
 **Arquivos:** `Criação de Personagem/4 - Competências.md` e `Criação de Personagem/5 - Equipamento Inicial.md` (e `en/`)
 **Relacionadas:** Competências (seção 11; D-037: a Criação de Personagem é a única fonte da regra de criação), Progressão, Equipamentos (Valor, Carga, Sobrecarga), Catálogos de Armas, Armaduras e Escudos, Características Derivadas (D-053), Q-003, Q-009
-**Status:** análise pronta; aguardando decisão do autor
+**Status:** decidida (D-054) e aplicada; aguardando o merge do PR
 
 ## O que está estabelecido
 
@@ -58,3 +58,8 @@ E pôr link em "Nível Total de Competências" para `../Regras/Compet%C3%AAncias
 - O último parágrafo vira:
 
 > O personagem pode carregar itens até sua [Carga máxima](3%20-%20Caracter%C3%ADsticas%20Derivadas.md); passar disso o deixa em [Sobrecarga](../Regras/Equipamentos/Equipamentos.md#sobrecarga).
+
+## Decisões do autor (2026-11-02)
+
+- **P-28.1 e P-28.3:** aprovadas (D-054).
+- **P-28.2:** opção (a). Sem indicação do cenário, o orçamento inicial é de 100 de Valor (D-054).
