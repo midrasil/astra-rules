@@ -74,10 +74,10 @@ Status: `[ ]` pendente · `[~]` em discussão · `[x]` concluída
 
 **Criaturas**
 - [x] 29 · [Criaturas (índice) + Tipos de Criatura](Seções/29%20-%20Criaturas%20%2B%20Tipos%20de%20Criatura.md)
-- [~] 30 · [Características de NPC](Seções/30%20-%20Caracter%C3%ADsticas%20de%20NPC.md)
+- [x] 30 · [Características de NPC](Seções/30%20-%20Caracter%C3%ADsticas%20de%20NPC.md)
 
 **Cenas e Conflitos**
-- [ ] 31 · Cenas e Conflitos (índice) + Cenas Táticas + A Cena
+- [~] 31 · [Cenas e Conflitos (índice) + Cenas Táticas + A Cena](Seções/31%20-%20Cenas%20e%20Conflitos%20%2B%20Cenas%20T%C3%A1ticas%20%2B%20A%20Cena.md)
 - [ ] 32 · Ação
 - [ ] 33 · Confrontar
 - [ ] 34 · Manobras
