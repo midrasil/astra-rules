@@ -395,3 +395,13 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
   - contra Zonas, Resistências e Vulnerabilidades são somadas como na Absorção Efetiva: saldo positivo converte agravado em superficial, saldo negativo aumenta o Dano.
 - **Status:** aprovada.
 - **Arquivos:** `Regras/Cenas e Conflitos/Zonas.md`, `Regras/Resistência e Vulnerabilidade/Resistência e Vulnerabilidade.md`, `Regras/Criaturas/Características de NPC.md` e as versões em `en/`.
+
+**D-063 · 2026-11-03 · 37 Iluminação (P-37.3, modelo do D&D 5e)**
+- **Decisão:**
+  - três níveis: Claro (nenhum efeito), Penumbra (-2 dados em Perceber pela visão; Ataques não são afetados) e Escuro (quem está ali não pode ser visto: -4 dados em toda rolagem que dependa de vê-lo, inclusive Ataques, respostas e Perceber), com exemplos;
+  - conta a iluminação de onde está o que se tenta ver;
+  - Visão no Escuro sobe um nível (Penumbra → Claro, Escuro → Penumbra);
+  - o Breu deixa de ser nível: a escuridão sobrenatural conta como Escuro e bloqueia a Visão no Escuro; o -6 sai;
+  - fontes de luz: vela (1 + 1), tocha (4 + 4), lampião (6 + 6).
+- **Status:** aprovada.
+- **Arquivos:** `Regras/Cenas e Conflitos/Iluminação.md`, `Regras/Criaturas/Características de NPC.md` e as versões em `en/`.

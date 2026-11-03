@@ -2,7 +2,7 @@
 
 **Arquivo:** `Regras/Cenas e Conflitos/Iluminação.md` (e `en/`)
 **Relacionadas:** Características de NPC (Visão no Escuro), Confrontar (respostas), Perícias (Perceber, Furtividade)
-**Status:** em análise
+**Status:** decidida (D-063) e aplicada; aguardando o merge do PR
 
 ## O que está estabelecido
 
@@ -88,3 +88,7 @@ Adaptação ao Astra, mantendo os valores que a página já usa (-2 e -4):
 - o -6 do Breu sai.
 
 **Alternativa:** manter os quatro níveis atuais e aplicar só as partes do 5e que faltam (qual iluminação conta, Visão no Escuro subindo um nível e fontes de luz).
+
+## Decisões do autor (2026-11-03)
+
+- **P-37.3:** aprovada (D-063). P-37.1 e P-37.2 ficam absorvidas por ela.
