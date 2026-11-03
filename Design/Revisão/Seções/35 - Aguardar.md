@@ -2,7 +2,7 @@
 
 **Arquivo:** `Regras/Cenas e Conflitos/Ações/Aguardar.md` (e `en/`)
 **Relacionadas:** Ação (D-058), A Cena (Iniciativa e Surpresa, D-057), Correr, Assassino, Atirador, Furioso
-**Status:** decidida (D-061) e aplicada; aguardando o merge do PR
+**Status:** concluída (PR #57, mergeado em 2026-11-03)
 
 ## O que está estabelecido
 
