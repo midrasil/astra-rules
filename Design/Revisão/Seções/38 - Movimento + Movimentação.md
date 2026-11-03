@@ -2,7 +2,7 @@
 
 **Arquivos:** `Regras/Movimento/Movimento.md` e `Regras/Movimento/Movimentação.md` (e `en/`)
 **Relacionadas:** Saltar, Correr, Manobras (Reposicionar, Q-016), Zonas (D-062), Mecânica Básica (arredondamento), Equipamentos (Sobrecarga), Armaduras (Força mínima), Lento, Caído, Características de NPC (Aquática, Voadora, Reservas de resistência)
-**Status:** em análise
+**Status:** decidida (D-064) e aplicada; aguardando o merge do PR
 
 ## O que está estabelecido
 
@@ -50,3 +50,8 @@ Nova seção "Queda" em Movimentação, com o texto do item 5 e um exemplo: "Uma
 ### P-38.3 · Reserva de exaustão (texto)
 
 "Provas prolongadas de resistência ou exaustão podem exigir um teste separado de **Vigor**" vira "...podem exigir um teste de **Vigor + Determinação**".
+
+## Decisões do autor (2026-11-03)
+
+- **P-38.2:** substituída a pedido do autor ("queda não é uma resistência"), no modelo do D&D 5e (1d6 a cada 10 pés, máximo 20d6, sem teste): 1 de dano de Contusão a cada 2 quadrados, sem teste, sem Absorção, máximo 10; quem sofre dano termina Caído; quem salta para baixo de propósito desconta a altura do Salto Vertical (D-064). Fecha a Q-016.
+- **P-38.1 e P-38.3:** aprovadas (D-064).

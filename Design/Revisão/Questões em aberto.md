@@ -106,6 +106,7 @@ Itens para revisitar. Cada um tem um **gatilho**: o momento da revisão em que d
 - **Origem:** seção 34.
 - **Descrição:** Reposicionar diz que a queda de uma borda é "resolvida normalmente", mas o núcleo não tem regra de dano de queda.
 - **Gatilho:** seções 38 a 40 (Movimento, Correr, Saltar).
+- **Status:** fechada na seção 38 (D-064).
 
 **Q-017 · Fim do agarrão e mão livre**
 - **Origem:** seção 34.
