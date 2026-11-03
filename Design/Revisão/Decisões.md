@@ -405,3 +405,11 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
   - fontes de luz: vela (1 + 1), tocha (4 + 4), lampião (6 + 6).
 - **Status:** aprovada.
 - **Arquivos:** `Regras/Cenas e Conflitos/Iluminação.md`, `Regras/Criaturas/Características de NPC.md` e as versões em `en/`.
+
+**D-064 · 2026-11-03 · 38 Movimento + Movimentação (P-38.1, P-38.2 ajustada e P-38.3)**
+- **Decisão:**
+  - a Movimentação pode ser dividida antes e depois da Ação; só aliados podem ser atravessados; reduções à metade antes de somas e subtrações; mínimo 0;
+  - nova seção Queda (modelo do D&D 5e): 1 de dano de Contusão a cada 2 quadrados, sem teste, sem Absorção, máximo 10; quem sofre dano termina Caído; quem salta para baixo de propósito desconta a altura do Salto Vertical (fecha a Q-016);
+  - teste de exaustão: Vigor + Determinação.
+- **Status:** aprovada.
+- **Arquivos:** `Regras/Movimento/Movimentação.md` e a versão em `en/`.

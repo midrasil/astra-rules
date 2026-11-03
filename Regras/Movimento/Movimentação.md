@@ -4,9 +4,9 @@ Por padrão, todo personagem possui uma **Movimentação base** de **6 quadrados
 
 > **Movimentação base: 6 quadrados**
 
-Efeitos que reduzem ou aumentam a Movimentação de um personagem alteram sua Movimentação base. Enquanto o efeito durar, todas as regras que usam a Movimentação base utilizam o valor modificado.
+Efeitos que reduzem ou aumentam a Movimentação de um personagem alteram sua Movimentação base. Enquanto o efeito durar, todas as regras que usam a Movimentação base utilizam o valor modificado. Aplique primeiro as reduções à metade e depois as somas e subtrações. A Movimentação nunca fica abaixo de 0.
 
-A Movimentação pode ser realizada antes ou depois da Ação do personagem, de acordo com a ordem que ele preferir.
+A Movimentação pode ser usada antes e depois da Ação, e dividida entre os dois momentos como o personagem preferir.
 
 ## Deslocamento
 
@@ -14,7 +14,7 @@ Cada quadrado percorrido custa **1 ponto de Movimentação**.
 
 Mover-se na diagonal também custa apenas **1 ponto de Movimentação**. O Astra não utiliza custos adicionais para deslocamentos diagonais.
 
-Um personagem pode atravessar normalmente um quadrado ocupado por um **aliado** (não podendo permanecer no mesmo quadrado), mas não pode atravessar um quadrado ocupado por um **inimigo**.
+Um personagem pode atravessar um quadrado ocupado por um **aliado** (sem permanecer nele), mas não um quadrado ocupado por qualquer outra criatura.
 
 ## Terreno Difícil
 
@@ -42,7 +42,7 @@ Cada quadrado percorrido utilizando uma Movimentação Especial custa **2 pontos
 
 Os custos se somam. Um quadrado de Terreno Difícil percorrido com Movimentação Especial custa **4 pontos de Movimentação**.
 
-Normalmente, nadar e escalar não exigem rolagem. Quando o risco, a pressão ou a dificuldade da situação exigirem um teste, a Reserva padrão é **Força + Atletismo**. Provas prolongadas de resistência ou exaustão podem exigir um teste separado de **Vigor**, conforme a situação.
+Normalmente, nadar e escalar não exigem rolagem. Quando o risco, a pressão ou a dificuldade da situação exigirem um teste, a Reserva padrão é **Força + Atletismo**. Provas prolongadas de resistência ou exaustão podem exigir um teste de **Vigor + Determinação**, conforme a situação.
 
 ### Voo
 
@@ -51,6 +51,18 @@ O **Voo** não utiliza as regras de Movimentação Especial.
 A forma como um personagem voa, sua velocidade, limitações, custos e demais propriedades são determinadas diretamente pela **Capacidade, Característica, equipamento, efeito ou outra fonte** responsável por conceder essa capacidade.
 
 Dessa forma, diferentes formas de voo podem funcionar de maneiras distintas, de acordo com sua origem.
+
+## Queda
+
+Uma criatura que cai sofre **1 ponto de dano de Contusão a cada 2 quadrados** de altura, sem teste, até o máximo de **10** (a partir de 20 quadrados). A Absorção não se aplica ao dano de queda. O dano é agravado, como qualquer dano.
+
+> **Dano de queda = altura em quadrados ÷ 2 (máximo 10)**
+
+Quem sofre dano de queda termina [Caído](../Condi%C3%A7%C3%B5es/Ca%C3%ADdo.md).
+
+Quem salta para baixo de propósito desconta da altura da queda a altura do seu [Salto Vertical](Saltar.md#salto-vertical).
+
+Por exemplo, uma criatura empurrada de um muro de 5 quadrados sofre 2 de dano e termina Caída. Uma queda de 15 metros (10 quadrados) causa 5 de dano.
 
 ## Salto
 

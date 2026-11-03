@@ -83,10 +83,10 @@ Status: `[ ]` pendente · `[~]` em discussão · `[x]` concluída
 - [x] 34 · [Manobras](Seções/34%20-%20Manobras.md)
 - [x] 35 · [Aguardar](Seções/35%20-%20Aguardar.md)
 - [x] 36 · [Zonas](Seções/36%20-%20Zonas.md)
-- [~] 37 · [Iluminação](Seções/37%20-%20Ilumina%C3%A7%C3%A3o.md)
+- [x] 37 · [Iluminação](Seções/37%20-%20Ilumina%C3%A7%C3%A3o.md)
 
 **Movimento**
-- [ ] 38 · Movimento (índice) + Movimentação
+- [~] 38 · [Movimento (índice) + Movimentação](Seções/38%20-%20Movimento%20%2B%20Movimenta%C3%A7%C3%A3o.md)
 - [ ] 39 · Correr
 - [ ] 40 · Saltar
 

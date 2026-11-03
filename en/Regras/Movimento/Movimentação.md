@@ -1,4 +1,4 @@
-<!-- source: 3398ae8a86f8 -->
+<!-- source: 9595bd9ade67 -->
 # Movement
 
 During their Turn, a character can move across the battlefield using their **Movement**.
@@ -7,9 +7,9 @@ By default, every character has a **base Movement** of **6 squares per Turn**.
 
 > **Base Movement: 6 squares**
 
-Effects that reduce or increase a character's Movement change their base Movement. While the effect lasts, every rule that uses base Movement uses the modified value.
+Effects that reduce or increase a character's Movement change their base Movement. While the effect lasts, every rule that uses base Movement uses the modified value. Apply halving first, then additions and subtractions. Movement never goes below 0.
 
-Movement can happen before or after the character's Action, in whatever order they prefer.
+Movement can be used before and after the Action, and split between the two as the character prefers.
 
 ## Moving Around
 
@@ -17,7 +17,7 @@ Each square moved costs **1 point of Movement**.
 
 Moving diagonally also costs only **1 point of Movement**. Astra does not use extra costs for diagonal movement.
 
-A character can move through a square occupied by an **ally** normally (but cannot stay in the same square), but cannot move through a square occupied by an **enemy**.
+A character can move through a square occupied by an **ally** (without staying in it), but not through a square occupied by any other creature.
 
 ## Difficult Terrain
 
@@ -45,7 +45,7 @@ Each square covered using Special Movement costs **2 points of Movement**.
 
 Costs add up. A square of Difficult Terrain crossed with Special Movement costs **4 points of Movement**.
 
-Normally, swimming and climbing do not require a roll. When the risk, pressure or difficulty of the situation calls for a test, the standard Pool is **Strength + Athletics**. Long trials of endurance or exhaustion may call for a separate **Vigor** test, depending on the situation.
+Normally, swimming and climbing do not require a roll. When the risk, pressure or difficulty of the situation calls for a test, the standard Pool is **Strength + Athletics**. Long trials of endurance or exhaustion may call for a **Vigor + Determination** test, depending on the situation.
 
 ### Flight
 
@@ -54,6 +54,18 @@ Normally, swimming and climbing do not require a roll. When the risk, pressure o
 How a character flies, their speed, limitations, costs and other properties are set directly by the **Capability, Trait, equipment, effect or other source** that grants that ability.
 
 This way, different forms of flight can work in different ways, depending on their origin.
+
+## Falling
+
+A creature that falls takes **1 point of Bludgeoning damage per 2 squares** of height, with no test, up to a maximum of **10** (from 20 squares on). Absorption does not apply to falling damage. The damage is aggravated, like any damage.
+
+> **Falling damage = height in squares ÷ 2 (maximum 10)**
+
+Whoever takes falling damage ends up [Prone](../Condi%C3%A7%C3%B5es/Ca%C3%ADdo.md).
+
+Whoever jumps down on purpose subtracts the height of their [Vertical Jump](Saltar.md#vertical-jump) from the height of the fall.
+
+For example, a creature pushed off a 5-square wall takes 2 damage and ends up Prone. A 15-meter fall (10 squares) deals 5 damage.
 
 ## Jumping
 
