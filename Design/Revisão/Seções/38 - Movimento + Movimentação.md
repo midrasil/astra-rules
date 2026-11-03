@@ -2,7 +2,7 @@
 
 **Arquivos:** `Regras/Movimento/Movimento.md` e `Regras/Movimento/Movimentação.md` (e `en/`)
 **Relacionadas:** Saltar, Correr, Manobras (Reposicionar, Q-016), Zonas (D-062), Mecânica Básica (arredondamento), Equipamentos (Sobrecarga), Armaduras (Força mínima), Lento, Caído, Características de NPC (Aquática, Voadora, Reservas de resistência)
-**Status:** decidida (D-064) e aplicada; aguardando o merge do PR
+**Status:** concluída (PR #60, mergeado em 2026-11-03)
 
 ## O que está estabelecido
 

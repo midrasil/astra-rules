@@ -1,16 +1,8 @@
-Ao usar a Ação **Correr**, o personagem aumenta sua capacidade de deslocamento durante o Turno.
+Ao usar a Ação **Correr**, o personagem recebe **pontos de Movimentação** adicionais iguais à sua **Movimentação base** naquele Turno. Com a base padrão de 6, isso dá **+6**, para um total de **12**; com base 8, dá +8, para um total de 16.
 
-O personagem recebe quadrados adicionais de Movimentação iguais à sua **Movimentação base** naquele Turno.
+Correr não exige teste. O personagem pode escolher Correr depois de já ter se movido: os pontos adicionais são somados ao que ainda tiver no Turno.
 
-Como a Movimentação base é de 6 quadrados por padrão, isso normalmente concede **+6 quadrados**, permitindo que ele percorra até:
-
-> **12 quadrados**
-
-Correr é uma Ação automática e não exige nenhum teste.
-
-O personagem não precisa utilizar sua Movimentação antes de escolher Correr. Ao realizar essa Ação, os quadrados adicionais são simplesmente acrescentados à quantidade de Movimentação disponível no Turno.
-
-Personagens com uma Movimentação base diferente de 6 recebem um bônus equivalente à sua própria Movimentação base. Um personagem com Movimentação base de 8 quadrados, por exemplo, recebe **+8 quadrados** ao Correr, podendo percorrer até **16 quadrados**.
+Os efeitos de Correr se acumulam: um personagem que recebe Correr de uma Capacidade e também usa a Ação Correr soma os dois.
 
 ---
 

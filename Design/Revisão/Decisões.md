@@ -413,3 +413,8 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
   - teste de exaustão: Vigor + Determinação.
 - **Status:** aprovada.
 - **Arquivos:** `Regras/Movimento/Movimentação.md` e a versão em `en/`.
+
+**D-065 · 2026-11-03 · 39 Correr (P-39.1 e P-39.2)**
+- **Decisão:** Correr dá pontos de Movimentação (não quadrados) iguais à Movimentação base; os efeitos de Correr se acumulam (Capacidade + Ação); página reescrita em três parágrafos.
+- **Status:** aprovada.
+- **Arquivos:** `Regras/Movimento/Correr.md` e a versão em `en/`.
