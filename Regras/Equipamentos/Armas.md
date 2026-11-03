@@ -10,7 +10,7 @@ Cada arma é descrita pelos seguintes campos:
 | **Tipo de Dano** | o tipo de dano causado pela arma — Corte, Perfurante, Contusão, Fogo etc. (ver [Tipos de Dano](#tipos-de-dano)) |
 | **Propriedades** | Origem, Material e as características especiais da arma (ver [Propriedades](#propriedades)) |
 | **Alcance** | o alcance, em quadrados, no qual a arma pode atingir seus alvos |
-| **Carga** | quantos slots a arma ocupa |
+| **Carga** | quanto ocupa da Carga máxima |
 | **Valor** | o custo da arma |
 
 O **Dano** de uma arma corresponde ao **bônus da arma** aplicado em um Confronto, somado à Margem de Sucessos (ver [Confrontar](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Confrontar.md)).

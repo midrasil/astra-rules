@@ -13,7 +13,7 @@ Cada escudo é descrito pelos seguintes campos:
 | **Força mínima** | a Força necessária para usar o escudo sem perder Movimentação |
 | **Descrição** | uma descrição breve do escudo |
 | **Proteção** | bônus concedido ao Defender |
-| **Carga** | quantos slots o escudo ocupa |
+| **Carga** | quanto ocupa da Carga máxima |
 | **Valor** | o custo do escudo |
 
 ## Proteção

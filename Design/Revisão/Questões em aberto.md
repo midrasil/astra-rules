@@ -63,6 +63,7 @@ Itens para revisitar. Cada um tem um **gatilho**: o momento da revisão em que d
 - **Origem:** seção 05 (D-025).
 - **Descrição:** o Tratamento exige material de cura, mas esse item não existe em Equipamentos.
 - **Gatilho:** seção 41 (Equipamentos).
+- **Status:** fechada na seção 41 (D-067): Kit de Cura no Catálogo de Itens.
 
 **Q-010 · Futura Competência de cura**
 - **Origem:** seção 05.

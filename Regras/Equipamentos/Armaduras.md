@@ -12,7 +12,7 @@ Cada armadura é descrita pelos seguintes campos:
 | **Descrição**    | uma descrição breve da armadura                                     |
 | **Absorção**     | quantos pontos de dano agravado são convertidos em dano superficial |
 | **Propriedades** | características especiais da armadura                               |
-| **Carga**        | quantos slots a armadura ocupa                                      |
+| **Carga**        | quanto ocupa da Carga máxima                                      |
 | **Valor**        | o custo da armadura                                                 |
 
 ## Absorção

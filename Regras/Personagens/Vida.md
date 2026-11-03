@@ -54,7 +54,7 @@ Ferimentos não desaparecem imediatamente após o término de um conflito. A rec
 
 ### Tratamento
 
-Fora de uma Cena Tática, um personagem com **material de cura** pode tratar a si mesmo ou outro personagem. Sem material, não é possível tratar.
+Fora de uma Cena Tática, um personagem com **material de cura**, como um [Kit de Cura](../Equipamentos/Cat%C3%A1logo%20de%20Itens.md), pode tratar a si mesmo ou outro personagem. Sem material, não é possível tratar.
 
 Quem trata rola **Astúcia + Curar**. **Cada Sucesso converte 1 ponto** de dano agravado em superficial. Sem nenhum Sucesso, nada é convertido.
 

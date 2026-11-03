@@ -426,3 +426,11 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
   - a conversão 1 quadrado = 1,5 m vai para Movimentação.
 - **Status:** aprovada.
 - **Arquivos:** `Regras/Movimento/Saltar.md`, `Regras/Movimento/Movimentação.md`, `Regras/Cenas e Conflitos/Ação.md` e as versões em `en/`.
+
+**D-067 · 2026-11-03 · 41 Equipamentos (P-41.1, P-41.2 ajustada e P-41.3)**
+- **Decisão:**
+  - "slots" sai: a Carga é um número inteiro; Carga máxima = 5 + Força;
+  - novo Catálogo de Itens (preços do D&D 5e): Kit de Cura (Carga 1, Valor 5, 5 usos), fontes de luz, básicos de aventura; itens de Carga 0 contam 1 a cada 10 (fecha a Q-009);
+  - acima do dobro da Carga máxima, o personagem não consegue se mover carregando tudo.
+- **Status:** aprovada.
+- **Arquivos:** `Regras/Equipamentos/Equipamentos.md`, `Regras/Equipamentos/Catálogo de Itens.md` (novo), `Armas.md`, `Armaduras.md`, `Escudos.md`, `Regras/Personagens/Vida.md`, `Regras/Cenas e Conflitos/Iluminação.md`, `Criação de Personagem/3 - Características Derivadas.md`, `Criação de Personagem/5 - Equipamento Inicial.md` e as versões em `en/`.

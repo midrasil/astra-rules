@@ -1,4 +1,4 @@
-<!-- source: 5461366d5087 -->
+<!-- source: 92afac6646b5 -->
 # Shields
 
 **Shields** are equipment used for defense.
@@ -16,7 +16,7 @@ Each shield is described by the following fields:
 | **Minimum Strength** | the Strength needed to use the shield without losing Movement |
 | **Description** | a short description of the shield |
 | **Protection** | bonus granted when Defending |
-| **Load** | how many slots the shield takes |
+| **Load** | how much of the Maximum Load it takes |
 | **Value** | the shield's cost |
 
 ## Protection

@@ -1,4 +1,4 @@
-<!-- source: 2a23dfecaf5c -->
+<!-- source: 39a0404111e1 -->
 # Armor
 
 **Armor** is equipment used to protect the character.
@@ -15,7 +15,7 @@ Each armor is described by the following fields:
 | **Description**      | a short description of the armor                                     |
 | **Absorption**       | how many points of aggravated damage are converted into superficial |
 | **Properties**       | the armor's special traits                                           |
-| **Load**             | how many slots the armor takes                                       |
+| **Load**             | how much of the Maximum Load it takes                                       |
 | **Value**            | the armor's cost                                                     |
 
 ## Absorption
