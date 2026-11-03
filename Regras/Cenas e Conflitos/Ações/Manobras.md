@@ -1,32 +1,28 @@
-As **Manobras** representam ações físicas e táticas utilizadas para obter uma vantagem durante uma Cena Tática, seja alterando a posição, a condição ou a liberdade de movimento de outro personagem, seja preparando o próprio personagem para agir com mais eficácia.
-
-Diferente de um **Confronto**, uma Manobra normalmente não tem como objetivo principal causar dano. Seu propósito é obter alguma vantagem sobre o adversário, controlar seu posicionamento, limitar suas opções ou melhorar uma ação futura do próprio personagem.
-
-Qualquer personagem pode tentar realizar uma Manobra.
-
-As Manobras mais comuns possuem regras próprias, mas o Narrador também pode utilizar essa estrutura para resolver outras ações semelhantes que não estejam descritas especificamente.
+As **Manobras** são ações para obter vantagem numa Cena Tática sem causar dano: mudar a posição ou a Condição de outro personagem, tirar algo das mãos dele ou preparar um Ataque. Qualquer personagem pode tentar uma Manobra.
 
 ## Realizando uma Manobra
 
 Realizar uma Manobra exige uma **Ação**.
 
-Na maioria dos casos, a Manobra é resolvida através de uma **rolagem oposta** entre o personagem que a inicia e seu alvo. Cada Manobra determina a Reserva de quem a inicia e a Reserva utilizada para resistir. Manobras que não têm um alvo, como **Mirar**, não exigem rolagem: seu efeito é aplicado conforme sua própria descrição.
+| Manobra | Quem inicia | Alvo resiste | Efeito |
+| --- | --- | --- | --- |
+| [Reposicionar](#reposicionar) | Força + Atletismo | Força + Atletismo | desloca o alvo 1 quadrado |
+| [Derrubar](#derrubar) | Força + Atletismo | Força + Atletismo | o alvo fica [Caído](../../Condi%C3%A7%C3%B5es/Ca%C3%ADdo.md) |
+| [Agarrar](#agarrar) | Força + Atletismo | Força + Atletismo | o alvo fica [Agarrado](../../Condi%C3%A7%C3%B5es/Agarrado.md) |
+| [Desarmar](#desarmar) | Agilidade + Lutar | Agilidade + Lutar | o alvo larga um item que empunha |
+| [Mirar](#mirar) | sem rolagem | — | 1 acúmulo de [Mirando](../../Condi%C3%A7%C3%B5es/Mirando.md) |
 
-As Reservas são fixas. Descrever a Manobra de outra forma não permite trocar livremente seu Atributo ou sua Perícia. Capacidades, equipamentos e outras regras podem estabelecer substituições expressas, e Capacidades sempre prevalecem.
+Uma Manobra com alvo é resolvida por uma **rolagem oposta**. Se quem a inicia obtiver mais Sucessos, o efeito é aplicado. Em caso de empate ou vitória do alvo, nada acontece.
 
-A propriedade [Manobra (X)](../../Equipamentos/Armas.md#uso-opcional) permite realizar a Manobra indicada até o Alcance da arma, mas não altera sua Reserva nem concede bônus. [Pesado](../../Equipamentos/Armas.md#uso-opcional) modifica somente Ataques e, por isso, também não altera uma Manobra realizada com a arma.
+Por padrão, uma Manobra com alvo exige que você esteja **adjacente** a ele. Uma Manobra que use outro alcance diz isso na própria descrição. A propriedade [Manobra (X)](../../Equipamentos/Armas.md#uso-opcional) permite realizar a Manobra indicada até o Alcance da arma, mas não altera sua Reserva nem concede bônus.
 
-Se o personagem que iniciou a Manobra obtiver mais Sucessos, o efeito da Manobra é aplicado.
+Um alvo pode aceitar a Manobra; nesse caso, ela funciona sem rolagem. Um alvo que não pode resistir segue a regra de [Alvo sem Resposta](Confrontar.md#alvo-sem-resposta): o resultado dele conta como **1 Sucesso**.
 
-Em caso de empate, nada acontece.
+**Nenhuma Manobra causa dano**, qualquer que seja a Margem. Para ferir o adversário, use um [Confronto](Confrontar.md).
 
-## Manobras e Capacidades
+Reposicionar, Derrubar e Agarrar só afetam alvos de no máximo **uma categoria de [Tamanho](../../Personagens/Tamanho.md#limite-de-tamanho) maior** que você.
 
-As Manobras apresentadas nesta seção representam opções disponíveis para qualquer personagem.
-
-Algumas **Capacidades** podem melhorar uma Manobra, modificar seu funcionamento ou permitir formas especiais de utilizá-la.
-
-Capacidades não são necessárias para tentar Manobras básicas, mas podem tornar um personagem especialmente eficiente ao utilizá-las.
+As Reservas são fixas. Descrever a Manobra de outra forma não permite trocar livremente seu Atributo ou sua Perícia. Capacidades, equipamentos e outras regras podem estabelecer substituições expressas, e Capacidades sempre prevalecem. [Pesado](../../Equipamentos/Armas.md#uso-opcional) modifica somente Ataques e, por isso, não altera uma Manobra realizada com a arma.
 
 ## Manobras Narrativas
 
@@ -40,33 +36,7 @@ Nesse caso, o Narrador determina uma Reserva de Dados, a forma de resistência e
 
 ### Reposicionar
 
-Ao utilizar a Manobra **Reposicionar**, o personagem usa sua **Ação** para tentar deslocar outro personagem de sua posição atual.
-
-Para realizar a Manobra, o personagem precisa estar em **alcance suficiente para interagir fisicamente com o alvo**. Normalmente, isso significa estar adjacente ou dentro do alcance apropriado para a forma como o reposicionamento está sendo realizado.
-
-A Reserva de Dados de quem inicia é:
-
-> **Força + Atletismo**
-
-O alvo resiste com:
-
-> **Força + Atletismo**
-
-Se o personagem que iniciou a Manobra obtiver mais Sucessos, ele pode deslocar o alvo em **1 quadrado**, escolhendo a direção do movimento.
-
-Esse deslocamento pode representar um empurrão, puxão, condução corporal ou qualquer outra forma semelhante de retirar o alvo de sua posição.
-
-O personagem só pode Reposicionar um alvo de no máximo **uma categoria de [Tamanho](../../Personagens/Tamanho.md#limite-de-tamanho) maior** que ele.
-
-Em caso de empate ou vitória do alvo, nada acontece.
-
-#### Sem Dano
-
-**Reposicionar não causa dano.**
-
-Independentemente da Margem obtida na rolagem, o resultado normal da Manobra é apenas o deslocamento do alvo.
-
-Caso o objetivo principal seja ferir o adversário, deve ser utilizado um **Confronto** ou outra regra apropriada.
+Você tenta tirar outro personagem de sua posição. Se vencer, desloca o alvo **1 quadrado** na direção que escolher. O deslocamento pode representar um empurrão, um puxão, uma condução corporal ou algo semelhante.
 
 #### Obstáculos e Bordas
 
@@ -78,110 +48,23 @@ Caso o quadrado escolhido leve o alvo para fora de uma borda, plataforma ou posi
 
 ### Derrubar
 
-Ao utilizar a Manobra **Derrubar**, o personagem usa sua **Ação** para tentar colocar outro personagem no chão.
-
-Para realizar a Manobra, o personagem precisa estar em **alcance suficiente para interagir fisicamente com o alvo**. O alvo pode ser no máximo uma categoria de [Tamanho](../../Personagens/Tamanho.md#limite-de-tamanho) maior.
-
-A Reserva de Dados de quem inicia é:
-
-> **Força + Atletismo**
-
-O alvo resiste com:
-
-> **Força + Atletismo**
-
-Se o personagem que iniciou a Manobra obtiver mais Sucessos, o alvo recebe a condição **Caído**.
-
-Em caso de empate ou vitória do alvo, nada acontece.
-
-**Derrubar não causa dano.** Seu efeito é apenas aplicar a Condição **Caído** (ver [Caído](../../Condi%C3%A7%C3%B5es/Ca%C3%ADdo.md)).
+Você tenta colocar outro personagem no chão. Se vencer, o alvo recebe a Condição [Caído](../../Condi%C3%A7%C3%B5es/Ca%C3%ADdo.md).
 
 ### Agarrar
 
-Ao utilizar a Manobra **Agarrar**, o personagem usa sua **Ação** para tentar imobilizar outro personagem.
-
-Para realizar a Manobra, o personagem precisa estar em **alcance suficiente para interagir fisicamente com o alvo**. O alvo pode ser no máximo uma categoria de [Tamanho](../../Personagens/Tamanho.md#limite-de-tamanho) maior.
-
-A Reserva de Dados de quem inicia é:
-
-> **Força + Atletismo**
-
-O alvo resiste com:
-
-> **Força + Atletismo**
-
-Se o personagem que iniciou a Manobra obtiver mais Sucessos, o alvo recebe a condição **Agarrado**.
-
-Em caso de empate ou vitória do alvo, nada acontece.
-
-**Agarrar não causa dano.** Seu efeito é apenas aplicar a Condição **Agarrado** (ver [Agarrado](../../Condi%C3%A7%C3%B5es/Agarrado.md)).
+Você tenta imobilizar outro personagem. Se vencer, o alvo recebe a Condição [Agarrado](../../Condi%C3%A7%C3%B5es/Agarrado.md).
 
 ### Desarmar
 
-Ao utilizar a Manobra **Desarmar**, o personagem usa sua **Ação** para tentar fazer com que outro personagem perca um equipamento que esteja empunhando.
+Você tenta fazer outro personagem perder um equipamento que esteja empunhando, como uma arma, um escudo ou outro objeto. Se vencer, o alvo deixa cair o equipamento escolhido em seu próprio quadrado.
 
-Para realizar a Manobra, o personagem precisa estar em **alcance suficiente para interagir com o alvo e com o equipamento que deseja desarmar**.
-
-A Reserva de Dados de quem inicia é:
-
-> **Agilidade + Lutar**
-
-O alvo resiste com:
-
-> **Agilidade + Lutar**
-
-Se o personagem que iniciou a Manobra obtiver mais Sucessos, o alvo deixa cair o equipamento escolhido em seu próprio quadrado.
-
-Desarmar pode ser utilizado contra armas, escudos ou outros objetos que estejam sendo empunhados.
-
-Em caso de empate ou vitória do alvo, nada acontece.
-
-**Desarmar não causa dano.** Seu efeito é apenas retirar o equipamento das mãos do alvo.
-
-Pegar a arma do chão exige a Ação [Trocar Equipamento](../../Equipamentos/Trocar%20Equipamento.md), mesmo com uma mão livre.
+Pegar o equipamento do chão exige a Ação [Trocar Equipamento](../../Equipamentos/Trocar%20Equipamento.md), mesmo com uma mão livre.
 
 ### Mirar
 
-Ao utilizar a Manobra **Mirar**, o personagem usa sua **Ação** para preparar um Ataque à distância, concentrando-se no alvo antes de atacar.
+Você usa sua Ação para se concentrar antes de um Ataque à distância e recebe 1 acúmulo de [Mirando](../../Condi%C3%A7%C3%B5es/Mirando.md). Cada acúmulo dá **+2 dados** no próximo Ataque à distância, contra qualquer alvo.
 
-Para cada Ação utilizada para Mirar, o personagem acumula:
-
-> **+2 dados na Reserva de Dados do próximo Ataque à distância**
-
-O personagem pode utilizar Mirar durante mais de um Turno, acumulando o bônus enquanto continuar mantendo sua posição e sua concentração.
-
-O personagem pode acumular Mirar um número de vezes igual ao seu valor de **Astúcia**. Um personagem com Astúcia 2, por exemplo, pode acumular no máximo **+4 dados**.
-
-Por exemplo, um personagem que utilizar Mirar durante dois Turnos acumula:
-
-> **+4 dados na Reserva de Dados**
-
-O bônus acumulado é aplicado ao próximo Ataque à distância realizado pelo personagem, independentemente de utilizar Atirar, Arremessar ou outro Atributo estabelecido por uma regra.
-
-#### Movimentação
-
-Utilizar Mirar **não remove nem consome a Movimentação do personagem**.
-
-Ele ainda possui sua Movimentação normalmente durante o Turno e pode se mover **antes** de Mirar. No entanto, caso se mova **depois** de Mirar e antes de realizar o Ataque, todo o tempo gasto Mirando é desperdiçado e o bônus acumulado é perdido.
-
-Isso também se aplica caso o personagem seja deslocado involuntariamente.
-
-#### Perdendo a Mira
-
-Todo o bônus acumulado é perdido caso, antes de atacar, o personagem:
-
-- utilize sua Movimentação depois de Mirar;
-- seja deslocado à força;
-- sofra dano;
-- fique [Caído](../../Condi%C3%A7%C3%B5es/Ca%C3%ADdo.md).
-
-O bônus é perdido assim que o personagem sofre dano. Ele também não pode ser utilizado para responder a um Ataque.
-
-Quando isso acontece, todas as Ações anteriormente utilizadas para Mirar são desperdiçadas e o personagem deve começar a acumular o bônus novamente caso queira Mirar outra vez.
-
-Realizar o Ataque encerra a Mira, independentemente do resultado da rolagem.
-
-A Mira é registrada pela Condição [Mirando](../../Condi%C3%A7%C3%B5es/Mirando.md): cada uso de Mirar soma um acúmulo.
+Mirar não gasta sua Movimentação, e você pode se mover antes de Mirar. Os acúmulos se perdem se você se mover depois, entre outros casos descritos na Condição.
 
 ---
 

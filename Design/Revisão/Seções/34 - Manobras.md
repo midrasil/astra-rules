@@ -2,7 +2,7 @@
 
 **Arquivo:** `Regras/Cenas e Conflitos/Ações/Manobras.md` (e `en/`)
 **Relacionadas:** Confrontar (D-059, Alvo sem Resposta), Mirando, Agarrado, Caído, Tamanho, Armas (Manobra (X), Pesado, Natural, Acoplada), Trocar Equipamento, Atirador, Sentinela
-**Status:** em análise
+**Status:** decidida (D-060) e aplicada; aguardando o merge do PR
 
 ## O que está estabelecido
 
@@ -72,3 +72,9 @@ Em "Realizando uma Manobra", acrescentar:
 - **Q-016 · Dano de queda** (seções 38 a 40).
 - **Q-017 · Fim do agarrão e mão livre** (seção 48).
 - Resistência por Agilidade (item 5): não proponho, a não ser que você prefira.
+
+## Decisões do autor (2026-11-03)
+
+- **P-34.1:** aprovada com ajuste: por padrão, uma Manobra com alvo exige estar adjacente; a Manobra que usar outro alcance diz isso na própria descrição (Mirar não tem alvo). Alvo que aceita ou não pode resistir, como proposto (D-060).
+- **P-34.2 e P-34.3:** aprovadas (D-060).
+- **Resistência por Agilidade:** fica como está.
