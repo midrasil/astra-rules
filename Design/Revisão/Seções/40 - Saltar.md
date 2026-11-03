@@ -2,7 +2,7 @@
 
 **Arquivo:** `Regras/Movimento/Saltar.md` (e `en/`)
 **Relacionadas:** Movimentação (D-064, Queda), Ação (lista de Ações Básicas), Correr, Mirando
-**Status:** em análise
+**Status:** decidida (D-066) e aplicada; aguardando o merge do PR
 
 ## O que está estabelecido
 
@@ -38,3 +38,7 @@
 - Saltar sai da lista de Ações Básicas em Ação.md e passa a ser listado em Movimentação. A seção "Salto" de Movimentação diz: "Saltar faz parte da Movimentação. Consulte [Saltar](Saltar.md)."
 - O exemplo da página passa a dizer que os 3 quadrados de Impulso e os 5 do salto custam 8 pontos (o personagem precisaria de Correr para fazer o salto inteiro no mesmo Turno com Movimentação 6).
 - **Alternativa:** manter Saltar como Ação, como está.
+
+## Decisões do autor (2026-11-03)
+
+- **P-40.1 e P-40.2:** aprovadas (D-066).

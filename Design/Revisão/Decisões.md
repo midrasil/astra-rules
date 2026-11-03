@@ -418,3 +418,11 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
 - **Decisão:** Correr dá pontos de Movimentação (não quadrados) iguais à Movimentação base; os efeitos de Correr se acumulam (Capacidade + Ação); página reescrita em três parágrafos.
 - **Status:** aprovada.
 - **Arquivos:** `Regras/Movimento/Correr.md` e a versão em `en/`.
+
+**D-066 · 2026-11-03 · 40 Saltar (P-40.1 e P-40.2)**
+- **Decisão:**
+  - Saltar deixa de ser Ação e passa a fazer parte da Movimentação (modelo do D&D 5e): cada quadrado saltado custa 1 ponto; as fórmulas de distância e altura não mudam; Saltar sai da lista de Ações Básicas;
+  - o Impulso é uma corrida em linha reta logo antes do salto;
+  - a conversão 1 quadrado = 1,5 m vai para Movimentação.
+- **Status:** aprovada.
+- **Arquivos:** `Regras/Movimento/Saltar.md`, `Regras/Movimento/Movimentação.md`, `Regras/Cenas e Conflitos/Ação.md` e as versões em `en/`.

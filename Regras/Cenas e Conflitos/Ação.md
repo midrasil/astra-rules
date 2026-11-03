@@ -8,7 +8,6 @@ As **Ações Básicas** são as formas mais comuns de agir em uma Cena Tática e
 
 - [Confrontar](A%C3%A7%C3%B5es/Confrontar.md)
 - [Correr](../Movimento/Correr.md)
-- [Saltar](../Movimento/Saltar.md)
 - [Aguardar](A%C3%A7%C3%B5es/Aguardar.md)
 - [Trocar Equipamento](../Equipamentos/Trocar%20Equipamento.md)
 - [Manobras](A%C3%A7%C3%B5es/Manobras.md)

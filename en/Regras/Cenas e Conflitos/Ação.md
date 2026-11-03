@@ -1,4 +1,4 @@
-<!-- source: 0154d53da95a -->
+<!-- source: 2e54c058e25b -->
 # Action
 
 An **Action** is what a character does on their Turn besides Movement: attacking, performing maneuvers, using objects, interacting with the environment or any other activity relevant to the situation.
@@ -11,7 +11,6 @@ When an Action has its own rule, that rule sets how it is resolved. [Confront](A
 
 - [Confront](A%C3%A7%C3%B5es/Confrontar.md)
 - [Run](../Movimento/Correr.md)
-- [Jump](../Movimento/Saltar.md)
 - [Wait](A%C3%A7%C3%B5es/Aguardar.md)
 - [Switching Equipment](../Equipamentos/Trocar%20Equipamento.md)
 - [Maneuvers](A%C3%A7%C3%B5es/Manobras.md)
