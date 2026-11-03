@@ -1,7 +1,7 @@
-<!-- source: 5f16244f50b3 -->
+<!-- source: 9b56c6c0e9b6 -->
 # Confront
 
-A **Confront** happens when a character decides to attack another character during a Tactical Scene.
+A **Confront** happens when a character uses their Action to attack another character during a Tactical Scene.
 
 When starting a Confront, the attacker builds a **Dice Pool** according to the kind of Attack used.
 
@@ -36,7 +36,13 @@ They can:
 - **Defend**
 - **Dodge**
 
-The chosen response sets how the test is resolved and which consequences can follow.
+The chosen response sets how the test is resolved and which consequences can follow:
+
+| Response | Pool | Target wins | Tie | Attacker wins |
+| --- | --- | --- | --- | --- |
+| [Accept the Confront](#accept-the-confront) | the target's Attack Pool | Margin as superficial damage | weapon Damage, superficial | Margin + weapon Damage |
+| [Defend](#defend) | Strength + Fighting + Protection | no damage | weapon Damage, superficial | Margin + weapon Damage |
+| [Dodge](#dodge) | Agility + Acrobatics | no damage and moves up to half base Movement | weapon Damage, superficial | Margin + weapon Damage |
 
 ## Accept the Confront
 
@@ -60,13 +66,11 @@ The **Margin** is the difference between the number of Successes the two partici
 
 If both get the same number of Successes, it is a tie and **the attacker wins**, but deals only the **weapon's Damage** as **superficial damage**.
 
-To Accept the Confront, the responding character must be able to hit the attacker with the weapon used, observing the ranged weapon restriction (see [Reach and Confront Responses](#reach-and-confront-responses)).
-
-In general, confronts between melee weapons require both to be within each other's reach, while ranged Attacks can only be answered this way when the character also has a valid way to hit the attacker.
+To Accept the Confront, you must be able to hit the attacker with the weapon used (see [Reach and Confront Responses](#reach-and-confront-responses)).
 
 ## Defend
 
-A character equipped with a **Shield** can choose to Defend.
+A character equipped with a **Shield** can choose to Defend. Some Capabilities allow Defending another way, such as [Parry](../../Compet%C3%AAncias/Aparador.md#level-1--parry) and [Cover Ally](../../Compet%C3%AAncias/Guardi%C3%A3o.md#level-1--cover-ally).
 
 In that case, they make a roll opposed to the Attack. The Dice Pool used is:
 
@@ -76,9 +80,7 @@ The [Shield](../../Equipamentos/Escudos.md)'s **Protection** is added to the Dic
 
 If the defender gets more Successes than the attacker, the Attack is blocked and neither participant deals damage.
 
-On a tie, the attacker wins, but deals only the **weapon's Damage** as **superficial damage**.
-
-If the attacker gets more Successes, they deal damage the same way as when winning against a target who Accepts the Confront: **Margin of Successes + weapon Damage**.
+The tie and the attacker's win follow the [response table](#responding-to-the-confront).
 
 Defending is not a counterattack. Even when they win the roll, the character only keeps the Attack from hitting them.
 
@@ -90,7 +92,7 @@ The Dice Pool used is:
 
 > **Agility + Acrobatics**
 
-Capabilities and other rules can replace this Pool. Describing the Dodge differently does not allow freely using another Attribute or Skill.
+Capabilities and other rules can replace this Pool. Describing the Dodge differently does not allow freely using another Attribute or Skill. Medium and Heavy armor reduce this Pool (see [Armor](../../Equipamentos/Armaduras.md)).
 
 If the character gets more Successes than the attacker, they avoid the damage entirely and can immediately move up to:
 
@@ -100,9 +102,7 @@ in a direction of their choice.
 
 This move follows the usual [Movement](../../Movimento/Movimenta%C3%A7%C3%A3o.md) rules, such as Difficult Terrain and Special Movement, but does not trigger effects provoked by movement, such as abilities that punish or interfere with opponents' movement.
 
-On a tie, the attacker wins, but deals only the **weapon's Damage** as **superficial damage**.
-
-If the attacker gets more Successes, they deal damage the same way as when winning against a target who Accepts the Confront: **Margin of Successes + weapon Damage**.
+The tie and the attacker's win follow the [response table](#responding-to-the-confront).
 
 A character who is unable to move cannot choose to Dodge.
 
@@ -134,7 +134,7 @@ To count the sides:
 
 - **Adjacent** includes diagonals. A creature that takes up more than one square is adjacent to everything next to any square it occupies (see [Size](../../Personagens/Tamanho.md)).
 - The **attacker** must also be adjacent to the target.
-- **Defeated** characters do not count for either side.
+- [Incapacitated](../../Condi%C3%A7%C3%B5es/Incapacitado.md) characters do not count for either side.
 - **Player characters** are always allies of each other. Each NPC belongs to a side, which can be hostile, neutral or allied with the group.
 
 Numerical Advantage applies **only to melee Attacks**. When the surrounded enemy attacks, the characters who respond (Accepting the Confront, Defending or Dodging) do not get the bonus.
@@ -156,10 +156,6 @@ If the loss reduces the Dice Pool below 1 die, the Attack cannot be made.
 The available response depends on the characters' positions and the equipment used.
 
 **Accept the Confront** requires the character to be able to hit the attacker.
-
-**Defend** requires a Shield, unless a Capability allows another way, such as [Parry](../../Compet%C3%AAncias/Aparador.md#level-1--parry) or [Cover Ally](../../Compet%C3%AAncias/Guardi%C3%A3o.md#level-1--cover-ally).
-
-**Dodge** can be used whenever the character is able to move.
 
 Melee weapons can start Confronts against characters using ranged weapons when they are within the necessary reach.
 
