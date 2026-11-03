@@ -78,8 +78,8 @@ Status: `[ ]` pendente · `[~]` em discussão · `[x]` concluída
 
 **Cenas e Conflitos**
 - [x] 31 · [Cenas e Conflitos (índice) + Cenas Táticas + A Cena](Seções/31%20-%20Cenas%20e%20Conflitos%20%2B%20Cenas%20T%C3%A1ticas%20%2B%20A%20Cena.md)
-- [~] 32 · [Ação](Seções/32%20-%20A%C3%A7%C3%A3o.md)
-- [ ] 33 · Confrontar
+- [x] 32 · [Ação](Seções/32%20-%20A%C3%A7%C3%A3o.md)
+- [~] 33 · [Confrontar](Seções/33%20-%20Confrontar.md)
 - [ ] 34 · Manobras
 - [ ] 35 · Aguardar
 - [ ] 36 · Zonas
