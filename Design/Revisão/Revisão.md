@@ -87,8 +87,8 @@ Status: `[ ]` pendente · `[~]` em discussão · `[x]` concluída
 
 **Movimento**
 - [x] 38 · [Movimento (índice) + Movimentação](Seções/38%20-%20Movimento%20%2B%20Movimenta%C3%A7%C3%A3o.md)
-- [~] 39 · [Correr](Seções/39%20-%20Correr.md)
-- [ ] 40 · Saltar
+- [x] 39 · [Correr](Seções/39%20-%20Correr.md)
+- [~] 40 · [Saltar](Seções/40%20-%20Saltar.md)
 
 **Equipamentos**
 - [ ] 41 · Equipamentos (índice, carga e Sobrecarga)
