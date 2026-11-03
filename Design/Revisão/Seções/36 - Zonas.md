@@ -2,7 +2,7 @@
 
 **Arquivo:** `Regras/Cenas e Conflitos/Zonas.md` (e `en/`)
 **Relacionadas:** Confrontar (Alvo sem Resposta, Esquivar), Manobras (Reposicionar), Resistência e Vulnerabilidade, Características de NPC (Sopro), Acrobata, Guardião, Movimentação (diagonal custa 1)
-**Status:** em análise
+**Status:** decidida (D-062) e aplicada; aguardando o merge do PR
 
 ## O que está estabelecido
 
@@ -47,3 +47,8 @@ Nova seção "Formatos", depois do terceiro parágrafo:
 - Em Interações, os itens de Resistência e Vulnerabilidade viram um: "[Resistências](...) e [Vulnerabilidades](...) ao Tipo de Dano e ao Material da Zona são somadas, como na Absorção Efetiva. Um saldo positivo converte esse número de pontos de dano agravado em superficial antes de aplicar os Sucessos do teste; um saldo negativo aumenta o Dano da Zona."
 - A mesma frase substitui a de Zonas em `Resistência e Vulnerabilidade.md` (seção Relações).
 - **Alternativa:** manter separadas, como está.
+
+## Decisões do autor (2026-11-03)
+
+- **P-36.1:** aprovada com ajuste: usar formatos já estabelecidos na indústria e mostrar um exemplo de cada. Como o Astra conta a diagonal como 1, adotei o padrão de grade que usa a mesma regra (o de D&D 4ª edição): **Explosão N** (quadrado de lado 2N + 1 em volta de um ponto), **Rajada N** (quadrado N × N adjacente a quem cria) e **Linha N**. A Rajada substitui o "cone" proposto: numa grade com diagonal 1, um cone triangular não tem desenho único, e o quadrado adjacente é o padrão que evita discussão. O Sopro passa a usar "Rajada 3". Cada formato tem diagrama (D-062).
+- **P-36.2 e P-36.3:** aprovadas (D-062).

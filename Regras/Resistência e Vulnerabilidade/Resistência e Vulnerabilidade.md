@@ -37,7 +37,7 @@ Os valores do Tipo e do Material são somados. Quando a fonte de dano não tem M
 
 Os Tipos de Dano e Materiais são definidos em [Armas](../Equipamentos/Armas.md). A gravidade do dano e sua recuperação estão descritas em [Vida](../Personagens/Vida.md).
 
-O dano causado por [Zonas](../Cenas%20e%20Conflitos/Zonas.md) não utiliza a Absorção Efetiva. Nesse caso, cada ponto de Resistência converte 1 ponto de dano agravado da Zona em superficial antes de aplicar os Sucessos do teste, Vulnerabilidades aumentam diretamente o Dano da Zona e Imunidades impedem completamente o dano.
+O dano causado por [Zonas](../Cenas%20e%20Conflitos/Zonas.md) não utiliza a Absorção Efetiva. Nesse caso, Resistências e Vulnerabilidades são somadas como na Absorção Efetiva: um saldo positivo converte esse número de pontos de dano agravado da Zona em superficial antes de aplicar os Sucessos do teste, um saldo negativo aumenta o Dano da Zona, e Imunidades impedem completamente o dano.
 
 ---
 

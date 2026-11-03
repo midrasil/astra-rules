@@ -387,3 +387,11 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
   - em Preparar uma Ação, "condição" vira "gatilho" ("trigger"); sai o exemplo repetido e o parágrafo duplicado sobre a nova posição.
 - **Status:** aprovada.
 - **Arquivos:** `Regras/Cenas e Conflitos/Ações/Aguardar.md` e a versão em `en/`.
+
+**D-062 · 2026-11-03 · 36 Zonas (P-36.1, P-36.2 e P-36.3)**
+- **Decisão:**
+  - formatos de Zona, com diagramas: Explosão N, Rajada N e Linha N (padrão de grade com diagonal 1); o Sopro usa Rajada 3;
+  - criatura que não pode resistir a uma Zona conta como 1 Sucesso (Alvo sem Resposta); Zona persistente afeta cada criatura no máximo uma vez por Rodada;
+  - contra Zonas, Resistências e Vulnerabilidades são somadas como na Absorção Efetiva: saldo positivo converte agravado em superficial, saldo negativo aumenta o Dano.
+- **Status:** aprovada.
+- **Arquivos:** `Regras/Cenas e Conflitos/Zonas.md`, `Regras/Resistência e Vulnerabilidade/Resistência e Vulnerabilidade.md`, `Regras/Criaturas/Características de NPC.md` e as versões em `en/`.
