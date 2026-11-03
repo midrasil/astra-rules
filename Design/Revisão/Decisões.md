@@ -379,3 +379,11 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
   - tabela das Manobras e regras comuns (sem dano, limite de Tamanho) escritas uma vez; sai "Manobras e Capacidades".
 - **Status:** aprovada.
 - **Arquivos:** `Regras/Cenas e Conflitos/Ações/Manobras.md`, `Regras/Condições/Mirando.md` e as versões em `en/`.
+
+**D-061 · 2026-11-03 · 35 Aguardar (P-35.1 e P-35.2)**
+- **Decisão:**
+  - Atrasar o Turno não é uma Ação e é decidido antes que o Turno comece; efeitos de começo do Turno acontecem só quando o personagem de fato age;
+  - personagens atrasados que entram depois do mesmo Turno agem na ordem original da Iniciativa;
+  - em Preparar uma Ação, "condição" vira "gatilho" ("trigger"); sai o exemplo repetido e o parágrafo duplicado sobre a nova posição.
+- **Status:** aprovada.
+- **Arquivos:** `Regras/Cenas e Conflitos/Ações/Aguardar.md` e a versão em `en/`.

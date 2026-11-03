@@ -2,7 +2,7 @@
 
 **Arquivo:** `Regras/Cenas e Conflitos/Ações/Manobras.md` (e `en/`)
 **Relacionadas:** Confrontar (D-059, Alvo sem Resposta), Mirando, Agarrado, Caído, Tamanho, Armas (Manobra (X), Pesado, Natural, Acoplada), Trocar Equipamento, Atirador, Sentinela
-**Status:** decidida (D-060) e aplicada; aguardando o merge do PR
+**Status:** concluída (PR #56, mergeado em 2026-11-03)
 
 ## O que está estabelecido
 
