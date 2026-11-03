@@ -1,4 +1,4 @@
-<!-- source: 1809fd14434a -->
+<!-- source: b0208352d075 -->
 # Resistance and Vulnerability
 
 This section gathers the rules that define how characters and creatures react to damage from specific [Damage Types](../Equipamentos/Armas.md#damage-types) and [Materials](../Equipamentos/Armas.md#material-required-one-per-weapon), through **Resistances**, **Vulnerabilities** and **Immunities**.
@@ -40,7 +40,7 @@ The values for the Type and the Material are added together. When the damage sou
 
 Damage Types and Materials are defined in [Weapons](../Equipamentos/Armas.md). The severity of damage and its recovery are described in [Health](../Personagens/Vida.md).
 
-Damage dealt by [Zones](../Cenas%20e%20Conflitos/Zonas.md) does not use Effective Absorption. In that case, each point of Resistance converts 1 point of the Zone's aggravated damage into superficial before applying the test's Successes, Vulnerabilities directly increase the Zone's Damage and Immunities prevent the damage entirely.
+Damage dealt by [Zones](../Cenas%20e%20Conflitos/Zonas.md) does not use Effective Absorption. In that case, Resistances and Vulnerabilities are added together as in Effective Absorption: a positive total converts that many points of the Zone's aggravated damage into superficial before applying the test's Successes, a negative total increases the Zone's Damage, and Immunities prevent the damage entirely.
 
 ---
 

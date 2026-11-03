@@ -1,4 +1,4 @@
-<!-- source: 5468df1196cd -->
+<!-- source: c577ad0d75a6 -->
 # NPC Traits
 
 **NPC Traits** are abilities belonging to NPCs, creatures and enemies. They are set directly on the creature's sheet and are not part of the characters' Competency system.
@@ -70,7 +70,7 @@ When the creature **wins an Attack with a melee natural Attack**, the target mak
 
 ### Breath (Damage; Damage Type)
 
-- **Description:** with its Action, the creature creates an instant [Zone](../Cenas%20e%20Conflitos/Zonas.md) in a 3-square cone. The Zone has the Damage and Damage Type set on the creature. Breath cannot be used on consecutive Turns.
+- **Description:** with its Action, the creature creates an instant [Zone](../Cenas%20e%20Conflitos/Zonas.md) in a [Blast 3](../Cenas%20e%20Conflitos/Zonas.md#blast-n). The Zone has the Damage and Damage Type set on the creature. Breath cannot be used on consecutive Turns.
 
 ### Charge (+2 Damage; 4 squares)
 
