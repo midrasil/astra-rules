@@ -2,7 +2,7 @@
 
 **Arquivo:** `Regras/Cenas e Conflitos/Iluminação.md` (e `en/`)
 **Relacionadas:** Características de NPC (Visão no Escuro), Confrontar (respostas), Perícias (Perceber, Furtividade)
-**Status:** decidida (D-063) e aplicada; aguardando o merge do PR
+**Status:** concluída (PR #59, mergeado em 2026-11-03)
 
 ## O que está estabelecido
 
