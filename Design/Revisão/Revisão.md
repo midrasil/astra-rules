@@ -88,10 +88,10 @@ Status: `[ ]` pendente · `[~]` em discussão · `[x]` concluída
 **Movimento**
 - [x] 38 · [Movimento (índice) + Movimentação](Seções/38%20-%20Movimento%20%2B%20Movimenta%C3%A7%C3%A3o.md)
 - [x] 39 · [Correr](Seções/39%20-%20Correr.md)
-- [~] 40 · [Saltar](Seções/40%20-%20Saltar.md)
+- [x] 40 · [Saltar](Seções/40%20-%20Saltar.md)
 
 **Equipamentos**
-- [ ] 41 · Equipamentos (índice, carga e Sobrecarga)
+- [~] 41 · [Equipamentos (índice, carga e Sobrecarga)](Seções/41%20-%20Equipamentos.md)
 - [ ] 42 · Armas
 - [ ] 43 · Catálogo de Armas
 - [ ] 44 · Armaduras + Catálogo de Armaduras

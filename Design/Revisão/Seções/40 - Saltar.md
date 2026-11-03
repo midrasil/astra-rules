@@ -2,7 +2,7 @@
 
 **Arquivo:** `Regras/Movimento/Saltar.md` (e `en/`)
 **Relacionadas:** Movimentação (D-064, Queda), Ação (lista de Ações Básicas), Correr, Mirando
-**Status:** decidida (D-066) e aplicada; aguardando o merge do PR
+**Status:** concluída (PR #62, mergeado em 2026-11-03)
 
 ## O que está estabelecido
 
