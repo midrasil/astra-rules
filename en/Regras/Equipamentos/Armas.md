@@ -1,4 +1,4 @@
-<!-- source: f1ed2d2fec21 -->
+<!-- source: cb0eb6ecb2fc -->
 # Weapons
 
 **Weapons** are equipment used to attack, usually in a [Confront](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Confrontar.md).
@@ -13,7 +13,7 @@ Each weapon is described by the following fields:
 | **Damage Type** | the type of damage the weapon deals — Slashing, Piercing, Bludgeoning, Fire, etc. (see [Damage Types](#damage-types)) |
 | **Properties** | Origin, Material and the weapon's special traits (see [Properties](#properties)) |
 | **Reach** | the reach, in squares, at which the weapon can hit its targets |
-| **Load** | how many slots the weapon takes |
+| **Load** | how much of the Maximum Load it takes |
 | **Value** | the weapon's cost |
 
 A weapon's **Damage** is the **weapon bonus** applied in a Confront, added to the Margin of Successes (see [Confront](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Confrontar.md)).

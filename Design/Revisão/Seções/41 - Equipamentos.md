@@ -2,7 +2,7 @@
 
 **Arquivo:** `Regras/Equipamentos/Equipamentos.md` (e `en/`)
 **Relacionadas:** Armas, Armaduras, Escudos e seus catálogos, Características Derivadas (Carga máxima), Vida (Tratamento, Q-009), Iluminação (fontes de luz, D-063), Movimentação (D-064)
-**Status:** em análise
+**Status:** decidida (D-067) e aplicada; aguardando o merge do PR
 
 ## O que está estabelecido
 
@@ -66,3 +66,8 @@ Em Iluminação, a tabela de fontes de luz ganha um link para o Catálogo de Ite
 Em Sobrecarga: "Acima do **dobro** da Carga máxima, o personagem não consegue se mover carregando tudo."
 
 - **Alternativa:** sem teto, como está.
+
+## Decisões do autor (2026-11-03)
+
+- **P-41.1 e P-41.3:** aprovadas (D-067).
+- **P-41.2:** aprovada com ajuste: o Kit de Cura tem **5 usos**, não 10 (D-067). Fecha a Q-009. O Catálogo de Itens também entrou na lista de catálogos de Equipamento Inicial.

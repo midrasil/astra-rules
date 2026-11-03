@@ -1,4 +1,4 @@
-<!-- source: e7c6d87e558c -->
+<!-- source: 65430047a8ef -->
 # Lighting
 
 The **Lighting** of a place sets how much can be seen there. It affects rolls that depend on seeing something, such as attacking, responding to an Attack, noticing or searching.
@@ -23,7 +23,7 @@ A creature with [Darkvision](../Criaturas/Caracter%C3%ADsticas%20de%20NPC.md#dar
 
 ## Light Sources
 
-A light source makes the area around it Bright up to its radius, and Dim for the same radius beyond that.
+Light sources are in the [Item Catalog](../Equipamentos/Cat%C3%A1logo%20de%20Itens.md). A light source makes the area around it Bright up to its radius, and Dim for the same radius beyond that.
 
 | Source | Bright | Dim beyond that |
 |---|---|---|

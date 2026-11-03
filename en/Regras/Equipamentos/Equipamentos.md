@@ -1,4 +1,4 @@
-<!-- source: 1ceea79d958e -->
+<!-- source: 229659123d74 -->
 # Equipment
 
 Equipment is the objects characters carry and use, whether to attack, protect themselves or carry out other tasks.
@@ -14,7 +14,8 @@ The equipment available in the core is gathered in:
 
 - [Weapon Catalog](Cat%C3%A1logo%20de%20Armas.md);
 - [Armor Catalog](Cat%C3%A1logo%20de%20Armaduras.md);
-- [Shield Catalog](Cat%C3%A1logo%20de%20Escudos.md).
+- [Shield Catalog](Cat%C3%A1logo%20de%20Escudos.md);
+- [Item Catalog](Cat%C3%A1logo%20de%20Itens.md).
 
 New equipment types may be added in the future, through specific modules or settings.
 
@@ -29,15 +30,13 @@ All equipment has a **Value**, used to compare prices and build budgets. Value i
 
 ## Load
 
-The weight of equipment is **not measured in kilograms**. In Astra, the space an item takes up is measured in **slots**.
-
-Each piece of equipment has a **Load** value, which tells how many slots it takes. This applies equally to weapons, armor, shields and common items.
+The weight of equipment is **not measured in kilograms**. In Astra, the space an item takes up is measured by its **Load**, a whole number. This applies equally to weapons, armor, shields and common items. Very small items have Load 0 (see [Item Catalog](Cat%C3%A1logo%20de%20Itens.md)).
 
 ### Maximum Load
 
 A character's **Maximum Load** is the total Load they can carry without penalties. Its standard formula is:
 
-> **5 + Strength** slots
+> **5 + Strength**
 
 Strength is the **Load Attribute** by default. Capabilities and other rules can replace it in this formula. When that happens, Maximum Load is recalculated immediately from the new Attribute, without changing Strength tests or other rules.
 
@@ -47,6 +46,8 @@ Carrying more than the **Maximum Load** leaves the character in **Overload**. Wh
 
 - have their **base Movement** cut in **half** (see [Movement](../Movimento/Movimenta%C3%A7%C3%A3o.md));
 - suffer **-2 dice** on rolls that use a [Physical Attribute](../Personagens/Atributos.md#categories).
+
+Above **double** the Maximum Load, the character cannot move while carrying everything.
 
 Overload ends as soon as the Load is back within the limit.
 

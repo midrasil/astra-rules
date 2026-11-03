@@ -1,4 +1,4 @@
-<!-- source: da4f7cd1ece5 -->
+<!-- source: fef692ae1058 -->
 # Derived Traits
 
 Some of the character's values are not chosen directly: they are **calculated from the Attributes**.
@@ -8,7 +8,7 @@ Some of the character's values are not chosen directly: they are **calculated fr
 | **Health** | **3 + Vigor** boxes (see [Health](../Regras/Personagens/Vida.md)) |
 | **Willpower** | **3 + Determination** boxes (see [Willpower](../Regras/Personagens/Vontade.md)) |
 | **Initiative** | Pool of **Cunning + Determination**, rolled at the start of the Scene (see [Initiative](../Regras/Cenas%20e%20Conflitos/A%20Cena.md#initiative)) |
-| **Maximum Load** | **5 + Strength** slots (see [Load](../Regras/Equipamentos/Equipamentos.md#load)) |
+| **Maximum Load** | **5 + Strength** (see [Load](../Regras/Equipamentos/Equipamentos.md#load)) |
 
 ## Replacements in formulas
 

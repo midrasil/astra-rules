@@ -11,7 +11,8 @@ Os equipamentos disponíveis no núcleo estão reunidos em:
 
 - [Catálogo de Armas](Cat%C3%A1logo%20de%20Armas.md);
 - [Catálogo de Armaduras](Cat%C3%A1logo%20de%20Armaduras.md);
-- [Catálogo de Escudos](Cat%C3%A1logo%20de%20Escudos.md).
+- [Catálogo de Escudos](Cat%C3%A1logo%20de%20Escudos.md);
+- [Catálogo de Itens](Cat%C3%A1logo%20de%20Itens.md).
 
 Novos tipos de equipamento podem ser adicionados futuramente, através de módulos ou cenários específicos.
 
@@ -26,15 +27,13 @@ Todo equipamento possui um **Valor**, usado para comparar preços e montar orça
 
 ## Carga
 
-O peso dos equipamentos **não é medido em quilogramas**. No Astra, o espaço que um item ocupa é medido em **slots**.
-
-Cada equipamento possui um valor de **Carga**, que indica quantos slots ocupa. Isso se aplica igualmente a armas, armaduras, escudos e itens comuns.
+O peso dos equipamentos **não é medido em quilogramas**. No Astra, o espaço que um item ocupa é medido pela sua **Carga**, um número inteiro. Isso se aplica igualmente a armas, armaduras, escudos e itens comuns. Itens muito pequenos têm Carga 0 (ver [Catálogo de Itens](Cat%C3%A1logo%20de%20Itens.md)).
 
 ### Carga máxima
 
 A **Carga máxima** de um personagem é o total de Carga que ele consegue carregar sem penalidades. Sua fórmula padrão é:
 
-> **5 + Força** slots
+> **5 + Força**
 
 Força é o **Atributo da Carga** por padrão. Capacidades e outras regras podem substituí-la nessa fórmula. Quando isso acontecer, a Carga máxima é recalculada imediatamente a partir do novo Atributo, sem alterar testes de Força ou outras regras.
 
@@ -44,6 +43,8 @@ Carregar além da **Carga máxima** deixa o personagem em **Sobrecarga**. Enquan
 
 - tem sua **Movimentação base** reduzida à **metade** (ver [Movimentação](../Movimento/Movimenta%C3%A7%C3%A3o.md));
 - sofre **-2 dados** em rolagens que utilizem um [Atributo Físico](../Personagens/Atributos.md#categorias).
+
+Acima do **dobro** da Carga máxima, o personagem não consegue se mover carregando tudo.
 
 A Sobrecarga termina assim que a Carga volta a ficar dentro do limite.
 
