@@ -2,7 +2,7 @@
 
 **Arquivos:** `Regras/Cenas e Conflitos/Cenas e Conflitos.md`, `Regras/Cenas e Conflitos/Cenas Táticas.md` e `Regras/Cenas e Conflitos/A Cena.md` (e `en/`)
 **Relacionadas:** Reserva de Dados (Reserva Mínima), Confrontar (alvo sem resposta), Aguardar (Atrasar o Turno), Assassino (Primeiro Golpe, D-041), Guardião (D-047), Sentinela (D-051), efeitos "até o fim da Cena" (Lido, Desafiado, Inspirador, Cativante, Aterrorizante), Tamanho
-**Status:** decidida (D-057) e aplicada; aguardando o merge do PR
+**Status:** concluída (PR #53, mergeado em 2026-11-03)
 
 ## O que está estabelecido
 

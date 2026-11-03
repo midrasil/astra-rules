@@ -358,3 +358,8 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
   - "Cena" com maiúscula.
 - **Status:** aprovada.
 - **Arquivos:** `Regras/Cenas e Conflitos/A Cena.md`, `Regras/Cenas e Conflitos/Cenas Táticas.md` e as versões em `en/`.
+
+**D-058 · 2026-11-03 · 32 Ação (P-32.1 e P-32.2)**
+- **Decisão:** a página Ação foi reescrita de forma enxuta, sem mudar regras: Ações Básicas (com a lista) antes das Ações Narrativas, sem as repetições, e "Confrontar" no lugar de "Atacar". Nova frase: falar algumas palavras, fazer um gesto ou soltar um objeto não exige Ação.
+- **Status:** aprovada.
+- **Arquivos:** `Regras/Cenas e Conflitos/Ação.md` e a versão em `en/`.
