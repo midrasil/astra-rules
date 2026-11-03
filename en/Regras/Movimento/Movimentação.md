@@ -1,4 +1,4 @@
-<!-- source: 9595bd9ade67 -->
+<!-- source: 5eac52c52e67 -->
 # Movement
 
 During their Turn, a character can move across the battlefield using their **Movement**.
@@ -6,6 +6,8 @@ During their Turn, a character can move across the battlefield using their **Mov
 By default, every character has a **base Movement** of **6 squares per Turn**.
 
 > **Base Movement: 6 squares**
+
+When you need to express distances in physical units, use **1 square = 5 feet = 1.5 meters**. The conversion is only a narrative reference.
 
 Effects that reduce or increase a character's Movement change their base Movement. While the effect lasts, every rule that uses base Movement uses the modified value. Apply halving first, then additions and subtractions. Movement never goes below 0.
 
@@ -69,7 +71,7 @@ For example, a creature pushed off a 5-square wall takes 2 damage and ends up Pr
 
 ## Jumping
 
-A **Jump** is made using an **Action** and has its own rules. See [Jump](Saltar.md).
+Jumping is part of Movement: each square jumped costs 1 point, without using the Action. See [Jump](Saltar.md).
 
 ---
 

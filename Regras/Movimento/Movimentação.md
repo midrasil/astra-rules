@@ -4,6 +4,8 @@ Por padrão, todo personagem possui uma **Movimentação base** de **6 quadrados
 
 > **Movimentação base: 6 quadrados**
 
+Quando for preciso expressar distâncias em medidas físicas, considere **1 quadrado = 5 pés = 1,5 metro**. A conversão serve só como referência narrativa.
+
 Efeitos que reduzem ou aumentam a Movimentação de um personagem alteram sua Movimentação base. Enquanto o efeito durar, todas as regras que usam a Movimentação base utilizam o valor modificado. Aplique primeiro as reduções à metade e depois as somas e subtrações. A Movimentação nunca fica abaixo de 0.
 
 A Movimentação pode ser usada antes e depois da Ação, e dividida entre os dois momentos como o personagem preferir.
@@ -66,7 +68,7 @@ Por exemplo, uma criatura empurrada de um muro de 5 quadrados sofre 2 de dano e 
 
 ## Salto
 
-O **Salto** é realizado utilizando uma **Ação** e possui regras próprias. Consulte [Saltar](Saltar.md).
+Saltar faz parte da Movimentação: cada quadrado saltado custa 1 ponto, sem usar a Ação. Consulte [Saltar](Saltar.md).
 
 ---
 

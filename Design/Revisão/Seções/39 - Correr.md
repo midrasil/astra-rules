@@ -2,7 +2,7 @@
 
 **Arquivo:** `Regras/Movimento/Correr.md` (e `en/`)
 **Relacionadas:** Movimentação (D-064), Aguardar (Preparar Correr), Assassino, Furioso, Acrobata, Sentinela
-**Status:** decidida (D-065) e aplicada; aguardando o merge do PR
+**Status:** concluída (PR #61, mergeado em 2026-11-03)
 
 ## O que está estabelecido
 
