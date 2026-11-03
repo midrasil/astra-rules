@@ -2,7 +2,7 @@
 
 **Arquivo:** `Regras/Equipamentos/Equipamentos.md` (e `en/`)
 **Relacionadas:** Armas, Armaduras, Escudos e seus catálogos, Características Derivadas (Carga máxima), Vida (Tratamento, Q-009), Iluminação (fontes de luz, D-063), Movimentação (D-064)
-**Status:** decidida (D-067) e aplicada; aguardando o merge do PR
+**Status:** concluída (PR #63, mergeado em 2026-11-03)
 
 ## O que está estabelecido
 

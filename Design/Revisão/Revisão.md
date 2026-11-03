@@ -91,8 +91,8 @@ Status: `[ ]` pendente · `[~]` em discussão · `[x]` concluída
 - [x] 40 · [Saltar](Seções/40%20-%20Saltar.md)
 
 **Equipamentos**
-- [~] 41 · [Equipamentos (índice, carga e Sobrecarga)](Seções/41%20-%20Equipamentos.md)
-- [ ] 42 · Armas
+- [x] 41 · [Equipamentos (índice, carga e Sobrecarga)](Seções/41%20-%20Equipamentos.md)
+- [~] 42 · [Armas](Seções/42%20-%20Armas.md)
 - [ ] 43 · Catálogo de Armas
 - [ ] 44 · Armaduras + Catálogo de Armaduras
 - [ ] 45 · Escudos + Catálogo de Escudos
