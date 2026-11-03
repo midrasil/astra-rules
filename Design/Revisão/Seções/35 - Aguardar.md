@@ -2,7 +2,7 @@
 
 **Arquivo:** `Regras/Cenas e Conflitos/Ações/Aguardar.md` (e `en/`)
 **Relacionadas:** Ação (D-058), A Cena (Iniciativa e Surpresa, D-057), Correr, Assassino, Atirador, Furioso
-**Status:** em análise
+**Status:** decidida (D-061) e aplicada; aguardando o merge do PR
 
 ## O que está estabelecido
 
@@ -37,3 +37,7 @@
 - Em Preparar uma Ação, "condição" vira "gatilho" (em inglês, "trigger"). O título "Atrasar o Turno" continua o mesmo, porque Assassino aponta para ele.
 - Sai o exemplo do guarda dentro de "Quando a Ação acontece"; fica o Exemplo final.
 - O último parágrafo antes de "Entrando em um Turno" e o primeiro dela viram um só texto, sem repetir a mudança de posição.
+
+## Decisões do autor (2026-11-03)
+
+- **P-35.1 e P-35.2:** aprovadas (D-061).

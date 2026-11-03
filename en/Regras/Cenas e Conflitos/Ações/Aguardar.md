@@ -1,4 +1,4 @@
-<!-- source: 8b32e4f0a2d4 -->
+<!-- source: 6db22dda1033 -->
 # Wait
 
 Acting right away is not always the best choice.
@@ -16,11 +16,9 @@ Although both represent waiting before acting, each works differently.
 
 When they **Delay the Turn**, the character gives up acting in their current Initiative position and keeps waiting for a chance to rejoin the Turn order.
 
-Delaying the Turn must be decided **before any Movement or Action** in the Turn.
+Delaying the Turn is not an Action: you decide to delay when your Turn comes up, before it begins. Start-of-Turn effects, such as those of some Capabilities, happen only when you actually act.
 
-From that moment on, the player can choose a later Turn in the Round to act.
-
-When they decide to act, the character takes their **full Turn**, and the position they take at that moment becomes their **new Initiative position**, staying that way for the rest of the Scene.
+From that moment on, the player can choose a later Turn in the Round to act, and takes their **full Turn**.
 
 ### Joining a Turn
 
@@ -28,7 +26,9 @@ When the character decides to stop waiting, they act **immediately after** the c
 
 > **Current Turn → Waiting character**
 
-After that, this becomes the character's position in the Initiative order for the following Rounds.
+This becomes the character's **new Initiative position** for the rest of the Scene.
+
+If more than one character wants to act after the same Turn, they act in their original Initiative order.
 
 If the character does not decide to act by the end of the Round, they automatically act **last** in that Round, and that becomes their new Initiative position.
 
@@ -57,7 +57,7 @@ When they **Ready an Action**, the character uses their Action on their own Turn
 To do so, the player must declare:
 
 - **which Action will be taken**;
-- **which condition will trigger that Action**.
+- **which trigger will set off that Action**.
 
 For example:
 
@@ -65,19 +65,13 @@ For example:
 
 > "If anyone gets close to the lever, I run to it."
 
-The condition must be clear and represent something that can be objectively identified during the Scene.
+The trigger must be clear and represent something that can be objectively identified during the Scene.
 
 ### When the Action happens
 
-When the declared condition happens, the character can immediately take the Action they readied.
+When the declared trigger happens, the character can immediately take the Action they readied.
 
-The condition happens first and, as soon as it is met, the readied Action is taken before the character who triggered the condition carries on with other activities in their Turn.
-
-For example, if the condition is:
-
-> "When the guard enters the room, I attack."
-
-The guard first enters the room, meeting the condition. Before they carry on with their Turn, the readied Action is taken.
+The trigger happens first and, as soon as it occurs, the readied Action is taken before the character who set off the trigger carries on with other activities in their Turn.
 
 Once it is resolved, the interrupted Turn continues as usual, if still possible.
 
@@ -85,17 +79,17 @@ Once it is resolved, the interrupted Turn continues as usual, if still possible.
 
 The Action taken must be the one declared when it was readied.
 
-The player can decide **not to take** the Action when its condition happens, but cannot swap it at that moment for a different Action.
+The player can decide **not to take** the Action when its trigger happens, but cannot swap it at that moment for a different Action.
 
 If they want to do something else, they must wait for their next Turn as usual.
 
 ### Action requirements
 
-When the condition happens, the character still needs to be able to take the readied Action.
+When the trigger happens, the character still needs to be able to take the readied Action.
 
 All the usual requirements still apply, including reach, equipment, position and any other limitations.
 
-For example, readying a Confront against someone does not allow taking it if the target is out of reach when the condition happens.
+For example, readying a Confront against someone does not allow taking it if the target is out of reach when the trigger happens.
 
 If the readied Action involves moving, the character uses the **Movement they did not spend** on their Turn. If the readied Action is **Run**, the extra squares are added to that remaining Movement.
 
@@ -103,7 +97,7 @@ If the readied Action involves moving, the character uses the **Movement they di
 
 A readied Action stays available until the start of the character's next Turn.
 
-If the condition does not happen before then, the readied Action is lost.
+If the trigger does not happen before then, the readied Action is lost.
 
 On the new Turn, the character can act normally or use their Action again to ready another.
 
@@ -125,7 +119,7 @@ During her Turn, Amara declares:
 
 Amara uses her Action to ready this response.
 
-On the Guard's Turn, they move and come through the door. Amara's condition is met.
+On the Guard's Turn, they move and come through the door. Amara's trigger happens.
 
 Before the Guard carries on with their Turn, Amara takes the readied Confront.
 
