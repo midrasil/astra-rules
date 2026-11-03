@@ -2,7 +2,7 @@
 
 **Arquivo:** `Regras/Cenas e Conflitos/Zonas.md` (e `en/`)
 **Relacionadas:** Confrontar (Alvo sem Resposta, Esquivar), Manobras (Reposicionar), Resistência e Vulnerabilidade, Características de NPC (Sopro), Acrobata, Guardião, Movimentação (diagonal custa 1)
-**Status:** decidida (D-062) e aplicada; aguardando o merge do PR
+**Status:** concluída (PR #58, mergeado em 2026-11-03)
 
 ## O que está estabelecido
 

@@ -82,8 +82,8 @@ Status: `[ ]` pendente · `[~]` em discussão · `[x]` concluída
 - [x] 33 · [Confrontar](Seções/33%20-%20Confrontar.md)
 - [x] 34 · [Manobras](Seções/34%20-%20Manobras.md)
 - [x] 35 · [Aguardar](Seções/35%20-%20Aguardar.md)
-- [~] 36 · [Zonas](Seções/36%20-%20Zonas.md)
-- [ ] 37 · Iluminação
+- [x] 36 · [Zonas](Seções/36%20-%20Zonas.md)
+- [~] 37 · [Iluminação](Seções/37%20-%20Ilumina%C3%A7%C3%A3o.md)
 
 **Movimento**
 - [ ] 38 · Movimento (índice) + Movimentação
