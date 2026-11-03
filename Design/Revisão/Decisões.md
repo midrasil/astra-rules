@@ -434,3 +434,11 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
   - acima do dobro da Carga máxima, o personagem não consegue se mover carregando tudo.
 - **Status:** aprovada.
 - **Arquivos:** `Regras/Equipamentos/Equipamentos.md`, `Regras/Equipamentos/Catálogo de Itens.md` (novo), `Armas.md`, `Armaduras.md`, `Escudos.md`, `Regras/Personagens/Vida.md`, `Regras/Cenas e Conflitos/Iluminação.md`, `Criação de Personagem/3 - Características Derivadas.md`, `Criação de Personagem/5 - Equipamento Inicial.md` e as versões em `en/`.
+
+**D-068 · 2026-11-03 · 42 Armas (P-42.1 e P-42.2)**
+- **Decisão:**
+  - a categoria Especial passa a se chamar **Maestria** (no máximo uma por arma) e só pode ser usada por quem domina a arma;
+  - Domínio de arma: quando uma Perícia de Ataque chega a 5, o personagem domina uma arma específica que use essa Perícia; cada arma a mais custa 3 XP e exige 5 em uma das Perícias que ela usa; o domínio é da arma, não do efeito, e vale em qualquer Ataque com ela; Desarmado não tem Maestria; NPCs dominam as armas que o Narrador indicar (fecha a Q-008);
+  - Leve ganha texto explícito (sem efeito próprio, exigida por Capacidades como Ambidestro); a tabela de campos acompanha o catálogo; Pesado perde a frase redundante sobre Força no dano.
+- **Status:** aprovada.
+- **Arquivos:** `Regras/Equipamentos/Armas.md`, `Catálogo de Armas.md`, `Regras/Personagens/Progressão.md`, `Regras/Competências/Aparador.md`, `Regras/Cenas e Conflitos/Ações/Confrontar.md`, `Regras/Condições/Abalado.md`, `Lento.md` e as versões em `en/`.

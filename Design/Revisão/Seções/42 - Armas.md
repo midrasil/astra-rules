@@ -3,7 +3,7 @@
 **Arquivo:** `Regras/Equipamentos/Armas.md` (e `en/`)
 **Relacionadas:** Catálogo de Armas (seção 43), Confrontar, Manobras, Progressão (custos de XP), Perícias, Criação (Teto na criação: 4), Ambidestro, Aparador (Q-013), Características de NPC, `Design/Equipamentos/Conversão de Maestrias em Propriedades.md`
 **Pendências que chegam aqui:** Q-008 / D-020 (maestria de armas), Q-013 (Aparador × Escudo)
-**Status:** em análise
+**Status:** decidida (D-068) e aplicada; aguardando o merge do PR
 
 ## O que está estabelecido
 
@@ -52,3 +52,7 @@
 - **Leve:** "arma ágil e equilibrada. Não tem efeito próprio; algumas Capacidades exigem armas Leves, como [Ambidestro](../Compet%C3%AAncias/Ambidestro.md)."
 - **Tabela de campos:** Nome, Dano, Tipo de Dano, Empunhadura, Alcance, Outras Propriedades, Maestria, Material, Carga e Valor, na ordem do catálogo; sai "Descrição".
 - **Pesado:** sai "e não faz Força contribuir novamente para o dano".
+
+## Decisões do autor (2026-11-03)
+
+- "concordo com tudo, pode ir para maestria": P-42.1 e P-42.2 aprovadas como propostas (D-068). A Q-013 fica para a seção 45.

@@ -40,6 +40,7 @@ Se uma Capacidade substituiu o Atributo de uma fórmula, o valor passa a acompan
 | Aumentar um **Atributo** | novo nível × 5 XP |
 | Aumentar uma **Perícia** | novo nível × 3 XP |
 | Adquirir ou aumentar uma **Competência** | novo Nível Total de Competências × 3 XP (ver [Competências](../Compet%C3%AAncias/Compet%C3%AAncias.md#aquisi%C3%A7%C3%A3o-durante-a-campanha)) |
+| Dominar uma **arma** a mais | 3 XP (ver [Domínio de arma](../Equipamentos/Armas.md#dom%C3%ADnio-de-arma)) |
 | Outras capacidades | determinado pela regra, cenário ou módulo |
 
 Enquanto o personagem tiver Convicções rompidas, toda compra custa **+2 XP para cada Convicção rompida** (ver [Convicção Rompida](Convic%C3%A7%C3%B5es%20e%20Pilares.md#convic%C3%A7%C3%A3o-rompida)).

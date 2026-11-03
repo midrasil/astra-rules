@@ -5,11 +5,13 @@ Cada arma é descrita pelos seguintes campos:
 | Campo | Descrição |
 |---|---|
 | **Nome** | o nome da arma |
-| **Descrição** | uma descrição breve da arma |
 | **Dano** | modificador fixo (1, 2, 3…) somado ao dano em um Confronto |
 | **Tipo de Dano** | o tipo de dano causado pela arma — Corte, Perfurante, Contusão, Fogo etc. (ver [Tipos de Dano](#tipos-de-dano)) |
-| **Propriedades** | Origem, Material e as características especiais da arma (ver [Propriedades](#propriedades)) |
+| **Empunhadura** | como a arma é empunhada (ver [Empunhadura](#empunhadura-opcional)) |
 | **Alcance** | o alcance, em quadrados, no qual a arma pode atingir seus alvos |
+| **Outras Propriedades** | as Propriedades de Uso da arma (ver [Uso](#uso-opcional)) |
+| **Maestria** | o efeito que só quem domina a arma usa (ver [Maestria](#maestria-opcional-no-m%C3%A1ximo-uma-por-arma)) |
+| **Material** | a categoria do material da arma (ver [Material](#material-obrigat%C3%B3rio-um-por-arma)) |
 | **Carga** | quanto ocupa da Carga máxima |
 | **Valor** | o custo da arma |
 
@@ -34,7 +36,7 @@ Por padrão, o dano do Desarmado é **superficial** (ver [Gravidade do Dano](../
 
 ## Propriedades
 
-As **Propriedades** de uma arma são organizadas em cinco categorias. Toda arma tem exatamente uma **Origem** e um **Material**; as propriedades de **Empunhadura**, **Uso** e **Especial** são opcionais e podem ser combinadas conforme a entrada da arma.
+As **Propriedades** de uma arma são organizadas em cinco categorias. Toda arma tem exatamente uma **Origem** e um **Material**; as propriedades de **Empunhadura**, **Uso** e **Maestria** são opcionais e podem ser combinadas conforme a entrada da arma.
 
 ### Origem (obrigatória, uma por arma)
 
@@ -61,14 +63,14 @@ O Material é considerado junto ao Tipo de Dano ao aplicar [Resistências, Vulne
 
 ### Empunhadura (opcional)
 
-- **Leve** — arma ágil e equilibrada.
+- **Leve** — arma ágil e equilibrada. Não tem efeito próprio; algumas Capacidades exigem armas Leves, como [Ambidestro](../Compet%C3%AAncias/Ambidestro.md).
 - **Duas mãos** — arma que exige ser empunhada com as duas mãos para ser utilizada.
 - **Flexível** — arma que pode ser usada com uma mão ou com as duas. Empunhada com as duas mãos, recebe **+1 de Dano**.
 - **Acoplada** — arma presa ao corpo ou à armadura, que não ocupa a mão e não pode ser alvo da Manobra [Desarmar](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Manobras.md#desarmar). Ela só ataca quando a mão em que está acoplada não segura nada. Cada mão tem no máximo uma arma Acoplada.
 
 ### Uso (opcional)
 
-- **Pesado** — Ataques realizados com esta arma utilizam **Força no lugar de Agilidade**, mantendo a Perícia determinada pela forma do Ataque. Uma arma Pesada corpo a corpo utiliza **Força + Lutar**; uma arma Pesada de disparo utiliza **Força + Atirar**. Essa substituição é obrigatória, não acrescenta dados nem Dano e não faz Força contribuir novamente para o dano. Pesado modifica somente Ataques: não altera as Reservas de Manobras realizadas com a arma. Uma Capacidade que estabeleça expressamente o Atributo do Ataque sempre prevalece sobre Pesado.
+- **Pesado** — Ataques realizados com esta arma utilizam **Força no lugar de Agilidade**, mantendo a Perícia determinada pela forma do Ataque. Uma arma Pesada corpo a corpo utiliza **Força + Lutar**; uma arma Pesada de disparo utiliza **Força + Atirar**. Essa substituição é obrigatória, não acrescenta dados nem Dano. Pesado modifica somente Ataques: não altera as Reservas de Manobras realizadas com a arma. Uma Capacidade que estabeleça expressamente o Atributo do Ataque sempre prevalece sobre Pesado.
 
 - **Arremesso (valor)** — arma que pode ser lançada como um Ataque à distância. A Propriedade acompanha sempre um valor, que indica o **Alcance de arremesso** da arma, medido em quadrados — por exemplo, **Arremesso (6)** indica que a arma pode ser lançada a até 6 quadrados. Ataques de arremesso utilizam **Força + Arremessar**, salvo substituição explícita. O campo **Alcance** da arma continua valendo para seu uso corpo a corpo. Em um [Confronto](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Confrontar.md), a arma pode ser utilizada para **Aceitar o Confronto** contra um atacante à distância, desde que ele esteja dentro do Alcance de arremesso.
 
@@ -76,15 +78,15 @@ O Material é considerado junto ao Tipo de Dano ao aplicar [Resistências, Vulne
 - **Não letal** — o dano da arma é sempre **superficial** (ver [Gravidade do Dano](../Personagens/Vida.md#gravidade-do-dano)). Para causar dano agravado com ela, o atacante sofre **-2 dados** no Ataque.
 - **Manobra (Reposicionar, Derrubar ou Desarmar)** — a arma pode ser usada para realizar a [Manobra](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Manobras.md) indicada até o **Alcance** da arma, em vez de exigir contato físico. A Manobra não recebe bônus da arma e conserva sua Reserva própria; inclusive, a propriedade Pesado não altera essa Reserva.
 
-### Especial (opcional, no máximo uma por arma)
+### Maestria (opcional, no máximo uma por arma)
 
-Uma Propriedade Especial concede um efeito característico do modelo da arma. Ela pertence à própria arma, não precisa ser adquirida separadamente e pode ser utilizada por qualquer personagem que empunhe a arma.
+A **Maestria** é um efeito característico do modelo da arma, que só se revela nas mãos de quem a domina. Ela pertence à arma, mas só pode ser utilizada por um personagem que **domine** aquela arma (ver [Domínio de arma](#dom%C3%ADnio-de-arma)). Quem não a domina usa a arma normalmente, sem a Maestria.
 
-Cada arma pode possuir no máximo **uma Propriedade Especial**. Essas Propriedades podem criar efeitos ao vencer um Ataque, modificar uma interação específica ou representar uma vantagem que não cabe nas categorias estruturais anteriores.
+Cada arma possui no máximo **uma Maestria**. Uma Maestria pode criar efeitos ao vencer um Ataque, modificar uma interação específica ou representar uma vantagem que não cabe nas categorias estruturais anteriores.
 
-Técnicas aprendidas pelo personagem continuam pertencendo às **Capacidades**. Uma Propriedade Especial descreve o que a arma faz; uma Capacidade descreve o que o personagem sabe fazer com ela.
+Técnicas aprendidas pelo personagem continuam pertencendo às **Capacidades**. A Maestria descreve o que a arma faz nas mãos de quem a domina; uma Capacidade descreve o que o personagem sabe fazer.
 
-Uma Propriedade Especial que diga **ao vencer um Ataque** não é ativada em caso de empate. Quando o efeito exige abrir mão de uma parte do dano, o atacante decide depois de vencer e antes de calculá-lo.
+Uma Maestria que diga **ao vencer um Ataque** não é ativada em caso de empate. Quando o efeito exige abrir mão de uma parte do dano, o atacante decide depois de vencer e antes de calculá-lo.
 
 - **Letal** — ao vencer um Ataque, cada par de dados que mostrem **10** na rolagem do atacante soma o **Dano da arma** mais uma vez ao dano causado.
 - **Varredura** — ao vencer um Ataque corpo a corpo, o atacante pode abrir mão da Margem. O alvo original sofre somente o Dano da arma, e um segundo alvo à escolha do atacante sofre o mesmo Dano como dano superficial. O segundo alvo precisa estar ao alcance da arma e adjacente ao alvo original; ele não realiza outra rolagem para responder.
@@ -92,6 +94,17 @@ Uma Propriedade Especial que diga **ao vencer um Ataque** não é ativada em cas
 - **Debilitante (Lento)** — ao vencer um Ataque, o atacante pode abrir mão do Dano da arma. O alvo sofre somente a Margem e fica [Lento](../Condi%C3%A7%C3%B5es/Lento.md).
 
 Módulos e cenários podem adicionar novas propriedades, origens, materiais e armas ao catálogo do núcleo.
+
+## Domínio de arma
+
+Dominar uma arma é conhecê-la a ponto de extrair dela sua **Maestria**.
+
+- Quando uma **Perícia de Ataque** (Lutar, Atirar ou Arremessar) chega a **5**, o personagem passa a dominar **uma arma específica** à sua escolha que use essa Perícia.
+- Cada arma a mais custa **3 XP** (ver [Progressão](../Personagens/Progress%C3%A3o.md#custos-de-experi%C3%AAncia)) e exige **5** em uma das Perícias que a arma utiliza.
+- O domínio é da **arma**, não do efeito: dominar o Machado de Batalha não concede a Maestria de outra arma com o mesmo efeito.
+- Quem domina uma arma usa sua Maestria em **qualquer Ataque** feito com ela, qualquer que seja a Perícia do Ataque.
+- O Ataque **Desarmado** não tem Maestria.
+- Personagens do Narrador dominam as armas que o Narrador indicar.
 
 ## Tipos de Dano
 

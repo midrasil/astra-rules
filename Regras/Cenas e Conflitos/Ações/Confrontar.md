@@ -18,7 +18,7 @@ Todo personagem pode usar uma arma em cada mão por padrão. Isso permite manter
 
 A cada Confronto, atacando ou respondendo, o personagem escolhe qual das duas armas utiliza:
 
-- a **arma principal** é a arma escolhida. Ela define a Reserva, o Dano, o Tipo de Dano e as Propriedades Especiais do Confronto;
+- a **arma principal** é a arma escolhida. Ela define a Reserva, o Dano, o Tipo de Dano e a Maestria do Confronto;
 - a **arma secundária** é a da outra mão. Ela não tem efeito no Confronto, a menos que uma Capacidade, como as do [Ambidestro](../../Compet%C3%AAncias/Ambidestro.md), determine o contrário.
 
 O [Desarmado](../../Equipamentos/Armas.md#desarmado), armas Naturais e [Escudos](../../Equipamentos/Escudos.md) não contam como arma secundária.

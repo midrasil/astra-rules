@@ -1,4 +1,4 @@
-<!-- source: cb0eb6ecb2fc -->
+<!-- source: 0295b57c1500 -->
 # Weapons
 
 **Weapons** are equipment used to attack, usually in a [Confront](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Confrontar.md).
@@ -8,11 +8,13 @@ Each weapon is described by the following fields:
 | Field | Description |
 |---|---|
 | **Name** | the weapon's name |
-| **Description** | a short description of the weapon |
 | **Damage** | a fixed modifier (1, 2, 3…) added to the damage in a Confront |
 | **Damage Type** | the type of damage the weapon deals — Slashing, Piercing, Bludgeoning, Fire, etc. (see [Damage Types](#damage-types)) |
-| **Properties** | Origin, Material and the weapon's special traits (see [Properties](#properties)) |
+| **Grip** | how the weapon is held (see [Grip](#grip-optional)) |
 | **Reach** | the reach, in squares, at which the weapon can hit its targets |
+| **Other Properties** | the weapon's Use Properties (see [Use](#use-optional)) |
+| **Mastery** | the effect only those who have mastered the weapon can use (see [Mastery](#mastery-optional-at-most-one-per-weapon)) |
+| **Material** | the category of the weapon's material (see [Material](#material-required-one-per-weapon)) |
 | **Load** | how much of the Maximum Load it takes |
 | **Value** | the weapon's cost |
 
@@ -37,7 +39,7 @@ By default, Unarmed damage is **superficial** (see [Damage Severity](../Personag
 
 ## Properties
 
-A weapon's **Properties** are organized into five categories. Every weapon has exactly one **Origin** and one **Material**; the **Grip**, **Use** and **Special** properties are optional and can be combined as the weapon's entry says.
+A weapon's **Properties** are organized into five categories. Every weapon has exactly one **Origin** and one **Material**; the **Grip**, **Use** and **Mastery** properties are optional and can be combined as the weapon's entry says.
 
 ### Origin (required, one per weapon)
 
@@ -64,14 +66,14 @@ Material is considered together with the Damage Type when applying [Resistances,
 
 ### Grip (optional)
 
-- **Light** — a nimble, balanced weapon.
+- **Light** — a nimble, balanced weapon. It has no effect of its own; some Capabilities require Light weapons, such as [Ambidextrous](../Compet%C3%AAncias/Ambidestro.md).
 - **Two-handed** — a weapon that must be held in both hands to be used.
 - **Flexible** — a weapon that can be used in one hand or both. Held in both hands, it gets **+1 Damage**.
 - **Attached** — a weapon fixed to the body or the armor, which does not take up the hand and cannot be the target of the [Disarm](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Manobras.md#disarm) Maneuver. It only attacks when the hand it is attached to holds nothing. Each hand has at most one Attached weapon.
 
 ### Use (optional)
 
-- **Heavy** — Attacks made with this weapon use **Strength instead of Agility**, keeping the Skill set by the kind of Attack. A Heavy melee weapon uses **Strength + Fighting**; a Heavy shooting weapon uses **Strength + Shooting**. This replacement is mandatory, adds no dice or Damage and does not make Strength count toward damage again. Heavy changes only Attacks: it does not change the Pools of Maneuvers made with the weapon. A Capability that expressly sets the Attack's Attribute always takes precedence over Heavy.
+- **Heavy** — Attacks made with this weapon use **Strength instead of Agility**, keeping the Skill set by the kind of Attack. A Heavy melee weapon uses **Strength + Fighting**; a Heavy shooting weapon uses **Strength + Shooting**. This replacement is mandatory, adds no dice or Damage. Heavy changes only Attacks: it does not change the Pools of Maneuvers made with the weapon. A Capability that expressly sets the Attack's Attribute always takes precedence over Heavy.
 
 - **Thrown (value)** — a weapon that can be thrown as a ranged Attack. The Property always comes with a value, which gives the weapon's **throwing Range** in squares — for example, **Thrown (6)** means the weapon can be thrown up to 6 squares. Thrown Attacks use **Strength + Throwing**, unless explicitly replaced. The weapon's **Reach** field still applies to its melee use. In a [Confront](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Confrontar.md), the weapon can be used to **Accept the Confront** against a ranged attacker, as long as they are within the throwing Range.
 
@@ -79,15 +81,15 @@ Material is considered together with the Damage Type when applying [Resistances,
 - **Nonlethal** — the weapon's damage is always **superficial** (see [Damage Severity](../Personagens/Vida.md#damage-severity)). To deal aggravated damage with it, the attacker suffers **-2 dice** on the Attack.
 - **Maneuver (Reposition, Trip or Disarm)** — the weapon can be used to perform the given [Maneuver](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Manobras.md) up to the weapon's **Reach**, instead of requiring physical contact. The Maneuver gets no bonus from the weapon and keeps its own Pool; the Heavy property does not change that Pool either.
 
-### Special (optional, at most one per weapon)
+### Mastery (optional, at most one per weapon)
 
-A Special Property grants an effect characteristic of the weapon's model. It belongs to the weapon itself, does not need to be acquired separately and can be used by any character who wields the weapon.
+**Mastery** is an effect characteristic of the weapon's model, which only shows itself in the hands of someone who has mastered it. It belongs to the weapon, but can only be used by a character who has **mastered** that weapon (see [Mastering a Weapon](#mastering-a-weapon)). Anyone who has not mastered it uses the weapon normally, without the Mastery.
 
-Each weapon can have at most **one Special Property**. These Properties can create effects on winning an Attack, change a specific interaction or represent an advantage that does not fit the structural categories above.
+Each weapon has at most **one Mastery**. A Mastery can create effects on winning an Attack, change a specific interaction or represent an advantage that does not fit the structural categories above.
 
-Techniques the character has learned still belong to **Capabilities**. A Special Property describes what the weapon does; a Capability describes what the character knows how to do with it.
+Techniques the character has learned still belong to **Capabilities**. The Mastery describes what the weapon does in the hands of someone who has mastered it; a Capability describes what the character knows how to do.
 
-A Special Property that says **on winning an Attack** does not trigger on a tie. When the effect requires giving up part of the damage, the attacker decides after winning and before calculating it.
+A Mastery that says **on winning an Attack** does not trigger on a tie. When the effect requires giving up part of the damage, the attacker decides after winning and before calculating it.
 
 - **Lethal** — on winning an Attack, each pair of dice showing **10** on the attacker's roll adds the **weapon's Damage** once more to the damage dealt.
 - **Sweep** — on winning a melee Attack, the attacker can give up the Margin. The original target takes only the weapon's Damage, and a second target of the attacker's choice takes the same Damage as superficial damage. The second target must be within the weapon's reach and adjacent to the original target; they do not make another roll to respond.
@@ -95,6 +97,17 @@ A Special Property that says **on winning an Attack** does not trigger on a tie.
 - **Debilitating (Slowed)** — on winning an Attack, the attacker can give up the weapon's Damage. The target takes only the Margin and becomes [Slowed](../Condi%C3%A7%C3%B5es/Lento.md).
 
 Modules and settings can add new properties, origins, materials and weapons to the core catalog.
+
+## Mastering a Weapon
+
+Mastering a weapon means knowing it well enough to draw out its **Mastery**.
+
+- When an **Attack Skill** (Fighting, Shooting or Throwing) reaches **5**, the character masters **one specific weapon** of their choice that uses that Skill.
+- Each additional weapon costs **3 XP** (see [Advancement](../Personagens/Progress%C3%A3o.md#experience-costs)) and requires **5** in one of the Skills the weapon uses.
+- Mastery is of the **weapon**, not of the effect: mastering the Battle Axe does not grant the Mastery of another weapon with the same effect.
+- A character who masters a weapon uses its Mastery on **any Attack** made with it, whatever the Attack's Skill.
+- **Unarmed** Attacks have no Mastery.
+- Narrator characters master the weapons the Narrator chooses.
 
 ## Damage Types
 

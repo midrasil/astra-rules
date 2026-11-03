@@ -1,4 +1,4 @@
-<!-- source: 8ef310509f24 -->
+<!-- source: 7b94a9f3c935 -->
 # Advancement
 
 In **Astra**, characters have no global levels. They grow gradually by acquiring and improving abilities over the campaign, paid for with **Experience Points** (**XP**).
@@ -43,6 +43,7 @@ If a Capability replaced the Attribute of a formula, the value follows the repla
 | Raise an **Attribute** | new level × 5 XP |
 | Raise a **Skill** | new level × 3 XP |
 | Acquire or raise a **Competency** | new Total Competency Level × 3 XP (see [Competencies](../Compet%C3%AAncias/Compet%C3%AAncias.md#acquiring-during-the-campaign)) |
+| Master one more **weapon** | 3 XP (see [Mastering a Weapon](../Equipamentos/Armas.md#mastering-a-weapon)) |
 | Other abilities | set by the rule, setting or module |
 
 While the character has broken Convictions, every purchase costs **+2 XP for each broken Conviction** (see [Broken Conviction](Convic%C3%A7%C3%B5es%20e%20Pilares.md#broken-conviction)).

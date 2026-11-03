@@ -58,6 +58,7 @@ Itens para revisitar. Cada um tem um **gatilho**: o momento da revisão em que d
   - **Proposta em discussão:** unificar com a categoria Especial. Hoje todas as Propriedades Especiais (Letal, Varredura, Debilitante) vieram de antigas maestrias. A categoria "Especial" passaria a se chamar "Maestria", com no máximo uma por arma, e só pode usá-la quem tiver a Perícia de Ataque da arma no patamar exigido.
   - **Em aberto:** o patamar exigido (5, como o autor propôs, ou menor) e se a maestria vale para qualquer arma da Perícia ou só para armas escolhidas.
   - **Detalhamento do catálogo:** seção 42 (Armas).
+- **Status:** fechada na seção 42 (D-068): a categoria Especial virou Maestria; domínio de uma arma com a Perícia de Ataque em 5 e +3 XP por arma.
 
 **Q-009 · Item "material de cura"**
 - **Origem:** seção 05 (D-025).
