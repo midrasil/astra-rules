@@ -101,3 +101,13 @@ Itens para revisitar. Cada um tem um **gatilho**: o momento da revisão em que d
   - NPCs recebem Capacidades soltas da lista, sem precisar de Competências.
 - **Decidido em princípio:** as Competências continuam existindo para os jogadores (não viram feats compráveis um a um). Capacidades que hoje escalam com o Nível da Competência passam a ter um valor configurável, como "Nada Escapa (N)": na Competência, N é o Nível; no NPC, é o valor escolhido. As Características de NPC atuais entram na mesma lista.
 - **Gatilho:** desenho à parte, com a Q-003 (Fundamento) na seção 53.
+
+**Q-016 · Dano de queda**
+- **Origem:** seção 34.
+- **Descrição:** Reposicionar diz que a queda de uma borda é "resolvida normalmente", mas o núcleo não tem regra de dano de queda.
+- **Gatilho:** seções 38 a 40 (Movimento, Correr, Saltar).
+
+**Q-017 · Fim do agarrão e mão livre**
+- **Origem:** seção 34.
+- **Descrição:** Agarrado só termina quando o alvo escapa. Falta dizer se quem agarra pode soltar, se o agarrão acaba quando os dois deixam de estar adjacentes ou quando quem agarra fica Incapacitado, e se agarrar exige uma mão livre.
+- **Gatilho:** seção 48 (Condições).

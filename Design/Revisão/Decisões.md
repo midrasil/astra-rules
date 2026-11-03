@@ -370,3 +370,12 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
   - tabela das três respostas em "Respondendo ao Confronto"; Defender e Esquivar remetem a ela para empate e vitória do atacante; o alcance para Aceitar fica em um só lugar; Aparar e Cobrir Aliado passam para a seção Defender. Nenhuma regra muda.
 - **Status:** aprovada.
 - **Arquivos:** `Regras/Cenas e Conflitos/Ações/Confrontar.md` e a versão em `en/`.
+
+**D-060 · 2026-11-03 · 34 Manobras (P-34.1, P-34.2 e P-34.3)**
+- **Decisão:**
+  - alcance padrão adjacente para Manobras com alvo; exceções ficam escritas na própria Manobra (Manobra (X) continua estendendo até o Alcance da arma);
+  - um alvo pode aceitar a Manobra (funciona sem rolagem); quem não pode resistir segue Alvo sem Resposta (1 Sucesso);
+  - Mirar remete à Condição Mirando, que concentra as regras; o bônus vale contra qualquer alvo e não se aplica às respostas a um Confronto;
+  - tabela das Manobras e regras comuns (sem dano, limite de Tamanho) escritas uma vez; sai "Manobras e Capacidades".
+- **Status:** aprovada.
+- **Arquivos:** `Regras/Cenas e Conflitos/Ações/Manobras.md`, `Regras/Condições/Mirando.md` e as versões em `en/`.

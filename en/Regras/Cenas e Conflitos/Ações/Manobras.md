@@ -1,35 +1,31 @@
-<!-- source: 1304abea4223 -->
+<!-- source: f444c8e1a7d6 -->
 # Maneuvers
 
-**Maneuvers** represent physical and tactical actions used to gain an advantage during a Tactical Scene, either by changing another character's position, condition or freedom of movement, or by preparing the character themselves to act more effectively.
-
-Unlike a **Confront**, a Maneuver usually does not aim mainly to deal damage. Its purpose is to gain some advantage over the opponent, control their positioning, limit their options or improve a future action of the character themselves.
-
-Any character can try a Maneuver.
-
-The most common Maneuvers have their own rules, but the Narrator can also use this structure to resolve other similar actions that are not specifically described.
+**Maneuvers** are actions to gain an advantage in a Tactical Scene without dealing damage: changing another character's position or Condition, taking something out of their hands or setting up an Attack. Any character can try a Maneuver.
 
 ## Performing a Maneuver
 
 Performing a Maneuver takes an **Action**.
 
-In most cases, the Maneuver is resolved through an **opposed roll** between the character who starts it and their target. Each Maneuver sets the Pool of whoever starts it and the Pool used to resist. Maneuvers that have no target, such as **Aim**, need no roll: their effect is applied as their own description says.
+| Maneuver | Who starts it | Target resists | Effect |
+| --- | --- | --- | --- |
+| [Reposition](#reposition) | Strength + Athletics | Strength + Athletics | moves the target 1 square |
+| [Trip](#trip) | Strength + Athletics | Strength + Athletics | the target becomes [Prone](../../Condi%C3%A7%C3%B5es/Ca%C3%ADdo.md) |
+| [Grapple](#grapple) | Strength + Athletics | Strength + Athletics | the target becomes [Grappled](../../Condi%C3%A7%C3%B5es/Agarrado.md) |
+| [Disarm](#disarm) | Agility + Fighting | Agility + Fighting | the target drops an item they are holding |
+| [Aim](#aim) | no roll | — | 1 stack of [Aiming](../../Condi%C3%A7%C3%B5es/Mirando.md) |
 
-The Pools are fixed. Describing the Maneuver differently does not allow freely swapping its Attribute or Skill. Capabilities, equipment and other rules can set express replacements, and Capabilities always take precedence.
+A Maneuver with a target is resolved through an **opposed roll**. If whoever starts it gets more Successes, the effect is applied. On a tie or a win for the target, nothing happens.
 
-The [Maneuver (X)](../../Equipamentos/Armas.md#use-optional) property allows performing the given Maneuver up to the weapon's Reach, but does not change its Pool or grant a bonus. [Heavy](../../Equipamentos/Armas.md#use-optional) changes only Attacks and, for that reason, does not change a Maneuver performed with the weapon either.
+By default, a Maneuver with a target requires you to be **adjacent** to it. A Maneuver that uses another reach says so in its own description. The [Maneuver (X)](../../Equipamentos/Armas.md#use-optional) property allows performing the given Maneuver up to the weapon's Reach, but does not change its Pool or grant a bonus.
 
-If the character who started the Maneuver gets more Successes, the Maneuver's effect is applied.
+A target can accept the Maneuver; in that case, it works without a roll. A target who cannot resist follows the [Target without a Response](Confrontar.md#target-without-a-response) rule: their result counts as **1 Success**.
 
-On a tie, nothing happens.
+**No Maneuver deals damage**, whatever the Margin. To hurt the opponent, use a [Confront](Confrontar.md).
 
-## Maneuvers and Capabilities
+Reposition, Trip and Grapple only affect targets at most **one [Size](../../Personagens/Tamanho.md#size-limit) category larger** than you.
 
-The Maneuvers presented in this section are options available to any character.
-
-Some **Capabilities** can improve a Maneuver, change how it works or allow special ways to use it.
-
-Capabilities are not needed to attempt basic Maneuvers, but they can make a character especially effective at them.
+The Pools are fixed. Describing the Maneuver differently does not allow freely swapping its Attribute or Skill. Capabilities, equipment and other rules can set express replacements, and Capabilities always take precedence. [Heavy](../../Equipamentos/Armas.md#use-optional) changes only Attacks and, for that reason, does not change a Maneuver performed with the weapon.
 
 ## Narrative Maneuvers
 
@@ -43,33 +39,7 @@ In that case, the Narrator sets a Dice Pool, the way to resist and the consequen
 
 ### Reposition
 
-When using the **Reposition** Maneuver, the character uses their **Action** to try to move another character from their current position.
-
-To perform the Maneuver, the character must be **close enough to physically interact with the target**. Usually, that means being adjacent or within the appropriate reach for the way the repositioning is done.
-
-The Dice Pool of whoever starts it is:
-
-> **Strength + Athletics**
-
-The target resists with:
-
-> **Strength + Athletics**
-
-If the character who started the Maneuver gets more Successes, they can move the target **1 square**, choosing the direction of the movement.
-
-This move can represent a shove, a pull, steering the body or any other similar way of taking the target out of their position.
-
-The character can only Reposition a target at most **one [Size](../../Personagens/Tamanho.md#size-limit) category larger** than themselves.
-
-On a tie or a win for the target, nothing happens.
-
-#### No Damage
-
-**Reposition deals no damage.**
-
-Whatever Margin is rolled, the Maneuver's usual result is only the target's movement.
-
-If the main goal is to hurt the opponent, a **Confront** or another appropriate rule should be used.
+You try to move another character from their position. If you win, you move the target **1 square** in the direction you choose. The move can represent a shove, a pull, steering the body or something similar.
 
 #### Obstacles and Edges
 
@@ -81,110 +51,23 @@ If the chosen square takes the target off an edge, platform or similar position,
 
 ### Trip
 
-When using the **Trip** Maneuver, the character uses their **Action** to try to put another character on the ground.
-
-To perform the Maneuver, the character must be **close enough to physically interact with the target**. The target can be at most one [Size](../../Personagens/Tamanho.md#size-limit) category larger.
-
-The Dice Pool of whoever starts it is:
-
-> **Strength + Athletics**
-
-The target resists with:
-
-> **Strength + Athletics**
-
-If the character who started the Maneuver gets more Successes, the target gets the **Prone** condition.
-
-On a tie or a win for the target, nothing happens.
-
-**Trip deals no damage.** Its only effect is applying the **Prone** Condition (see [Prone](../../Condi%C3%A7%C3%B5es/Ca%C3%ADdo.md)).
+You try to put another character on the ground. If you win, the target gets the [Prone](../../Condi%C3%A7%C3%B5es/Ca%C3%ADdo.md) Condition.
 
 ### Grapple
 
-When using the **Grapple** Maneuver, the character uses their **Action** to try to restrain another character.
-
-To perform the Maneuver, the character must be **close enough to physically interact with the target**. The target can be at most one [Size](../../Personagens/Tamanho.md#size-limit) category larger.
-
-The Dice Pool of whoever starts it is:
-
-> **Strength + Athletics**
-
-The target resists with:
-
-> **Strength + Athletics**
-
-If the character who started the Maneuver gets more Successes, the target gets the **Grappled** condition.
-
-On a tie or a win for the target, nothing happens.
-
-**Grapple deals no damage.** Its only effect is applying the **Grappled** Condition (see [Grappled](../../Condi%C3%A7%C3%B5es/Agarrado.md)).
+You try to restrain another character. If you win, the target gets the [Grappled](../../Condi%C3%A7%C3%B5es/Agarrado.md) Condition.
 
 ### Disarm
 
-When using the **Disarm** Maneuver, the character uses their **Action** to try to make another character lose a piece of equipment they are holding.
+You try to make another character lose a piece of equipment they are holding, such as a weapon, a shield or another object. If you win, the target drops the chosen equipment in their own square.
 
-To perform the Maneuver, the character must be **close enough to interact with the target and with the equipment they want to knock away**.
-
-The Dice Pool of whoever starts it is:
-
-> **Agility + Fighting**
-
-The target resists with:
-
-> **Agility + Fighting**
-
-If the character who started the Maneuver gets more Successes, the target drops the chosen equipment in their own square.
-
-Disarm can be used against weapons, shields or other objects being held.
-
-On a tie or a win for the target, nothing happens.
-
-**Disarm deals no damage.** Its only effect is taking the equipment out of the target's hands.
-
-Picking the weapon up from the ground takes the [Switching Equipment](../../Equipamentos/Trocar%20Equipamento.md) Action, even with a free hand.
+Picking the equipment up from the ground takes the [Switching Equipment](../../Equipamentos/Trocar%20Equipamento.md) Action, even with a free hand.
 
 ### Aim
 
-When using the **Aim** Maneuver, the character uses their **Action** to set up a ranged Attack, focusing on the target before attacking.
+You use your Action to focus before a ranged Attack and get 1 stack of [Aiming](../../Condi%C3%A7%C3%B5es/Mirando.md). Each stack gives **+2 dice** on the next ranged Attack, against any target.
 
-For each Action used to Aim, the character builds up:
-
-> **+2 dice to the Dice Pool of the next ranged Attack**
-
-The character can Aim over more than one Turn, building up the bonus as long as they keep their position and their focus.
-
-The character can stack Aim a number of times equal to their **Cunning**. A character with Cunning 2, for example, can stack at most **+4 dice**.
-
-For example, a character who Aims for two Turns builds up:
-
-> **+4 dice to the Dice Pool**
-
-The accumulated bonus applies to the character's next ranged Attack, whether it uses Shooting, Throwing or another Attribute set by a rule.
-
-#### Movement
-
-Aiming **neither removes nor spends the character's Movement**.
-
-They still have their Movement as usual during the Turn and can move **before** Aiming. However, if they move **after** Aiming and before making the Attack, all the time spent Aiming is wasted and the accumulated bonus is lost.
-
-This also applies if the character is moved involuntarily.
-
-#### Losing the Aim
-
-All the accumulated bonus is lost if, before attacking, the character:
-
-- uses their Movement after Aiming;
-- is forcibly moved;
-- takes damage;
-- becomes [Prone](../../Condi%C3%A7%C3%B5es/Ca%C3%ADdo.md).
-
-The bonus is lost as soon as the character takes damage. It also cannot be used to respond to an Attack.
-
-When this happens, all the Actions previously used to Aim are wasted and the character must start building up the bonus again if they want to Aim once more.
-
-Making the Attack ends the Aim, whatever the result of the roll.
-
-Aim is tracked by the [Aiming](../../Condi%C3%A7%C3%B5es/Mirando.md) Condition: each use of Aim adds one stack.
+Aiming does not spend your Movement, and you can move before Aiming. The stacks are lost if you move afterward, among other cases described in the Condition.
 
 ---
 

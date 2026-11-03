@@ -2,7 +2,7 @@
 
 **Arquivo:** `Regras/Cenas e Conflitos/Ações/Confrontar.md` (e `en/`)
 **Relacionadas:** Ação (D-058), A Cena (Surpresa, D-057), Armas (Pesado, Natural, Desarmado), Escudos, Armaduras (penalidade em Esquivar), Movimentação, Tamanho, Incapacitado, Ambidestro, Aparador, Guardião, Sentinela, Duelista, Acrobata, Assassino
-**Status:** decidida (D-059) e aplicada; aguardando o merge do PR
+**Status:** concluída (PR #55, mergeado em 2026-11-03)
 
 ## O que está estabelecido
 
