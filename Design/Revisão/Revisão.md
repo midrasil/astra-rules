@@ -86,8 +86,8 @@ Status: `[ ]` pendente · `[~]` em discussão · `[x]` concluída
 - [x] 37 · [Iluminação](Seções/37%20-%20Ilumina%C3%A7%C3%A3o.md)
 
 **Movimento**
-- [~] 38 · [Movimento (índice) + Movimentação](Seções/38%20-%20Movimento%20%2B%20Movimenta%C3%A7%C3%A3o.md)
-- [ ] 39 · Correr
+- [x] 38 · [Movimento (índice) + Movimentação](Seções/38%20-%20Movimento%20%2B%20Movimenta%C3%A7%C3%A3o.md)
+- [~] 39 · [Correr](Seções/39%20-%20Correr.md)
 - [ ] 40 · Saltar
 
 **Equipamentos**
