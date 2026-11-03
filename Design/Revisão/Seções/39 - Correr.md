@@ -2,7 +2,7 @@
 
 **Arquivo:** `Regras/Movimento/Correr.md` (e `en/`)
 **Relacionadas:** Movimentação (D-064), Aguardar (Preparar Correr), Assassino, Furioso, Acrobata, Sentinela
-**Status:** em análise
+**Status:** decidida (D-065) e aplicada; aguardando o merge do PR
 
 ## O que está estabelecido
 
@@ -39,3 +39,7 @@ A página fica assim:
 > Correr não exige teste. O personagem pode escolher Correr depois de já ter se movido: os pontos adicionais são somados ao que ainda tiver no Turno.
 >
 > (frase do acúmulo da P-39.1)
+
+## Decisões do autor (2026-11-03)
+
+- **P-39.1 e P-39.2:** aprovadas (D-065).
