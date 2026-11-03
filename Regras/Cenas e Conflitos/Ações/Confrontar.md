@@ -1,4 +1,4 @@
-Um **Confronto** ocorre quando um personagem decide atacar outro personagem durante uma Cena Tática.
+Um **Confronto** ocorre quando um personagem usa sua Ação para atacar outro personagem durante uma Cena Tática.
 
 Ao iniciar um Confronto, o atacante monta uma **Reserva de Dados** de acordo com a forma de Ataque utilizada.
 
@@ -33,7 +33,13 @@ Ele pode:
 - **Defender**
 - **Esquivar**
 
-A resposta escolhida determina como o teste será resolvido e quais consequências podem ocorrer.
+A resposta escolhida determina como o teste será resolvido e quais consequências podem ocorrer:
+
+| Resposta | Reserva | Alvo vence | Empate | Atacante vence |
+| --- | --- | --- | --- | --- |
+| [Aceitar o Confronto](#aceitar-o-confronto) | a do Ataque do alvo | Margem como dano superficial | Dano da arma, superficial | Margem + Dano da arma |
+| [Defender](#defender) | Força + Lutar + Proteção | nenhum dano | Dano da arma, superficial | Margem + Dano da arma |
+| [Esquivar](#esquivar) | Agilidade + Acrobacia | nenhum dano e desloca até metade da Movimentação base | Dano da arma, superficial | Margem + Dano da arma |
 
 ## Aceitar o Confronto
 
@@ -57,13 +63,11 @@ A **Margem** corresponde à diferença entre a quantidade de Sucessos obtida pel
 
 Se ambos obtiverem a mesma quantidade de Sucessos, ocorre um empate e **o atacante vence**, mas causa apenas o **Dano da arma** como **dano superficial**.
 
-Para Aceitar o Confronto, o personagem que está respondendo precisa ser capaz de atingir o atacante com a arma utilizada, respeitando a restrição das armas à distância (ver [Alcance e Respostas ao Confronto](#alcance-e-respostas-ao-confronto)).
-
-De forma geral, confrontos entre armas corpo a corpo exigem que ambos estejam dentro do alcance um do outro, enquanto Ataques à distância só podem ser respondidos dessa forma quando o personagem também possuir uma forma válida de atingir o atacante.
+Para Aceitar o Confronto, você precisa conseguir atingir o atacante com a arma utilizada (ver [Alcance e Respostas ao Confronto](#alcance-e-respostas-ao-confronto)).
 
 ## Defender
 
-Um personagem equipado com um **Escudo** pode escolher Defender.
+Um personagem equipado com um **Escudo** pode escolher Defender. Algumas Capacidades permitem Defender de outra forma, como [Aparar](../../Compet%C3%AAncias/Aparador.md#n%C3%ADvel-1--aparar) e [Cobrir Aliado](../../Compet%C3%AAncias/Guardi%C3%A3o.md#n%C3%ADvel-1--cobrir-aliado).
 
 Nesse caso, ele realiza uma rolagem oposta ao Ataque. A Reserva de Dados utilizada é:
 
@@ -73,9 +77,7 @@ Nesse caso, ele realiza uma rolagem oposta ao Ataque. A Reserva de Dados utiliza
 
 Se o defensor obtiver mais Sucessos que o atacante, o Ataque é bloqueado e nenhum dos participantes causa dano.
 
-Em caso de empate, o atacante vence, mas causa apenas o **Dano da arma** como **dano superficial**.
-
-Se o atacante obtiver mais Sucessos, ele causa dano da mesma forma que ao vencer quando o alvo Aceita o Confronto: **Margem de Sucessos + Dano da arma**.
+O empate e a vitória do atacante seguem a [tabela de respostas](#respondendo-ao-confronto).
 
 Defender não representa um contra-ataque. Mesmo quando vence a rolagem, o personagem apenas impede que o Ataque o atinja.
 
@@ -87,7 +89,7 @@ A Reserva de Dados utilizada é:
 
 > **Agilidade + Acrobacia**
 
-Capacidades e outras regras podem substituir essa Reserva. Descrever a Esquiva de outra forma não permite utilizar livremente outro Atributo ou Perícia.
+Capacidades e outras regras podem substituir essa Reserva. Descrever a Esquiva de outra forma não permite utilizar livremente outro Atributo ou Perícia. Armaduras Médias e Pesadas reduzem essa Reserva (ver [Armaduras](../../Equipamentos/Armaduras.md)).
 
 Se o personagem obtiver mais Sucessos que o atacante, ele evita completamente o dano e pode se deslocar imediatamente até:
 
@@ -97,9 +99,7 @@ em uma direção à sua escolha.
 
 Esse deslocamento segue as regras normais de [Movimentação](../../Movimento/Movimenta%C3%A7%C3%A3o.md), como Terreno Difícil e Movimentação Especial, mas não ativa efeitos provocados pela movimentação, como habilidades que punem ou interferem no deslocamento de adversários.
 
-Em caso de empate, o atacante vence, mas causa apenas o **Dano da arma** como **dano superficial**.
-
-Se o atacante obtiver mais Sucessos, ele causa dano da mesma forma que ao vencer quando o alvo Aceita o Confronto: **Margem de Sucessos + Dano da arma**.
+O empate e a vitória do atacante seguem a [tabela de respostas](#respondendo-ao-confronto).
 
 Um personagem que esteja impossibilitado de se mover não pode escolher Esquivar.
 
@@ -131,7 +131,7 @@ Para contar os lados:
 
 - **Adjacente** inclui as diagonais. Uma criatura que ocupa mais de um quadrado é adjacente a tudo que estiver ao lado de qualquer quadrado que ocupa (ver [Tamanho](../../Personagens/Tamanho.md)).
 - O **atacante** também precisa estar adjacente ao alvo.
-- Personagens **derrotados** não contam para nenhum dos lados.
+- Personagens [Incapacitados](../../Condi%C3%A7%C3%B5es/Incapacitado.md) não contam para nenhum dos lados.
 - **Personagens de jogadores** são sempre aliados entre si. Cada NPC pertence a um lado, que pode ser hostil, neutro ou aliado do grupo.
 
 A Vantagem Numérica vale **apenas em Ataques corpo a corpo**. Quando o inimigo cercado ataca, os personagens que respondem (Aceitando o Confronto, Defendendo ou Esquivando) não recebem o bônus.
@@ -153,10 +153,6 @@ Se a perda reduzir a Reserva de Dados a menos de 1 dado, o Ataque não pode ser 
 A resposta disponível depende da posição dos personagens e do equipamento utilizado.
 
 **Aceitar o Confronto** exige que o personagem seja capaz de atingir o atacante.
-
-**Defender** exige um Escudo, salvo quando uma Capacidade permitir outra forma, como [Aparar](../../Compet%C3%AAncias/Aparador.md#n%C3%ADvel-1--aparar) ou [Cobrir Aliado](../../Compet%C3%AAncias/Guardi%C3%A3o.md#n%C3%ADvel-1--cobrir-aliado).
-
-**Esquivar** pode ser utilizada sempre que o personagem for capaz de se mover.
 
 Armas corpo a corpo podem iniciar Confrontos contra personagens utilizando armas à distância quando estiverem dentro do alcance necessário.
 

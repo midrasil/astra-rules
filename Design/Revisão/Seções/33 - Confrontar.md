@@ -2,7 +2,7 @@
 
 **Arquivo:** `Regras/Cenas e Conflitos/Ações/Confrontar.md` (e `en/`)
 **Relacionadas:** Ação (D-058), A Cena (Surpresa, D-057), Armas (Pesado, Natural, Desarmado), Escudos, Armaduras (penalidade em Esquivar), Movimentação, Tamanho, Incapacitado, Ambidestro, Aparador, Guardião, Sentinela, Duelista, Acrobata, Assassino
-**Status:** análise pronta; aguardando decisão do autor
+**Status:** decidida (D-059) e aplicada; aguardando o merge do PR
 
 ## O que está estabelecido
 
@@ -53,3 +53,7 @@
 - Em Alcance e Respostas, saem as linhas de Defender e Esquivar (já estão nas suas seções); a menção a Aparar e Cobrir Aliado vai para a seção Defender.
 - Os títulos de seção continuam os mesmos, porque outras páginas apontam para eles.
 - **Alternativa:** só tirar as repetições sobre alcance, sem tabela.
+
+## Decisões do autor (2026-11-03)
+
+- **P-33.1 e P-33.2:** aprovadas (D-059).

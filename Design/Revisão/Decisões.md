@@ -363,3 +363,10 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
 - **Decisão:** a página Ação foi reescrita de forma enxuta, sem mudar regras: Ações Básicas (com a lista) antes das Ações Narrativas, sem as repetições, e "Confrontar" no lugar de "Atacar". Nova frase: falar algumas palavras, fazer um gesto ou soltar um objeto não exige Ação.
 - **Status:** aprovada.
 - **Arquivos:** `Regras/Cenas e Conflitos/Ação.md` e a versão em `en/`.
+
+**D-059 · 2026-11-03 · 33 Confrontar (P-33.1 e P-33.2)**
+- **Decisão:**
+  - o Confronto usa a Ação; "derrotados" vira Incapacitados na Vantagem Numérica; Esquivar aponta a penalidade de armadura;
+  - tabela das três respostas em "Respondendo ao Confronto"; Defender e Esquivar remetem a ela para empate e vitória do atacante; o alcance para Aceitar fica em um só lugar; Aparar e Cobrir Aliado passam para a seção Defender. Nenhuma regra muda.
+- **Status:** aprovada.
+- **Arquivos:** `Regras/Cenas e Conflitos/Ações/Confrontar.md` e a versão em `en/`.
