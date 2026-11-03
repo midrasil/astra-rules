@@ -348,3 +348,13 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
   - novas questões: Q-014 (ficha de criatura) e Q-015 (lista única de Capacidades, mantendo as Competências para os jogadores).
 - **Status:** aprovada.
 - **Arquivos:** `Regras/Criaturas/Características de NPC.md`, `Regras/Personagens/Atributos.md` e as versões em `en/`.
+
+**D-057 · 2026-11-03 · 31 Cenas e Conflitos + Cenas Táticas + A Cena (P-31.1 a P-31.5)**
+- **Decisão:**
+  - nova seção **Surpresa** em A Cena: quem não percebe a ameaça no início da Cena Tática fica surpreendido (alvo sem resposta) até o seu primeiro Turno; o Narrador decide, com teste opcional de Astúcia + Perceber contra Agilidade + Furtividade;
+  - sai a frase da Iniciativa sobre Reserva abaixo de 1 dado (a Reserva Mínima já cobre);
+  - a Cena termina quando o lugar, o momento ou a situação mudam o bastante; quem entra depois rola a Iniciativa ao entrar;
+  - "Narrativa vs Tática" passa para a página Cenas Táticas, que perde a lista "Estrutura"; A Cena fica com Rodadas, Turnos, Iniciativa, Surpresa e O Turno;
+  - "Cena" com maiúscula.
+- **Status:** aprovada.
+- **Arquivos:** `Regras/Cenas e Conflitos/A Cena.md`, `Regras/Cenas e Conflitos/Cenas Táticas.md` e as versões em `en/`.

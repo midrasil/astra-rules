@@ -2,7 +2,7 @@
 
 **Arquivos:** `Regras/Cenas e Conflitos/Cenas e Conflitos.md`, `Regras/Cenas e Conflitos/Cenas Táticas.md` e `Regras/Cenas e Conflitos/A Cena.md` (e `en/`)
 **Relacionadas:** Reserva de Dados (Reserva Mínima), Confrontar (alvo sem resposta), Aguardar (Atrasar o Turno), Assassino (Primeiro Golpe, D-041), Guardião (D-047), Sentinela (D-051), efeitos "até o fim da Cena" (Lido, Desafiado, Inspirador, Cativante, Aterrorizante), Tamanho
-**Status:** análise pronta; aguardando decisão do autor
+**Status:** decidida (D-057) e aplicada; aguardando o merge do PR
 
 ## O que está estabelecido
 
@@ -69,3 +69,7 @@ Tirar "Se a Reserva de Iniciativa ficar abaixo de 1 dado, o resultado é **1 Suc
 ### P-31.5 · Texto
 
 "durante a cena" vira "durante a Cena".
+
+## Decisões do autor (2026-11-03)
+
+- **P-31.1 a P-31.5:** aprovadas (D-057). A surpresa usa a versão com teste opcional; a reorganização segue a proposta principal da P-31.4.

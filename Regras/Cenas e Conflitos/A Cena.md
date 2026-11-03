@@ -1,4 +1,4 @@
-Uma **Cena** é uma unidade de jogo, seja ela narrativa ou tática.
+Uma **Cena** é uma unidade de jogo, seja ela narrativa ou tática. Uma Cena termina quando o lugar, o momento ou a situação mudam o bastante para o Narrador passar a outra. Efeitos que duram "até o fim da Cena" terminam nesse momento.
 
 Uma **Cena Tática** é uma Cena dividida em Rodadas e Turnos. Ela começa quando um conflito passa a exigir uma resolução estruturada em Turnos e dura até o momento em que o conflito é encerrado, seja pela derrota de um dos lados, fuga, rendição, mudança das circunstâncias ou qualquer outro desfecho determinado pela narrativa.
 
@@ -16,7 +16,7 @@ Depois que todos os participantes tiverem realizado seus Turnos, uma nova Rodada
 
 ## Iniciativa
 
-A **Iniciativa** determina a ordem em que os participantes realizam seus Turnos durante a cena.
+A **Iniciativa** determina a ordem em que os participantes realizam seus Turnos durante a Cena.
 
 No início da Cena, cada participante rola uma [Reserva de Dados](../Mec%C3%A2nica%20B%C3%A1sica/Reserva%20de%20Dados.md) formada por **Astúcia** e **Determinação** e conta os Sucessos normalmente.
 
@@ -24,7 +24,9 @@ No início da Cena, cada participante rola uma [Reserva de Dados](../Mec%C3%A2ni
 
 Capacidades e outras regras podem substituir um dos Atributos da Iniciativa ou estabelecer uma Reserva diferente. Quando uma Capacidade fizer isso, ela prevalece sobre a fórmula padrão.
 
-Os participantes agem do maior número de Sucessos para o menor. Se a Reserva de Iniciativa ficar abaixo de 1 dado, o resultado é **1 Sucesso**.
+Os participantes agem do maior número de Sucessos para o menor.
+
+Quem entra na Cena depois do seu início rola a Iniciativa ao entrar e ocupa o seu lugar na ordem a partir de então.
 
 ### Empates
 
@@ -35,6 +37,10 @@ Quando dois ou mais personagens de jogadores obtiverem o mesmo número de Sucess
 Caso não cheguem a um acordo, o Narrador determina a ordem.
 
 Quando dois ou mais NPCs empatarem, age primeiro o que tiver maior **Astúcia**. Se o empate persistir, o Narrador determina a ordem.
+
+## Surpresa
+
+Um participante que não percebe a ameaça quando a Cena Tática começa, como em uma emboscada, fica **surpreendido** até o seu primeiro Turno. Enquanto está surpreendido, ele é um [alvo sem resposta](A%C3%A7%C3%B5es/Confrontar.md#alvo-sem-resposta). O Narrador decide quem percebe a ameaça e pode pedir um teste de **Astúcia + Perceber** contra a **Agilidade + Furtividade** de quem se esconde.
 
 ## O Turno
 
@@ -48,21 +54,7 @@ Um personagem pode, por exemplo, se movimentar antes de realizar sua Ação ou a
 
 A forma como esses recursos são utilizados depende das decisões do personagem e das circunstâncias da Cena.
 
-## Narrativa vs Tática
-
-Nem toda Cena precisa ser resolvida com o mesmo nível de detalhe.
-
-Em situações mais narrativas, o foco está nas decisões dos personagens, nas consequências de suas ações e no desenvolvimento da Cena como um todo. Nesses momentos, não é necessário controlar com precisão elementos como posição, ordem de atuação, distâncias, deslocamento ou duração exata de cada ação.
-
-Quando esses elementos passam a ter importância direta para o conflito, a Cena pode assumir uma estrutura mais **tática**.
-
-Em uma Cena Tática, o jogo passa a utilizar regras mais precisas para representar o que acontece momento a momento. A ordem dos participantes é definida pela Iniciativa, o tempo é dividido em Rodadas e Turnos, posições e distâncias podem ser acompanhadas em um mapa, e cada personagem passa a administrar recursos como sua Ação e sua Movimentação.
-
-Essa mudança não precisa acontecer apenas em combates. Perseguições, fugas, infiltrações sob pressão, desabamentos, armadilhas ou qualquer outra situação em que a ordem, o tempo e o posicionamento sejam relevantes também podem utilizar uma estrutura tática.
-
-Da mesma forma, nem todo conflito precisa ser tratado dessa maneira. Um confronto rápido, uma travessia sem risco ou uma ação cuja posição exata não seja importante pode continuar sendo resolvido de forma narrativa, utilizando testes e decisões sem dividir a Cena em Turnos.
-
-O objetivo dessa distinção é permitir que o Astra utilize precisão quando ela realmente acrescenta algo à Cena, sem transformar todas as situações em uma sequência rígida de ações, deslocamentos e medições.
+Para saber quando usar a estrutura tática, veja [Cenas Táticas](Cenas%20T%C3%A1ticas.md).
 
 ---
 
