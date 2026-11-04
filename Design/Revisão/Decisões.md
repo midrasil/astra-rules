@@ -451,3 +451,12 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
   - Arcos, Besta e Funda recebem as Propriedades novas no Catálogo de Armas.
 - **Status:** aprovada.
 - **Arquivos:** `Regras/Equipamentos/Armas.md`, `Catálogo de Armas.md`, `Catálogo de Itens.md` e as versões em `en/`.
+
+**D-070 · 2026-11-04 · 43.B Critério de equilíbrio (P-43.B1 e P-43.B2)**
+- **Decisão:**
+  - orçamento por arma: o Dano base vem da Empunhadura (Leve 1, uma mão 2, Duas mãos 4; à distância Leve 1, Duas mãos 2) e Alcance 2 tira 1 de Dano;
+  - toda arma tem uma Maestria e uma vantagem; uma desvantagem compra +1 de Dano ou mais uma vantagem;
+  - Versátil e Pesado são livres; Valor, Carga e Material ficam fora da conta;
+  - o critério fica em `Design/Equipamentos/Critério de Equilíbrio de Armas.md`, fora das regras.
+- **Status:** aprovada.
+- **Arquivos:** `Design/Equipamentos/Critério de Equilíbrio de Armas.md` (novo).

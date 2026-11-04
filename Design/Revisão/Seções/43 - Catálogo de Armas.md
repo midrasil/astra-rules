@@ -3,7 +3,7 @@
 **Arquivo:** `Regras/Equipamentos/Catálogo de Armas.md` (e `en/`)
 **Relacionadas:** Armas (D-068, Maestria e Domínio de arma), Catálogo de Itens (D-067), Ambidestro, Ação
 **Pendências que chegam aqui:** nenhuma
-**Status:** 43.A decidida (D-069) e aplicada; 43.B em análise
+**Status:** 43.A (D-069) e 43.B (D-070) decididas; 43.C em análise
 
 ## O que está estabelecido
 
@@ -132,6 +132,77 @@ Conclusões:
 - Só **dois** casos estão acima do orçamento.
 - O problema maior são as **nove** armas abaixo dele, quase todas sem vantagem nenhuma.
 - A 43.C pode resolver a maior parte disso com Maestrias novas e dando uma vantagem a cada arma, sem mexer no Dano.
+
+### Decisões do autor (2026-11-04)
+
+- "concordo": P-43.B1 e P-43.B2 aprovadas como propostas (D-070). O critério foi gravado em `Design/Equipamentos/Critério de Equilíbrio de Armas.md`.
+
+## 43.C · Maestrias novas e catálogo
+
+### Análise
+
+1. **Ponto de partida:** as nove armas abaixo do orçamento (43.B), as duas acima dele e as propostas suspensas da primeira análise.
+2. **A lista de vantagens da 43.B é curta demais.** Flexível, Arremesso e Manobra servem bem às armas leves e de uma mão. Mas o Montante, o Machado Grande e a Lança já são de Duas mãos e não fazem sentido arremessados, e o Arco Curto não tem nenhuma opção. Por isso proponho **três vantagens novas** (Propriedades de Uso). Isso **amplia a lista aprovada na D-070**, então precisa da sua aprovação explícita.
+3. **Quatro Maestrias novas.** Partem das maestrias do 5e que ainda não têm equivalente no Astra: *Vex*, *Graze*, *Push* e uma nova contra armaduras. A antiga maestria Embalo volta, mais simples: sem acúmulos e sem Condição, para não criar anotação. Cada uma segue o padrão das atuais ("ao vencer um Ataque…"), menos o Raspão, que funciona justamente quando o Ataque perde.
+4. **O Chicote deixa de ter Debilitante.** Com Dano 0, abrir mão do Dano não custava nada. Pelo critério, o Dano 0 está certo (Leve, Alcance 2), então o que muda é a Maestria.
+5. **Porrete com Espinhos:** pelo critério, está dentro do orçamento, e o Valor fica fora da conta. Retiro a proposta de Valor 10 da primeira análise.
+6. **Arco Longo:** está acima do orçamento (Dano 3 e Alcance 20, sem desvantagem). Passa para Dano 2, e a vantagem dele é o Alcance.
+7. **Besta:** Dano 3 vem da Recarga; a vantagem passa a ser o Alcance maior (18). Ganha Perfurar, que combina com o virote que atravessa armadura.
+
+### Propostas
+
+#### P-43.C1 · Quatro Maestrias novas (em Armas, junto das atuais)
+
+> - **Embalo** — ao vencer um Ataque, o próximo Ataque do atacante contra o mesmo alvo, até o fim do seu próximo Turno, recebe **+1 dado**. Os bônus de Embalo não se acumulam.
+> - **Raspão** — quando o alvo vence o Ataque, ele ainda sofre **metade do Dano da arma**, arredondada para cima, como dano superficial. Não vale se o atacante não obteve nenhum Sucesso.
+> - **Deslocar** — ao vencer um Ataque, o atacante pode mover o alvo **1 quadrado** em qualquer direção, sem outra rolagem, seguindo os limites de [Reposicionar](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Manobras.md#reposicionar).
+> - **Perfurar** — ao vencer um Ataque, a [Absorção](Armaduras.md#absor%C3%A7%C3%A3o) do alvo converte **1 ponto a menos** de dano agravado.
+
+#### P-43.C2 · Três vantagens novas (Propriedades de Uso)
+
+> - **Investida** — se o personagem se moveu pelo menos **3 quadrados em linha reta** até o alvo neste Turno, logo antes do Ataque, o Ataque recebe **+1 de Dano**.
+> - **Guarda** — enquanto empunha a arma, o personagem recebe **+1 dado ao Esquivar**. Duas armas com Guarda não somam.
+> - **Disparo Rápido** — a arma pode Aceitar o Confronto contra um atacante corpo a corpo que esteja ao seu Alcance, como exceção à restrição das armas à distância.
+
+O critério em `Design/` passa a listar as sete vantagens.
+
+#### P-43.C3 · Catálogo
+
+Só as armas que mudam:
+
+| Arma | Muda |
+|---|---|
+| Espada Curta | + Guarda; Maestria Varredura → **Embalo** |
+| Machadinha | Maestria — → **Debilitante (Lento)** |
+| Porrete | Dano 1 → **2** (Não letal compra o Dano); + Manobra (Derrubar) |
+| Lança Curta | Arremesso (4) → **(6)**; Maestria Letal → **Perfurar** |
+| Chicote | Maestria Debilitante (Lento) → **Deslocar** |
+| Cimitarra | + Guarda |
+| Maça | + Investida; Maestria Debilitante (Abalado) → **Perfurar** |
+| Martelo de Guerra | − Manobra (Derrubar); Maestria Debilitante (Abalado) → **Deslocar** |
+| Montante | + Guarda; Maestria Varredura → **Raspão** |
+| Machado Grande | + Investida; Maestria Letal → **Varredura** |
+| Clava Massiva | Maestria Debilitante (Abalado) → **Deslocar** |
+| Lança | + Investida |
+| Arco Curto | + Disparo Rápido; Maestria — → **Embalo** |
+| Arco Longo | Dano 3 → **2** |
+| Besta | Alcance 15 → **18**; Maestria Letal → **Perfurar** |
+| Funda | + Disparo Rápido |
+
+Ficam como estão: Adaga, Espada Longa, Mangual, Machado de Batalha, Malho, Porrete com Espinhos, Alabarda, Bordão e Dardo.
+
+Distribuição das Maestrias depois da mudança:
+
+| Maestria | Armas |
+|---|---|
+| Letal | Adaga, Espada Longa, Porrete com Espinhos, Lança, Arco Longo, Dardo |
+| Varredura | Cimitarra, Machado de Batalha, Machado Grande, Bordão |
+| Debilitante (Abalado) | Porrete, Malho, Funda |
+| Debilitante (Lento) | Machadinha, Mangual, Alabarda |
+| Embalo | Espada Curta, Arco Curto |
+| Raspão | Montante |
+| Deslocar | Chicote, Martelo de Guerra, Clava Massiva |
+| Perfurar | Lança Curta, Maça, Besta |
 
 ## Primeira análise (suspensa; retomada na 43.C)
 
