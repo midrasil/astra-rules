@@ -123,14 +123,14 @@ Só a título de diagnóstico; os ajustes ficam para a 43.C.
 
 | Situação | Armas |
 |---|---|
-| **Dentro do orçamento** | Espada Curta (sem vantagem), Cimitarra (sem vantagem), Mangual, Machado de Batalha, Malho, Clava Massiva, Bordão, Chicote, Lança Curta, Machadinha (falta a Maestria), Adaga, Espada Longa, Porrete com Espinhos, Alabarda, Funda |
+| **Dentro do orçamento** | Adaga, Machadinha (falta a Maestria), Lança Curta, Chicote, Espada Longa, Mangual, Machado de Batalha, Porrete com Espinhos, Malho, Clava Massiva, Alabarda, Bordão |
 | **Acima** | Martelo de Guerra (Flexível e Manobra); Arco Longo (Dano 3 e Alcance 20, sem desvantagem) |
-| **Abaixo** (sem vantagem) | Espada Curta, Cimitarra, Maça, Montante, Machado Grande, Lança, Porrete (Não letal sem compensação), Arco Curto (também sem Maestria) |
+| **Abaixo** (sem vantagem) | Espada Curta, Cimitarra, Maça, Montante, Machado Grande, Lança, Porrete (Não letal sem compensação), Funda, Arco Curto (também sem Maestria) |
 | **Besta** | Dano 3 = 2 + Recarga, como manda o critério; o Alcance 15 conta como uma vantagem pequena |
 
 Conclusões:
 - Só **dois** casos estão acima do orçamento.
-- O problema maior são as **oito** armas abaixo dele, quase todas sem vantagem nenhuma.
+- O problema maior são as **nove** armas abaixo dele, quase todas sem vantagem nenhuma.
 - A 43.C pode resolver a maior parte disso com Maestrias novas e dando uma vantagem a cada arma, sem mexer no Dano.
 
 ## Primeira análise (suspensa; retomada na 43.C)
