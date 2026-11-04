@@ -3,7 +3,7 @@
 **Arquivo:** `Regras/Equipamentos/Armas.md` (e `en/`)
 **Relacionadas:** Catálogo de Armas (seção 43), Confrontar, Manobras, Progressão (custos de XP), Perícias, Criação (Teto na criação: 4), Ambidestro, Aparador (Q-013), Características de NPC, `Design/Equipamentos/Conversão de Maestrias em Propriedades.md`
 **Pendências que chegam aqui:** Q-008 / D-020 (maestria de armas), Q-013 (Aparador × Escudo)
-**Status:** decidida (D-068) e aplicada; aguardando o merge do PR
+**Status:** concluída (PR #64, mergeado em 2026-11-04)
 
 ## O que está estabelecido
 
