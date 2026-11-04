@@ -3,7 +3,7 @@
 **Arquivo:** `Regras/Equipamentos/Catálogo de Armas.md` (e `en/`)
 **Relacionadas:** Armas (D-068, Maestria e Domínio de arma), Catálogo de Itens (D-067), Ambidestro, Ação
 **Pendências que chegam aqui:** nenhuma
-**Status:** em análise
+**Status:** em análise (43.A)
 
 ## O que está estabelecido
 
@@ -12,7 +12,58 @@
 - Os Valores seguem os preços do D&D 5e (Adaga 2, Espada Longa 15, Montante 50, Arco Longo 50 etc.), como no Catálogo de Itens.
 - Não existe regra de munição em nenhum lugar das regras.
 
-## Análise
+## Organização da seção (decidida em 2026-11-04)
+
+O autor pediu para tratar dois problemas maiores dentro desta seção: as armas ainda são desiguais por causa do formato plano, e falta um sistema de munição. A seção foi dividida em três partes, todas no mesmo PR:
+
+- **43.A · Munição e Recarga** (esta parte, em análise);
+- **43.B · Critério de equilíbrio:** o que diferencia uma arma de outra e quanto cada coisa vale;
+- **43.C · Maestrias novas e catálogo:** um catálogo de Maestrias para os papéis que faltam, aplicado arma por arma.
+
+As propostas da primeira análise (no fim deste arquivo) ficam suspensas e serão retomadas na 43.C.
+
+## 43.A · Munição e Recarga
+
+### Análise
+
+1. **Hoje nada diz o que um arco dispara.** Arco Curto, Arco Longo, Besta e Funda não gastam nada, e a Besta é melhor que o Arco Curto em tudo. O autor decidiu criar um sistema de munição.
+2. **Modelo de partida: o 5e.** Lá, a propriedade *Ammunition* gasta uma peça por ataque, sacar a munição faz parte do ataque e metade da munição gasta é recuperada depois da luta, se houver tempo para procurar. *Loading* limita a um disparo por ação. Proponho seguir esse modelo, que é curto e conhecido, com dois ajustes ao Astra.
+3. **Ajuste 1: Aceitar o Confronto também dispara.** No Astra, quem é atacado à distância pode Aceitar o Confronto com uma arma à distância e atirar de volta. Esse disparo gasta munição como qualquer outro. Defender e Esquivar não disparam e não gastam.
+4. **Ajuste 2: a Recarga não pode custar uma Ação.** No 5e, *Loading* só pesa para quem tem mais de um ataque. No Astra, cada personagem tem **uma** Ação por Turno; se recarregar custasse uma Ação, a Besta atiraria a cada dois Turnos. Proponho que recarregar custe **2 pontos de Movimentação**. Como a Movimentação pode ser dividida antes e depois da Ação (D-064), o besteiro atira e depois recarrega, e anda 2 quadrados a menos por Turno. O custo também aparece na resposta: uma Besta descarregada não pode Aceitar o Confronto até ser recarregada no Turno do personagem, então quem Aceita com ela fica sem resposta até lá.
+5. **O Material deve vir da munição.** Hoje o Arco é de Madeira, mas quem fere é a flecha. Com Resistências e Vulnerabilidades por Material, isso importa: uma flecha de ponta de prata contra um lobisomem, por exemplo. Proponho: num Ataque com uma arma que usa Munição, vale o **Material da munição**, não o da arma. A munição comum é de Metal comum, e as balas de funda são de Pedra.
+6. **Armas de arremesso não usam munição.** A própria arma é lançada e fica no chão (pegá-la de volta já exige Trocar Equipamento). Não precisam de regra nova.
+7. **Pacotes, para não pesar a Carga.** Uma flecha de Carga 0 faria 20 flechas pesarem 2. Proponho vender a munição em **pacotes de 20**, com Carga 1 por pacote, como o 5e faz com o peso de 20 flechas.
+8. **A Recarga sozinha não equilibra tudo.** Com ela, a Besta passa a ter um custo real, mas o Arco Curto continua sem Maestria. O que o Arco Curto ganha em troca fica para a 43.B e a 43.C.
+
+### Propostas
+
+#### P-43.A1 · Propriedade Munição (Uso)
+
+Texto novo em Armas, em Uso:
+
+> - **Munição (tipo)** — arma de disparo que lança a munição indicada, como **Munição (flechas)**. Cada disparo gasta **1 munição**, seja ao iniciar um Confronto, seja ao Aceitar o Confronto; sem munição, a arma não dispara. Sacar a munição faz parte do Ataque. No Ataque, vale o **Material da munição**, não o da arma. Ao fim da Cena, se houver tempo para procurar, o personagem recupera **metade da munição gasta**, arredondada para baixo.
+
+#### P-43.A2 · Propriedade Recarga (Uso)
+
+> - **Recarga** — depois de disparar, a arma fica **descarregada**. Recarregá-la custa **2 pontos de Movimentação** no Turno do personagem e exige as duas mãos livres de outros equipamentos. Descarregada, a arma não pode iniciar nem Aceitar um Confronto. A arma começa a Cena carregada.
+
+#### P-43.A3 · Munição no Catálogo de Itens
+
+| Item | Carga | Valor | Uso |
+|---|---:|---:|---|
+| Flechas (20) | 1 | 1 | munição de arcos; Metal comum |
+| Virotes (20) | 1 | 1 | munição de bestas; Metal comum |
+| Balas de funda (20) | 1 | 0,04 | munição de fundas; Pedra |
+
+Os Valores são os do 5e. Módulos e cenários podem acrescentar munição de outros Materiais, como flechas de prata.
+
+#### P-43.A4 · Catálogo de Armas
+
+- Arco Curto e Arco Longo: **Munição (flechas)**.
+- Besta: **Munição (virotes), Recarga**.
+- Funda: **Munição (balas de funda)**.
+
+## Primeira análise (suspensa; retomada na 43.C)
 
 Comparei cada arma com as vizinhas de mesmo Dano e Empunhadura, procurando armas que sejam piores em tudo do que outra (uma arma que ninguém teria motivo para escolher).
 
@@ -25,15 +76,15 @@ Comparei cada arma com as vizinhas de mesmo Dano e Empunhadura, procurando armas
 6. **Munição não existe.** Arco, Besta e Funda não dizem o que disparam. Proponho deixar a munição **abstrata**, numa frase: quem tem uma arma de disparo tem munição para ela, e o Narrador pode pedir que ela seja reposta entre aventuras ou quando fizer sentido na história. Contar flechas acrescenta anotação sem decisão interessante na maior parte das mesas.
    - **Alternativa (modelo do 5e):** Flechas, Virotes e Balas de funda no Catálogo de Itens (Carga 0, em pacotes de 20), cada Ataque gasta uma, e metade pode ser recuperada depois da Cena.
 
-### Conferido, sem mudança
+#### Conferido, sem mudança
 
 - **Clava Massiva × Malho:** só diferem em Material (Madeira ou Metal comum) e Valor. O Material importa contra Resistências e Vulnerabilidades, então a escolha tem sentido.
 - **Dardo:** está na tabela à distância, mas tem Alcance 1 e Arremesso (6), como a Adaga. Funciona e fica como está. Com a P-43.1, a Lança Curta empata com ele em Arremesso (6), mas o Dardo continua sendo a opção mais barata.
 - **Lança × Alabarda, Montante × Machado Grande, Maça × Mangual:** cada par tem uma diferença real de Maestria, Manobra, Alcance ou Valor.
 
-## Propostas
+### Propostas da primeira análise
 
-### P-43.1 · Equilíbrio do catálogo
+#### P-43.1 · Equilíbrio do catálogo
 
 - Machadinha: Maestria **Debilitante (Lento)**.
 - Lança Curta: **Arremesso (6)**.
@@ -41,7 +92,7 @@ Comparei cada arma com as vizinhas de mesmo Dano e Empunhadura, procurando armas
 - Nova Propriedade de Uso em Armas: **Recarga** — "depois de atacar, a arma precisa ser recarregada antes do próximo Ataque; recarregar custa 2 pontos de Movimentação." A Besta recebe Recarga.
 - Porrete com Espinhos: **Valor 10**.
 
-### P-43.2 · Munição abstrata
+#### P-43.2 · Munição abstrata (descartada: o autor decidiu criar munição contada, ver 43.A)
 
 - Frase nova no catálogo, junto das armas à distância: "A munição é abstrata: quem possui uma arma de disparo tem munição para ela. O Narrador pode exigir que ela seja reposta entre aventuras ou quando fizer sentido na história."
 - **Alternativa:** munição contada, no modelo do 5e, com itens no Catálogo de Itens.
