@@ -69,6 +69,70 @@ Os Valores são os do 5e. Módulos e cenários podem acrescentar munição de ou
 - P-43.A2: o autor preferiu o modelo do 5e. Depois da discussão, ficou só "a arma dispara no máximo uma vez por Rodada", sem estado de descarregada e sem custo de Movimentação. Com esse texto, a Besta pode Aceitar o Confronto se ainda não disparou na Rodada, mas perde o disparo do próprio Turno.
 - Registrada como D-069 e aplicada.
 
+## 43.B · Critério de equilíbrio
+
+### Análise
+
+1. **O que o catálogo usa hoje para diferenciar armas:**
+   - **Dano:** de 0 a 4;
+   - **Empunhadura:** Leve, uma mão, Flexível ou Duas mãos;
+   - **Alcance:** 1 ou 2 no corpo a corpo, de 10 a 20 à distância;
+   - **Atributo:** Agilidade ou Força (Pesado);
+   - **Propriedades de Uso:** Arremesso, Versátil, Manobra, Não letal, Munição, Recarga;
+   - **Maestria** e **Material**;
+   - **Carga** e **Valor**.
+2. **O que já segue um padrão, mesmo sem estar escrito.** O Dano acompanha a Empunhadura: Leve 1, uma mão 2, Duas mãos 4. Quando a arma tem Alcance 2, ela perde 1 de Dano (Alabarda e Lança 3, Chicote 0). Proponho usar esse padrão como base.
+3. **O que não segue padrão nenhum.** A quantidade de Propriedades vantajosas: a Espada Longa tem Flexível e Versátil; a Maça, nenhuma. É isso que gera armas melhores que outras.
+4. **O que não deve entrar na conta:**
+   - **Pesado:** só troca Agilidade por Força. Não é vantagem nem custo; serve para que cada tipo de personagem tenha opções.
+   - **Valor:** só pesa na criação; depois, todo personagem pode comprar qualquer arma do núcleo.
+   - **Carga:** a diferença é de 1 ponto.
+   - **Material:** muda o alvo contra o qual a arma é boa, mas não deixa a arma melhor no geral.
+5. **Versátil é fraco demais para contar como vantagem.** Ele só importa contra Resistências e Vulnerabilidades de Tipo. Se contar, a maioria das armas perde o sabor (a espada que corta e perfura). Proponho que Versátil seja **livre**.
+
+### Propostas
+
+#### P-43.B1 · Orçamento de uma arma
+
+| Base | Dano |
+|---|---:|
+| Corpo a corpo, Leve | 1 |
+| Corpo a corpo, uma mão | 2 |
+| Corpo a corpo, Duas mãos | 4 |
+| À distância, Leve | 1 |
+| À distância, Duas mãos | 2 |
+
+- **Alcance 2** no corpo a corpo: **-1 de Dano**.
+- Toda arma tem **uma Maestria** e **uma vantagem**, escolhida entre:
+  - Flexível;
+  - Arremesso;
+  - Manobra;
+  - Alcance à distância maior (cerca de +50%).
+- **Uma desvantagem** (Não letal, Recarga) compra **+1 de Dano** ou **mais uma vantagem**.
+- **Livres:** Versátil e Pesado.
+- **Fora da conta:** Valor, Carga e Material.
+- A Arma Improvisada fica fora do orçamento, porque é de propósito pior.
+
+#### P-43.B2 · Onde o critério fica
+
+O critério serve a quem cria armas (você, módulos e cenários), não a quem joga. Proponho guardá-lo em `Design/Equipamentos/Critério de Equilíbrio de Armas.md`. Alternativa: uma seção curta "Criando armas" em Armas, perto da frase "Módulos e cenários podem adicionar…".
+
+### Como o catálogo atual fica com esse critério
+
+Só a título de diagnóstico; os ajustes ficam para a 43.C.
+
+| Situação | Armas |
+|---|---|
+| **Dentro do orçamento** | Espada Curta (sem vantagem), Cimitarra (sem vantagem), Mangual, Machado de Batalha, Malho, Clava Massiva, Bordão, Chicote, Lança Curta, Machadinha (falta a Maestria), Adaga, Espada Longa, Porrete com Espinhos, Alabarda, Funda |
+| **Acima** | Martelo de Guerra (Flexível e Manobra); Arco Longo (Dano 3 e Alcance 20, sem desvantagem) |
+| **Abaixo** (sem vantagem) | Espada Curta, Cimitarra, Maça, Montante, Machado Grande, Lança, Porrete (Não letal sem compensação), Arco Curto (também sem Maestria) |
+| **Besta** | Dano 3 = 2 + Recarga, como manda o critério; o Alcance 15 conta como uma vantagem pequena |
+
+Conclusões:
+- Só **dois** casos estão acima do orçamento.
+- O problema maior são as **oito** armas abaixo dele, quase todas sem vantagem nenhuma.
+- A 43.C pode resolver a maior parte disso com Maestrias novas e dando uma vantagem a cada arma, sem mexer no Dano.
+
 ## Primeira análise (suspensa; retomada na 43.C)
 
 Comparei cada arma com as vizinhas de mesmo Dano e Empunhadura, procurando armas que sejam piores em tudo do que outra (uma arma que ninguém teria motivo para escolher).
