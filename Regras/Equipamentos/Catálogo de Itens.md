@@ -16,6 +16,9 @@ O **Valor** é abstrato, não possui nome de moeda e pode conter casas decimais.
 | Cantil | 0 | 0,2 | — |
 | Pé de cabra | 1 | 2 | — |
 | Ferramentas de ladrão | 1 | 25 | — |
+| Flechas (20) | 1 | 1 | [munição](Armas.md#uso-opcional) de arcos; Metal comum |
+| Virotes (20) | 1 | 1 | [munição](Armas.md#uso-opcional) de bestas; Metal comum |
+| Balas de funda (20) | 1 | 0,04 | [munição](Armas.md#uso-opcional) de fundas; Pedra |
 
 Itens de **Carga 0** são muito pequenos. A cada 10 itens de Carga 0, conte **1** de Carga.
 

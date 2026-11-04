@@ -1,4 +1,4 @@
-<!-- source: 55e241b25b54 -->
+<!-- source: 3e7e1825535c -->
 # Item Catalog
 
 This is the Astra core's catalog of common items. The Load and Value rules are in [Equipment](Equipamentos.md).
@@ -19,6 +19,9 @@ This is the Astra core's catalog of common items. The Load and Value rules are i
 | Waterskin | 0 | 0.2 | — |
 | Crowbar | 1 | 2 | — |
 | Thieves' tools | 1 | 25 | — |
+| Arrows (20) | 1 | 1 | [ammunition](Armas.md#use-optional) for bows; Common metal |
+| Bolts (20) | 1 | 1 | [ammunition](Armas.md#use-optional) for crossbows; Common metal |
+| Sling bullets (20) | 1 | 0.04 | [ammunition](Armas.md#use-optional) for slings; Stone |
 
 **Load 0** items are very small. For every 10 Load 0 items, count **1** Load.
 

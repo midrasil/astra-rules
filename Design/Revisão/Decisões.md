@@ -442,3 +442,12 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
   - Leve ganha texto explícito (sem efeito próprio, exigida por Capacidades como Ambidestro); a tabela de campos acompanha o catálogo; Pesado perde a frase redundante sobre Força no dano.
 - **Status:** aprovada.
 - **Arquivos:** `Regras/Equipamentos/Armas.md`, `Catálogo de Armas.md`, `Regras/Personagens/Progressão.md`, `Regras/Competências/Aparador.md`, `Regras/Cenas e Conflitos/Ações/Confrontar.md`, `Regras/Condições/Abalado.md`, `Lento.md` e as versões em `en/`.
+
+**D-069 · 2026-11-04 · 43.A Munição e Recarga (P-43.A1 a P-43.A4)**
+- **Decisão:**
+  - nova Propriedade de Uso **Munição (tipo)**: cada disparo gasta 1 munição, inclusive ao Aceitar o Confronto; sacar a munição faz parte do Ataque; vale o Material da munição; ao fim da Cena, recupera-se metade da munição gasta;
+  - nova Propriedade de Uso **Recarga**: a arma dispara no máximo uma vez por Rodada;
+  - Flechas, Virotes e Balas de funda no Catálogo de Itens (pacotes de 20, Carga 1, preços do 5e);
+  - Arcos, Besta e Funda recebem as Propriedades novas no Catálogo de Armas.
+- **Status:** aprovada.
+- **Arquivos:** `Regras/Equipamentos/Armas.md`, `Catálogo de Armas.md`, `Catálogo de Itens.md` e as versões em `en/`.

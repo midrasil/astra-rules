@@ -1,4 +1,4 @@
-<!-- source: 59573a9145cb -->
+<!-- source: 50bafb15b90f -->
 # Weapon Catalog
 
 This is the Astra core weapon catalog. The rules for the fields and Properties are in [Weapons](Armas.md).
@@ -36,10 +36,10 @@ A **Flexible** weapon has the listed Damage when used in one hand and gets +1 Da
 
 | Weapon | Damage | Type | Grip | Reach | Other Properties | Mastery | Material | Load | Value |
 |---|---:|---|---|---:|---|---|---|---:|---:|
-| Shortbow | 2 | Piercing | Two-handed | 12 | — | — | Wood | 2 | 25 |
-| Longbow | 3 | Piercing | Two-handed | 20 | Heavy | Lethal | Wood | 2 | 50 |
-| Crossbow | 3 | Piercing | Two-handed | 15 | — | Lethal | Wood | 2 | 25 |
-| Sling | 1 | Bludgeoning | Light | 10 | — | Debilitating (Shaken) | Organic | 1 | 0.1 |
+| Shortbow | 2 | Piercing | Two-handed | 12 | Ammunition (arrows) | — | Wood | 2 | 25 |
+| Longbow | 3 | Piercing | Two-handed | 20 | Heavy, Ammunition (arrows) | Lethal | Wood | 2 | 50 |
+| Crossbow | 3 | Piercing | Two-handed | 15 | Ammunition (bolts), Loading | Lethal | Wood | 2 | 25 |
+| Sling | 1 | Bludgeoning | Light | 10 | Ammunition (sling bullets) | Debilitating (Shaken) | Organic | 1 | 0.1 |
 | Dart | 1 | Piercing | Light | 1 | Thrown (6) | Lethal | Common metal | 1 | 0.05 |
 
 Shortbow, Crossbow and Sling use **Agility + Shooting**. The Longbow is Heavy and uses **Strength + Shooting**. The Dart uses **Strength + Throwing** and its throwing Range is 6.

@@ -77,6 +77,8 @@ O Material é considerado junto ao Tipo de Dano ao aplicar [Resistências, Vulne
 - **Versátil (tipo de dano)** — arma que tem um segundo Tipo de Dano, indicado na Propriedade. O atacante escolhe qual usar a cada Ataque. Por exemplo, uma arma Perfurante com **Versátil (Corte)**.
 - **Não letal** — o dano da arma é sempre **superficial** (ver [Gravidade do Dano](../Personagens/Vida.md#gravidade-do-dano)). Para causar dano agravado com ela, o atacante sofre **-2 dados** no Ataque.
 - **Manobra (Reposicionar, Derrubar ou Desarmar)** — a arma pode ser usada para realizar a [Manobra](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Manobras.md) indicada até o **Alcance** da arma, em vez de exigir contato físico. A Manobra não recebe bônus da arma e conserva sua Reserva própria; inclusive, a propriedade Pesado não altera essa Reserva.
+- **Munição (tipo)** — arma de disparo que lança a munição indicada, como **Munição (flechas)** (ver [Catálogo de Itens](Cat%C3%A1logo%20de%20Itens.md)). Cada disparo gasta **1 munição**, seja ao iniciar um Confronto, seja ao Aceitar o Confronto; sem munição, a arma não dispara. Sacar a munição faz parte do Ataque. No Ataque, vale o **Material da munição**, não o da arma. Ao fim da Cena, se houver tempo para procurar, o personagem recupera **metade da munição gasta**, arredondada para baixo.
+- **Recarga** — a arma dispara no máximo **uma vez por Rodada**.
 
 ### Maestria (opcional, no máximo uma por arma)
 

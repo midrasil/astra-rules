@@ -33,10 +33,10 @@ Uma arma **Flexível** possui o Dano indicado quando usada com uma mão e recebe
 
 | Arma | Dano | Tipo | Empunhadura | Alcance | Outras Propriedades | Maestria | Material | Carga | Valor |
 |---|---:|---|---|---:|---|---|---|---:|---:|
-| Arco Curto | 2 | Perfurante | Duas mãos | 12 | — | — | Madeira | 2 | 25 |
-| Arco Longo | 3 | Perfurante | Duas mãos | 20 | Pesado | Letal | Madeira | 2 | 50 |
-| Besta | 3 | Perfurante | Duas mãos | 15 | — | Letal | Madeira | 2 | 25 |
-| Funda | 1 | Contusão | Leve | 10 | — | Debilitante (Abalado) | Orgânico | 1 | 0,1 |
+| Arco Curto | 2 | Perfurante | Duas mãos | 12 | Munição (flechas) | — | Madeira | 2 | 25 |
+| Arco Longo | 3 | Perfurante | Duas mãos | 20 | Pesado, Munição (flechas) | Letal | Madeira | 2 | 50 |
+| Besta | 3 | Perfurante | Duas mãos | 15 | Munição (virotes), Recarga | Letal | Madeira | 2 | 25 |
+| Funda | 1 | Contusão | Leve | 10 | Munição (balas de funda) | Debilitante (Abalado) | Orgânico | 1 | 0,1 |
 | Dardo | 1 | Perfurante | Leve | 1 | Arremesso (6) | Letal | Metal comum | 1 | 0,05 |
 
 Arco Curto, Besta e Funda utilizam **Agilidade + Atirar**. O Arco Longo possui Pesado e utiliza **Força + Atirar**. O Dardo utiliza **Força + Arremessar** e seu Alcance de arremesso é 6.

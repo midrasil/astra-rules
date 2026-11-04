@@ -3,7 +3,7 @@
 **Arquivo:** `Regras/Equipamentos/Catálogo de Armas.md` (e `en/`)
 **Relacionadas:** Armas (D-068, Maestria e Domínio de arma), Catálogo de Itens (D-067), Ambidestro, Ação
 **Pendências que chegam aqui:** nenhuma
-**Status:** em análise (43.A)
+**Status:** 43.A decidida (D-069) e aplicada; 43.B em análise
 
 ## O que está estabelecido
 
@@ -62,6 +62,12 @@ Os Valores são os do 5e. Módulos e cenários podem acrescentar munição de ou
 - Arco Curto e Arco Longo: **Munição (flechas)**.
 - Besta: **Munição (virotes), Recarga**.
 - Funda: **Munição (balas de funda)**.
+
+### Decisões do autor (2026-11-04)
+
+- P-43.A1, P-43.A3 e P-43.A4: aprovadas como propostas.
+- P-43.A2: o autor preferiu o modelo do 5e. Depois da discussão, ficou só "a arma dispara no máximo uma vez por Rodada", sem estado de descarregada e sem custo de Movimentação. Com esse texto, a Besta pode Aceitar o Confronto se ainda não disparou na Rodada, mas perde o disparo do próprio Turno.
+- Registrada como D-069 e aplicada.
 
 ## Primeira análise (suspensa; retomada na 43.C)
 

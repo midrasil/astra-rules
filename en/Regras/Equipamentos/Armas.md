@@ -1,4 +1,4 @@
-<!-- source: 0295b57c1500 -->
+<!-- source: 6a85d7e5024d -->
 # Weapons
 
 **Weapons** are equipment used to attack, usually in a [Confront](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Confrontar.md).
@@ -80,6 +80,8 @@ Material is considered together with the Damage Type when applying [Resistances,
 - **Versatile (damage type)** — a weapon with a second Damage Type, given in the Property. The attacker chooses which one to use on each Attack. For example, a Piercing weapon with **Versatile (Slashing)**.
 - **Nonlethal** — the weapon's damage is always **superficial** (see [Damage Severity](../Personagens/Vida.md#damage-severity)). To deal aggravated damage with it, the attacker suffers **-2 dice** on the Attack.
 - **Maneuver (Reposition, Trip or Disarm)** — the weapon can be used to perform the given [Maneuver](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Manobras.md) up to the weapon's **Reach**, instead of requiring physical contact. The Maneuver gets no bonus from the weapon and keeps its own Pool; the Heavy property does not change that Pool either.
+- **Ammunition (type)** — a shooting weapon that fires the given ammunition, such as **Ammunition (arrows)** (see [Item Catalog](Cat%C3%A1logo%20de%20Itens.md)). Each shot spends **1 ammunition**, whether starting a Confront or Accepting the Confront; without ammunition, the weapon cannot fire. Drawing the ammunition is part of the Attack. On the Attack, the **ammunition's Material** applies, not the weapon's. At the end of the Scene, if there is time to search, the character recovers **half the ammunition spent**, rounded down.
+- **Loading** — the weapon fires at most **once per Round**.
 
 ### Mastery (optional, at most one per weapon)
 
