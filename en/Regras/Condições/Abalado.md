@@ -1,4 +1,4 @@
-<!-- source: 6a7416d4b7ba -->
+<!-- source: b123cc6fb572 -->
 # Shaken
 
 A **Shaken** character gets, on their next Attack:
@@ -7,7 +7,7 @@ A **Shaken** character gets, on their next Attack:
 
 The condition ends after that Attack or at the start of the next Turn of whoever applied it, whichever comes first. Applying Shaken again does not stack the penalty: it only renews the duration.
 
-Shaken can be applied by Capabilities, Special Properties of weapons or other effects that refer to this Condition.
+Shaken can be applied by Capabilities, Masteries of weapons or other effects that refer to this Condition.
 
 ---
 

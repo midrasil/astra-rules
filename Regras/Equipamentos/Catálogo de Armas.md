@@ -1,10 +1,10 @@
 Este é o catálogo de armas do núcleo do Astra. As regras dos campos e das Propriedades estão em [Armas](Armas.md).
 
-Todas as armas são de Origem **Fabricada**, exceto a Arma Improvisada. Quando nenhuma Propriedade de Empunhadura aparece, a arma utiliza uma mão. O **Valor** é abstrato, não possui nome de moeda e pode conter casas decimais. Um travessão na coluna **Especial** indica que a arma não possui Propriedade Especial.
+Todas as armas são de Origem **Fabricada**, exceto a Arma Improvisada. Quando nenhuma Propriedade de Empunhadura aparece, a arma utiliza uma mão. O **Valor** é abstrato, não possui nome de moeda e pode conter casas decimais. Um travessão na coluna **Maestria** indica que a arma não possui Maestria.
 
 ## Armas corpo a corpo
 
-| Arma | Dano | Tipo | Empunhadura | Alcance | Outras Propriedades | Especial | Material | Carga | Valor |
+| Arma | Dano | Tipo | Empunhadura | Alcance | Outras Propriedades | Maestria | Material | Carga | Valor |
 |---|---:|---|---|---:|---|---|---|---:|---:|
 | Adaga | 1 | Perfurante | Leve | 1 | Arremesso (4), Versátil (Corte) | Letal | Metal comum | 1 | 2 |
 | Espada Curta | 1 | Perfurante | Leve | 1 | Versátil (Corte) | Varredura | Metal comum | 1 | 10 |
@@ -31,7 +31,7 @@ Uma arma **Flexível** possui o Dano indicado quando usada com uma mão e recebe
 
 ## Armas à distância
 
-| Arma | Dano | Tipo | Empunhadura | Alcance | Outras Propriedades | Especial | Material | Carga | Valor |
+| Arma | Dano | Tipo | Empunhadura | Alcance | Outras Propriedades | Maestria | Material | Carga | Valor |
 |---|---:|---|---|---:|---|---|---|---:|---:|
 | Arco Curto | 2 | Perfurante | Duas mãos | 12 | — | — | Madeira | 2 | 25 |
 | Arco Longo | 3 | Perfurante | Duas mãos | 20 | Pesado | Letal | Madeira | 2 | 50 |
@@ -43,7 +43,7 @@ Arco Curto, Besta e Funda utilizam **Agilidade + Atirar**. O Arco Longo possui P
 
 ## Arma improvisada
 
-| Arma | Dano | Tipo | Empunhadura | Alcance | Origem | Especial | Material | Carga | Valor |
+| Arma | Dano | Tipo | Empunhadura | Alcance | Origem | Maestria | Material | Carga | Valor |
 |---|---:|---|---|---:|---|---|---|---:|---:|
 | Arma Improvisada | 1 | Contusão | — | 1 | Improvisada | — | Madeira | 1 | 0 |
 

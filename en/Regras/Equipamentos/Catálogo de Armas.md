@@ -1,13 +1,13 @@
-<!-- source: 65eef38f14eb -->
+<!-- source: 59573a9145cb -->
 # Weapon Catalog
 
 This is the Astra core weapon catalog. The rules for the fields and Properties are in [Weapons](Armas.md).
 
-Every weapon has the **Crafted** Origin, except the Improvised Weapon. When no Grip Property appears, the weapon uses one hand. **Value** is abstract, has no currency name and can have decimal places. A dash in the **Special** column means the weapon has no Special Property.
+Every weapon has the **Crafted** Origin, except the Improvised Weapon. When no Grip Property appears, the weapon uses one hand. **Value** is abstract, has no currency name and can have decimal places. A dash in the **Mastery** column means the weapon has no Mastery.
 
 ## Melee weapons
 
-| Weapon | Damage | Type | Grip | Reach | Other Properties | Special | Material | Load | Value |
+| Weapon | Damage | Type | Grip | Reach | Other Properties | Mastery | Material | Load | Value |
 |---|---:|---|---|---:|---|---|---|---:|---:|
 | Dagger | 1 | Piercing | Light | 1 | Thrown (4), Versatile (Slashing) | Lethal | Common metal | 1 | 2 |
 | Short Sword | 1 | Piercing | Light | 1 | Versatile (Slashing) | Sweep | Common metal | 1 | 10 |
@@ -34,7 +34,7 @@ A **Flexible** weapon has the listed Damage when used in one hand and gets +1 Da
 
 ## Ranged weapons
 
-| Weapon | Damage | Type | Grip | Reach | Other Properties | Special | Material | Load | Value |
+| Weapon | Damage | Type | Grip | Reach | Other Properties | Mastery | Material | Load | Value |
 |---|---:|---|---|---:|---|---|---|---:|---:|
 | Shortbow | 2 | Piercing | Two-handed | 12 | — | — | Wood | 2 | 25 |
 | Longbow | 3 | Piercing | Two-handed | 20 | Heavy | Lethal | Wood | 2 | 50 |
@@ -46,7 +46,7 @@ Shortbow, Crossbow and Sling use **Agility + Shooting**. The Longbow is Heavy an
 
 ## Improvised weapon
 
-| Weapon | Damage | Type | Grip | Reach | Origin | Special | Material | Load | Value |
+| Weapon | Damage | Type | Grip | Reach | Origin | Mastery | Material | Load | Value |
 |---|---:|---|---|---:|---|---|---|---:|---:|
 | Improvised Weapon | 1 | Bludgeoning | — | 1 | Improvised | — | Wood | 1 | 0 |
 

@@ -21,7 +21,7 @@ Regras que alteram a Reserva de Ataque da arma, como [Pesado](../Equipamentos/Ar
 
 Bônus e penalidades que dependem de iniciar um Ataque, como a [Vantagem Numérica](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Confrontar.md#vantagem-num%C3%A9rica), não se aplicam ao Aparar.
 
-O Dano considerado inclui o +1 de uma arma [Flexível](../Equipamentos/Armas.md#empunhadura-opcional) empunhada com as duas mãos. As Propriedades Especiais da arma não são ativadas ao Aparar. O restante segue as regras normais de Defender.
+O Dano considerado inclui o +1 de uma arma [Flexível](../Equipamentos/Armas.md#empunhadura-opcional) empunhada com as duas mãos. A Maestria da arma não é ativada ao Aparar. O restante segue as regras normais de Defender.
 
 Se estiver [lutando com duas armas](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Confrontar.md#combate-com-duas-armas), você escolhe qual delas utiliza para Aparar. Os Danos das duas armas não se somam, salvo pela [Guarda Cruzada](Ambidestro.md#n%C3%ADvel-2--guarda-cruzada) do Ambidestro.
 

@@ -1,4 +1,4 @@
-<!-- source: 5d3bef76a64e -->
+<!-- source: ba03ae799b19 -->
 # Parrier
 
 Parrier represents the character trained to block blows with their own weapon, without relying on a shield.
@@ -22,7 +22,7 @@ Rules that change the weapon's Attack Pool, such as [Heavy](../Equipamentos/Arma
 
 Bonuses and penalties that depend on starting an Attack, such as [Numerical Advantage](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Confrontar.md#numerical-advantage), do not apply to Parrying.
 
-The Damage counted includes the +1 of a [Flexible](../Equipamentos/Armas.md#grip-optional) weapon held in both hands. The weapon's Special Properties are not triggered when Parrying. The rest follows the normal Defend rules.
+The Damage counted includes the +1 of a [Flexible](../Equipamentos/Armas.md#grip-optional) weapon held in both hands. The weapon's Mastery is not triggered when Parrying. The rest follows the normal Defend rules.
 
 If you are [fighting with two weapons](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Confrontar.md#two-weapon-fighting), you choose which of them you use to Parry. The Damage of the two weapons is not added together, except through the Ambidextrous [Cross Guard](Ambidestro.md#level-2--cross-guard).
 
