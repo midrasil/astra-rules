@@ -28,7 +28,7 @@ Comparei cada arma com as vizinhas de mesmo Dano e Empunhadura, procurando armas
 ### Conferido, sem mudança
 
 - **Clava Massiva × Malho:** só diferem em Material (Madeira ou Metal comum) e Valor. O Material importa contra Resistências e Vulnerabilidades, então a escolha tem sentido.
-- **Dardo:** está na tabela à distância, mas tem Alcance 1 e Arremesso (6), como a Adaga. Funciona; fica como está (com a P-43.1, ele perde o posto de maior Arremesso leve só para a Lança Curta, que empata em 6).
+- **Dardo:** está na tabela à distância, mas tem Alcance 1 e Arremesso (6), como a Adaga. Funciona e fica como está. Com a P-43.1, a Lança Curta empata com ele em Arremesso (6), mas o Dardo continua sendo a opção mais barata.
 - **Lança × Alabarda, Montante × Machado Grande, Maça × Mangual:** cada par tem uma diferença real de Maestria, Manobra, Alcance ou Valor.
 
 ## Propostas
