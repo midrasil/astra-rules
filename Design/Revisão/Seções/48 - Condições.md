@@ -35,7 +35,7 @@ O índice tem uma introdução de duas frases, a lista das 13 Condições e uma 
    - **Quando conta:** proponho o fim do Turno do afetado, igual ao Medo, e não "a cada Rodada", porque o sistema conta as Condições por Turno.
    - **Absorção e Tipo:** o dano é superficial, e a Absorção só converte dano agravado, então ela não interage com o Sangrando. Proponho dizer que o Sangrando não tem Tipo de Dano, para que Resistências e Vulnerabilidades não se apliquem.
    - **Trilha cheia:** pela regra de Vida, cada ponto a mais com a trilha cheia converte superficial em agravado. Assim, o Sangrando pode piorar um personagem Debilitado, o que é coerente com sangrar.
-   - **Estancar (opcional):** proponho que um aliado, ou o próprio personagem, use a Ação e teste Astúcia + Curar. Com pelo menos 1 Sucesso, todos os acúmulos são removidos. Isso dá uma resposta ativa sem precisar de regra nova de Tratamento.
+   - **Estancar (opcional):** proponho que um aliado, ou o próprio personagem, use a Ação e teste Astúcia + Curar. Cada Sucesso remove 1 acúmulo (ajuste do autor). Isso dá uma resposta ativa sem precisar de regra nova de Tratamento.
    - Nenhuma regra aplica o Sangrando ainda. As fontes, como uma Maestria, uma característica de NPC ou uma Capacidade, ficam para quando forem criadas.
 9. **Agrupar a lista do índice.** Considerei agrupar as 13 Condições por tipo (movimento, Vida, controle, mental, marcadores). Não recomendo: a lista é curta, e as descrições de uma linha já bastam. Fica registrado como opção.
 
@@ -68,7 +68,7 @@ Tirar o título `# Desafiado` do corpo do arquivo (PT e EN).
 >
 > Esse dano não tem Tipo de Dano: Absorção, Resistências e Vulnerabilidades não se aplicam a ele.
 >
-> **Estancar:** um personagem adjacente, ou o próprio afetado, pode usar sua Ação e testar **Astúcia + Curar**. Com pelo menos 1 Sucesso, todos os acúmulos são removidos.
+> **Estancar:** um personagem adjacente, ou o próprio afetado, pode usar sua Ação e testar **Astúcia + Curar**. Cada Sucesso remove **1 acúmulo**.
 
 Entra também na lista do índice: "[Sangrando](Sangrando.md) — dano superficial acumulável no fim de cada Turno."
 
