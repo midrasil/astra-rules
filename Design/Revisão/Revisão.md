@@ -99,10 +99,10 @@ Status: `[ ]` pendente · `[~]` em discussão · `[x]` concluída
 - [x] 46 · [Trocar Equipamento](Seções/46%20-%20Trocar%20Equipamento.md)
 
 **Resistência e Vulnerabilidade**
-- [~] 47 · [Resistência e Vulnerabilidade (índice) + Resistência + Vulnerabilidade + Imunidade](Seções/47%20-%20Resist%C3%AAncia%20e%20Vulnerabilidade.md)
+- [x] 47 · [Resistência e Vulnerabilidade (índice) + Resistência + Vulnerabilidade + Imunidade](Seções/47%20-%20Resist%C3%AAncia%20e%20Vulnerabilidade.md)
 
 **Condições**
-- [ ] 48 · Condições (índice e regras gerais)
+- [~] 48 · [Condições (índice e regras gerais)](Seções/48%20-%20Condi%C3%A7%C3%B5es.md)
 - [ ] 49 · Caído + Agarrado
 - [ ] 50 · Debilitado + Lento + Abalado + Envenenado
 - [ ] 51 · Paralisado + Atordoado + Medo

@@ -3,7 +3,7 @@
 **Arquivos:** `Regras/Resistência e Vulnerabilidade/` (índice, Resistência, Vulnerabilidade, Imunidade) e `en/`
 **Relacionadas:** Armaduras (D-072, Resistências nas armaduras), Armas (Material, Perfurar da D-071, Raspão), Zonas (D-062), Características de NPC (Ir para a Garganta, Investida), Vida
 **Pendências que chegam aqui:** nenhuma
-**Status:** decidida (D-075) e aplicada; aguardando o merge do PR
+**Status:** concluída (PR #69, mergeado em 2026-11-05)
 
 ## O que está estabelecido
 
