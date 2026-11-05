@@ -3,7 +3,7 @@
 **Arquivos:** `Readme.md`, `Regras/Competências/Furioso.md`, `Design/` (organização e Fundamento), `Design/Revisão/` e `en/` quando couber
 **Relacionadas:** todas as seções anteriores
 **Pendências que chegam aqui:** Q-001, Q-002, Q-003, Q-005, Q-014, Q-015; Q-010 e Q-012 seguem abertas por decisão do autor
-**Status:** decidida (D-081) e aplicada; aguardando o merge do PR
+**Status:** concluída (PR #75, mergeado em 2026-11-05)
 
 A seção fecha a revisão. Ela tem quatro partes, que podem ser decididas uma a uma, como na seção 43.
 

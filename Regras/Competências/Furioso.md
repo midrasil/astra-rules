@@ -16,7 +16,7 @@ A **Fúria** é um estado desta Competência, não uma Condição.
 
 ## Nível 1 — Fúria
 
-Durante um combate, no seu Turno, você pode sofrer 1 ponto de dano superficial de Vontade para entrar em Fúria. Entrar em Fúria não gasta sua Ação.
+Durante uma [Cena Tática](../Cenas%20e%20Conflitos/Cenas%20T%C3%A1ticas.md), no seu Turno, você pode sofrer 1 ponto de dano superficial de Vontade para entrar em Fúria. Entrar em Fúria não gasta sua Ação.
 
 A Fúria dura até o final do seu próximo Turno. Sempre que você iniciar um Confronto com um Ataque corpo a corpo ou com uma arma arremessada, a duração é prolongada até o final do seu Turno seguinte. Aceitar o Confronto não prolonga a Fúria. Ela também termina no fim da Cena.
 

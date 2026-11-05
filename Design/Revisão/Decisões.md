@@ -565,3 +565,8 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
   - Q-010, Q-012, Q-014 e Q-015 seguem abertas, com gatilhos atualizados.
 - **Status:** aprovada.
 - **Arquivos:** `Readme.md`, `CLAUDE.md`, `Regras/Competências/Furioso.md`, `Design/Competências/Fundamento.md`, `Design/Arquivo/` e as versões em `en/`.
+
+**D-082 · 2026-11-05 · Pós-revisão: Furioso**
+- **Decisão:** para entrar em Fúria, o texto passa de "Durante um combate" para "Durante uma Cena Tática", com link; "combate" não é um termo definido.
+- **Status:** aprovada.
+- **Arquivos:** `Regras/Competências/Furioso.md` e a versão em `en/`.
