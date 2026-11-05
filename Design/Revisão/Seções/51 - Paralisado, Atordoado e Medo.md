@@ -3,7 +3,7 @@
 **Arquivos:** `Regras/Condições/Paralisado.md`, `Atordoado.md`, `Medo.md`, `Condições.md` e `en/`; ajustes pontuais em Confrontar (Alvo sem Resposta) e em Características de NPC (Voadora)
 **Relacionadas:** Características de NPC (Paralisante, Atordoante, Aterrorizante, Voadora), Confrontar, Furioso, Guardião, Sentinela, Condições (Regras gerais, D-076), Agarrado (D-077)
 **Pendências que chegam aqui:** nenhuma
-**Status:** decidida (D-079) e aplicada; aguardando o merge do PR
+**Status:** concluída (PR #73, mergeado em 2026-11-05)
 
 ## O que está estabelecido
 

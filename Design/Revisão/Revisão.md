@@ -105,8 +105,8 @@ Status: `[ ]` pendente · `[~]` em discussão · `[x]` concluída
 - [x] 48 · [Condições (índice e regras gerais)](Seções/48%20-%20Condi%C3%A7%C3%B5es.md)
 - [x] 49 · [Caído + Agarrado](Seções/49%20-%20Ca%C3%ADdo%20e%20Agarrado.md)
 - [x] 50 · [Debilitado + Lento + Abalado + Envenenado](Seções/50%20-%20Debilitado%2C%20Lento%2C%20Abalado%20e%20Envenenado.md)
-- [~] 51 · [Paralisado + Atordoado + Medo](Seções/51%20-%20Paralisado%2C%20Atordoado%20e%20Medo.md)
-- [ ] 52 · Mirando + Lido + Desafiado
+- [x] 51 · [Paralisado + Atordoado + Medo](Seções/51%20-%20Paralisado%2C%20Atordoado%20e%20Medo.md)
+- [~] 52 · [Mirando + Lido + Desafiado](Seções/52%20-%20Mirando%2C%20Lido%20e%20Desafiado.md)
 
 **Fechamento**
 - [ ] 53 · Revisão estrutural final: ordem das áreas, índices, ordem da wiki e questões em aberto acumuladas
