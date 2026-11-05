@@ -3,7 +3,7 @@
 **Arquivo:** `Regras/Equipamentos/Trocar Equipamento.md` (e `en/`)
 **Relacionadas:** Ação (soltar um objeto não exige Ação), Manobras (Desarmar), Armaduras (Vestir e Tirar, D-072), Armas (Munição, D-069), Escudos
 **Pendências que chegam aqui:** nenhuma
-**Status:** em análise
+**Status:** decidida (D-074) e aplicada; aguardando o merge do PR
 
 ## O que está estabelecido
 
@@ -43,3 +43,7 @@
 ### P-46.2 · Equipamentos
 
 - Em Equipamentos, a descrição do link passa a ser "sacar, guardar e trocar equipamentos durante a Cena Tática".
+
+## Decisões do autor (2026-11-05)
+
+- "concordo": P-46.1 e P-46.2 aprovadas como propostas (D-074).
