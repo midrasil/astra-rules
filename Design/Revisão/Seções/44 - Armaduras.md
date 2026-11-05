@@ -3,7 +3,7 @@
 **Arquivos:** `Regras/Equipamentos/Armaduras.md`, `Regras/Equipamentos/Catálogo de Armaduras.md` (e `en/`)
 **Relacionadas:** Resistência e Vulnerabilidade (Absorção Efetiva), Confrontar (Esquivar), Perfurar (D-071), Características de NPC (ignorar a Absorção da armadura), Zonas, Furtividade
 **Pendências que chegam aqui:** nenhuma
-**Status:** decidida (D-072) e aplicada; aguardando o merge do PR
+**Status:** concluída (PR #66, mergeado em 2026-11-05)
 
 ## O que está estabelecido
 
