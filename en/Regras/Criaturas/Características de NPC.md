@@ -1,4 +1,4 @@
-<!-- source: 60cb01c65453 -->
+<!-- source: fabed2220cf0 -->
 # NPC Traits
 
 **NPC Traits** are abilities belonging to NPCs, creatures and enemies. They are set directly on the creature's sheet and are not part of the characters' Competency system.
@@ -74,11 +74,11 @@ When the creature **wins an Attack with a melee natural Attack**, the target mak
 
 ### Charge (+2 Damage; 4 squares)
 
-- **Description:** if the creature moves at least 4 squares in a straight line before attacking, it adds **+2 to the Damage** of the Attack.
+- **Description:** if the creature moves at least 4 squares in a straight line before attacking, it adds **+2 to the Damage** of the Attack. It is the same rule as the weapon Property [Charge](../Equipamentos/Armas.md#use-optional), with its own values.
 
 ### Go for the Throat (Margin 3)
 
-- **Description:** on winning an Attack with a Margin of 3 or more, the damage ignores the Absorption of the target's **armor**. Base Absorption still applies.
+- **Description:** on winning an Attack with a Margin of 3 or more, the damage ignores the Absorption of the target's **armor**. Base Absorption and the armor's Resistances and Vulnerabilities still apply.
 
 ### Constrictor (Margin 2)
 

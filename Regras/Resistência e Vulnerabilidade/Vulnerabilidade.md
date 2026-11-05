@@ -4,7 +4,7 @@ No cálculo da [Absorção Efetiva](Resist%C3%AAncia%20e%20Vulnerabilidade.md#ab
 
 Por enquanto, Vulnerabilidades a Materiais são definidas diretamente nos personagens e criaturas.
 
-Quando a Absorção Efetiva é **negativa**:
+Quando a Absorção Efetiva é **negativa** e o personagem sofre pelo menos 1 ponto de dano daquela fonte:
 
 - o valor negativo é somado ao dano recebido (em módulo);
 - todo o dano é então **agravado** — nenhuma conversão é possível, mesmo que o dano recebido seria superficial originalmente.

@@ -20,7 +20,7 @@ Os valores do Tipo e do Material são somados. Quando a fonte de dano não tem M
 
 - **Absorção Efetiva maior ou igual ao dano agravado:** todo o dano é convertido em dano superficial.
 - **Absorção Efetiva entre 0 e o dano:** apenas a parte coberta pela absorção é convertida; o excedente permanece agravado (ver [Armaduras](../Equipamentos/Armaduras.md)).
-- **Absorção Efetiva negativa:** o valor negativo é somado ao dano recebido (em módulo) e todo o dano é agravado — nenhuma conversão é possível (ver [Vulnerabilidade](Vulnerabilidade.md)).
+- **Absorção Efetiva negativa:** quando o personagem sofre pelo menos 1 ponto de dano daquela fonte, o valor negativo é somado ao dano recebido (em módulo) e todo o dano é agravado — nenhuma conversão é possível (ver [Vulnerabilidade](Vulnerabilidade.md)).
 - Dano que já é **superficial** não é afetado pela absorção positiva.
 - A [Imunidade](Imunidade.md) ao Tipo ou ao Material prevalece sobre tudo: o dano é ignorado antes mesmo de calcular a Absorção Efetiva, mesmo que haja Vulnerabilidade ao outro.
 

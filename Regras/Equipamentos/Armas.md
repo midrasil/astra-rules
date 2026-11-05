@@ -99,7 +99,7 @@ Uma Maestria que diga **ao vencer um Ataque** não é ativada em caso de empate.
 - **Embalo** — ao vencer um Ataque, o próximo Ataque do atacante contra o mesmo alvo, até o fim do seu próximo Turno, recebe **+1 dado**. Os bônus de Embalo não se acumulam.
 - **Raspão** — quando o alvo vence o Ataque, ele ainda sofre **metade do Dano da arma**, arredondada para cima, como dano superficial. Não vale se o atacante não obteve nenhum Sucesso.
 - **Deslocar** — ao vencer um Ataque, o atacante pode mover o alvo **1 quadrado** em qualquer direção, sem outra rolagem, seguindo os limites de [Reposicionar](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Manobras.md#reposicionar).
-- **Perfurar** — ao vencer um Ataque, a [Absorção](Armaduras.md#absor%C3%A7%C3%A3o) do alvo converte **1 ponto a menos** de dano agravado.
+- **Perfurar** — ao vencer um Ataque, a [Absorção Efetiva](../Resist%C3%AAncia%20e%20Vulnerabilidade/Resist%C3%AAncia%20e%20Vulnerabilidade.md#absor%C3%A7%C3%A3o-efetiva) do alvo é reduzida em **1**, até no mínimo 0.
 
 Módulos e cenários podem adicionar novas propriedades, origens, materiais e armas ao catálogo do núcleo.
 

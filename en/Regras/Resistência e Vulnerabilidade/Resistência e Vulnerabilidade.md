@@ -1,4 +1,4 @@
-<!-- source: 9f409a190484 -->
+<!-- source: cc99006b2997 -->
 # Resistance and Vulnerability
 
 This section gathers the rules that define how characters and creatures react to damage from specific [Damage Types](../Equipamentos/Armas.md#damage-types) and [Materials](../Equipamentos/Armas.md#material-required-one-per-weapon), through **Resistances**, **Vulnerabilities** and **Immunities**.
@@ -23,7 +23,7 @@ The values for the Type and the Material are added together. When the damage sou
 
 - **Effective Absorption greater than or equal to the aggravated damage:** all the damage is converted into superficial damage.
 - **Effective Absorption between 0 and the damage:** only the part covered by the absorption is converted; the rest stays aggravated (see [Armor](../Equipamentos/Armaduras.md)).
-- **Negative Effective Absorption:** the negative value is added to the damage taken (as an absolute value) and all the damage is aggravated — no conversion is possible (see [Vulnerability](Vulnerabilidade.md)).
+- **Negative Effective Absorption:** when the character takes at least 1 point of damage from that source, the negative value is added to the damage taken (as an absolute value) and all the damage is aggravated — no conversion is possible (see [Vulnerability](Vulnerabilidade.md)).
 - Damage that is already **superficial** is not affected by positive absorption.
 - [Immunity](Imunidade.md) to the Type or the Material takes precedence over everything: the damage is ignored before Effective Absorption is even calculated, even if there is Vulnerability to the other.
 
