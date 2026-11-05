@@ -3,7 +3,7 @@
 **Arquivo:** `Regras/Equipamentos/Catálogo de Armas.md` (e `en/`)
 **Relacionadas:** Armas (D-068, Maestria e Domínio de arma), Catálogo de Itens (D-067), Ambidestro, Ação
 **Pendências que chegam aqui:** nenhuma
-**Status:** 43.A (D-069) e 43.B (D-070) decididas; 43.C em análise
+**Status:** decidida (D-069, D-070 e D-071) e aplicada; aguardando o merge do PR
 
 ## O que está estabelecido
 
@@ -204,6 +204,12 @@ Distribuição das Maestrias depois da mudança:
 | Raspão | Montante |
 | Deslocar | Chicote, Martelo de Guerra, Clava Massiva |
 | Perfurar | Lança Curta, Maça, Besta |
+
+### Decisões do autor (2026-11-05)
+
+- "tire disparo rapido": Disparo Rápido foi retirada; o Arco Curto e a Funda usam o Alcance maior, e o Arco Longo sobe para Alcance 24.
+- "concordo.": P-43.C1, P-43.C2 (sem Disparo Rápido) e P-43.C3 aprovadas (D-071). O termo "vantagem" continua só no critério em `Design/`.
+- As propostas da primeira análise foram absorvidas pela 43.A e pela 43.C.
 
 ## Primeira análise (suspensa; retomada na 43.C)
 

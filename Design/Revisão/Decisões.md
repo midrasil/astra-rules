@@ -460,3 +460,11 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
   - o critério fica em `Design/Equipamentos/Critério de Equilíbrio de Armas.md`, fora das regras.
 - **Status:** aprovada.
 - **Arquivos:** `Design/Equipamentos/Critério de Equilíbrio de Armas.md` (novo).
+
+**D-071 · 2026-11-05 · 43.C Maestrias novas e catálogo (P-43.C1 a P-43.C3)**
+- **Decisão:**
+  - quatro Maestrias novas: Embalo (+1 dado no próximo Ataque contra o mesmo alvo), Raspão (metade do Dano da arma, superficial, quando o alvo vence), Deslocar (move o alvo 1 quadrado) e Perfurar (a Absorção converte 1 ponto a menos);
+  - duas Propriedades de Uso novas, que entram na lista de vantagens do critério: Investida (+1 de Dano depois de 3 quadrados em linha reta) e Guarda (+1 dado ao Esquivar); Disparo Rápido foi proposta e retirada;
+  - 16 armas ajustadas para caber no orçamento da D-070 (tabela na seção 43), incluindo Arco Curto 18, Arco Longo Dano 2 e Alcance 24, Besta 18 e Funda 15.
+- **Status:** aprovada.
+- **Arquivos:** `Regras/Equipamentos/Armas.md`, `Catálogo de Armas.md`, `Design/Equipamentos/Critério de Equilíbrio de Armas.md` e as versões em `en/`.
