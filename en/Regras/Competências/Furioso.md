@@ -1,4 +1,4 @@
-<!-- source: 0a563630c29b -->
+<!-- source: 0f88e28125ab -->
 # Furious
 
 Furious represents the fighter who trades defense for aggression and turns pain and Willpower into brute force.
@@ -17,7 +17,7 @@ Furious represents the fighter who trades defense for aggression and turns pain 
 
 ## Level 1 — Fury
 
-During combat, on your Turn, you can take 1 point of superficial Willpower damage to enter Fury. Entering Fury does not spend your Action.
+During a [Tactical Scene](../Cenas%20e%20Conflitos/Cenas%20T%C3%A1ticas.md), on your Turn, you can take 1 point of superficial Willpower damage to enter Fury. Entering Fury does not spend your Action.
 
 Fury lasts until the end of your next Turn. Whenever you start a Confront with a melee Attack or a thrown weapon, the duration is extended until the end of your following Turn. Accepting the Confront does not extend Fury. It also ends at the end of the Scene.
 
