@@ -3,7 +3,7 @@
 **Arquivo:** `Regras/Equipamentos/Trocar Equipamento.md` (e `en/`)
 **Relacionadas:** Ação (soltar um objeto não exige Ação), Manobras (Desarmar), Armaduras (Vestir e Tirar, D-072), Armas (Munição, D-069), Escudos
 **Pendências que chegam aqui:** nenhuma
-**Status:** decidida (D-074) e aplicada; aguardando o merge do PR
+**Status:** concluída (PR #68, mergeado em 2026-11-05)
 
 ## O que está estabelecido
 
