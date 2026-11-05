@@ -1,4 +1,4 @@
-<!-- source: 611f86a598b2 -->
+<!-- source: eeb68d177011 -->
 # Conditions
 
 A **Condition** is a state that affects a character during a Scene, imposing mechanical effects while it stays active.
@@ -8,7 +8,7 @@ Conditions are applied by Actions, Maneuvers, Capabilities or other rules. They 
 ## General rules
 
 - **Duration:** unless stated otherwise, a Condition ends at the end of the Scene. Conditions tied to the [Health](../Personagens/Vida.md) track and those with their own way of ending, such as Prone and Grappled, follow their own rules.
-- **Turns:** a duration in Turns counts the affected character's Turns. The Condition ends at the end of the last of those Turns.
+- **Turns:** a duration in Turns counts the affected character's Turns. The Condition ends at the end of the last of those Turns. If it is applied during the affected character's Turn, that Turn does not count.
 - **Applying again:** a Condition the character already has does not stack. It only renews the duration, and the duration that ends last applies. **Stacking** Conditions, such as Fear, Aiming and Bleeding, say how they stack.
 
 ## Conditions

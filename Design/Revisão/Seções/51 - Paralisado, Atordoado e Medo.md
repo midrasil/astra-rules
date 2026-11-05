@@ -3,7 +3,7 @@
 **Arquivos:** `Regras/Condições/Paralisado.md`, `Atordoado.md`, `Medo.md`, `Condições.md` e `en/`; ajustes pontuais em Confrontar (Alvo sem Resposta) e em Características de NPC (Voadora)
 **Relacionadas:** Características de NPC (Paralisante, Atordoante, Aterrorizante, Voadora), Confrontar, Furioso, Guardião, Sentinela, Condições (Regras gerais, D-076), Agarrado (D-077)
 **Pendências que chegam aqui:** nenhuma
-**Status:** em análise
+**Status:** decidida (D-079) e aplicada; aguardando o merge do PR
 
 ## O que está estabelecido
 
@@ -51,3 +51,7 @@ Em Confrontar, a lista do Alvo sem Resposta passa a incluir [Paralisado](...).
 ### P-51.4 · Voadora
 
 "Se ficar Caída ou Agarrada no ar, cai." → "Se ficar Caída, Agarrada ou Paralisada no ar, cai."
+
+## Decisões do autor (2026-11-05)
+
+- **P-51.1 a P-51.4:** aprovadas como propostas.

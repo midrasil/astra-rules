@@ -1,4 +1,4 @@
-<!-- source: fabed2220cf0 -->
+<!-- source: fc2787e47011 -->
 # NPC Traits
 
 **NPC Traits** are abilities belonging to NPCs, creatures and enemies. They are set directly on the creature's sheet and are not part of the characters' Competency system.
@@ -27,7 +27,7 @@ Swimming and climbing are [Special Movement](../Movimento/Movimenta%C3%A7%C3%A3o
 
 ### Flying
 
-- **Description:** flies at the normal cost (see [Flight](../Movimento/Movimenta%C3%A7%C3%A3o.md#flight)), with the value's Movement when there is one, and ignores Difficult Terrain on the ground. If it becomes [Prone](../Condi%C3%A7%C3%B5es/Ca%C3%ADdo.md) or [Grappled](../Condi%C3%A7%C3%B5es/Agarrado.md) in the air, it falls.
+- **Description:** flies at the normal cost (see [Flight](../Movimento/Movimenta%C3%A7%C3%A3o.md#flight)), with the value's Movement when there is one, and ignores Difficult Terrain on the ground. If it becomes [Prone](../Condi%C3%A7%C3%B5es/Ca%C3%ADdo.md), [Grappled](../Condi%C3%A7%C3%B5es/Agarrado.md) or [Paralyzed](../Condi%C3%A7%C3%B5es/Paralisado.md) in the air, it falls.
 
 ### Burrowing
 
