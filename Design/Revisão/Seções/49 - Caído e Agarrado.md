@@ -3,7 +3,7 @@
 **Arquivos:** `Regras/Condições/Caído.md`, `Regras/Condições/Agarrado.md` e `en/`
 **Relacionadas:** Manobras (Derrubar, Agarrar), Tamanho (limite de Tamanho), Movimentação (Movimentação Especial), Trocar Equipamento (D-074), Características de NPC (Voadora, Constritora, Teia), Condições (Regras gerais, D-076)
 **Pendências que chegam aqui:** Q-017 (fim do agarrão e mão livre)
-**Status:** em análise
+**Status:** decidida (D-077) e aplicada; aguardando o merge do PR
 
 ## O que está estabelecido
 
@@ -81,3 +81,8 @@
 ### P-49.6 · Q-017
 
 Fechar a Q-017 com as P-49.2 e P-49.3.
+
+## Decisões do autor (2026-11-05)
+
+- **P-49.1 a P-49.6:** aprovadas como propostas, incluindo a P-49.5 (escapar com Agilidade + Acrobacia).
+- **P-49.7 e P-49.8:** acrescentadas a pedido do autor, que quis definir o deslocamento forçado do agarrão. Aprovadas.

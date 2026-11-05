@@ -1,4 +1,4 @@
-<!-- source: f444c8e1a7d6 -->
+<!-- source: 3c6f52494451 -->
 # Maneuvers
 
 **Maneuvers** are actions to gain an advantage in a Tactical Scene without dealing damage: changing another character's position or Condition, taking something out of their hands or setting up an Attack. Any character can try a Maneuver.
@@ -55,7 +55,7 @@ You try to put another character on the ground. If you win, the target gets the 
 
 ### Grapple
 
-You try to restrain another character. If you win, the target gets the [Grappled](../../Condi%C3%A7%C3%B5es/Agarrado.md) Condition.
+You try to restrain another character with a free hand. If you win, the target gets the [Grappled](../../Condi%C3%A7%C3%B5es/Agarrado.md) Condition.
 
 ### Disarm
 

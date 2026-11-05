@@ -1,4 +1,4 @@
-<!-- source: 84ff62020dd4 -->
+<!-- source: 347c1eb1a176 -->
 # Prone
 
 A **Prone** character stays on the ground and their movement becomes **Special Movement**, done by crawling.
@@ -15,9 +15,9 @@ A Prone character also gets:
 
 > **-2 dice on their own Dice Pools**
 
-To stop being Prone, the character must spend **half of their Movement** during their own Turn to stand up. Standing up does not take an Action.
+To stop being Prone, the character spends **half of their base Movement, rounded up**, from the Movement they still have on their own Turn. Standing up does not take an Action.
 
-A character with **Movement 0**, such as a Grappled character, cannot stand up.
+Without enough Movement, such as a character with **Movement 0** or Grappled, they cannot stand up.
 
 ---
 

@@ -1,4 +1,4 @@
-<!-- source: 5eac52c52e67 -->
+<!-- source: 064faf25ca93 -->
 # Movement
 
 During their Turn, a character can move across the battlefield using their **Movement**.
@@ -34,6 +34,12 @@ For example, a character with 6 points of Movement could normally cross 6 square
 Moving out of an enemy's reach does not, by default, provoke Attacks or other penalties.
 
 Certain **Capabilities**, Traits or effects can create exceptions to this rule, letting a character punish or interfere with their opponents' movement.
+
+### Forced Movement
+
+**Forced movement** is any movement another character or an effect imposes on a character, such as that of the [Reposition](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Manobras.md#reposition) Maneuver, a shield's Repel, the Displace Mastery or the dragging of a [grapple](../Condi%C3%A7%C3%B5es/Agarrado.md#dragging).
+
+It does not spend the moved character's Movement, happens even with Movement 0 and does not provoke effects that react to movement, such as the Sentinel's Opportunity Attack. Obstacles and edges follow the rules of [Reposition](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Manobras.md#obstacles-and-edges).
 
 ## Special Movement
 

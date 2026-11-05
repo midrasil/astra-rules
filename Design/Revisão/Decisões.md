@@ -515,3 +515,15 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
   - Q-011: nenhuma Condição causa dano de Vontade, porque o Medo cobre o efeito mental.
 - **Status:** aprovada.
 - **Arquivos:** `Regras/Condições/Condições.md`, `Mirando.md`, `Desafiado.md`, `Sangrando.md` (novo) e as versões em `en/`.
+
+**D-077 · 2026-11-05 · 49 Caído + Agarrado (P-49.1 a P-49.8; fecha a Q-017)**
+- **Decisão:**
+  - levantar-se custa metade da Movimentação base, arredondada para cima, da Movimentação que resta no Turno;
+  - agarrar exige uma mão livre, ocupada enquanto o agarrão durar; criaturas sem mãos usam a parte do corpo indicada na ficha;
+  - quem agarra solta quando quiser, sem Ação; o agarrão termina se os dois deixam de estar adjacentes ou se quem agarra fica Incapacitado ou Paralisado;
+  - efeitos sem quem agarre, como a Teia, definem a própria fuga;
+  - para escapar, o Agarrado escolhe Força + Atletismo ou Agilidade + Acrobacia, contra Força + Atletismo;
+  - nova subseção **Deslocamento forçado** em Movimentação: não gasta a Movimentação, acontece com Movimentação 0, não provoca efeitos que reagem ao movimento e usa as regras de obstáculos e bordas do Reposicionar;
+  - arrastar: quem agarra usa Movimentação Especial e põe o alvo adjacente a cada quadrado; para o alvo, é deslocamento forçado.
+- **Status:** aprovada.
+- **Arquivos:** `Regras/Condições/Caído.md`, `Regras/Condições/Agarrado.md`, `Regras/Cenas e Conflitos/Ações/Manobras.md`, `Regras/Movimento/Movimentação.md` e as versões em `en/`.

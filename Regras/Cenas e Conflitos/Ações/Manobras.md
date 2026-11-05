@@ -52,7 +52,7 @@ Você tenta colocar outro personagem no chão. Se vencer, o alvo recebe a Condi�
 
 ### Agarrar
 
-Você tenta imobilizar outro personagem. Se vencer, o alvo recebe a Condição [Agarrado](../../Condi%C3%A7%C3%B5es/Agarrado.md).
+Você tenta imobilizar outro personagem com uma mão livre. Se vencer, o alvo recebe a Condição [Agarrado](../../Condi%C3%A7%C3%B5es/Agarrado.md).
 
 ### Desarmar
 

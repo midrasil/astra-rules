@@ -8,7 +8,17 @@ Ao realizar um Ataque contra qualquer alvo que não seja o personagem que o est�
 
 Ataques realizados contra quem está mantendo o agarrão não sofrem essa penalidade.
 
-O personagem que mantém o agarrão pode arrastar ou carregar o alvo enquanto se movimenta, desde que o alvo seja no máximo **uma categoria de [Tamanho](../Personagens/Tamanho.md#limite-de-tamanho) maior** que ele. Esse deslocamento é tratado como uma **Movimentação Especial** e segue as regras aplicáveis a esse tipo de movimento.
+Agarrar exige uma **mão livre**, que fica ocupada enquanto o agarrão durar. Criaturas sem mãos agarram com a parte do corpo que a ficha indicar.
+
+## Arrastar
+
+Quem mantém o agarrão pode arrastar o alvo enquanto se movimenta, desde que ele seja no máximo **uma categoria de [Tamanho](../Personagens/Tamanho.md#limite-de-tamanho) maior**. Esse movimento é uma **[Movimentação Especial](../Movimento/Movimenta%C3%A7%C3%A3o.md#movimenta%C3%A7%C3%A3o-especial)** para quem agarra. A cada quadrado, quem agarra põe o alvo em um quadrado adjacente a si. Para o alvo, isso é um [deslocamento forçado](../Movimento/Movimenta%C3%A7%C3%A3o.md#deslocamento-for%C3%A7ado).
+
+## Fim do agarrão
+
+Quem agarra pode soltar o alvo a qualquer momento, sem usar a Ação. O agarrão também termina quando os dois deixam de estar adjacentes ou quando quem agarra fica [Incapacitado](Incapacitado.md) ou [Paralisado](Paralisado.md).
+
+Quando a Condição vem de um efeito sem um personagem que agarre, como a [Teia](../Criaturas/Caracter%C3%ADsticas%20de%20NPC.md#teia-pot%C3%AAncia-2-alcance-6-ataque-agilidade--atirar-escapar-for%C3%A7a--atletismo), as regras de soltar e de adjacência não se aplicam, e o efeito define como escapar.
 
 ## Como escapar
 
@@ -16,7 +26,7 @@ Durante seu Turno, um personagem Agarrado pode utilizar sua **Ação** para tent
 
 Para isso, realiza uma nova rolagem oposta contra o personagem que mantém o agarrão:
 
-> **Personagem Agarrado: Força + Atletismo**
+> **Personagem Agarrado: Força + Atletismo ou Agilidade + Acrobacia, à sua escolha**
 
 > **Personagem que mantém o agarrão: Força + Atletismo**
 

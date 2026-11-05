@@ -12,9 +12,9 @@ Um personagem Caído também recebe:
 
 > **-2 dados em suas próprias Reservas de Dados**
 
-Para deixar de estar Caído, o personagem deve gastar **metade de sua Movimentação** durante o próprio Turno para se levantar. Levantar-se não exige uma Ação.
+Para deixar de estar Caído, o personagem gasta **metade da sua Movimentação base, arredondada para cima**, da Movimentação que ainda tem no próprio Turno. Levantar-se não exige uma Ação.
 
-Um personagem com **Movimentação 0**, como um personagem Agarrado, não pode se levantar.
+Sem Movimentação suficiente, como um personagem com **Movimentação 0** ou Agarrado, ele não pode se levantar.
 
 ---
 
