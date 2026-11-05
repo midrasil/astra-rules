@@ -56,7 +56,7 @@ Em uma rolagem oposta, quem iniciou a ação (por exemplo, o atacante em um Conf
 
 ### Ignorar Penalidades Físicas
 
-O personagem pode sofrer **1 ponto de dano superficial de Vontade** para ignorar, na rolagem em que a Vontade for utilizada, as penalidades em dados provocadas por sua condição física, como as de [Debilitado](../Condi%C3%A7%C3%B5es/Debilitado.md), [Caído](../Condi%C3%A7%C3%B5es/Ca%C3%ADdo.md), [Agarrado](../Condi%C3%A7%C3%B5es/Agarrado.md) e [Sobrecarga](../Equipamentos/Equipamentos.md#sobrecarga).
+O personagem pode sofrer **1 ponto de dano superficial de Vontade** para ignorar, na rolagem em que a Vontade for utilizada, as penalidades em dados provocadas por sua condição física, como as de [Debilitado](../Condi%C3%A7%C3%B5es/Debilitado.md), [Envenenado](../Condi%C3%A7%C3%B5es/Envenenado.md), [Caído](../Condi%C3%A7%C3%B5es/Ca%C3%ADdo.md), [Agarrado](../Condi%C3%A7%C3%B5es/Agarrado.md) e [Sobrecarga](../Equipamentos/Equipamentos.md#sobrecarga).
 
 Por exemplo, um personagem **Debilitado** normalmente sofre **-2 dados em rolagens que utilizem um Atributo Físico**. Ao utilizar Vontade, ele pode ignorar essa penalidade naquela rolagem.
 

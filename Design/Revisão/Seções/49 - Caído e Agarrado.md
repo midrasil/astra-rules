@@ -3,7 +3,7 @@
 **Arquivos:** `Regras/Condições/Caído.md`, `Regras/Condições/Agarrado.md` e `en/`
 **Relacionadas:** Manobras (Derrubar, Agarrar), Tamanho (limite de Tamanho), Movimentação (Movimentação Especial), Trocar Equipamento (D-074), Características de NPC (Voadora, Constritora, Teia), Condições (Regras gerais, D-076)
 **Pendências que chegam aqui:** Q-017 (fim do agarrão e mão livre)
-**Status:** decidida (D-077) e aplicada; aguardando o merge do PR
+**Status:** concluída (PR #71, mergeado em 2026-11-05)
 
 ## O que está estabelecido
 
