@@ -113,6 +113,7 @@ Itens para revisitar. Cada um tem um **gatilho**: o momento da revisão em que d
 - **Decidido em princípio:** as Competências continuam existindo para os jogadores (não viram feats compráveis um a um). Capacidades que hoje escalam com o Nível da Competência passam a ter um valor configurável, como "Nada Escapa (N)": na Competência, N é o Nível; no NPC, é o valor escolhido. As Características de NPC atuais entram na mesma lista.
 - **Gatilho:** desenho à parte, com a Q-003 (Fundamento) na seção 53.
 - **Gatilho atualizado (seção 53):** guia de criação de criaturas, desenho à parte.
+- **Status:** fechada no guia de criaturas, parte 01 (D-083): índice único em `Regras/Capacidades/` e Capacidades soltas para NPCs; Capacidades soltas para personagens seguem na Q-018.
 
 **Q-016 · Dano de queda**
 - **Origem:** seção 34.

@@ -1,7 +1,7 @@
 # Guia de Criaturas · 01 · Lista única de Capacidades
 
 **Questões:** Q-015 (lista única de Capacidades); prepara a Q-014 (ficha de criatura)
-**Status:** em análise
+**Status:** decidida (D-083) e aplicada; aguardando o merge do PR
 
 ## Plano do guia
 
@@ -87,4 +87,4 @@ Acrescentar, nas páginas de Competências e de Características de NPC, uma lin
 ## Decisões do autor (2026-11-05)
 
 - **Ficha de NPC:** continua sendo a ficha de jogador simplificada (detalhes na parte 02). O campo de Competências vira uma lista de **Capacidades soltas**, para NPCs humanos e criaturas. Um NPC que deveria ser "Sentinela 2" recebe as duas Capacidades desses Níveis, com N = 2, então nada se perde em relação a dar Níveis de Competência.
-- **P-G01.1 a P-G01.3:** aguardando aprovação.
+- **P-G01.1 a P-G01.3:** aprovadas. O índice tem 52 linhas de Competências (as 51 Capacidades nomeadas e o Corpo Robusto) e 20 Características de NPC. A Q-018 registra a ideia de Capacidades soltas para personagens, adiada.

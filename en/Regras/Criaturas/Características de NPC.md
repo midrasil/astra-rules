@@ -1,4 +1,4 @@
-<!-- source: fc2787e47011 -->
+<!-- source: dd5471915a08 -->
 # NPC Traits
 
 **NPC Traits** are abilities belonging to NPCs, creatures and enemies. They are set directly on the creature's sheet and are not part of the characters' Competency system.
@@ -113,6 +113,8 @@ When the creature **wins an Attack with a melee natural Attack**, the target mak
 ### Darkvision (12 squares)
 
 - **Description:** up to its range, the creature treats **Dim** as **Bright** and **Dark** as **Dim**, but sees without telling colors apart. Beyond its range, [Lighting](../Cenas%20e%20Conflitos/Ilumina%C3%A7%C3%A3o.md) applies as usual. [Supernatural darkness](../Cenas%20e%20Conflitos/Ilumina%C3%A7%C3%A3o.md#supernatural-darkness) blocks Darkvision.
+
+NPCs can also receive Competency Capabilities as standalone Capabilities (see [Capabilities](../Capacidades/Capacidades.md#use-by-npcs)).
 
 ---
 

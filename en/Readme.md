@@ -1,4 +1,4 @@
-<!-- source: c6938eaff352 -->
+<!-- source: 655411fa90f4 -->
 # Astra
 
 **Astra** is a generic tabletop RPG system, designed to serve different settings, genres and play styles. Characters are built freely, without classes or levels, and conflicts can be resolved narratively or tactically, on a map.
@@ -26,7 +26,7 @@ To get to know the system, this is the recommended reading order:
 
 ## System rules
 
-The core is organized into nine main areas, in the order in which they depend on each other:
+The core is organized into ten main areas, in the order in which they depend on each other:
 
 - [Basic Mechanics](Regras/Mec%C3%A2nica%20B%C3%A1sica/Mec%C3%A2nica%20B%C3%A1sica.md) — resolving tests and results.
 - [Characters](Regras/Personagens/Personagens.md) — the characters' capabilities, resources, motivations and traits.
@@ -36,6 +36,7 @@ The core is organized into nine main areas, in the order in which they depend on
 - [Resistance and Vulnerability](Regras/Resist%C3%AAncia%20e%20Vulnerabilidade/Resist%C3%AAncia%20e%20Vulnerabilidade.md) — how characters and creatures react to damage types.
 - [Conditions](Regras/Condi%C3%A7%C3%B5es/Condi%C3%A7%C3%B5es.md) — states that affect characters during a scene.
 - [Competencies](Regras/Compet%C3%AAncias/Compet%C3%AAncias.md) — sets of Capabilities that change what the character can do.
+- [Capabilities](Regras/Capacidades/Capacidades.md) — single list of Competency Capabilities and NPC Traits, with the rules for their use by NPCs.
 - [Creatures](Regras/Criaturas/Criaturas.md) — creature types and traits specific to NPCs.
 
 All rules on this page belong to the core. Modules, when they exist, live in their own folders.

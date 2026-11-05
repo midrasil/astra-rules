@@ -76,6 +76,8 @@ Cada Competência apresenta sua identidade, uma tabela de **Progressão** e uma 
 - [Robusto](Robusto.md) — trilha de Vida maior, que cresce com o Nível da Competência.
 - [Sentinela](Sentinela.md) — Ataque de Oportunidade contra quem sai do alcance da sua arma corpo a corpo ou ataca seus aliados, parando o deslocamento do alvo.
 
+Todas as Capacidades, com as regras de uso por NPCs, estão reunidas em [Capacidades](../Capacidades/Capacidades.md).
+
 ---
 
 ← [Voltar ao Astra](../../Readme.md)

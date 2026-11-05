@@ -570,3 +570,13 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
 - **Decisão:** para entrar em Fúria, o texto passa de "Durante um combate" para "Durante uma Cena Tática", com link; "combate" não é um termo definido.
 - **Status:** aprovada.
 - **Arquivos:** `Regras/Competências/Furioso.md` e a versão em `en/`.
+
+**D-083 · 2026-11-05 · Guia de Criaturas 01: lista única de Capacidades (P-G01.1 a P-G01.3; fecha a Q-015)**
+- **Decisão:**
+  - a ficha de NPC é a de jogador simplificada; no lugar das Competências, o NPC recebe Capacidades soltas, escolhidas pelo Narrador;
+  - nova área `Regras/Capacidades/` com o índice único: Capacidades de Competências (Competência, Nível, valor N, requisito ou dependência) e Características de NPC;
+  - regras de uso por NPCs: valor (N) de 1 a 5 na ficha; os requisitos da Competência valem; dependências exigem a outra Capacidade; sem trilha de Vontade, nada que custe Vontade; um NPC "Competência N" recebe as Capacidades até o Nível N;
+  - personagens recebem Capacidades só pelas Competências (Capacidades soltas para personagens ficam na Q-018);
+  - Capacidades entra no Readme entre Competências e Criaturas, e as páginas de Competências e de Características de NPC remetem ao índice.
+- **Status:** aprovada.
+- **Arquivos:** `Regras/Capacidades/Capacidades.md` (novo), `Readme.md`, `CLAUDE.md`, `Regras/Competências/Competências.md`, `Regras/Criaturas/Características de NPC.md` e as versões em `en/`.

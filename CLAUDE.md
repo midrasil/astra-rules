@@ -5,4 +5,4 @@
 - Use as Competências existentes em `Regras/Competências/` como referência de formato.
 - Toda alteração em `Regras/` ou `Criação de Personagem/` leva a versão em inglês em `en/`, com o hash `<!-- source -->` (sha256, 12 primeiros caracteres) do arquivo em português.
 - Núcleo e módulos: tudo em `Regras/` é núcleo. Cada módulo, quando existir, ganha uma pasta própria fora de `Regras/` (por exemplo, `Módulos/Magia/`), com a mesma organização por áreas e a versão em `en/`. Uma regra de módulo diz qual regra do núcleo acrescenta ou substitui.
-- Ordem das áreas: a lista "Regras do sistema" do `Readme.md` é a ordem oficial, por dependência (Mecânica Básica, Personagens, Cenas e Conflitos, Movimento, Equipamentos, Resistência e Vulnerabilidade, Condições, Competências, Criaturas). A wiki do astra-engine deve segui-la.
+- Ordem das áreas: a lista "Regras do sistema" do `Readme.md` é a ordem oficial, por dependência (Mecânica Básica, Personagens, Cenas e Conflitos, Movimento, Equipamentos, Resistência e Vulnerabilidade, Condições, Competências, Capacidades, Criaturas). A wiki do astra-engine deve segui-la.
