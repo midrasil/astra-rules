@@ -478,3 +478,13 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
   - o critério de equilíbrio passa a cobrir armas e armaduras, em `Design/Equipamentos/Critério de Equilíbrio de Equipamentos.md` (antes `Critério de Equilíbrio de Armas.md`).
 - **Status:** aprovada.
 - **Arquivos:** `Regras/Equipamentos/Armaduras.md`, `Catálogo de Armaduras.md`, `Regras/Resistência e Vulnerabilidade/Resistência e Vulnerabilidade.md`, o critério em `Design/` e as versões em `en/`.
+
+**D-073 · 2026-11-05 · 45 Escudos (fecha a Q-013)**
+- **Decisão:**
+  - Proteção por Categoria: Leve 2, Médio 3, Pesado 4 (antes 1, 2 e 3); o Aparar não muda e fica na mesma faixa;
+  - Propriedades de escudo: **Cobertura** (+1 de Proteção contra Ataques à distância), **Repelir** (ao vencer ao Defender corpo a corpo, empurra o atacante 1 quadrado) e **Golpe de Escudo** (o escudo é também uma arma de uma mão, Dano 1, Contusão, sem Leve e sem Maestria; pode ser arma secundária);
+  - catálogo: Broquel (Golpe de Escudo), Escudo (Repelir), Escudo de Corpo (Cobertura);
+  - tabela de campos alinhada ao catálogo; sai a repetição do -1 dado do Escudo Pesado;
+  - orçamento de escudos no critério de equipamentos.
+- **Status:** aprovada.
+- **Arquivos:** `Regras/Equipamentos/Escudos.md`, `Catálogo de Escudos.md`, `Regras/Cenas e Conflitos/Ações/Confrontar.md`, o critério em `Design/` e as versões em `en/`.

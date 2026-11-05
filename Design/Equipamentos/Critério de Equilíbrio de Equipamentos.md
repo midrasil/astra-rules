@@ -1,6 +1,6 @@
 # Critério de Equilíbrio de Equipamentos
 
-Aprovado na revisão geral: armas na D-070 (seção 43.B; Investida e Guarda acrescentadas na D-071) e armaduras na D-072 (seção 44). Serve a quem cria equipamentos para o núcleo, módulos e cenários. A pergunta que o critério responde é "cada item tem um motivo para ser escolhido?", e não "todos têm o mesmo poder?".
+Aprovado na revisão geral: armas na D-070 (seção 43.B; Investida e Guarda acrescentadas na D-071) e armaduras na D-072 (seção 44) e escudos na D-073 (seção 45). Serve a quem cria equipamentos para o núcleo, módulos e cenários. A pergunta que o critério responde é "cada item tem um motivo para ser escolhido?", e não "todos têm o mesmo poder?".
 
 # Armas
 
@@ -47,3 +47,19 @@ Aprovado na revisão geral: armas na D-070 (seção 43.B; Investida e Guarda acr
   - **Resistência 1** a um Tipo.
 - **Ruidosa**, numa Leve ou Média, compra **mais uma vantagem**. Nas Pesadas, Ruidosa faz parte da Categoria.
 - **Fora da conta:** Valor, Carga dentro da faixa da Categoria e a Vulnerabilidade a Elétrica do metal.
+
+# Escudos
+
+## Base pela Categoria
+
+| Categoria | Proteção | Custo da Categoria |
+|---|---:|---|
+| Leve | 2 | nenhum |
+| Médio | 3 | Força 2 |
+| Pesado | 4 | Força 3, Carga 2, -1 dado ao Atacar |
+
+## Orçamento
+
+- Todo escudo tem **uma vantagem**: Cobertura, Repelir ou Golpe de Escudo.
+- **Fora da conta:** Valor e Carga dentro da faixa da Categoria.
+- O Aparar (Dano da arma, de 0 a 4) fica na mesma faixa da Proteção: nenhuma arma apara melhor do que o Escudo de Corpo defende.
