@@ -36,7 +36,7 @@
 
 ### Orçamento
 
-8. **Escudos não precisam de orçamento próprio.** São três, um por Categoria, e cada passo troca mais Proteção por mais custo (Força, Carga e, no Pesado, -1 dado ao Atacar). Nenhum é melhor que outro em tudo. Proponho registrar isso no critério, em duas linhas, para quem criar escudos novos.
+8. **(Substituído pelo orçamento de escudos, abaixo.)** Escudos não precisam de orçamento próprio. São três, um por Categoria, e cada passo troca mais Proteção por mais custo (Força, Carga e, no Pesado, -1 dado ao Atacar). Nenhum é melhor que outro em tudo. Proponho registrar isso no critério, em duas linhas, para quem criar escudos novos.
 
 ### Conferido, sem mudança
 
@@ -44,11 +44,60 @@
 - **Guardião (Cobrir Aliado):** depende da regra de Defender, não do valor do bônus.
 - **Ambidestro (Guarda Cruzada):** ao Aparar, soma também o Dano da arma secundária, que é Leve (Dano 1, ou 2 no Porrete). Com o limite de 2 na arma principal, o total chegaria a 3, ou 4 com um Porrete. Proponho limitar o total da Guarda Cruzada a **3**, a Proteção do Escudo de Corpo (ver a P-45.1).
 
-## Propostas
+## Orçamento de escudos (pedido do autor em 2026-11-05)
+
+O autor pediu para montar o orçamento dos escudos antes de decidir a Q-013, porque o teto do escudo é a referência para o Aparar. Esta parte substitui o item 8 e a P-45.3 original.
+
+### Como a defesa escala hoje
+
+- **Defender com escudo:** Força + Lutar + Proteção. A Proteção é fixa por Categoria: 1, 2 ou 3.
+- **Aparar:** Reserva de Ataque da arma (Agilidade ou Força + Lutar) + Dano da arma, de 0 a 4. Cresce com a arma escolhida.
+- O escudo não tem nada além da Proteção. Por isso, hoje, escolher um escudo é escolher só um número.
+
+### Análise
+
+1. **A Categoria faz o papel da base**, como nas armaduras: Leve dá Proteção 1, sem custo; Médio dá 2 e custa Força 2; Pesado dá 3 e custa Força 3, Carga 2 e -1 dado ao Atacar.
+2. **O que pode diferenciar escudos da mesma Categoria** são efeitos ligados a Defender ou ao uso do escudo, não mais Proteção. Mais Proteção pularia de Categoria.
+3. **Três vantagens possíveis**, todas a partir de regras que já existem:
+   - **Cobertura:** +1 de Proteção contra Ataques à distância. Representa o escudo grande que cobre o corpo todo.
+   - **Repelir:** ao vencer ao Defender um Ataque corpo a corpo, o personagem pode empurrar o atacante **1 quadrado**, seguindo os limites de [Reposicionar](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Manobras.md#reposicionar). É a mesma ideia da Maestria Deslocar, mas na defesa.
+   - **Golpe de Escudo:** o escudo também pode ser usado como arma corpo a corpo Leve, Dano 1, Contusão, Madeira ou Metal comum. Assim, ele pode ser a arma secundária do [Combate com Duas Armas](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Confrontar.md#combate-com-duas-armas).
+4. **Não proponho desvantagem própria dos escudos.** O -1 dado do Pesado já é o custo da Categoria, e não achei outra desvantagem natural.
+
+### Orçamento
+
+| Categoria | Proteção | Custo da Categoria |
+|---|---:|---|
+| Leve | 1 | nenhum |
+| Médio | 2 | Força 2 |
+| Pesado | 3 | Força 3, Carga 2, -1 dado ao Atacar |
+
+- Todo escudo tem **uma vantagem**: Cobertura, Repelir ou Golpe de Escudo.
+- **Fora da conta:** Valor e Carga dentro da faixa da Categoria.
+
+### Catálogo com o orçamento
+
+| Escudo | Proteção | Vantagem | Motivo para escolher |
+|---|---:|---|---|
+| Broquel | 1 | **Golpe de Escudo** | o escudo do duelista, que também ataca |
+| Escudo | 2 | **Repelir** | segura o inimigo longe |
+| Escudo de Corpo | 3 | **Cobertura** (4 contra Ataques à distância) | a melhor defesa, sobretudo contra disparos |
+
+Com três vantagens e três Categorias, o catálogo comporta até nove escudos. Proponho começar com estes três e deixar os outros para módulos e cenários.
+
+### O que isso muda na Q-013
+
+O orçamento dá ao escudo coisas que a arma não tem, mas **não resolve a Q-013 sozinho**: contra Ataques corpo a corpo, o teto do escudo continua sendo 3, e um Montante apara com +4. Continua sendo preciso escolher entre:
+- **Aparar uma vez por Rodada** (recomendada): o escudo Defende todos os Ataques, o Aparador só o primeiro;
+- **limitar o Aparar a +2**;
+- **as duas juntas**, com limite de +3.
+
 
 ### P-45.1 · Limite do Aparar (fecha a Q-013)
 
-- Aparador, Nível 1: "adiciona o **Dano da arma, até no máximo 2**". Fórmula: **Reserva para Aparar = Reserva de Ataque da arma + Dano da arma (máximo 2)**.
+**Recomendada agora:** Aparar **uma vez por Rodada** (a Guarda Cruzada segue a mesma regra, porque também é um Aparar). O limite de +2 abaixo fica como alternativa, ou junto, com +3.
+
+- Alternativa, limite de valor. Aparador, Nível 1: "adiciona o **Dano da arma, até no máximo 2**". Fórmula: **Reserva para Aparar = Reserva de Ataque da arma + Dano da arma (máximo 2)**.
 - **Guarda Cruzada (Ambidestro 2):** ao Aparar, a soma do Dano das duas armas fica limitada a **3**, a Proteção de um Escudo de Corpo. Assim, a Capacidade continua valendo a pena, sem passar do melhor escudo. Ao Esquivar, nada muda.
 - **Alternativa:** metade do Dano da arma, arredondada para cima.
 
@@ -57,6 +106,8 @@
 - Tabela de campos na ordem do catálogo: Nome, Categoria, Proteção, Força mínima, Carga e Valor; sai "Descrição".
 - Sai o parágrafo que repete o -1 dado do Escudo Pesado.
 
-### P-45.3 · Critério
+### P-45.3 · Orçamento e catálogo de escudos
 
-- Seção curta "Escudos" no critério: um escudo por Categoria, e cada passo de Proteção paga com Força, Carga ou dados ao Atacar.
+- Três Propriedades novas de escudo: **Cobertura**, **Repelir** e **Golpe de Escudo**, com os textos da análise.
+- Catálogo conforme a tabela "Catálogo com o orçamento".
+- Seção "Escudos" no critério, com o orçamento.
