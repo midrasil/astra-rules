@@ -1,5 +1,8 @@
 # Conversão de Maestrias em Propriedades
 
+> [!archive] Superado
+> Na revisão geral, a D-068 trouxe de volta a **Maestria** como categoria de Propriedade, usada por quem domina a arma (ver [Armas](../../../Regras/Equipamentos/Armas.md)). Este arquivo fica só como histórico.
+
 O subsistema de **Maestrias de arma foi removido**. Não existe mais aquisição, vínculo ou limite de Maestrias para personagens.
 
 Os efeitos que pertencem à identidade de uma arma serão convertidos em **Propriedades Especiais**. Técnicas que representam treinamento do personagem serão convertidas em **Capacidades** ou removidas.
@@ -21,7 +24,7 @@ Os efeitos que pertencem à identidade de uma arma serão convertidos em **Propr
 | **Golpe Letal** | convertido na Propriedade Especial **Letal** |
 | **Golpe Debilitante** | dividido em **Debilitante (Abalado)** e **Debilitante (Lento)** |
 
-As Propriedades foram definidas em [Armas](../../Regras/Equipamentos/Armas.md#especial-opcional-no-m%C3%A1ximo-uma-por-arma) e distribuídas no [Catálogo de Armas](../../Regras/Equipamentos/Cat%C3%A1logo%20de%20Armas.md). Armas simples ou que já concentram sua identidade em outras características podem permanecer sem Propriedade Especial.
+As Propriedades foram definidas em [Armas](../../../Regras/Equipamentos/Armas.md#especial-opcional-no-m%C3%A1ximo-uma-por-arma) e distribuídas no [Catálogo de Armas](../../../Regras/Equipamentos/Cat%C3%A1logo%20de%20Armas.md). Armas simples ou que já concentram sua identidade em outras características podem permanecer sem Propriedade Especial.
 
 ## Critério utilizado no catálogo
 

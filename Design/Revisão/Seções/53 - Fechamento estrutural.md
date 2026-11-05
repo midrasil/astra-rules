@@ -3,7 +3,7 @@
 **Arquivos:** `Readme.md`, `Regras/Competências/Furioso.md`, `Design/` (organização e Fundamento), `Design/Revisão/` e `en/` quando couber
 **Relacionadas:** todas as seções anteriores
 **Pendências que chegam aqui:** Q-001, Q-002, Q-003, Q-005, Q-014, Q-015; Q-010 e Q-012 seguem abertas por decisão do autor
-**Status:** em análise
+**Status:** decidida (D-081) e aplicada; aguardando o merge do PR
 
 A seção fecha a revisão. Ela tem quatro partes, que podem ser decididas uma a uma, como na seção 43.
 
@@ -116,3 +116,7 @@ As questões abaixo não são problemas da revisão. São projetos novos que o a
 - **Q-014 (ficha de criatura)** e **Q-015 (lista única de Capacidades):** são o mesmo projeto, um **guia de criação de criaturas**. A Q-015 vem primeiro e mexe na estrutura das Competências, então o gatilho passa a ser esse guia, como desenho à parte.
 
 **Proposta P-53.D:** atualizar o gatilho das quatro e registrar em `Revisão.md` que a revisão geral terminou, com um resumo do que fica aberto.
+
+## Decisões do autor (2026-11-05)
+
+- **53.A a 53.D:** aprovadas como propostas.
