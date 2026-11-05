@@ -90,6 +90,7 @@ Itens para revisitar. Cada um tem um **gatilho**: o momento da revisão em que d
 - **Origem:** seção 14.
 - **Descrição:** com Aparador, uma arma de Dano 4 dá +4 ao Defender, mais do que o Escudo de Corpo (+3), e ainda ataca. O Escudo não exige Competência, mas ocupa a mão e tem custos. Avaliar se o Escudo precisa de algo que a arma não tem.
 - **Gatilho:** seções 42 (Armas) e 45 (Escudos).
+- **Status:** fechada na seção 45 (D-073): a Proteção dos escudos passou a 2, 3 e 4, a mesma faixa do Aparar; o Aparar não ganhou limite.
 
 **Q-014 · Ficha de criatura**
 - **Origem:** seção 30.

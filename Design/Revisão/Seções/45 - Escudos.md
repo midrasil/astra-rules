@@ -3,7 +3,7 @@
 **Arquivos:** `Regras/Equipamentos/Escudos.md`, `Regras/Equipamentos/Catálogo de Escudos.md` (e `en/`)
 **Relacionadas:** Confrontar (Defender), Aparador, Guardião (Cobrir Aliado), Ambidestro (Guarda Cruzada), Guarda (D-071), Critério de Equilíbrio de Equipamentos
 **Pendências que chegam aqui:** Q-013 (Aparador × Escudo)
-**Status:** em análise
+**Status:** decidida (D-073) e aplicada; aguardando o merge do PR
 
 ## O que está estabelecido
 
@@ -121,3 +121,12 @@ Com a Proteção de 2 a 4, o Aparar passa a acompanhar os escudos pelo tamanho d
 - **Defender fica 1 dado mais forte para todos os escudos.** Defender passa a ser a resposta mais segura com mais frequência, e quem tem escudo tende a Defender em vez de Aceitar o Confronto. Isso combina com a ideia de que o escudo segura a linha, mas é bom observar em jogo se as lutas ficam mais lentas.
 - **Guardião:** Cobrir Aliado, Interpor-se e Abrigo usam a Proteção, então ficam 1 ponto melhores.
 - **Aparar:** passa a ir de +0 a +4, a mesma faixa do Broquel (2) ao Escudo de Corpo (4). Não muda nada no texto do Aparador.
+
+## Decisões do autor (2026-11-05)
+
+- Pediu o orçamento de escudos antes de decidir a Q-013.
+- "vamos iniciar com leve dando proteção 2 e subir 1 por categoria": Proteção 2, 3 e 4.
+- Sobre o Aparador: o Guardião, com o mesmo investimento, empata na defesa própria, protege aliados e passa à frente no Nível 5. A Q-013 fecha sem limite no Aparar.
+- "concordo": orçamento, vantagens, catálogo, texto e critério aprovados.
+- Golpe de Escudo: o escudo vira uma arma de uma mão, **sem Leve**, de modo que o Ambidestro não funciona com ele. A exceção "escudos não contam como arma secundária" passa a não valer para o escudo com Golpe de Escudo.
+- Registrada como D-073.
