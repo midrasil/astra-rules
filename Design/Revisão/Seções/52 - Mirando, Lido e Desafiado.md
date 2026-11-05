@@ -3,7 +3,7 @@
 **Arquivos:** `Regras/Condições/Mirando.md`, `Lido.md`, `Desafiado.md` e `en/`
 **Relacionadas:** Manobras (Mirar), Atirador, Mentalista, Caçador, Duelista, Movimentação (Deslocamento forçado, D-077), Sangrando (D-076)
 **Pendências que chegam aqui:** nenhuma
-**Status:** em análise
+**Status:** decidida (D-080) e aplicada; aguardando o merge do PR
 
 ## O que está estabelecido
 
@@ -35,3 +35,7 @@
 ### P-52.2 · Mais de um Duelista
 
 > Um personagem Desafiado por mais de um Duelista sofre os **-3 dados** uma vez só e não sofre a penalidade ao iniciar um Confronto contra nenhum deles.
+
+## Decisões do autor (2026-11-05)
+
+- **P-52.1 e P-52.2:** aprovadas como propostas; Mirando e Lido sem mudança.

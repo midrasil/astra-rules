@@ -547,3 +547,11 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
   - Medo sem mudança.
 - **Status:** aprovada.
 - **Arquivos:** `Regras/Condições/Condições.md`, `Paralisado.md`, `Atordoado.md`, `Regras/Cenas e Conflitos/Ações/Confrontar.md`, `Regras/Criaturas/Características de NPC.md` e as versões em `en/`.
+
+**D-080 · 2026-11-05 · 52 Mirando + Lido + Desafiado (P-52.1 e P-52.2)**
+- **Decisão:**
+  - Desafiado também termina quando o Duelista fica Incapacitado ou deixa a Cena;
+  - um personagem desafiado por mais de um Duelista sofre -3 dados uma vez só e não sofre a penalidade contra nenhum deles;
+  - Mirando e Lido sem mudança; a perda da Mira pelo dano do Sangrando é mantida.
+- **Status:** aprovada.
+- **Arquivos:** `Regras/Condições/Desafiado.md` e a versão em `en/`.
