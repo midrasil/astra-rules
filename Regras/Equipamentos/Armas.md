@@ -77,6 +77,10 @@ O Material é considerado junto ao Tipo de Dano ao aplicar [Resistências, Vulne
 - **Versátil (tipo de dano)** — arma que tem um segundo Tipo de Dano, indicado na Propriedade. O atacante escolhe qual usar a cada Ataque. Por exemplo, uma arma Perfurante com **Versátil (Corte)**.
 - **Não letal** — o dano da arma é sempre **superficial** (ver [Gravidade do Dano](../Personagens/Vida.md#gravidade-do-dano)). Para causar dano agravado com ela, o atacante sofre **-2 dados** no Ataque.
 - **Manobra (Reposicionar, Derrubar ou Desarmar)** — a arma pode ser usada para realizar a [Manobra](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Manobras.md) indicada até o **Alcance** da arma, em vez de exigir contato físico. A Manobra não recebe bônus da arma e conserva sua Reserva própria; inclusive, a propriedade Pesado não altera essa Reserva.
+- **Munição (tipo)** — arma de disparo que lança a munição indicada, como **Munição (flechas)** (ver [Catálogo de Itens](Cat%C3%A1logo%20de%20Itens.md)). Cada disparo gasta **1 munição**, seja ao iniciar um Confronto, seja ao Aceitar o Confronto; sem munição, a arma não dispara. Sacar a munição faz parte do Ataque. No Ataque, vale o **Material da munição**, não o da arma. Ao fim da Cena, se houver tempo para procurar, o personagem recupera **metade da munição gasta**, arredondada para baixo.
+- **Recarga** — a arma dispara no máximo **uma vez por Rodada**.
+- **Investida** — se o personagem se moveu pelo menos **3 quadrados em linha reta** até o alvo neste Turno, logo antes do Ataque, o Ataque recebe **+1 de Dano**.
+- **Guarda** — enquanto empunha a arma, o personagem recebe **+1 dado** ao [Esquivar](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Confrontar.md#esquivar). Duas armas com Guarda não somam.
 
 ### Maestria (opcional, no máximo uma por arma)
 
@@ -92,6 +96,10 @@ Uma Maestria que diga **ao vencer um Ataque** não é ativada em caso de empate.
 - **Varredura** — ao vencer um Ataque corpo a corpo, o atacante pode abrir mão da Margem. O alvo original sofre somente o Dano da arma, e um segundo alvo à escolha do atacante sofre o mesmo Dano como dano superficial. O segundo alvo precisa estar ao alcance da arma e adjacente ao alvo original; ele não realiza outra rolagem para responder.
 - **Debilitante (Abalado)** — ao vencer um Ataque, o atacante pode abrir mão do Dano da arma. O alvo sofre somente a Margem e fica [Abalado](../Condi%C3%A7%C3%B5es/Abalado.md).
 - **Debilitante (Lento)** — ao vencer um Ataque, o atacante pode abrir mão do Dano da arma. O alvo sofre somente a Margem e fica [Lento](../Condi%C3%A7%C3%B5es/Lento.md).
+- **Embalo** — ao vencer um Ataque, o próximo Ataque do atacante contra o mesmo alvo, até o fim do seu próximo Turno, recebe **+1 dado**. Os bônus de Embalo não se acumulam.
+- **Raspão** — quando o alvo vence o Ataque, ele ainda sofre **metade do Dano da arma**, arredondada para cima, como dano superficial. Não vale se o atacante não obteve nenhum Sucesso.
+- **Deslocar** — ao vencer um Ataque, o atacante pode mover o alvo **1 quadrado** em qualquer direção, sem outra rolagem, seguindo os limites de [Reposicionar](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Manobras.md#reposicionar).
+- **Perfurar** — ao vencer um Ataque, a [Absorção](Armaduras.md#absor%C3%A7%C3%A3o) do alvo converte **1 ponto a menos** de dano agravado.
 
 Módulos e cenários podem adicionar novas propriedades, origens, materiais e armas ao catálogo do núcleo.
 

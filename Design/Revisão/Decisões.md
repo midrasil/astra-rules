@@ -442,3 +442,29 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
   - Leve ganha texto explícito (sem efeito próprio, exigida por Capacidades como Ambidestro); a tabela de campos acompanha o catálogo; Pesado perde a frase redundante sobre Força no dano.
 - **Status:** aprovada.
 - **Arquivos:** `Regras/Equipamentos/Armas.md`, `Catálogo de Armas.md`, `Regras/Personagens/Progressão.md`, `Regras/Competências/Aparador.md`, `Regras/Cenas e Conflitos/Ações/Confrontar.md`, `Regras/Condições/Abalado.md`, `Lento.md` e as versões em `en/`.
+
+**D-069 · 2026-11-04 · 43.A Munição e Recarga (P-43.A1 a P-43.A4)**
+- **Decisão:**
+  - nova Propriedade de Uso **Munição (tipo)**: cada disparo gasta 1 munição, inclusive ao Aceitar o Confronto; sacar a munição faz parte do Ataque; vale o Material da munição; ao fim da Cena, recupera-se metade da munição gasta;
+  - nova Propriedade de Uso **Recarga**: a arma dispara no máximo uma vez por Rodada;
+  - Flechas, Virotes e Balas de funda no Catálogo de Itens (pacotes de 20, Carga 1, preços do 5e);
+  - Arcos, Besta e Funda recebem as Propriedades novas no Catálogo de Armas.
+- **Status:** aprovada.
+- **Arquivos:** `Regras/Equipamentos/Armas.md`, `Catálogo de Armas.md`, `Catálogo de Itens.md` e as versões em `en/`.
+
+**D-070 · 2026-11-04 · 43.B Critério de equilíbrio (P-43.B1 e P-43.B2)**
+- **Decisão:**
+  - orçamento por arma: o Dano base vem da Empunhadura (Leve 1, uma mão 2, Duas mãos 4; à distância Leve 1, Duas mãos 2) e Alcance 2 tira 1 de Dano;
+  - toda arma tem uma Maestria e uma vantagem; uma desvantagem compra +1 de Dano ou mais uma vantagem;
+  - Versátil e Pesado são livres; Valor, Carga e Material ficam fora da conta;
+  - o critério fica em `Design/Equipamentos/Critério de Equilíbrio de Armas.md`, fora das regras.
+- **Status:** aprovada.
+- **Arquivos:** `Design/Equipamentos/Critério de Equilíbrio de Armas.md` (novo).
+
+**D-071 · 2026-11-05 · 43.C Maestrias novas e catálogo (P-43.C1 a P-43.C3)**
+- **Decisão:**
+  - quatro Maestrias novas: Embalo (+1 dado no próximo Ataque contra o mesmo alvo), Raspão (metade do Dano da arma, superficial, quando o alvo vence), Deslocar (move o alvo 1 quadrado) e Perfurar (a Absorção converte 1 ponto a menos);
+  - duas Propriedades de Uso novas, que entram na lista de vantagens do critério: Investida (+1 de Dano depois de 3 quadrados em linha reta) e Guarda (+1 dado ao Esquivar); Disparo Rápido foi proposta e retirada;
+  - 16 armas ajustadas para caber no orçamento da D-070 (tabela na seção 43), incluindo Arco Curto 18, Arco Longo Dano 2 e Alcance 24, Besta 18 e Funda 15.
+- **Status:** aprovada.
+- **Arquivos:** `Regras/Equipamentos/Armas.md`, `Catálogo de Armas.md`, `Design/Equipamentos/Critério de Equilíbrio de Armas.md` e as versões em `en/`.
