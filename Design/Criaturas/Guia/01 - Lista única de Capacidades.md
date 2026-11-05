@@ -21,7 +21,7 @@ O guia de criação de criaturas segue o mesmo fluxo da revisão: uma análise p
 
 ## O que existe hoje
 
-- **Competências:** 14 Competências com 51 Capacidades nomeadas. Sete delas escalam com o Nível: Acrobata, Assassino, Caçador, Duelista, Mentalista, Robusto e a coluna do Atirador. Duas evoluem uma Capacidade anterior (Atirador e Guardião), e várias citam outras Capacidades da mesma Competência pelo nome. Quatro têm requisitos comuns no topo da página: Ambidestro (duas armas), Guardião (escudo), Sentinela (arma corpo a corpo) e Caçador (Perícias usadas). Onze Capacidades custam Vontade.
+- **Competências:** 14 Competências com 51 Capacidades nomeadas. Seis Competências têm Capacidades que escalam com o Nível: Acrobata, Assassino, Caçador, Duelista, Mentalista e Robusto. Duas evoluem uma Capacidade anterior (Atirador e Guardião), e várias citam outras Capacidades da mesma Competência pelo nome. Quatro têm requisitos comuns no topo da página: Ambidestro (duas armas), Guardião (escudo), Sentinela (arma corpo a corpo) e Caçador (Perícias usadas). Onze Capacidades custam Vontade.
 - **Características de NPC:** 20 características em uma página própria, já com valores configuráveis entre parênteses (Potência, Margem, alcance).
 - **NPCs:** a ficha não diz como um NPC recebe uma Capacidade de Competência. Na prática, o Narrador daria Níveis de Competência ao NPC.
 
