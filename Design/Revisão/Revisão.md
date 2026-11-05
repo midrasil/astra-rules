@@ -93,8 +93,8 @@ Status: `[ ]` pendente · `[~]` em discussão · `[x]` concluída
 **Equipamentos**
 - [x] 41 · [Equipamentos (índice, carga e Sobrecarga)](Seções/41%20-%20Equipamentos.md)
 - [x] 42 · [Armas](Seções/42%20-%20Armas.md)
-- [~] 43 · [Catálogo de Armas](Seções/43%20-%20Cat%C3%A1logo%20de%20Armas.md)
-- [ ] 44 · Armaduras + Catálogo de Armaduras
+- [x] 43 · [Catálogo de Armas](Seções/43%20-%20Cat%C3%A1logo%20de%20Armas.md)
+- [~] 44 · [Armaduras + Catálogo de Armaduras](Seções/44%20-%20Armaduras.md)
 - [ ] 45 · Escudos + Catálogo de Escudos
 - [ ] 46 · Trocar Equipamento
 
