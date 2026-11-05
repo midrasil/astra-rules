@@ -468,3 +468,13 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
   - 16 armas ajustadas para caber no orçamento da D-070 (tabela na seção 43), incluindo Arco Curto 18, Arco Longo Dano 2 e Alcance 24, Besta 18 e Funda 15.
 - **Status:** aprovada.
 - **Arquivos:** `Regras/Equipamentos/Armas.md`, `Catálogo de Armas.md`, `Design/Equipamentos/Critério de Equilíbrio de Armas.md` e as versões em `en/`.
+
+**D-072 · 2026-11-05 · 44 Armaduras (P-44.1 a P-44.3)**
+- **Decisão:**
+  - tabela de campos na ordem do catálogo; o personagem veste uma armadura por vez;
+  - vestir e tirar seguem os tempos do 5e (1, 5 ou 10 minutos para vestir; 1 ou 5 para tirar) e não cabem numa Cena Tática;
+  - nova Propriedade **Ruidosa** (-2 dados em Furtividade); toda armadura Pesada é Ruidosa;
+  - orçamento de armaduras (Absorção base pela Categoria, uma vantagem: +1 de Absorção ou Resistência 1; Ruidosa compra mais uma) e catálogo ajustado: Gibão, Couro, Peles e Camisão ganham Resistências, Couro Batido passa a Perfurante, Brunea sobe para Absorção 3, Talas ganha Resistência a Perfurante e Carga 3;
+  - o critério de equilíbrio passa a cobrir armas e armaduras, em `Design/Equipamentos/Critério de Equilíbrio de Equipamentos.md` (antes `Critério de Equilíbrio de Armas.md`).
+- **Status:** aprovada.
+- **Arquivos:** `Regras/Equipamentos/Armaduras.md`, `Catálogo de Armaduras.md`, `Regras/Resistência e Vulnerabilidade/Resistência e Vulnerabilidade.md`, o critério em `Design/` e as versões em `en/`.

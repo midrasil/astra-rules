@@ -3,7 +3,7 @@
 **Arquivos:** `Regras/Equipamentos/Armaduras.md`, `Regras/Equipamentos/Catálogo de Armaduras.md` (e `en/`)
 **Relacionadas:** Resistência e Vulnerabilidade (Absorção Efetiva), Confrontar (Esquivar), Perfurar (D-071), Características de NPC (ignorar a Absorção da armadura), Zonas, Furtividade
 **Pendências que chegam aqui:** nenhuma
-**Status:** em análise
+**Status:** decidida (D-072) e aplicada; aguardando o merge do PR
 
 ## O que está estabelecido
 
@@ -119,3 +119,8 @@ Proponho juntar as armaduras ao arquivo do critério das armas e renomeá-lo par
 - Propriedade nova: **Ruidosa** — "a armadura impõe **-2 dados** nos testes de [Furtividade](../Personagens/Per%C3%ADcias.md)." Toda armadura Pesada é Ruidosa.
 - Orçamento de armaduras gravado no critério, que passa a se chamar `Critério de Equilíbrio de Equipamentos.md`.
 - Catálogo conforme a tabela "Catálogo com o orçamento".
+
+## Decisões do autor (2026-11-05)
+
+- "podemos rever o funcionamento das armaduras seguindo a linha orçamentária que fizemos para as armas": a P-44.3 original foi substituída pelo orçamento de armaduras.
+- "concordo": P-44.1, P-44.2 e P-44.3 (com o orçamento) aprovadas (D-072). O critério passou a se chamar `Critério de Equilíbrio de Equipamentos.md`.

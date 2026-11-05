@@ -4,22 +4,21 @@ As armaduras disponíveis no núcleo estão em [Catálogo de Armaduras](Cat%C3%A
 
 Cada armadura é descrita pelos seguintes campos:
 
-| Campo            | Descrição                                                           |
-| ---------------- | ------------------------------------------------------------------- |
-| **Nome**         | o nome da armadura                                                  |
-| **Categoria**    | Leve, Média ou Pesada (ver [Categorias](#categorias))               |
-| **Força mínima** | a Força necessária para vestir a armadura sem perder Movimentação   |
-| **Descrição**    | uma descrição breve da armadura                                     |
-| **Absorção**     | quantos pontos de dano agravado são convertidos em dano superficial |
-| **Propriedades** | características especiais da armadura                               |
-| **Carga**        | quanto ocupa da Carga máxima                                      |
-| **Valor**        | o custo da armadura                                                 |
+| Campo            | Descrição                                                                 |
+| ---------------- | ------------------------------------------------------------------------- |
+| **Nome**         | o nome da armadura                                                        |
+| **Categoria**    | Leve, Média ou Pesada (ver [Categorias](#categorias))                     |
+| **Absorção**     | quantos pontos de dano agravado são convertidos em dano superficial       |
+| **Força mínima** | a Força necessária para vestir a armadura sem perder Movimentação         |
+| **Carga**        | quanto ocupa da Carga máxima                                              |
+| **Valor**        | o custo da armadura                                                       |
+| **Propriedades** | características especiais da armadura (ver [Propriedades](#propriedades)) |
 
 ## Absorção
 
 A **Absorção** de uma armadura indica **quanto dano agravado recebido é convertido em dano superficial**.
 
-Ao sofrer dano de um Ataque, o personagem converte para superficial um número de pontos de dano agravado igual à sua Absorção — nunca mais do que o próprio dano agravado recebido. A Absorção total é a soma da **Absorção base** do personagem e da Absorção das armaduras equipadas. A Absorção base pode ser aumentada ou reduzida por efeitos, mas nunca fica abaixo de 0.
+Ao sofrer dano de um Ataque, o personagem converte para superficial um número de pontos de dano agravado igual à sua Absorção — nunca mais do que o próprio dano agravado recebido. A Absorção total é a soma da **Absorção base** do personagem e da Absorção da armadura vestida. O personagem veste **uma armadura por vez**. A Absorção base pode ser aumentada ou reduzida por efeitos, mas nunca fica abaixo de 0.
 
 Por exemplo: uma armadura com **Absorção 2** sofre um Ataque que causa **3 de dano agravado**. São convertidos **2 pontos** em dano superficial, e apenas **1 ponto** permanece agravado.
 
@@ -39,6 +38,11 @@ Toda armadura tem uma **Categoria**, que organiza sua Absorção, penalidade ao 
 
 - **Esquivar:** com armadura Média ou Pesada, a Reserva de Esquivar perde dados iguais à **Absorção da armadura**. A Absorção base do personagem e as Resistências não contam.
 - **Força mínima:** com Força abaixo da Força mínima da armadura vestida, o personagem tem **-2 de Movimentação**.
+- **Pesada:** toda armadura Pesada é **Ruidosa** (ver [Propriedades](#propriedades)).
+
+## Vestir e Tirar
+
+Vestir uma armadura leva **1 minuto** (Leve), **5 minutos** (Média) ou **10 minutos** (Pesada). Tirá-la leva **1 minuto** (Leve ou Média) ou **5 minutos** (Pesada). Não é possível vestir ou tirar uma armadura durante uma Cena Tática.
 
 ## Propriedades
 
@@ -46,6 +50,7 @@ As **Propriedades** representam características especiais de uma armadura. A li
 
 - **Resistência a [Tipo] (valor)** — a armadura concede [Resistência](../Resist%C3%AAncia%20e%20Vulnerabilidade/Resist%C3%AAncia.md) ao [Tipo de Dano](Armas.md#tipos-de-dano) indicado. O valor é somado à [Absorção Efetiva](../Resist%C3%AAncia%20e%20Vulnerabilidade/Resist%C3%AAncia%20e%20Vulnerabilidade.md#absor%C3%A7%C3%A3o-efetiva) contra aquele Tipo — por exemplo, uma armadura com **Absorção 2** e **Resistência a Corte 1** tem Absorção Efetiva 3 contra Corte e 2 contra os demais Tipos.
 - **Vulnerabilidade a [Tipo] (valor)** — a armadura deixa o portador [vulnerável](../Resist%C3%AAncia%20e%20Vulnerabilidade/Resist%C3%AAncia%20e%20Vulnerabilidade.md) ao Tipo de Dano indicado. O valor é subtraído da [Absorção Efetiva](../Resist%C3%AAncia%20e%20Vulnerabilidade/Resist%C3%AAncia%20e%20Vulnerabilidade.md#absor%C3%A7%C3%A3o-efetiva) contra aquele Tipo — por exemplo, as armaduras de metal têm **Vulnerabilidade a Elétrica 1**: uma Cota de Malha com Absorção 4 fica com 3 contra Elétrica.
+- **Ruidosa** — a armadura impõe **-2 dados** nos testes de [Furtividade](../Personagens/Per%C3%ADcias.md).
 
 Módulos e cenários podem adicionar novas propriedades e armaduras ao catálogo do núcleo.
 
