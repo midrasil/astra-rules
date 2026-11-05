@@ -1,9 +1,15 @@
-<!-- source: 33bcd60155cf -->
+<!-- source: 611f86a598b2 -->
 # Conditions
 
 A **Condition** is a state that affects a character during a Scene, imposing mechanical effects while it stays active.
 
 Conditions are applied by Actions, Maneuvers, Capabilities or other rules. They are all gathered here as the single core reference.
+
+## General rules
+
+- **Duration:** unless stated otherwise, a Condition ends at the end of the Scene. Conditions tied to the [Health](../Personagens/Vida.md) track and those with their own way of ending, such as Prone and Grappled, follow their own rules.
+- **Turns:** a duration in Turns counts the affected character's Turns. The Condition ends at the end of the last of those Turns.
+- **Applying again:** a Condition the character already has does not stack. It only renews the duration, and the duration that ends last applies. **Stacking** Conditions, such as Fear, Aiming and Bleeding, say how they stack.
 
 ## Conditions
 
@@ -17,6 +23,7 @@ Conditions are applied by Actions, Maneuvers, Capabilities or other rules. They 
 - [Paralyzed](Paralisado.md) — no Action and no Movement.
 - [Stunned](Atordoado.md) — no Action.
 - [Fear](Medo.md) — stacking penalty on every Pool.
+- [Bleeding](Sangrando.md) — stacking superficial damage at the end of each Turn.
 - [Aiming](Mirando.md) — stacks the bonus of the Aim Maneuver for the next ranged Attack.
 - [Read](Lido.md) — analyzed by another character; no effect of its own, used by Capabilities.
 - [Challenged](Desafiado.md) — provoked by a Duelist; penalizes Confronts started against other creatures.
