@@ -83,3 +83,8 @@ Acrescentar **Capacidades** às áreas do Readme. Pela ordem de dependência da 
 ### P-G01.3 · Links de volta
 
 Acrescentar, nas páginas de Competências e de Características de NPC, uma linha que remeta ao índice. Nenhum texto de Capacidade muda.
+
+## Decisões do autor (2026-11-05)
+
+- **Ficha de NPC:** continua sendo a ficha de jogador simplificada (detalhes na parte 02). O campo de Competências vira uma lista de **Capacidades soltas**, para NPCs humanos e criaturas. Um NPC que deveria ser "Sentinela 2" recebe as duas Capacidades desses Níveis, com N = 2, então nada se perde em relação a dar Níveis de Competência.
+- **P-G01.1 a P-G01.3:** aguardando aprovação.
