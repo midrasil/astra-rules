@@ -113,6 +113,7 @@ Itens para revisitar. Cada um tem um **gatilho**: o momento da revisão em que d
 - **Decidido em princípio:** as Competências continuam existindo para os jogadores (não viram feats compráveis um a um). Capacidades que hoje escalam com o Nível da Competência passam a ter um valor configurável, como "Nada Escapa (N)": na Competência, N é o Nível; no NPC, é o valor escolhido. As Características de NPC atuais entram na mesma lista.
 - **Gatilho:** desenho à parte, com a Q-003 (Fundamento) na seção 53.
 - **Gatilho atualizado (seção 53):** guia de criação de criaturas, desenho à parte.
+- **Status:** fechada no guia de criaturas, parte 01 (D-083): índice único em `Regras/Capacidades/` e Capacidades soltas para NPCs; Capacidades soltas para personagens seguem na Q-018.
 
 **Q-016 · Dano de queda**
 - **Origem:** seção 34.
@@ -125,3 +126,8 @@ Itens para revisitar. Cada um tem um **gatilho**: o momento da revisão em que d
 - **Descrição:** Agarrado só termina quando o alvo escapa. Falta dizer se quem agarra pode soltar, se o agarrão acaba quando os dois deixam de estar adjacentes ou quando quem agarra fica Incapacitado, e se agarrar exige uma mão livre.
 - **Gatilho:** seção 48 (Condições).
 - **Status:** fechada na seção 49 (D-077): quem agarra solta sem Ação; o agarrão acaba sem adjacência ou com quem agarra Incapacitado ou Paralisado; agarrar exige uma mão livre.
+
+**Q-018 · Capacidades soltas para personagens e a lista antiga de Trunfos**
+- **Origem:** guia de criaturas, parte 01 (ideia do autor, 2026-11-05).
+- **Descrição:** personagens poderiam receber Capacidades soltas como recompensa de campanha, bênção, item ou por um futuro módulo de magia, sem comprá-las com XP. Os Trunfos e Privilégios de `Design/Arquivo/Privilégios/` que não viraram Competência seriam a fonte inicial.
+- **Gatilho:** depois do guia de criaturas, por decisão do autor.

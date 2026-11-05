@@ -111,6 +111,8 @@ Quando a criatura **vence um Ataque com um Ataque natural corpo a corpo**, o alv
 
 - **Descrição:** até o alcance, a criatura trata a **Penumbra** como **Claro** e o **Escuro** como **Penumbra**, mas enxerga sem distinguir cores. Além do alcance, a [Iluminação](../Cenas%20e%20Conflitos/Ilumina%C3%A7%C3%A3o.md) vale normalmente. A [escuridão sobrenatural](../Cenas%20e%20Conflitos/Ilumina%C3%A7%C3%A3o.md#escurid%C3%A3o-sobrenatural) bloqueia a Visão no Escuro.
 
+NPCs também podem receber Capacidades de Competências como Capacidades soltas (ver [Capacidades](../Capacidades/Capacidades.md#uso-por-npcs)).
+
 ---
 
 ← [Voltar para Criaturas](Criaturas.md)

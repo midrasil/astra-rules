@@ -25,7 +25,7 @@ Para conhecer o sistema, esta é a ordem de leitura recomendada:
 
 ## Regras do sistema
 
-O núcleo está organizado em nove áreas principais, na ordem em que dependem umas das outras:
+O núcleo está organizado em dez áreas principais, na ordem em que dependem umas das outras:
 
 - [Mecânica Básica](Regras/Mec%C3%A2nica%20B%C3%A1sica/Mec%C3%A2nica%20B%C3%A1sica.md) — resolução de testes e resultados.
 - [Personagens](Regras/Personagens/Personagens.md) — capacidades, recursos, motivações e características dos personagens.
@@ -35,6 +35,7 @@ O núcleo está organizado em nove áreas principais, na ordem em que dependem u
 - [Resistência e Vulnerabilidade](Regras/Resist%C3%AAncia%20e%20Vulnerabilidade/Resist%C3%AAncia%20e%20Vulnerabilidade.md) — como personagens e criaturas reagem a tipos de dano.
 - [Condições](Regras/Condi%C3%A7%C3%B5es/Condi%C3%A7%C3%B5es.md) — estados que afetam os personagens durante uma cena.
 - [Competências](Regras/Compet%C3%AAncias/Compet%C3%AAncias.md) — conjuntos de Capacidades que modificam aquilo que o personagem consegue fazer.
+- [Capacidades](Regras/Capacidades/Capacidades.md) — lista única das Capacidades de Competências e das Características de NPC, com as regras de uso por NPCs.
 - [Criaturas](Regras/Criaturas/Criaturas.md) — tipos de criatura e características próprias de NPCs.
 
 Todas as regras desta página são do núcleo. Os módulos, quando existirem, ficam em pastas próprias.
