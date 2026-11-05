@@ -22,7 +22,7 @@ Todo equipamento possui um **Valor**, usado para comparar preços e montar orça
 
 ## Uso durante cenas
 
-- [Trocar Equipamento](Trocar%20Equipamento.md) — ação utilizada para substituir um item que já está em uso.
+- [Trocar Equipamento](Trocar%20Equipamento.md) — sacar, guardar e trocar equipamentos durante a Cena Tática.
 - [Cenas e Conflitos](../Cenas%20e%20Conflitos/Cenas%20e%20Conflitos.md) — regras para confrontos e outras decisões táticas.
 
 ## Carga

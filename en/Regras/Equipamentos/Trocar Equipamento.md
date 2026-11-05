@@ -1,38 +1,32 @@
-<!-- source: 639b662ed152 -->
+<!-- source: c22f16133fe2 -->
 # Switching Equipment
 
-Drawing a piece of equipment for the first time during a Tactical Scene usually does not take an Action.
+During a Tactical Scene, the character can draw, stow and switch equipment.
 
-When a character uses a weapon, shield, tool or other equipment that was not yet in use, drawing it can be part of the Action itself.
+## Drawing and Stowing
 
-For example, a character can draw their sword and start a Confront as part of the same Action.
+Once per Turn, the character can **draw or stow one piece of equipment** without spending an Action, as part of their Movement or Action. For example, they can draw their sword and start a Confront as part of the same Action.
 
-## Switch Equipment
+Dropping a piece of equipment on the ground never takes an Action.
 
-Once the character already has equipment in use, replacing it with something else takes the **Switch Equipment** Action.
+## Switching Equipment
 
-This Action represents stowing, rearranging or replacing what the character is using with other available equipment. This also covers dropping a piece of equipment on the ground to take another.
+Doing more than that in the same Turn, such as stowing one weapon and drawing another, takes the **Switching Equipment** Action.
 
-The switch can involve a single item or a set of equipment, as long as the change can reasonably be done during the Turn.
+The switch can involve a single item or a set of equipment, as long as the change can reasonably be made during the Turn. For example, a character could use Switching Equipment to:
 
-For example, a character could use Switch Equipment to:
-
-- swap a sword for a bow;
+- replace a sword with a bow;
 - stow a weapon and equip a shield;
-- swap weapon and shield for a weapon that needs both hands;
+- swap a weapon and shield for a weapon that needs both hands;
 - replace the set of equipment currently in use with another prepared set.
 
-The chosen equipment counts as in use as soon as the Action is done.
+The chosen equipment counts as in use as soon as the Action is complete.
 
-## Drawing is not Switching
+## Picking Up from the Ground
 
-Using a piece of equipment for the first time does not count as a switch.
+Picking up a piece of equipment from the **ground** takes the Switching Equipment Action, even with a free hand. This includes recovering a weapon lost to [Disarm](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Manobras.md#disarm).
 
-An Action is only needed when the character has to replace equipment that was already in use.
-
-Taking a piece of equipment with a **free hand** is also drawing, even if the character already has other equipment in use. For example, a character with a sword in one hand can draw a dagger with the other without using Switch Equipment.
-
-Picking up equipment from the **ground** is not drawing: it takes the Switch Equipment Action, even with a free hand. This includes recovering a weapon lost to [Disarm](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Manobras.md#disarm).
+Armor cannot be put on or taken off during a Tactical Scene (see [Putting On and Taking Off](Armaduras.md#putting-on-and-taking-off)).
 
 ---
 

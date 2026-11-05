@@ -95,8 +95,8 @@ Status: `[ ]` pendente · `[~]` em discussão · `[x]` concluída
 - [x] 42 · [Armas](Seções/42%20-%20Armas.md)
 - [x] 43 · [Catálogo de Armas](Seções/43%20-%20Cat%C3%A1logo%20de%20Armas.md)
 - [x] 44 · [Armaduras + Catálogo de Armaduras](Seções/44%20-%20Armaduras.md)
-- [~] 45 · [Escudos + Catálogo de Escudos](Seções/45%20-%20Escudos.md)
-- [ ] 46 · Trocar Equipamento
+- [x] 45 · [Escudos + Catálogo de Escudos](Seções/45%20-%20Escudos.md)
+- [~] 46 · [Trocar Equipamento](Seções/46%20-%20Trocar%20Equipamento.md)
 
 **Resistência e Vulnerabilidade**
 - [ ] 47 · Resistência e Vulnerabilidade (índice) + Resistência + Vulnerabilidade + Imunidade

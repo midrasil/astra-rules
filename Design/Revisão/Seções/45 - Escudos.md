@@ -3,7 +3,7 @@
 **Arquivos:** `Regras/Equipamentos/Escudos.md`, `Regras/Equipamentos/Catálogo de Escudos.md` (e `en/`)
 **Relacionadas:** Confrontar (Defender), Aparador, Guardião (Cobrir Aliado), Ambidestro (Guarda Cruzada), Guarda (D-071), Critério de Equilíbrio de Equipamentos
 **Pendências que chegam aqui:** Q-013 (Aparador × Escudo)
-**Status:** decidida (D-073) e aplicada; aguardando o merge do PR
+**Status:** concluída (PR #67, mergeado em 2026-11-05)
 
 ## O que está estabelecido
 

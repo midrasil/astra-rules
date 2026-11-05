@@ -1,18 +1,16 @@
-Sacar um equipamento pela primeira vez durante uma Cena Tática normalmente não exige uma Ação.
+Durante uma Cena Tática, o personagem pode sacar, guardar e trocar equipamentos.
 
-Quando um personagem utiliza uma arma, escudo, ferramenta ou outro equipamento que ainda não estava em uso, o ato de sacá-lo pode fazer parte da própria Ação realizada.
+## Sacar e Guardar
 
-Por exemplo, um personagem pode sacar sua espada e iniciar um Confronto como parte da mesma Ação.
+Uma vez por Turno, o personagem pode **sacar ou guardar um equipamento** sem gastar Ação, como parte da Movimentação ou da Ação. Por exemplo, ele pode sacar a espada e iniciar um Confronto como parte da mesma Ação.
+
+Soltar um equipamento no chão nunca exige Ação.
 
 ## Trocar Equipamento
 
-Depois que o personagem já possui um equipamento em uso, substituí-lo por outro exige a Ação **Trocar Equipamento**.
+Fazer mais do que isso no mesmo Turno, como guardar uma arma e sacar outra, exige a Ação **Trocar Equipamento**.
 
-Essa Ação representa guardar, reorganizar ou substituir aquilo que o personagem está utilizando por outro equipamento disponível. Isso também vale no caso de jogar um equipamento no chão para pegar outro.
-
-A troca pode envolver um único item ou um conjunto de equipamentos, desde que a mudança possa ser realizada de maneira razoável durante o Turno.
-
-Por exemplo, um personagem poderia utilizar Trocar Equipamento para:
+A troca pode envolver um único item ou um conjunto de equipamentos, desde que a mudança possa ser realizada de maneira razoável durante o Turno. Por exemplo, um personagem poderia utilizar Trocar Equipamento para:
 
 - substituir uma espada por um arco;
 - guardar uma arma e equipar um escudo;
@@ -21,15 +19,11 @@ Por exemplo, um personagem poderia utilizar Trocar Equipamento para:
 
 O equipamento escolhido passa a ser considerado em uso assim que a Ação é concluída.
 
-## Sacar não é Trocar
+## Pegar do Chão
 
-A primeira utilização de um equipamento não é considerada uma troca.
+Pegar um equipamento do **chão** exige a Ação Trocar Equipamento, mesmo com uma mão livre. Isso inclui recuperar uma arma perdida por [Desarmar](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Manobras.md#desarmar).
 
-O custo de uma Ação passa a existir quando o personagem precisa substituir equipamentos que já estavam em uso.
-
-Pegar um equipamento com uma **mão livre** também é sacar, mesmo que o personagem já tenha outro equipamento em uso. Por exemplo, um personagem com uma espada em uma mão pode sacar uma adaga com a outra sem utilizar Trocar Equipamento.
-
-Pegar um equipamento do **chão** não é sacar: exige a Ação Trocar Equipamento, mesmo com uma mão livre. Isso inclui recuperar uma arma perdida por [Desarmar](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Manobras.md#desarmar).
+Armaduras não podem ser vestidas nem tiradas durante uma Cena Tática (ver [Vestir e Tirar](Armaduras.md#vestir-e-tirar)).
 
 ---
 

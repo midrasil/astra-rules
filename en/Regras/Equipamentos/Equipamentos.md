@@ -1,4 +1,4 @@
-<!-- source: 229659123d74 -->
+<!-- source: 12a38cbe930a -->
 # Equipment
 
 Equipment is the objects characters carry and use, whether to attack, protect themselves or carry out other tasks.
@@ -25,7 +25,7 @@ All equipment has a **Value**, used to compare prices and build budgets. Value i
 
 ## Use during scenes
 
-- [Switching Equipment](Trocar%20Equipamento.md) — the action used to replace an item that is already in use.
+- [Switching Equipment](Trocar%20Equipamento.md) — drawing, stowing and switching equipment during the Tactical Scene.
 - [Scenes and Conflicts](../Cenas%20e%20Conflitos/Cenas%20e%20Conflitos.md) — rules for confrontations and other tactical decisions.
 
 ## Load

@@ -488,3 +488,11 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
   - orçamento de escudos no critério de equipamentos.
 - **Status:** aprovada.
 - **Arquivos:** `Regras/Equipamentos/Escudos.md`, `Catálogo de Escudos.md`, `Regras/Cenas e Conflitos/Ações/Confrontar.md`, o critério em `Design/` e as versões em `en/`.
+
+**D-074 · 2026-11-05 · 46 Trocar Equipamento (P-46.1 e P-46.2)**
+- **Decisão:**
+  - uma vez por Turno, sacar ou guardar um equipamento não exige Ação (modelo do 5e); soltar nunca exige; mais do que isso exige Trocar Equipamento; pegar do chão continua exigindo a Ação;
+  - saem "pela primeira vez" e "Sacar não é Trocar", o que fecha a brecha de soltar uma arma e sacar outra de graça sem custo;
+  - frase lembrando que armaduras não se trocam numa Cena Tática; descrição do link em Equipamentos atualizada.
+- **Status:** aprovada.
+- **Arquivos:** `Regras/Equipamentos/Trocar Equipamento.md`, `Regras/Equipamentos/Equipamentos.md` e as versões em `en/`.
