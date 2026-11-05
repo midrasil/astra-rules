@@ -27,7 +27,7 @@ Aplicando a mesma pergunta da 43 ("cada armadura tem um motivo para ser escolhid
 4. **Leves:** Gibão (5), Couro (10) e Peles Grossas (10) são idênticos, só mudam o nome e o Valor. O Gibão é melhor em tudo que os outros dois, porque é mais barato. O Couro Batido tem Resistência a Corte e custa 45; ser melhor por custar mais é uma escolha legítima.
 5. **Médias:** o Camisão de Malha e a Brunea de Escamas custam 50 e têm Absorção 2, mas a Brunea ainda tem Resistência a Perfurante. A Brunea é melhor em tudo que o Camisão.
 6. **Pesadas:** a Armadura de Talas tem a mesma Absorção da Cota de Malha (4), sem a Resistência a Corte, e Carga maior (4 contra 3). A Cota é melhor em tudo, e ainda mais barata.
-7. **O que o 5e usa para diferenciar armaduras do mesmo nível: a desvantagem em Furtividade.** Ela vale no Gibão Acolchoado, na Brunea de Escamas e em todas as Pesadas. O Astra tem Furtividade, mas nenhuma armadura pesa nela. Proponho uma Propriedade nova, **Ruidosa: -2 dados em Furtividade**. Com ela e uma Resistência em cada caso, cada armadura passa a ter um motivo:
+7. **O que o 5e usa para diferenciar armaduras do mesmo nível: a desvantagem em Furtividade.** Ela vale no Gibão Acolchoado, na Brunea de Escamas e em todas as Pesadas. O Astra tem Furtividade, mas nenhuma armadura pesa nela. Proponho uma Propriedade nova, **Ruidosa: -2 dados em Furtividade**. Com ela e uma Resistência em cada caso, cada armadura passa a ter um motivo (tabela substituída pelo orçamento, mais abaixo):
 
 | Armadura | Hoje | Proposta | Motivo para escolher |
 |---|---|---|---|
@@ -51,6 +51,58 @@ Aplicando a mesma pergunta da 43 ("cada armadura tem um motivo para ser escolhid
 - **Perfurar** (D-071) e a característica de NPC que ignora a Absorção da armadura convivem bem com a regra atual.
 - **Valores:** batem com o 5e.
 
+## Orçamento de armaduras (pedido do autor em 2026-11-05)
+
+O autor pediu para rever as armaduras com a mesma lógica do orçamento das armas (D-070). Esta parte substitui a tabela do item 7 e a P-44.3 original.
+
+### Análise
+
+1. **O que a Categoria já fixa:** a Absorção base, a Força mínima, a penalidade ao Esquivar e a Carga. É o equivalente ao Dano base da Empunhadura nas armas.
+2. **O que diferencia armaduras da mesma Categoria:** mais Absorção e Resistências. Isso faz o papel das vantagens.
+3. **Uma desvantagem compra mais uma vantagem**, como nas armas. A desvantagem que existe é **Ruidosa** (-2 dados em Furtividade), a do 5e.
+4. **Nas Pesadas, Ruidosa é da Categoria.** No 5e, todas as armaduras pesadas atrapalham a furtividade. Proponho que Ruidosa faça parte do custo da Categoria Pesada, como a Força 3, e não conte como desvantagem.
+5. **+1 de Absorção se paga sozinho em parte.** Nas Médias e Pesadas, a penalidade ao Esquivar é igual à Absorção. Quem escolhe a armadura de Absorção maior também perde mais dados ao Esquivar. Mesmo assim, conto o +1 como vantagem, porque a Absorção vale contra todo Ataque e o Esquivar é só uma das três respostas.
+6. **A Vulnerabilidade a Elétrica do metal fica fora da conta**, como o Material nas armas. Ela muda contra o que a armadura é ruim, não o quanto ela é boa.
+7. **Leves não ganham +1 de Absorção.** Uma Leve com Absorção 2 teria a proteção de uma Média sem nenhuma penalidade. A vantagem das Leves é sempre uma Resistência.
+
+### Orçamento
+
+| Categoria | Absorção base | Custo da Categoria |
+|---|---:|---|
+| Leve | 1 | nenhum |
+| Média | 2 | Força 2, Esquivar -Absorção, Carga 2 |
+| Pesada | 4 | Força 3, Esquivar -Absorção, Carga 3 ou 4, Ruidosa |
+
+- Toda armadura tem **uma vantagem**, escolhida entre:
+  - **+1 de Absorção** (só Média e Pesada);
+  - **Resistência 1** a um Tipo.
+- **Ruidosa**, numa Leve ou Média, compra **mais uma vantagem**.
+- **Fora da conta:** Valor, Carga dentro da faixa da Categoria e a Vulnerabilidade a Elétrica do metal.
+
+### Catálogo com o orçamento
+
+| Armadura | Absorção | Vantagem | Desvantagem | Muda em relação a hoje |
+|---|---:|---|---|---|
+| Gibão Acolchoado | 1 | Resistência a Contusão 1 e a Perfurante 1 | Ruidosa | + as duas Resistências, + Ruidosa |
+| Armadura de Couro | 1 | Resistência a Corte 1 | — | + Resistência a Corte 1 |
+| Peles Grossas | 1 | Resistência a Gelo 1 | — | + Resistência a Gelo 1 |
+| Couro Batido | 1 | Resistência a Perfurante 1 | — | Resistência a Corte → **Perfurante** |
+| Camisão de Malha | 2 | Resistência a Corte 1 | — | + Resistência a Corte 1 |
+| Brunea de Escamas | **3** | Resistência a Perfurante 1 e +1 de Absorção | Ruidosa | Absorção 2 → **3**, + Ruidosa |
+| Placa Peitoral | 3 | +1 de Absorção | — | (igual) |
+| Cota de Malha | 4 | Resistência a Corte 1 | (Ruidosa da Categoria) | + Ruidosa |
+| Armadura de Talas | 4 | Resistência a Perfurante 1 | (Ruidosa da Categoria) | + Resistência a Perfurante 1, + Ruidosa; Carga 4 → **3** |
+| Armadura Completa | 5 | +1 de Absorção | (Ruidosa da Categoria) | + Ruidosa |
+
+Como fica a escolha:
+- **Leves:** cada uma protege contra um Tipo. O Gibão protege contra dois, mas faz barulho. O Couro e o Couro Batido custam valores diferentes pelo mesmo orçamento, como o 5e; o Valor fica fora da conta.
+- **Médias:** a Placa Peitoral é a de Absorção 3 silenciosa. A Brunea tem a mesma Absorção e ainda Resistência a Perfurante, mas é Ruidosa. O Camisão é o mais leve no Esquivar (-2).
+- **Pesadas:** a Cota protege contra Corte, a de Talas contra Perfurante e a Completa tem a maior Absorção (e a maior penalidade ao Esquivar, -5).
+
+### Onde o critério fica
+
+Proponho juntar as armaduras ao arquivo do critério das armas e renomeá-lo para `Design/Equipamentos/Critério de Equilíbrio de Equipamentos.md`. A seção 45 (Escudos) pode usar o mesmo arquivo.
+
 ## Propostas
 
 ### P-44.1 · Texto
@@ -62,8 +114,8 @@ Aplicando a mesma pergunta da 43 ("cada armadura tem um motivo para ser escolhid
 
 > Vestir uma armadura leva **1 minuto** (Leve), **5 minutos** (Média) ou **10 minutos** (Pesada). Tirá-la leva **1 minuto** (Leve ou Média) ou **5 minutos** (Pesada). Não é possível vestir ou tirar uma armadura durante uma Cena Tática.
 
-### P-44.3 · Ruidosa e catálogo
+### P-44.3 · Orçamento, Ruidosa e catálogo
 
-- Propriedade nova: **Ruidosa** — "a armadura impõe **-2 dados** nos testes de [Furtividade](../Personagens/Per%C3%ADcias.md)."
-- Catálogo conforme a tabela da análise.
-- **Alternativa:** manter o catálogo como está e aceitar as armaduras iguais, como diferenças só de aparência.
+- Propriedade nova: **Ruidosa** — "a armadura impõe **-2 dados** nos testes de [Furtividade](../Personagens/Per%C3%ADcias.md)." Toda armadura Pesada é Ruidosa.
+- Orçamento de armaduras gravado no critério, que passa a se chamar `Critério de Equilíbrio de Equipamentos.md`.
+- Catálogo conforme a tabela "Catálogo com o orçamento".
