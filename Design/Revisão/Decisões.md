@@ -527,3 +527,12 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
   - arrastar: quem agarra usa Movimentação Especial e põe o alvo adjacente a cada quadrado; para o alvo, é deslocamento forçado.
 - **Status:** aprovada.
 - **Arquivos:** `Regras/Condições/Caído.md`, `Regras/Condições/Agarrado.md`, `Regras/Cenas e Conflitos/Ações/Manobras.md`, `Regras/Movimento/Movimentação.md` e as versões em `en/`.
+
+**D-078 · 2026-11-05 · 50 Debilitado + Lento + Abalado + Envenenado (P-50.1 a P-50.3)**
+- **Decisão:**
+  - Abalado vale no próximo Ataque, iniciado ou feito ao Aceitar o Confronto; Manobras, Defender e Esquivar não contam nem encerram a Condição;
+  - Envenenado dura o que a fonte indicar (na Venenosa, a Potência) e pode vir de características, Capacidades, itens e outros efeitos;
+  - Envenenado entra nos exemplos de Ignorar Penalidades Físicas da Vontade;
+  - Debilitado e Lento sem mudança.
+- **Status:** aprovada.
+- **Arquivos:** `Regras/Condições/Abalado.md`, `Regras/Condições/Envenenado.md`, `Regras/Personagens/Vontade.md` e as versões em `en/`.

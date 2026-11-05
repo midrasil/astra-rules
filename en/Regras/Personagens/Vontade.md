@@ -1,4 +1,4 @@
-<!-- source: 8f66efaa60fc -->
+<!-- source: be5d7160b63e -->
 # Willpower
 
 **Willpower** is a **resource**: the character spends it to push past their own limits. While [Health](Vida.md) represents the character's physical condition, the damage built up on the Willpower track represents the state of their **psyche**: the strain of that effort and the marks left by their Convictions.
@@ -59,7 +59,7 @@ On an opposed roll, whoever started the action (for example, the attacker in a C
 
 ### Ignore Physical Penalties
 
-The character can take **1 point of superficial Willpower damage** to ignore, on the roll where Willpower is used, the dice penalties caused by their physical condition, such as those of [Debilitated](../Condi%C3%A7%C3%B5es/Debilitado.md), [Prone](../Condi%C3%A7%C3%B5es/Ca%C3%ADdo.md), [Grappled](../Condi%C3%A7%C3%B5es/Agarrado.md) and [Overload](../Equipamentos/Equipamentos.md#overload).
+The character can take **1 point of superficial Willpower damage** to ignore, on the roll where Willpower is used, the dice penalties caused by their physical condition, such as those of [Debilitated](../Condi%C3%A7%C3%B5es/Debilitado.md), [Poisoned](../Condi%C3%A7%C3%B5es/Envenenado.md), [Prone](../Condi%C3%A7%C3%B5es/Ca%C3%ADdo.md), [Grappled](../Condi%C3%A7%C3%B5es/Agarrado.md) and [Overload](../Equipamentos/Equipamentos.md#overload).
 
 For example, a **Debilitated** character normally suffers **-2 dice on rolls that use a Physical Attribute**. By using Willpower, they can ignore that penalty on that roll.
 

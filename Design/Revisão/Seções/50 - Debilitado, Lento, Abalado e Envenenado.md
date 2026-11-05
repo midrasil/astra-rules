@@ -3,7 +3,7 @@
 **Arquivos:** `Regras/Condições/Debilitado.md`, `Lento.md`, `Abalado.md`, `Envenenado.md` e `en/`; um exemplo em `Regras/Personagens/Vontade.md`
 **Relacionadas:** Vida, Vontade (Ignorar Penalidades Físicas), Reserva de Dados (Penalidades), Armas (Debilitante), Características de NPC (Venenosa), Condições (Regras gerais, D-076)
 **Pendências que chegam aqui:** nenhuma
-**Status:** em análise
+**Status:** decidida (D-078) e aplicada; aguardando o merge do PR
 
 ## O que está estabelecido
 
@@ -48,3 +48,7 @@ As quatro Condições são curtas e, em geral, claras. Com as Regras gerais da D
 ### P-50.3 · Vontade (Ignorar Penalidades Físicas)
 
 Acrescentar [Envenenado](../Condi%C3%A7%C3%B5es/Envenenado.md) aos exemplos: "como as de Debilitado, Envenenado, Caído, Agarrado e Sobrecarga".
+
+## Decisões do autor (2026-11-05)
+
+- **P-50.1 a P-50.3:** aprovadas como propostas.
