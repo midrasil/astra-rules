@@ -125,3 +125,8 @@ Itens para revisitar. Cada um tem um **gatilho**: o momento da revisão em que d
 - **Descrição:** Agarrado só termina quando o alvo escapa. Falta dizer se quem agarra pode soltar, se o agarrão acaba quando os dois deixam de estar adjacentes ou quando quem agarra fica Incapacitado, e se agarrar exige uma mão livre.
 - **Gatilho:** seção 48 (Condições).
 - **Status:** fechada na seção 49 (D-077): quem agarra solta sem Ação; o agarrão acaba sem adjacência ou com quem agarra Incapacitado ou Paralisado; agarrar exige uma mão livre.
+
+**Q-018 · Capacidades soltas para personagens e a lista antiga de Trunfos**
+- **Origem:** guia de criaturas, parte 01 (ideia do autor, 2026-11-05).
+- **Descrição:** personagens poderiam receber Capacidades soltas como recompensa de campanha, bênção, item ou por um futuro módulo de magia, sem comprá-las com XP. Os Trunfos e Privilégios de `Design/Arquivo/Privilégios/` que não viraram Competência seriam a fonte inicial.
+- **Gatilho:** depois do guia de criaturas, por decisão do autor.
