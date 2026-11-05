@@ -32,6 +32,12 @@ Mover-se para fora do alcance de um inimigo não provoca, por padrão, Ataques o
 
 Determinadas **Capacidades**, Características ou efeitos podem criar exceções a essa regra, permitindo que um personagem puna ou interfira na movimentação de seus adversários.
 
+### Deslocamento forçado
+
+**Deslocamento forçado** é todo movimento que outro personagem ou um efeito impõe a um personagem, como o da Manobra [Reposicionar](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Manobras.md#reposicionar), o do Repelir de um escudo, o da Maestria Deslocar ou o arrasto de um [agarrão](../Condi%C3%A7%C3%B5es/Agarrado.md#arrastar).
+
+Ele não gasta a Movimentação de quem é deslocado, acontece mesmo com Movimentação 0 e não provoca efeitos que reagem ao movimento, como o Ataque de Oportunidade da Sentinela. Obstáculos e bordas seguem as regras do [Reposicionar](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Manobras.md#obst%C3%A1culos-e-bordas).
+
 ## Movimentação Especial
 
 A **Movimentação Especial** representa qualquer forma de deslocamento diferente da movimentação terrestre comum do personagem.

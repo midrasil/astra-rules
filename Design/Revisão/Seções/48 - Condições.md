@@ -3,7 +3,7 @@
 **Arquivos:** `Regras/Condições/Condições.md` e `en/`; ajustes pontuais em Mirando, Atordoado, Paralisado, Envenenado e Desafiado
 **Relacionadas:** Manobras, Características de NPC (Venenosa, Paralisante, Atordoante, Aterrorizante), Vida, Vontade (D-056)
 **Pendências que chegam aqui:** Q-011 (parte das Condições); Q-017 segue para a seção 49 (Agarrado)
-**Status:** decidida (D-076) e aplicada; aguardando o merge do PR
+**Status:** concluída (PR #70, mergeado em 2026-11-05)
 
 ## O que está estabelecido
 

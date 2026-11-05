@@ -102,8 +102,8 @@ Status: `[ ]` pendente · `[~]` em discussão · `[x]` concluída
 - [x] 47 · [Resistência e Vulnerabilidade (índice) + Resistência + Vulnerabilidade + Imunidade](Seções/47%20-%20Resist%C3%AAncia%20e%20Vulnerabilidade.md)
 
 **Condições**
-- [~] 48 · [Condições (índice e regras gerais)](Seções/48%20-%20Condi%C3%A7%C3%B5es.md)
-- [ ] 49 · Caído + Agarrado
+- [x] 48 · [Condições (índice e regras gerais)](Seções/48%20-%20Condi%C3%A7%C3%B5es.md)
+- [~] 49 · [Caído + Agarrado](Seções/49%20-%20Ca%C3%ADdo%20e%20Agarrado.md)
 - [ ] 50 · Debilitado + Lento + Abalado + Envenenado
 - [ ] 51 · Paralisado + Atordoado + Medo
 - [ ] 52 · Mirando + Lido + Desafiado

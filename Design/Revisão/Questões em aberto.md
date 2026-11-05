@@ -116,3 +116,4 @@ Itens para revisitar. Cada um tem um **gatilho**: o momento da revisão em que d
 - **Origem:** seção 34.
 - **Descrição:** Agarrado só termina quando o alvo escapa. Falta dizer se quem agarra pode soltar, se o agarrão acaba quando os dois deixam de estar adjacentes ou quando quem agarra fica Incapacitado, e se agarrar exige uma mão livre.
 - **Gatilho:** seção 48 (Condições).
+- **Status:** fechada na seção 49 (D-077): quem agarra solta sem Ação; o agarrão acaba sem adjacência ou com quem agarra Incapacitado ou Paralisado; agarrar exige uma mão livre.
