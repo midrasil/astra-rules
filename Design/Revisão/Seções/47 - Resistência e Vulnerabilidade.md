@@ -3,7 +3,7 @@
 **Arquivos:** `Regras/Resistência e Vulnerabilidade/` (índice, Resistência, Vulnerabilidade, Imunidade) e `en/`
 **Relacionadas:** Armaduras (D-072, Resistências nas armaduras), Armas (Material, Perfurar da D-071, Raspão), Zonas (D-062), Características de NPC (Ir para a Garganta, Investida), Vida
 **Pendências que chegam aqui:** nenhuma
-**Status:** em análise
+**Status:** decidida (D-075) e aplicada; aguardando o merge do PR
 
 ## O que está estabelecido
 
@@ -46,3 +46,9 @@ A estrutura é clara e os exemplos cobrem os casos principais. Achei três ponto
 ### P-47.4 · Investida de NPC
 
 - Frase de ligação entre a Investida de NPC e a Propriedade de arma.
+
+## Decisões do autor (2026-11-05)
+
+- P-47.2 ajustada: Ir para a Garganta ignora **só a Absorção** da armadura; a Absorção base e as Resistências e Vulnerabilidades da armadura continuam valendo.
+- P-47.1, P-47.3 e P-47.4: aprovadas como propostas.
+- Registrada como D-075.

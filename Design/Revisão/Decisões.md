@@ -496,3 +496,12 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
   - frase lembrando que armaduras não se trocam numa Cena Tática; descrição do link em Equipamentos atualizada.
 - **Status:** aprovada.
 - **Arquivos:** `Regras/Equipamentos/Trocar Equipamento.md`, `Regras/Equipamentos/Equipamentos.md` e as versões em `en/`.
+
+**D-075 · 2026-11-05 · 47 Resistência e Vulnerabilidade (P-47.1 a P-47.4, P-47.2 ajustada)**
+- **Decisão:**
+  - Perfurar reduz a Absorção Efetiva do alvo em 1, até no mínimo 0;
+  - Ir para a Garganta ignora só a Absorção da armadura; a Absorção base e as Resistências e Vulnerabilidades da armadura continuam valendo;
+  - a Absorção Efetiva negativa só soma dano quando o personagem sofre pelo menos 1 ponto de dano daquela fonte;
+  - a Investida de NPC remete à Propriedade de arma Investida, como a mesma regra com valores próprios.
+- **Status:** aprovada.
+- **Arquivos:** `Regras/Equipamentos/Armas.md`, `Regras/Criaturas/Características de NPC.md`, `Regras/Resistência e Vulnerabilidade/Resistência e Vulnerabilidade.md`, `Vulnerabilidade.md` e as versões em `en/`.

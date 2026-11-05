@@ -71,11 +71,11 @@ Quando a criatura **vence um Ataque com um Ataque natural corpo a corpo**, o alv
 
 ### Investida (+2 de Dano; 4 quadrados)
 
-- **Descrição:** se a criatura se mover pelo menos 4 quadrados em linha reta antes de atacar, soma **+2 ao Dano** do Ataque.
+- **Descrição:** se a criatura se mover pelo menos 4 quadrados em linha reta antes de atacar, soma **+2 ao Dano** do Ataque. É a mesma regra da Propriedade de arma [Investida](../Equipamentos/Armas.md#uso-opcional), com valores próprios.
 
 ### Ir para a Garganta (Margem 3)
 
-- **Descrição:** ao vencer um Ataque com Margem 3 ou mais, o dano ignora a Absorção da **armadura** do alvo. A Absorção base continua valendo.
+- **Descrição:** ao vencer um Ataque com Margem 3 ou mais, o dano ignora a Absorção da **armadura** do alvo. A Absorção base e as Resistências e Vulnerabilidades da armadura continuam valendo.
 
 ### Constritora (Margem 2)
 

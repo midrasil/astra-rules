@@ -1,4 +1,4 @@
-<!-- source: bd28a935cc5a -->
+<!-- source: 9ac88c1c70f4 -->
 # Weapons
 
 **Weapons** are equipment used to attack, usually in a [Confront](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Confrontar.md).
@@ -102,7 +102,7 @@ A Mastery that says **on winning an Attack** does not trigger on a tie. When the
 - **Momentum** — on winning an Attack, the attacker's next Attack against the same target, until the end of their next Turn, gets **+1 die**. Momentum bonuses do not stack.
 - **Graze** — when the target wins the Attack, they still take **half the weapon's Damage**, rounded up, as superficial damage. It does not apply if the attacker got no Successes.
 - **Displace** — on winning an Attack, the attacker can move the target **1 square** in any direction, with no other roll, following the limits of [Reposition](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Manobras.md#reposition).
-- **Puncture** — on winning an Attack, the target's [Absorption](Armaduras.md#absorption) converts **1 point less** of aggravated damage.
+- **Puncture** — on winning an Attack, the target's [Effective Absorption](../Resist%C3%AAncia%20e%20Vulnerabilidade/Resist%C3%AAncia%20e%20Vulnerabilidade.md#effective-absorption) is reduced by **1**, to a minimum of 0.
 
 Modules and settings can add new properties, origins, materials and weapons to the core catalog.
 
