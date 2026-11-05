@@ -142,11 +142,11 @@ Conclusões:
 ### Análise
 
 1. **Ponto de partida:** as nove armas abaixo do orçamento (43.B), as duas acima dele e as propostas suspensas da primeira análise.
-2. **A lista de vantagens da 43.B é curta demais.** Flexível, Arremesso e Manobra servem bem às armas leves e de uma mão. Mas o Montante, o Machado Grande e a Lança já são de Duas mãos e não fazem sentido arremessados, e o Arco Curto não tem nenhuma opção. Por isso proponho **três vantagens novas** (Propriedades de Uso). Isso **amplia a lista aprovada na D-070**, então precisa da sua aprovação explícita.
+2. **A lista de vantagens da 43.B é curta demais.** Flexível, Arremesso e Manobra servem bem às armas leves e de uma mão. Mas o Montante, o Machado Grande e a Lança já são de Duas mãos e não fazem sentido arremessados, Por isso proponho **duas vantagens novas** (Propriedades de Uso). Isso **amplia a lista aprovada na D-070**, então precisa da sua aprovação explícita.
 3. **Quatro Maestrias novas.** Partem das maestrias do 5e que ainda não têm equivalente no Astra: *Vex*, *Graze*, *Push* e uma nova contra armaduras. A antiga maestria Embalo volta, mais simples: sem acúmulos e sem Condição, para não criar anotação. Cada uma segue o padrão das atuais ("ao vencer um Ataque…"), menos o Raspão, que funciona justamente quando o Ataque perde.
 4. **O Chicote deixa de ter Debilitante.** Com Dano 0, abrir mão do Dano não custava nada. Pelo critério, o Dano 0 está certo (Leve, Alcance 2), então o que muda é a Maestria.
 5. **Porrete com Espinhos:** pelo critério, está dentro do orçamento, e o Valor fica fora da conta. Retiro a proposta de Valor 10 da primeira análise.
-6. **Arco Longo:** está acima do orçamento (Dano 3 e Alcance 20, sem desvantagem). Passa para Dano 2, e a vantagem dele é o Alcance.
+6. **Arco Longo:** está acima do orçamento (Dano 3 e Alcance 20, sem desvantagem). Passa para Dano 2, e a vantagem dele é o Alcance (24, o maior do catálogo).
 7. **Besta:** Dano 3 vem da Recarga; a vantagem passa a ser o Alcance maior (18). Ganha Perfurar, que combina com o virote que atravessa armadura.
 
 ### Propostas
@@ -158,13 +158,14 @@ Conclusões:
 > - **Deslocar** — ao vencer um Ataque, o atacante pode mover o alvo **1 quadrado** em qualquer direção, sem outra rolagem, seguindo os limites de [Reposicionar](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Manobras.md#reposicionar).
 > - **Perfurar** — ao vencer um Ataque, a [Absorção](Armaduras.md#absor%C3%A7%C3%A3o) do alvo converte **1 ponto a menos** de dano agravado.
 
-#### P-43.C2 · Três vantagens novas (Propriedades de Uso)
+#### P-43.C2 · Duas vantagens novas (Propriedades de Uso)
 
 > - **Investida** — se o personagem se moveu pelo menos **3 quadrados em linha reta** até o alvo neste Turno, logo antes do Ataque, o Ataque recebe **+1 de Dano**.
 > - **Guarda** — enquanto empunha a arma, o personagem recebe **+1 dado ao Esquivar**. Duas armas com Guarda não somam.
-> - **Disparo Rápido** — a arma pode Aceitar o Confronto contra um atacante corpo a corpo que esteja ao seu Alcance, como exceção à restrição das armas à distância.
 
-O critério em `Design/` passa a listar as sete vantagens.
+O critério em `Design/` passa a listar as seis vantagens. (Disparo Rápido chegou a ser proposta e foi retirada pelo autor em 2026-11-05.)
+
+Sem Disparo Rápido, o Arco Curto e a Funda usam o **Alcance maior** como vantagem. Para o Arco Longo continuar sendo o arco de maior Alcance, ele sobe para 24.
 
 #### P-43.C3 · Catálogo
 
@@ -184,10 +185,10 @@ Só as armas que mudam:
 | Machado Grande | + Investida; Maestria Letal → **Varredura** |
 | Clava Massiva | Maestria Debilitante (Abalado) → **Deslocar** |
 | Lança | + Investida |
-| Arco Curto | + Disparo Rápido; Maestria — → **Embalo** |
-| Arco Longo | Dano 3 → **2** |
+| Arco Curto | Alcance 12 → **18**; Maestria — → **Embalo** |
+| Arco Longo | Dano 3 → **2**; Alcance 20 → **24** |
 | Besta | Alcance 15 → **18**; Maestria Letal → **Perfurar** |
-| Funda | + Disparo Rápido |
+| Funda | Alcance 10 → **15** |
 
 Ficam como estão: Adaga, Espada Longa, Mangual, Machado de Batalha, Malho, Porrete com Espinhos, Alabarda, Bordão e Dardo.
 
