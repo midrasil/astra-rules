@@ -36,6 +36,10 @@
 6. **Efeito sem quem agarre.** A Teia deixa o alvo Agarrado "pela teia" e já define a própria forma de escapar. As regras de soltar e de adjacência não fazem sentido para ela. Proponho uma frase: "Quando a Condição vem de um efeito sem um personagem que agarre, como a Teia, o efeito define como escapar." Nesse caso, a penalidade de -2 vale contra qualquer alvo, o que é coerente: preso numa teia, o personagem ataca mal qualquer um.
 7. **Escapar só com Força.** Um personagem ágil não tem como se soltar a não ser pela Força. A Manobra Agarrar também se resiste só com Força + Atletismo. Proponho permitir que o Agarrado escolha **Força + Atletismo ou Agilidade + Acrobacia** para escapar, sempre contra Força + Atletismo de quem agarra. É uma opção a mais sem regra nova, e dá saída ao arquétipo ágil. **É opcional:** sem ela, o agarrão continua sendo a ferramenta do personagem forte contra o ágil, o que também é uma leitura válida.
 
+8. **Arrasto e deslocamento forçado (pedido do autor).** Hoje o texto diz só que quem agarra "pode arrastar ou carregar" o alvo como Movimentação Especial. Ele não diz onde o alvo termina, se o arrasto conta como deslocamento forçado nem o que acontece numa borda ou num perigo. O termo "deslocado à força" já aparece em Mirando, no Atirador e na Sentinela, mas não é definido em lugar nenhum. Proponho duas coisas:
+   - **Uma definição geral em Movimentação:** é deslocamento forçado todo movimento que outro personagem ou efeito impõe, como Reposicionar, Repelir, Deslocar e o arrasto do agarrão. Ele não gasta a Movimentação de quem é deslocado e não provoca Ataque de Oportunidade, o que já é a regra da Sentinela. Também aplica as regras de obstáculos e bordas do Reposicionar.
+   - **O arrasto no Agarrado:** quem agarra se move por Movimentação Especial (2 pontos por quadrado), e o alvo vai junto. A cada quadrado, quem agarra põe o alvo em um quadrado adjacente a si. Para o alvo, isso é deslocamento forçado. Por isso, quem agarra pode arrastar o alvo para um perigo ou para fora de uma borda, com as consequências resolvidas normalmente, mas não pode largá-lo longe sem soltar, porque o agarrão termina quando os dois deixam de estar adjacentes.
+
 ### Conferido, sem mudança
 
 - **Agarrado e Caído juntos:** com Movimentação 0, o personagem não levanta até escapar. A combinação é forte e já está escrita.
@@ -65,6 +69,14 @@
 
 > **Personagem Agarrado:** Força + Atletismo **ou** Agilidade + Acrobacia, à sua escolha.
 > **Quem mantém o agarrão:** Força + Atletismo.
+
+### P-49.7 · Deslocamento forçado (Movimentação, nova subseção)
+
+> **Deslocamento forçado** é todo movimento que outro personagem ou um efeito impõe a um personagem, como [Reposicionar](...), Repelir, Deslocar ou o arrasto de um [agarrão](../Condi%C3%A7%C3%B5es/Agarrado.md). Ele não gasta a Movimentação de quem é deslocado e não provoca Ataque de Oportunidade. Obstáculos e bordas seguem as regras do Reposicionar.
+
+### P-49.8 · Arrastar (Agarrado, substitui o parágrafo atual)
+
+> Quem mantém o agarrão pode arrastar o alvo enquanto se movimenta, desde que ele seja no máximo **uma categoria de Tamanho maior**. Esse movimento é uma **Movimentação Especial** para quem agarra. A cada quadrado, quem agarra põe o alvo em um quadrado adjacente a si. Para o alvo, isso é um [deslocamento forçado](...).
 
 ### P-49.6 · Q-017
 
