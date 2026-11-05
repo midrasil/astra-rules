@@ -1,4 +1,4 @@
-<!-- source: b0208352d075 -->
+<!-- source: 9f409a190484 -->
 # Resistance and Vulnerability
 
 This section gathers the rules that define how characters and creatures react to damage from specific [Damage Types](../Equipamentos/Armas.md#damage-types) and [Materials](../Equipamentos/Armas.md#material-required-one-per-weapon), through **Resistances**, **Vulnerabilities** and **Immunities**.

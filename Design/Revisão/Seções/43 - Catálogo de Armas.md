@@ -3,7 +3,7 @@
 **Arquivo:** `Regras/Equipamentos/Catálogo de Armas.md` (e `en/`)
 **Relacionadas:** Armas (D-068, Maestria e Domínio de arma), Catálogo de Itens (D-067), Ambidestro, Ação
 **Pendências que chegam aqui:** nenhuma
-**Status:** decidida (D-069, D-070 e D-071) e aplicada; aguardando o merge do PR
+**Status:** concluída (PR #65, mergeado em 2026-11-05)
 
 ## O que está estabelecido
 

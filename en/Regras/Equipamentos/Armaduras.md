@@ -1,4 +1,4 @@
-<!-- source: 39a0404111e1 -->
+<!-- source: 4d4e67473b39 -->
 # Armor
 
 **Armor** is equipment used to protect the character.
@@ -7,22 +7,21 @@ The armor available in the core is in the [Armor Catalog](Cat%C3%A1logo%20de%20A
 
 Each armor is described by the following fields:
 
-| Field                | Description                                                          |
-| -------------------- | -------------------------------------------------------------------- |
-| **Name**             | the armor's name                                                     |
-| **Category**         | Light, Medium or Heavy (see [Categories](#categories))               |
-| **Minimum Strength** | the Strength needed to wear the armor without losing Movement        |
-| **Description**      | a short description of the armor                                     |
+| Field                | Description                                                         |
+| -------------------- | ------------------------------------------------------------------- |
+| **Name**             | the armor's name                                                    |
+| **Category**         | Light, Medium or Heavy (see [Categories](#categories))              |
 | **Absorption**       | how many points of aggravated damage are converted into superficial |
-| **Properties**       | the armor's special traits                                           |
-| **Load**             | how much of the Maximum Load it takes                                       |
-| **Value**            | the armor's cost                                                     |
+| **Minimum Strength** | the Strength needed to wear the armor without losing Movement       |
+| **Load**             | how much of the Maximum Load it takes                               |
+| **Value**            | the armor's cost                                                    |
+| **Properties**       | the armor's special traits (see [Properties](#properties))          |
 
 ## Absorption
 
 An armor's **Absorption** tells **how much aggravated damage taken is converted into superficial damage**.
 
-When taking damage from an Attack, the character converts to superficial a number of points of aggravated damage equal to their Absorption — never more than the aggravated damage taken. Total Absorption is the sum of the character's **base Absorption** and the Absorption of the equipped armor. Base Absorption can be raised or lowered by effects, but never goes below 0.
+When taking damage from an Attack, the character converts to superficial a number of points of aggravated damage equal to their Absorption — never more than the aggravated damage taken. Total Absorption is the sum of the character's **base Absorption** and the Absorption of the armor worn. A character wears **one armor at a time**. Base Absorption can be raised or lowered by effects, but never goes below 0.
 
 For example: an armor with **Absorption 2** takes an Attack that deals **3 aggravated damage**. **2 points** are converted into superficial damage, and only **1 point** stays aggravated.
 
@@ -42,6 +41,11 @@ Every armor has a **Category**, which organizes its Absorption, Dodge penalty, M
 
 - **Dodge:** with Medium or Heavy armor, the Dodge Pool loses dice equal to the **armor's Absorption**. The character's base Absorption and Resistances do not count.
 - **Minimum Strength:** with Strength below the Minimum Strength of the armor worn, the character has **-2 Movement**.
+- **Heavy:** every Heavy armor is **Noisy** (see [Properties](#properties)).
+
+## Putting On and Taking Off
+
+Putting on an armor takes **1 minute** (Light), **5 minutes** (Medium) or **10 minutes** (Heavy). Taking it off takes **1 minute** (Light or Medium) or **5 minutes** (Heavy). An armor cannot be put on or taken off during a Tactical Scene.
 
 ## Properties
 
@@ -49,6 +53,7 @@ Every armor has a **Category**, which organizes its Absorption, Dodge penalty, M
 
 - **[Type] Resistance (value)** — the armor grants [Resistance](../Resist%C3%AAncia%20e%20Vulnerabilidade/Resist%C3%AAncia.md) to the given [Damage Type](Armas.md#damage-types). The value is added to [Effective Absorption](../Resist%C3%AAncia%20e%20Vulnerabilidade/Resist%C3%AAncia%20e%20Vulnerabilidade.md#effective-absorption) against that Type — for example, an armor with **Absorption 2** and **Slashing Resistance 1** has Effective Absorption 3 against Slashing and 2 against the other Types.
 - **[Type] Vulnerability (value)** — the armor leaves the wearer [vulnerable](../Resist%C3%AAncia%20e%20Vulnerabilidade/Resist%C3%AAncia%20e%20Vulnerabilidade.md) to the given Damage Type. The value is subtracted from [Effective Absorption](../Resist%C3%AAncia%20e%20Vulnerabilidade/Resist%C3%AAncia%20e%20Vulnerabilidade.md#effective-absorption) against that Type — for example, metal armors have **Electric Vulnerability 1**: a Chain Mail with Absorption 4 ends up with 3 against Electric.
+- **Noisy** — the armor imposes **-2 dice** on [Stealth](../Personagens/Per%C3%ADcias.md) tests.
 
 Modules and settings can add new properties and armors to the core catalog.
 
