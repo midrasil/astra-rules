@@ -5,7 +5,7 @@ As Condições são aplicadas por Ações, Manobras, Capacidades ou outras regra
 ## Regras gerais
 
 - **Duração:** salvo indicação, uma Condição termina no fim da Cena. As Condições ligadas à trilha de [Vida](../Personagens/Vida.md) e as que têm forma própria de terminar, como Caído e Agarrado, seguem as próprias regras.
-- **Turnos:** uma duração em Turnos conta os Turnos do personagem afetado. A Condição termina no fim do último desses Turnos.
+- **Turnos:** uma duração em Turnos conta os Turnos do personagem afetado. A Condição termina no fim do último desses Turnos. Se for aplicada durante o Turno do afetado, esse Turno não conta.
 - **Aplicar de novo:** uma Condição que o personagem já tem não acumula. Ela só renova a duração, e fica valendo a duração que terminar por último. As Condições **acumuláveis**, como Medo, Mirando e Sangrando, dizem como acumulam.
 
 ## Condições

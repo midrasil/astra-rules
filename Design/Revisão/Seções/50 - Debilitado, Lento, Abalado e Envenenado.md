@@ -3,7 +3,7 @@
 **Arquivos:** `Regras/Condições/Debilitado.md`, `Lento.md`, `Abalado.md`, `Envenenado.md` e `en/`; um exemplo em `Regras/Personagens/Vontade.md`
 **Relacionadas:** Vida, Vontade (Ignorar Penalidades Físicas), Reserva de Dados (Penalidades), Armas (Debilitante), Características de NPC (Venenosa), Condições (Regras gerais, D-076)
 **Pendências que chegam aqui:** nenhuma
-**Status:** decidida (D-078) e aplicada; aguardando o merge do PR
+**Status:** concluída (PR #72, mergeado em 2026-11-05)
 
 ## O que está estabelecido
 

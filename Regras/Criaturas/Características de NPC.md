@@ -24,7 +24,7 @@ Nadar e escalar são [Movimentação Especial](../Movimento/Movimenta%C3%A7%C3%A
 
 ### Voadora
 
-- **Descrição:** voa pelo custo normal (ver [Voo](../Movimento/Movimenta%C3%A7%C3%A3o.md#voo)), com a Movimentação do valor quando houver, e ignora Terreno Difícil no chão. Se ficar [Caída](../Condi%C3%A7%C3%B5es/Ca%C3%ADdo.md) ou [Agarrada](../Condi%C3%A7%C3%B5es/Agarrado.md) no ar, cai.
+- **Descrição:** voa pelo custo normal (ver [Voo](../Movimento/Movimenta%C3%A7%C3%A3o.md#voo)), com a Movimentação do valor quando houver, e ignora Terreno Difícil no chão. Se ficar [Caída](../Condi%C3%A7%C3%B5es/Ca%C3%ADdo.md), [Agarrada](../Condi%C3%A7%C3%B5es/Agarrado.md) ou [Paralisada](../Condi%C3%A7%C3%B5es/Paralisado.md) no ar, cai.
 
 ### Escavadora
 

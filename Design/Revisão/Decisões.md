@@ -536,3 +536,14 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
   - Debilitado e Lento sem mudança.
 - **Status:** aprovada.
 - **Arquivos:** `Regras/Condições/Abalado.md`, `Regras/Condições/Envenenado.md`, `Regras/Personagens/Vontade.md` e as versões em `en/`.
+
+**D-079 · 2026-11-05 · 51 Paralisado + Atordoado + Medo (P-51.1 a P-51.4)**
+- **Decisão:**
+  - Regras gerais: uma Condição aplicada durante o Turno do afetado não conta esse Turno na duração;
+  - Paralisado não responde a Confrontos e entra na lista do Alvo sem Resposta;
+  - Atordoado ainda responde a Confrontos;
+  - Paralisado e Atordoado podem vir de qualquer fonte que os cite, e não só da Paralisante e da Atordoante;
+  - uma criatura Voadora Paralisada no ar cai;
+  - Medo sem mudança.
+- **Status:** aprovada.
+- **Arquivos:** `Regras/Condições/Condições.md`, `Paralisado.md`, `Atordoado.md`, `Regras/Cenas e Conflitos/Ações/Confrontar.md`, `Regras/Criaturas/Características de NPC.md` e as versões em `en/`.
