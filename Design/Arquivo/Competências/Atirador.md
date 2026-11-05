@@ -25,7 +25,7 @@ Durante seu Turno, antes de realizar um Ataque com a Perícia Atirar, caso ainda
 - recebe +1 dado na Reserva de Ataques realizados com Atirar;
 - não pode se movimentar até o final do Turno.
 
-Ao assumir a Postura, você também pode sofrer 1 ponto de dano superficial de Vontade para tornar 1 dado da Reserva do próximo Ataque com Atirar realizado nesse Turno um **dado garantido**: ele não é rolado e conta como 1 Sucesso. Com a trilha de Vontade cheia, esse custo pode ser pago ao [Romper Limite](../../Regras/Personagens/Vontade.md#romper-limite).
+Ao assumir a Postura, você também pode sofrer 1 ponto de dano superficial de Vontade para tornar 1 dado da Reserva do próximo Ataque com Atirar realizado nesse Turno um **dado garantido**: ele não é rolado e conta como 1 Sucesso. Com a trilha de Vontade cheia, esse custo pode ser pago ao [Romper Limite](../../../Regras/Personagens/Vontade.md#romper-limite).
 
 ## Nível 2 - Mira Estável
 

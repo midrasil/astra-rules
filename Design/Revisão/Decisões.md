@@ -555,3 +555,13 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
   - Mirando e Lido sem mudança; a perda da Mira pelo dano do Sangrando é mantida.
 - **Status:** aprovada.
 - **Arquivos:** `Regras/Condições/Desafiado.md` e a versão em `en/`.
+
+**D-081 · 2026-11-05 · 53 Fechamento estrutural (53.A a 53.D; fecha Q-001, Q-002, Q-003 e Q-005)**
+- **Decisão:**
+  - Furioso: "fim do combate" virou "fim da Cena" (único ajuste da Q-002);
+  - a lista "Regras do sistema" do Readme é a ordem oficial, por dependência: Mecânica Básica, Personagens, Cenas e Conflitos, Movimento, Equipamentos, Resistência e Vulnerabilidade, Condições, Competências, Criaturas; o astra-engine deve segui-la;
+  - tudo em `Regras/` é núcleo; cada módulo terá pasta própria fora de `Regras/`; convenção registrada no `CLAUDE.md` e no Readme;
+  - nove notas incorporadas foram movidas para `Design/Arquivo/`; o Fundamento perdeu as referências a Competências inexistentes e ganhou os formatos de Competência de valor e Nível de valor;
+  - Q-010, Q-012, Q-014 e Q-015 seguem abertas, com gatilhos atualizados.
+- **Status:** aprovada.
+- **Arquivos:** `Readme.md`, `CLAUDE.md`, `Regras/Competências/Furioso.md`, `Design/Competências/Fundamento.md`, `Design/Arquivo/` e as versões em `en/`.

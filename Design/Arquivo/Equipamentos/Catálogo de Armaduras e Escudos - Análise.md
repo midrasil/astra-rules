@@ -7,7 +7,7 @@ Legenda do status: ⬜ não analisado · 🟨 em discussão · ✅ decidido · �
 
 ## Regras de categoria ✅
 
-A [Absorção](../../Regras/Equipamentos/Armaduras.md#absor%C3%A7%C3%A3o) continua como está: converte dano agravado em superficial nos Ataques. O que muda é o custo de cada armadura, pela **categoria**.
+A [Absorção](../../../Regras/Equipamentos/Armaduras.md#absor%C3%A7%C3%A3o) continua como está: converte dano agravado em superficial nos Ataques. O que muda é o custo de cada armadura, pela **categoria**.
 
 | Categoria | Absorção | Ao Esquivar | Força mínima | Carga |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ A [Absorção](../../Regras/Equipamentos/Armaduras.md#absor%C3%A7%C3%A3o) contin
 - **Força mínima:** abaixo dela, o personagem tem **-2 de Movimentação** enquanto veste a armadura.
 - Não há penalidade em Furtividade ou Atletismo: a da Esquiva já é o custo.
 
-Os **escudos** seguem a mesma ideia, pela [Proteção](../../Regras/Equipamentos/Escudos.md#prote%C3%A7%C3%A3o):
+Os **escudos** seguem a mesma ideia, pela [Proteção](../../../Regras/Equipamentos/Escudos.md#prote%C3%A7%C3%A3o):
 
 | Categoria | Proteção | Força mínima | Carga | Outro custo |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ O Valor é só um número, sem nome de moeda (pense numa única moeda, como peç
 3. Abaixo da Força mínima, **-2 de Movimentação**.
 4. Escudo Pesado: **-1 dado ao Atacar**.
 5. Catálogo novo no compêndio de Equipamentos e Valor em todas as armas, armaduras e escudos.
-6. Atualizar [Armaduras](../../Regras/Equipamentos/Armaduras.md) e [Escudos](../../Regras/Equipamentos/Escudos.md) com o texto final.
+6. Atualizar [Armaduras](../../../Regras/Equipamentos/Armaduras.md) e [Escudos](../../../Regras/Equipamentos/Escudos.md) com o texto final.

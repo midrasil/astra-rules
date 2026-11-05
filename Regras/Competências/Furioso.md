@@ -18,7 +18,7 @@ A **Fúria** é um estado desta Competência, não uma Condição.
 
 Durante um combate, no seu Turno, você pode sofrer 1 ponto de dano superficial de Vontade para entrar em Fúria. Entrar em Fúria não gasta sua Ação.
 
-A Fúria dura até o final do seu próximo Turno. Sempre que você iniciar um Confronto com um Ataque corpo a corpo ou com uma arma arremessada, a duração é prolongada até o final do seu Turno seguinte. Aceitar o Confronto não prolonga a Fúria. Ela também termina no fim do combate.
+A Fúria dura até o final do seu próximo Turno. Sempre que você iniciar um Confronto com um Ataque corpo a corpo ou com uma arma arremessada, a duração é prolongada até o final do seu Turno seguinte. Aceitar o Confronto não prolonga a Fúria. Ela também termina no fim da Cena.
 
 Enquanto estiver em Fúria:
 
@@ -62,7 +62,7 @@ Você fica [Incapacitado](../Condi%C3%A7%C3%B5es/Incapacitado.md) quando:
 
 - decide não sofrer o dano de Vontade no começo do seu Turno;
 - toda a sua trilha de Vontade estiver preenchida por dano agravado;
-- a Fúria termina, inclusive no fim do combate.
+- a Fúria termina, inclusive no fim da Cena.
 
 ---
 

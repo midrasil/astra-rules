@@ -7,7 +7,7 @@ Legenda do status: ⬜ não analisado · 🟨 em discussão · ✅ decidido · �
 
 ## Régua de balanceamento ✅
 
-O Dano da arma é somado à Margem no [Confronto](../../Regras/Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Confrontar.md), então cada ponto pesa. A régua parte da empunhadura e desconta o que a arma ganha em troca.
+O Dano da arma é somado à Margem no [Confronto](../../../Regras/Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Confrontar.md), então cada ponto pesa. A régua parte da empunhadura e desconta o que a arma ganha em troca.
 
 | Empunhadura | Dano base | Carga |
 |---|---|---|

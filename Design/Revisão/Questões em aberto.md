@@ -8,11 +8,13 @@ Itens para revisitar. Cada um tem um **gatilho**: o momento da revisão em que d
 - **Origem:** diagnóstico e seção 00.
 - **Descrição:** o Readme lista Mecânica Básica, Personagens, Competências, Criaturas, Cenas e Conflitos… A árvore da wiki usa Mecânica Básica, Personagens, Criação de Personagem, Cenas e Conflitos, Competências, Criaturas… Dentro de Cenas e Conflitos, o índice e a wiki também diferem (Cenas Táticas e A Cena aparecem invertidas). A ordem da wiki é decidida pelo gerador do astra-engine.
 - **Gatilho:** seção 53, ou antes se decidido na seção 00.
+- **Status:** fechada na seção 53 (D-081): a lista "Regras do sistema" do Readme é a ordem oficial, por dependência; o astra-engine deve segui-la (tarefa separada).
 
 **Q-002 · Competências revisadas antes de Cenas e Conflitos**
 - **Origem:** diagnóstico.
 - **Descrição:** Capacidades dependem de Ações, Manobras e Condições, que só serão revisadas depois. Capacidades afetadas por decisões posteriores devem ser reabertas.
 - **Gatilho:** seções 31 a 52.
+- **Status:** fechada na seção 53 (D-081): só o Furioso precisou mudar ("fim do combate" virou "fim da Cena").
 
 **Q-003 · Resíduos em `Design/`**
 - **Origem:** diagnóstico.
@@ -20,6 +22,7 @@ Itens para revisitar. Cada um tem um **gatilho**: o momento da revisão em que d
 - **Gatilho:** seção 53.
 - **Nota (seção 11):** `Design/Competências/Fundamento.md`, leitura obrigatória pelo `CLAUDE.md`, está desatualizado: aviso de "estado da reestruturação" e exemplos com Competências que não existem (Escaramuçador, Atirador de Guerra).
 - **Nota (seção 24):** o Fundamento deve prever Competências que só aumentam um valor, sem Capacidades e sem Ápice, como o Robusto (D-050), e Níveis que só aumentam valores, como o Nível 5 do Assassino (D-041).
+- **Status:** fechada na seção 53 (D-081): notas incorporadas movidas para `Design/Arquivo/`; Fundamento atualizado.
 
 **Q-004 · Termo "array" e "perfis" na Criação de Personagem**
 - **Origem:** seção 00.
@@ -32,6 +35,7 @@ Itens para revisitar. Cada um tem um **gatilho**: o momento da revisão em que d
 - **Descrição:** a Introdução apresenta o Astra como "núcleo + módulos", mas as regras não indicam o que é núcleo e o que é opcional. Verificar se alguma regra deveria ser marcada como módulo.
 - **Gatilho:** seção 53.
 - **Atualização (2026-11-01):** o autor confirmou que haverá módulos adicionais, distribuídos no Foundry como módulos (pacotes de extensão). Falta definir como as regras do núcleo e as de módulo serão separadas no vault e na wiki.
+- **Status:** fechada na seção 53 (D-081): tudo em `Regras/` é núcleo; cada módulo terá pasta própria fora de `Regras/` (convenção no `CLAUDE.md`).
 
 **Q-006 · Valor da Ajuda em combate**
 - **Origem:** seção 01.
@@ -70,6 +74,7 @@ Itens para revisitar. Cada um tem um **gatilho**: o momento da revisão em que d
 - **Origem:** seção 05.
 - **Descrição:** o autor pretende criar uma Competência que permita Tratar durante a Cena Tática e/ou sem material de cura.
 - **Gatilho:** quando as Competências forem revisadas (seções 11 a 25), ou depois disso.
+- **Gatilho atualizado (seção 53):** criação de novas Competências, junto com a Q-012.
 
 **Q-011 · Dano de Vontade causado por fontes externas**
 - **Origem:** seção 06.
@@ -83,6 +88,7 @@ Itens para revisitar. Cada um tem um **gatilho**: o momento da revisão em que d
 - **Descrição:** o autor quer outras formas de curar dano agravado de Vontade além do reparo de Fraturas. Hoje já existem:
   - a Ambição (1 por sessão);
   - a restauração de uma Convicção rompida (até 2).
+- **Gatilho atualizado (seção 53):** criação de novas Competências, junto com a Q-010.
 
   Avaliar se isso basta ou se deve haver outra fonte, como uma Competência (paralela à Q-010) ou um "tratamento" mental fora de cena.
 - **Gatilho:** decisão do autor; revisitar nas Competências (seções 11 a 25).
@@ -97,6 +103,7 @@ Itens para revisitar. Cada um tem um **gatilho**: o momento da revisão em que d
 - **Origem:** seção 30.
 - **Descrição:** o núcleo não diz como definir a Vida, a Vontade, a Absorção base e os Ataques naturais de NPCs, nem se eles seguem as fórmulas dos personagens. Hoje o Narrador usa as fórmulas dos personagens.
 - **Gatilho:** seção 53, ou um futuro guia de criação de criaturas. Depende da Q-015.
+- **Gatilho atualizado (seção 53):** guia de criação de criaturas, desenho à parte, depois da Q-015.
 
 **Q-015 · Lista única de Capacidades para personagens e NPCs**
 - **Origem:** seção 30 (ideia do autor).
@@ -105,6 +112,7 @@ Itens para revisitar. Cada um tem um **gatilho**: o momento da revisão em que d
   - NPCs recebem Capacidades soltas da lista, sem precisar de Competências.
 - **Decidido em princípio:** as Competências continuam existindo para os jogadores (não viram feats compráveis um a um). Capacidades que hoje escalam com o Nível da Competência passam a ter um valor configurável, como "Nada Escapa (N)": na Competência, N é o Nível; no NPC, é o valor escolhido. As Características de NPC atuais entram na mesma lista.
 - **Gatilho:** desenho à parte, com a Q-003 (Fundamento) na seção 53.
+- **Gatilho atualizado (seção 53):** guia de criação de criaturas, desenho à parte.
 
 **Q-016 · Dano de queda**
 - **Origem:** seção 34.

@@ -3,7 +3,7 @@
 **Arquivos:** `Regras/Condições/Mirando.md`, `Lido.md`, `Desafiado.md` e `en/`
 **Relacionadas:** Manobras (Mirar), Atirador, Mentalista, Caçador, Duelista, Movimentação (Deslocamento forçado, D-077), Sangrando (D-076)
 **Pendências que chegam aqui:** nenhuma
-**Status:** decidida (D-080) e aplicada; aguardando o merge do PR
+**Status:** concluída (PR #74, mergeado em 2026-11-05)
 
 ## O que está estabelecido
 

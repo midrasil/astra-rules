@@ -1,9 +1,6 @@
 # Fundamento das Competências
 
-Este documento registra a nova direção estrutural do sistema de **Competências**.
-
-> [!important] Estado da reestruturação
-> Esta direção substitui o modelo anterior baseado em catálogos de Capacidades escolhidas livremente. A estrutura geral, a criação, a progressão por XP e a Competência Atirador já foram incorporadas às regras oficiais. O primeiro ciclo continua com a criação das demais formas de combate baseadas em Atirar.
+Este documento registra a direção estrutural do sistema de **Competências**, já incorporada às regras oficiais em [Competências](../../Regras/Compet%C3%AAncias/Compet%C3%AAncias.md).
 
 ## Identidade
 
@@ -37,6 +34,11 @@ Cada Nível concede automaticamente uma Capacidade ou um pequeno pacote de Capac
 | **5 — Ápice** | Concede a expressão máxima daquela Competência. |
 
 A função de cada Nível é uma referência de criação, não uma limitação rígida. Competências com menos Níveis condensam essas funções. O importante é que a progressão apresente começo, desenvolvimento e culminação reconhecíveis.
+
+Dois formatos simples também são válidos:
+
+- **Competência de valor:** uma Competência que só aumenta um valor a cada Nível, sem Capacidades nomeadas nem Ápice, como o [Robusto](../../Regras/Compet%C3%AAncias/Robusto.md) (D-050).
+- **Nível de valor:** um Nível que só aumenta valores de Capacidades anteriores, em vez de trazer uma Capacidade nova, como o Nível 5 do [Assassino](../../Regras/Compet%C3%AAncias/Assassino.md) (D-041).
 
 ## Capacidades
 
@@ -87,8 +89,8 @@ Essa combinação exerce a função de multiclasse:
 Exemplos de personagens com o mesmo Nível Total de Competências:
 
 - Atirador 4;
-- Atirador 2 e Escaramuçador 2;
-- Atirador 1, Escaramuçador 1, Atirador de Guerra 1 e Atirador Tático 1.
+- Atirador 2 e Acrobata 2;
+- Atirador 1, Acrobata 1, Sentinela 1 e Mentalista 1.
 
 Todos possuem quatro Níveis de Competência no total, embora os tenham distribuído de maneiras diferentes.
 
@@ -135,7 +137,7 @@ O multiplicador de **3 XP** faz cada novo Nível exigir algumas sessões de XP n
 
 ### Consequência intencional
 
-Um personagem com Atirador 5 paga o mesmo para adquirir Escaramuçador 1 que outro personagem com Atirador 2 e Escaramuçador 3 paga para adquirir o próximo Nível.
+Um personagem com Atirador 5 paga o mesmo para adquirir Acrobata 1 que outro personagem com Atirador 2 e Acrobata 3 paga para adquirir o próximo Nível.
 
 Especialização e variedade passam a disputar o mesmo recurso sem que a aquisição de vários Níveis 1 seja economicamente superior.
 
@@ -215,19 +217,9 @@ O texto oficial de uma Competência segue estas convenções:
 
 Competências podem absorver conceitos do arquivo de Privilégios, como bônus de 2 dados em testes sociais ou Ajuda com 2 dados. Novas Competências serão escritas individualmente; nenhuma Competência existente precisa absorver esses conceitos agora.
 
-## Transição do modelo anterior
+## Competências existentes
 
-A antiga Competência Arqueiro foi utilizada como primeiro material de migração. A nova [[Regras/Competências/Atirador|Atirador]] já foi incorporada ao sistema oficial.
-
-O material restante será distribuído inicialmente entre outras três Competências:
-
-- Escaramuçador;
-- Atirador de Guerra;
-- Atirador Tático.
-
-A lista de trabalho e a ordem de criação estão registradas em [[Lista inicial de Competências]].
-
-Os arquivos oficiais de criação, avanço e Competências já utilizam o novo modelo. As demais Competências serão incorporadas individualmente depois de escritas e revisadas.
+A lista oficial está em [Competências](../../Regras/Compet%C3%AAncias/Compet%C3%AAncias.md). O roteiro de criação fica em [[Lista inicial de Competências]].
 
 ## Decisões fechadas
 
@@ -243,8 +235,8 @@ Os arquivos oficiais de criação, avanço e Competências já utilizam o novo m
 
 ## Decisões pendentes
 
-- texto final das três progressões restantes derivadas do Arqueiro;
-- lista completa de Competências do sistema;
+- lista completa de Competências do sistema, incluindo uma Competência de cura (Q-010 e Q-012);
+- lista única de Capacidades para personagens e NPCs (Q-015);
 - destino dos conceitos mantidos em [[Trunfos não convertidos em Privilégios]];
 - testes de progressão especializada e multiclasse;
 - sincronização posterior com o Foundry VTT.

@@ -1,4 +1,4 @@
-<!-- source: d10c13071bc4 -->
+<!-- source: 0a563630c29b -->
 # Furious
 
 Furious represents the fighter who trades defense for aggression and turns pain and Willpower into brute force.
@@ -19,7 +19,7 @@ Furious represents the fighter who trades defense for aggression and turns pain 
 
 During combat, on your Turn, you can take 1 point of superficial Willpower damage to enter Fury. Entering Fury does not spend your Action.
 
-Fury lasts until the end of your next Turn. Whenever you start a Confront with a melee Attack or a thrown weapon, the duration is extended until the end of your following Turn. Accepting the Confront does not extend Fury. It also ends at the end of combat.
+Fury lasts until the end of your next Turn. Whenever you start a Confront with a melee Attack or a thrown weapon, the duration is extended until the end of your following Turn. Accepting the Confront does not extend Fury. It also ends at the end of the Scene.
 
 While in Fury:
 
@@ -63,7 +63,7 @@ You become [Incapacitated](../Condi%C3%A7%C3%B5es/Incapacitado.md) when:
 
 - you decide not to take the Willpower damage at the start of your Turn;
 - your whole Willpower track is filled with aggravated damage;
-- Fury ends, including at the end of combat.
+- Fury ends, including at the end of the Scene.
 
 ---
 
