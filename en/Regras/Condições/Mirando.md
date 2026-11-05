@@ -1,4 +1,4 @@
-<!-- source: 595f0a572d66 -->
+<!-- source: 7e824719bcb6 -->
 # Aiming
 
 An **Aiming** character has used the [Aim](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Manobras.md#aim) Maneuver and is focusing before attacking. Each stack gives:
@@ -20,7 +20,7 @@ The stacks do not apply to responses to a Confront.
 
 Making the Attack also ends the Aim, unless a Capability expressly says otherwise.
 
-The Condition also ends at the end of combat.
+The Condition also ends at the end of the Scene.
 
 ---
 

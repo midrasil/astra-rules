@@ -17,7 +17,7 @@ Os acúmulos não se aplicam às respostas a um Confronto.
 
 Realizar o Ataque também encerra a Mira, salvo quando uma Capacidade disser expressamente o contrário.
 
-A Condição também termina no fim do combate.
+A Condição também termina no fim da Cena.
 
 ---
 

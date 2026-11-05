@@ -76,6 +76,7 @@ Itens para revisitar. Cada um tem um **gatilho**: o momento da revisão em que d
 - **Descrição:** nenhuma regra causa dano de Vontade de fora, salvo a decisão do Narrador. Avaliar se o Aterrorizante, alguma Condição ou alguma Ação social deve causar dano de Vontade, e se há teste para resistir.
 - **Gatilho:** seções 30 (Características de NPC) e 48 (Condições).
 - **Parte de NPCs resolvida (2026-11-02, D-056):** o Aterrorizante não causa dano de Vontade; o Medo basta. A parte das Condições segue para a seção 48.
+- **Status:** fechada na seção 48 (D-076): nenhuma Condição causa dano de Vontade; o Medo cobre o efeito mental.
 
 **Q-012 · Outras fontes de recuperação de agravado de Vontade**
 - **Origem:** seção 09 (D-035).

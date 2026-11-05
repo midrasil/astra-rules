@@ -3,7 +3,7 @@
 **Arquivos:** `Regras/Condições/Condições.md` e `en/`; ajustes pontuais em Mirando, Atordoado, Paralisado, Envenenado e Desafiado
 **Relacionadas:** Manobras, Características de NPC (Venenosa, Paralisante, Atordoante, Aterrorizante), Vida, Vontade (D-056)
 **Pendências que chegam aqui:** Q-011 (parte das Condições); Q-017 segue para a seção 49 (Agarrado)
-**Status:** em análise
+**Status:** decidida (D-076) e aplicada; aguardando o merge do PR
 
 ## O que está estabelecido
 
@@ -75,3 +75,8 @@ Entra também na lista do índice: "[Sangrando](Sangrando.md) — dano superfici
 ### P-48.4 · Q-011
 
 Fechar a Q-011: nenhuma Condição causa dano de Vontade. O Medo cobre o efeito mental em combate.
+
+## Decisões do autor (2026-11-05)
+
+- **P-48.1 a P-48.4:** aprovadas como propostas. O autor lembrou que algumas Condições acumulam, como o Medo, e a regra geral já trata essas Condições como exceção.
+- **P-48.5:** o autor pediu o Sangrando, que é aprovado com um ajuste: no Estancar, **cada Sucesso remove 1 acúmulo**, em vez de remover todos com 1 Sucesso.

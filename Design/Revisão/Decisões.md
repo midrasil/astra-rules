@@ -505,3 +505,13 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
   - a Investida de NPC remete à Propriedade de arma Investida, como a mesma regra com valores próprios.
 - **Status:** aprovada.
 - **Arquivos:** `Regras/Equipamentos/Armas.md`, `Regras/Criaturas/Características de NPC.md`, `Regras/Resistência e Vulnerabilidade/Resistência e Vulnerabilidade.md`, `Vulnerabilidade.md` e as versões em `en/`.
+
+**D-076 · 2026-11-05 · 48 Condições (P-48.1 a P-48.5; fecha a Q-011)**
+- **Decisão:**
+  - o índice de Condições ganha a seção "Regras gerais": sem indicação, a Condição termina no fim da Cena; durações em Turnos contam os Turnos do afetado; aplicar de novo não acumula, só renova a duração, e vale a que terminar por último, salvo nas Condições acumuláveis;
+  - Mirando termina no fim da Cena, e não mais no "fim do combate";
+  - o título solto foi tirado do corpo de Desafiado;
+  - nova Condição **Sangrando** (*Bleeding*), acumulável: no fim de cada Turno do afetado, ele sofre dano superficial igual aos acúmulos e depois perde 1; o dano não tem Tipo; Estancar usa a Ação e testa Astúcia + Curar, e cada Sucesso remove 1 acúmulo; nenhuma regra aplica o Sangrando ainda;
+  - Q-011: nenhuma Condição causa dano de Vontade, porque o Medo cobre o efeito mental.
+- **Status:** aprovada.
+- **Arquivos:** `Regras/Condições/Condições.md`, `Mirando.md`, `Desafiado.md`, `Sangrando.md` (novo) e as versões em `en/`.

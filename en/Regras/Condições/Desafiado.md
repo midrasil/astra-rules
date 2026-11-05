@@ -1,4 +1,4 @@
-<!-- source: 99b8f0fca702 -->
+<!-- source: 9cea232754e3 -->
 # Challenged
 
 A Challenged character was provoked by a Duelist to remain in combat against them.
