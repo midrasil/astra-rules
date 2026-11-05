@@ -68,9 +68,11 @@ O autor pediu para montar o orçamento dos escudos antes de decidir a Q-013, por
 
 | Categoria | Proteção | Custo da Categoria |
 |---|---:|---|
-| Leve | 1 | nenhum |
-| Médio | 2 | Força 2 |
-| Pesado | 3 | Força 3, Carga 2, -1 dado ao Atacar |
+| Leve | **2** | nenhum |
+| Médio | **3** | Força 2 |
+| Pesado | **4** | Força 3, Carga 2, -1 dado ao Atacar |
+
+Decidido pelo autor em 2026-11-05: a Proteção começa em 2 no Leve e sobe 1 por Categoria (antes: 1, 2 e 3).
 
 - Todo escudo tem **uma vantagem**: Cobertura, Repelir ou Golpe de Escudo.
 - **Fora da conta:** Valor e Carga dentro da faixa da Categoria.
@@ -79,15 +81,17 @@ O autor pediu para montar o orçamento dos escudos antes de decidir a Q-013, por
 
 | Escudo | Proteção | Vantagem | Motivo para escolher |
 |---|---:|---|---|
-| Broquel | 1 | **Golpe de Escudo** | o escudo do duelista, que também ataca |
-| Escudo | 2 | **Repelir** | segura o inimigo longe |
-| Escudo de Corpo | 3 | **Cobertura** (4 contra Ataques à distância) | a melhor defesa, sobretudo contra disparos |
+| Broquel | 2 | **Golpe de Escudo** | o escudo do duelista, que também ataca |
+| Escudo | 3 | **Repelir** | segura o inimigo longe |
+| Escudo de Corpo | 4 | **Cobertura** (5 contra Ataques à distância) | a melhor defesa, sobretudo contra disparos |
 
 Com três vantagens e três Categorias, o catálogo comporta até nove escudos. Proponho começar com estes três e deixar os outros para módulos e cenários.
 
 ### O que isso muda na Q-013
 
-O orçamento dá ao escudo coisas que a arma não tem, mas **não resolve a Q-013 sozinho**: contra Ataques corpo a corpo, o teto do escudo continua sendo 3, e um Montante apara com +4. Continua sendo preciso escolher entre:
+Com a Proteção de 2 a 4, o Aparar passa a acompanhar os escudos pelo tamanho da arma: uma arma de Dano 2 apara como um Broquel, e um Montante (Dano 4) apara como um Escudo de Corpo, sem passar dele. O escudo continua com a vantagem própria, deixa a outra mão com uma arma e funciona contra disparos desde o início. A Q-013 fica bem menor. O que sobra é que o Montante com Aparador defende como o melhor escudo sem pagar Força 3, Carga 2 nem -1 dado ao Atacar; em troca, ele gasta uma Competência. As opções para esse resto são:
+
+- **nada além da escala nova** (a Competência já é o custo);
 - **Aparar uma vez por Rodada** (recomendada): o escudo Defende todos os Ataques, o Aparador só o primeiro;
 - **limitar o Aparar a +2**;
 - **as duas juntas**, com limite de +3.
@@ -111,3 +115,9 @@ O orçamento dá ao escudo coisas que a arma não tem, mas **não resolve a Q-01
 - Três Propriedades novas de escudo: **Cobertura**, **Repelir** e **Golpe de Escudo**, com os textos da análise.
 - Catálogo conforme a tabela "Catálogo com o orçamento".
 - Seção "Escudos" no critério, com o orçamento.
+
+## Efeito da escala nova (2026-11-05)
+
+- **Defender fica 1 dado mais forte para todos os escudos.** Defender passa a ser a resposta mais segura com mais frequência, e quem tem escudo tende a Defender em vez de Aceitar o Confronto. Isso combina com a ideia de que o escudo segura a linha, mas é bom observar em jogo se as lutas ficam mais lentas.
+- **Guardião:** Cobrir Aliado, Interpor-se e Abrigo usam a Proteção, então ficam 1 ponto melhores.
+- **Aparar:** passa a ir de +0 a +4, a mesma faixa do Broquel (2) ao Escudo de Corpo (4). Não muda nada no texto do Aparador.
