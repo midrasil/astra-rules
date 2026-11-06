@@ -1,7 +1,7 @@
 # Guia de Criaturas · 02 · Ficha de NPC
 
 **Questões:** Q-014 (ficha de criatura)
-**Status:** decidida (D-084) e aplicada; aguardando o merge do PR
+**Status:** concluída (PR #78, mergeado em 2026-11-06)
 
 ## O ponto de partida
 

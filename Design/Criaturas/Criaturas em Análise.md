@@ -108,7 +108,7 @@ Conversão das fichas atuais, com as mesmas regras dos Animais. Atributos na ord
 | Ogro | 5 / 2 / 5 / 2 / 1 / 2 | Acrobacia 1, Arremessar 2, Intimidar 3, Lutar 3, Perceber 1 | 7 | Grande | Clava Massiva, Dano 4, Duas mãos, Pesado, Manobra (Derrubar) | Clava 8; Arremessar 7; Esquiva/Zona 3 | 1 (Peles Grossas) | Frenesi (Varredura) |
 | Troll | 5 / 2 / 4 / 2 / 1 / 2 | Acrobacia 2, Arremessar 2, Atletismo 2, Intimidar 4, Lutar 3, Perceber 2 | 7 | Grande | Porrete com Espinhos, Dano 2 (3 com duas mãos), Flexível, Pesado; Garras, Dano 1, Pesado | Ataques 8; Arremessar 7; Esquiva/Zona 4 | 1 (pele) | Regeneração 2 (interrompida por Fogo), Frenesi Aprimorado (Varrer Aprimorado) |
 | Minotauro | 5 / 3 / 5 / 2 / 2 / 3 | Acrobacia 2, Arremessar 2, Intimidar 5, Lutar 4, Perceber 4 | 8 | Grande | Lança, Dano 3, Duas mãos, Alcance 2; Chifres, Dano 1, Pesado | Lança 7; Chifres 9; Arremessar 7; Esquiva/Zona 5 | 1 | Investida (+4 de Dano, depois de 6 quadrados) |
-| Verme Gigante | 5 / 2 / 5 / 1 / 2 / 4 | Acrobacia 1, Furtividade 4, Lutar 2, Perceber 4 | 6 | Colossal | Mordida, Dano 3, Pesado; Pancada, Dano 8, Pesado | Ataques 7; Esquiva/Zona 3 | 4 (escamas) | Escavadora |
+| Verme Gigante | 5 / 2 / 5 / 1 / 2 / 4 | Acrobacia 1, Furtividade 4, Lutar 2, Perceber 4 | 6 | Colossal | Mordida, Dano 3, Pesado; Pancada, Dano 5, Pesado | Ataques 7; Esquiva/Zona 3 | 4 (escamas) | Escavadora |
 | Draco | 5 / 2 / 5 / 1 / 2 / 4 | Acrobacia 2, Intimidar 5, Lutar 4, Perceber 3 | 6 | Enorme | Garras/Mordida, Dano 3, Pesado; Sopro de Fogo, Dano 8; Açoite de Cauda, Dano 0 | Ataques naturais 9; Esquiva/Zona 4 | 4 (escamas) | Aterrorizante (Potência 2), Sopro |
 | Dragão | 5 / 3 / 5 / 2 / 3 / 4 | Acrobacia 3, Intimidar 5, Lutar 4, Perceber 5 | 8 | Colossal | Garras/Mordida, Dano 3, Pesado; Sopro de Fogo, Dano 8; Açoite de Cauda, Dano 0 | Ataques naturais 9; Esquiva/Zona 6 | 4 (escamas) | Aterrorizante (Potência 3), Frenesi Aprimorado, Voadora (24), Sopro |
 
@@ -119,7 +119,7 @@ Decisões desta leva:
 - **Provocar** do Goblin fica de fora, porque não tem Perícia equivalente no núcleo.
 - Ficam de fora: Focado e Robusto do Dragão, Robusto e Gigantesco do Verme, e os modificadores de ataque "Grande" e "Enorme", que o Tamanho já cobre.
 
-- **Dano acima de d12** pode passar de 5: cada dado vale pela tabela e eles se somam (2d10 → 4 + 4 = 8; 4d6 → 2 + 2 + 2 + 2 = 8). Vale para o Sopro de Fogo e a Pancada do Verme.
+- **Dano acima de d12** pode passar de 5: cada dado vale pela tabela e eles se somam (2d10 → 4 + 4 = 8; 4d6 → 2 + 2 + 2 + 2 = 8). Vale para o Sopro de Fogo. Os Ataques naturais seguem a referência de [Criação de NPCs](../../Regras/Criaturas/Cria%C3%A7%C3%A3o%20de%20NPCs.md#ataques-naturais) (D-085): a Pancada do Verme passou de Dano 8 para 5.
 - **Açoite de Cauda:** Ação de Ataque com Zona em **Retângulo** de 3 × 6 quadrados saindo do token, como no livro. O Dano é a Força -2, que pela tabela fica 0.
 - As Zonas usam as formas de Region do Foundry (Retângulo, Círculo, Elipse, Cone, Anel, Linha e Emanação), com as medidas em quadrados.
 

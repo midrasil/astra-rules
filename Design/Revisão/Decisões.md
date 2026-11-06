@@ -593,3 +593,14 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
   - equilíbrio de Capacidades de Nível alto em NPCs fica para o orçamento da parte 03.
 - **Status:** aprovada.
 - **Arquivos:** `Regras/Criaturas/Ficha de NPC.md` (novo), `Regras/Capacidades/Capacidades de NPC.md` (movido de `Regras/Criaturas/Características de NPC.md`), `Regras/Capacidades/Capacidades.md`, `Regras/Criaturas/Criaturas.md`, `Readme.md`, Caçador, Movimentação, Iluminação, Agarrado, Atordoado, Envenenado, Medo, Paralisado e as versões em `en/`.
+
+**D-085 · 2026-11-06 · Guia de Criaturas 03: orçamento de poder (P-G03.1 a P-G03.5)**
+- **Decisão:**
+  - cinco patamares de NPC (Capanga, Par, Veterano, Elite, Lendário), com soma e máximo de Atributos e Perícias, Pontos de Capacidade, Nível máximo de Capacidade e Absorção natural máxima, ancorados no XP de um personagem;
+  - um só orçamento de Pontos de Capacidade: uma Competência custa o Nível mais alto que o NPC tem dela; Corpo Robusto (N) custa N; Capacidades de NPC custam de 0 a 2, com +1 por ponto de Potência ou Regeneração acima de 2;
+  - Dano de Ataque natural limitado à referência das armas mais o Tamanho (base 2, Leve 1, +1 por categoria acima de Médio); Pesado livre;
+  - Vontade: Capanga sem trilha, Par e Veterano a critério do Narrador, Elite e Lendário com trilha;
+  - régua de encontros, sem regra nova de chefe;
+  - rascunho de conversão: Pancada do Verme Gigante de Dano 8 para 5.
+- **Status:** aprovada.
+- **Arquivos:** `Regras/Criaturas/Criação de NPCs.md` (novo), `Regras/Criaturas/Criaturas.md`, `Regras/Criaturas/Ficha de NPC.md`, `Readme.md`, as versões em `en/` e `Design/Criaturas/Criaturas em Análise.md`.

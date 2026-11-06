@@ -67,7 +67,7 @@ A ficha pode listar as Reservas mais usadas já somadas, como "Mordida 5; Esquiv
 
 ## Progressão
 
-NPCs não ganham XP. Um NPC que volta mais forte recebe uma ficha nova ou ajustada pelo Narrador.
+NPCs não ganham XP. Um NPC que volta mais forte recebe uma ficha nova ou ajustada pelo Narrador, dentro do orçamento de [Criação de NPCs](Cria%C3%A7%C3%A3o%20de%20NPCs.md).
 
 ## Modelo
 
