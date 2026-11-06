@@ -1,6 +1,10 @@
-# Publica a wiki de regras em https://flinmt.github.io/astra-wiki a cada push na main.
-# O site é montado pelo astra-engine (npm run wiki:web), com o mesmo gerador e o mesmo visual da wiki do Foundry.
-# Precisa do segredo ASTRA_WIKI_TOKEN: token com leitura no astra-engine e escrita no astra-wiki.
+# A cada push na main:
+# - publica a wiki de regras em https://flinmt.github.io/astra-wiki. O site é montado pelo astra-engine
+#   (npm run wiki:web), com o mesmo gerador e o mesmo visual da wiki do Foundry;
+# - regera a wiki do Foundry (module/wiki/rules-wiki.<idioma>.json) e, se mudou, abre ou atualiza um PR no
+#   astra-engine, na branch wiki/sincronizar-regras, para revisão.
+# Precisa do segredo ASTRA_WIKI_TOKEN: token com escrita no astra-wiki e, no astra-engine, escrita em
+# Contents e Pull requests.
 name: Wiki
 
 on:
@@ -48,3 +52,58 @@ jobs:
           git add -A
           git commit -q -m "Publica a wiki de Flinmt/astra-rules@${GITHUB_SHA::7}"
           git push -f "https://x-access-token:${TOKEN}@github.com/Flinmt/astra-wiki.git" main
+
+  foundry:
+    runs-on: ubuntu-latest
+    env:
+      BRANCH: wiki/sincronizar-regras
+      GH_TOKEN: ${{ secrets.ASTRA_WIKI_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          path: astra-rules
+
+      - uses: actions/checkout@v4
+        with:
+          repository: Flinmt/astra-engine
+          ref: ${{ env.ENGINE_REF }}
+          token: ${{ secrets.ASTRA_WIKI_TOKEN }}
+          path: astra-engine
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Conferir a wiki do Foundry
+        id: check
+        run: |
+          if node astra-engine/tools/build-rules-wiki.mjs astra-rules --check; then
+            echo "stale=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "stale=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Regerar e testar
+        if: steps.check.outputs.stale == 'true'
+        working-directory: astra-engine
+        run: |
+          node tools/build-rules-wiki.mjs ../astra-rules
+          npm test
+
+      - name: Abrir ou atualizar o PR no astra-engine
+        if: steps.check.outputs.stale == 'true'
+        working-directory: astra-engine
+        run: |
+          SHORT="${GITHUB_SHA::7}"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -q -B "$BRANCH"
+          git add module/wiki/rules-wiki.*.json
+          git commit -q -m "fix: regenerate rules wiki from astra-rules@${SHORT}"
+          git push -f origin "$BRANCH"
+          BODY="Wiki do Foundry regerada a partir de Flinmt/astra-rules@${SHORT} pelo Action \`Wiki\` do astra-rules. Cada push na main do astra-rules atualiza esta branch enquanto o PR estiver aberto. Não verificado dentro do Foundry."
+          if [ -z "$(gh pr list --head "$BRANCH" --base "$ENGINE_REF" --state open --json number --jq '.[].number')" ]; then
+            gh pr create --head "$BRANCH" --base "$ENGINE_REF" --title "fix: regenerate rules wiki from astra-rules" --body "$BODY" --assignee Flinmt
+          else
+            gh pr edit "$BRANCH" --body "$BODY"
+          fi
