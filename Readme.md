@@ -36,7 +36,7 @@ O núcleo está organizado em dez áreas principais, na ordem em que dependem um
 - [Condições](Regras/Condi%C3%A7%C3%B5es/Condi%C3%A7%C3%B5es.md) — estados que afetam os personagens durante uma cena.
 - [Competências](Regras/Compet%C3%AAncias/Compet%C3%AAncias.md) — conjuntos de Capacidades que modificam aquilo que o personagem consegue fazer.
 - [Capacidades](Regras/Capacidades/Capacidades.md) — lista única das Capacidades de Competências e das Capacidades de NPC, com as regras de uso por NPCs.
-- [Criaturas](Regras/Criaturas/Criaturas.md) — ficha de NPC e tipos de criatura.
+- [Criaturas](Regras/Criaturas/Criaturas.md) — ficha de NPC, criação de NPCs e tipos de criatura.
 
 Todas as regras desta página são do núcleo. Os módulos, quando existirem, ficam em pastas próprias.
 

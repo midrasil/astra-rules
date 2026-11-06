@@ -1,4 +1,4 @@
-<!-- source: 1773e43ee1df -->
+<!-- source: 4b6d184b5687 -->
 # NPC Sheet
 
 The **NPC sheet** is the simplified character sheet. It is used for human NPCs, such as a guard or a rival, and for creatures.
@@ -70,7 +70,7 @@ The sheet can list the most used Pools already added up, such as "Bite 5; Dodge 
 
 ## Progression
 
-NPCs do not earn XP. An NPC who comes back stronger gets a new sheet, or one adjusted by the Narrator.
+NPCs do not earn XP. An NPC who comes back stronger gets a new sheet, or one adjusted by the Narrator, within the [Creating NPCs](Cria%C3%A7%C3%A3o%20de%20NPCs.md) budget.
 
 ## Template
 
