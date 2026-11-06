@@ -12,6 +12,12 @@ Cada Convicção é obrigatoriamente sustentada por um **Pilar**: uma pessoa, lu
 
 O Pilar dá ao Narrador algo tangível para colocar em risco.
 
+### Recorrendo a um Pilar
+
+**Uma vez por sessão**, no total, fora de uma [Cena Tática](../Cenas%20e%20Conflitos/Cenas%20T%C3%A1ticas.md), o personagem pode recorrer a um de seus Pilares: conversar com a pessoa, visitar o lugar ou passar um tempo com o objeto. A cena precisa ser **jogada**, mesmo que brevemente, e mostrar o que o Pilar significa para o personagem. Ao final dela, **1 ponto de dano agravado de [Vontade](Vontade.md)** se torna dano superficial.
+
+O Pilar precisa estar presente: um Pilar destruído ou perdido não pode ser procurado.
+
 ## Fraturas
 
 Cada Convicção suporta **2 Fraturas**. Uma Convicção pode estar:

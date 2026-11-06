@@ -622,3 +622,8 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
 - **Decisão:** a trilha de Vontade deixa de ser opcional. Todo NPC tem trilha de 3 + Determinação, como os personagens, porque várias Capacidades usam Vontade. Sai a regra "sem trilha, nada que custe Vontade" do Uso por NPCs, e a dependência "trilha de Vontade" sai do índice de Capacidades. A Vontade por patamar da Criação de NPCs também sai. Todas as criaturas do Bestiário passam a ter Vontade.
 - **Status:** aprovada (pedido do autor na conversa da wiki).
 - **Arquivos:** `Regras/Criaturas/Ficha de NPC.md`, `Regras/Criaturas/Criação de NPCs.md`, `Regras/Capacidades/Capacidades.md`, `Regras/Criaturas/Bestiário/` e as versões em `en/`.
+
+**D-088 · 2026-11-06 · Q-012: Recorrer a um Pilar (P-Q012.1)**
+- **Decisão:** uma vez por sessão, no total, fora de uma Cena Tática, o personagem pode recorrer a um de seus Pilares numa cena jogada, mesmo que breve. Ao final dela, 1 ponto agravado de Vontade se torna superficial. O Pilar precisa estar presente. A Recuperação de Vontade cita a nova fonte. A Capacidade de "acolher" (P-Q012.2) não entra, e a Q-010 segue aberta só como Competência de cura da Vida.
+- **Status:** aprovada.
+- **Arquivos:** `Regras/Personagens/Convicções e Pilares.md`, `Regras/Personagens/Vontade.md` e as versões em `en/`.
