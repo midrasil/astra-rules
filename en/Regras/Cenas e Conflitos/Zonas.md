@@ -1,4 +1,4 @@
-<!-- source: 9557a905a996 -->
+<!-- source: add1d8dc3e87 -->
 # Zones
 
 A **Zone** represents an effect that occupies an area and affects the creatures inside it.
@@ -9,46 +9,78 @@ By default, a Zone affects every creature inside it, including the allies of who
 
 ## Shapes
 
-Zone shapes use the grid as Movement does: a diagonal counts as 1 square. In the diagrams, **C** is whoever creates the Zone, **■** is an affected square, **◆** is the point of origin (also affected) and **·** is outside the Zone.
+Zone shapes use the grid as Movement does: a diagonal counts as 1 square. In the diagrams, the circle is whoever creates the Zone, the highlighted squares are affected and the diamond marks the point of origin, which is also affected.
 
 ### Burst N
 
 Every square within N squares of a point of origin, chosen within the source's range. A Burst N forms a square with sides of 2N + 1. If the origin is the square of whoever creates the Zone, they are affected too.
 
-Burst 1 and Burst 2:
+```grade
+Burst 1, at a distance
+· · · · · · ·
+· · · · ■ ■ ■
+· · · · ■ ◆ ■
+· · · · ■ ■ ■
+· · · · · · ·
+· · · · · · ·
+C · · · · · ·
 
-```
-· · · · ·      ■ ■ ■ ■ ■
-· ■ ■ ■ ·      ■ ■ ■ ■ ■
-· ■ ◆ ■ ·      ■ ■ ◆ ■ ■
-· ■ ■ ■ ·      ■ ■ ■ ■ ■
-· · · · ·      ■ ■ ■ ■ ■
+Burst 2
+· · · · · · ·
+· ■ ■ ■ ■ ■ ·
+· ■ ■ ■ ■ ■ ·
+· ■ ■ ◆ ■ ■ ·
+· ■ ■ ■ ■ ■ ·
+· ■ ■ ■ ■ ■ ·
+· · · · · · ·
+
+Burst 1 on whoever creates it
+· · · · ·
+· ■ ■ ■ ·
+· ■ Ⓒ ■ ·
+· ■ ■ ■ ·
+· · · · ·
 ```
 
 ### Blast N
 
 A square of N × N squares adjacent to whoever creates the Zone, in any direction, including diagonally. Whoever creates the Blast is not affected by it.
 
-Blast 3 forward and diagonally:
+```grade
+Blast 3 forward
+· · · · ·
+· ■ ■ ■ ·
+· ■ ■ ■ ·
+· ■ ■ ■ ·
+· · C · ·
+· · · · ·
 
-```
-■ ■ ■          ■ ■ ■ ·
-■ ■ ■          ■ ■ ■ ·
-■ ■ ■          ■ ■ ■ ·
-· C ·          · · · C
+Blast 3 diagonally
+· · · · · ·
+· ■ ■ ■ · ·
+· ■ ■ ■ · ·
+· ■ ■ ■ · ·
+· · · · C ·
+· · · · · ·
 ```
 
 ### Line N
 
 N squares in a straight line, horizontal, vertical or diagonal, starting from a square adjacent to whoever creates the Zone. Whoever creates the Line is not affected by it.
 
-Line 4 horizontally and Line 3 diagonally:
+```grade
+Line 4 horizontally
+· · · · · · ·
+· C ■ ■ ■ ■ ·
+· · · · · · ·
 
-```
-C ■ ■ ■ ■      · · · ■
-               · · ■ ·
-               · ■ · ·
-               C · · ·
+Line 3 diagonally
+· · · · · ·
+· · · · ■ ·
+· · · ■ · ·
+· · ■ · · ·
+· C · · · ·
+· · · · · ·
 ```
 
 A creature that takes up more than one square measures the Blast and the Line from any square it occupies (see [Size](../Personagens/Tamanho.md)). The source can use another shape, as long as it describes it.
