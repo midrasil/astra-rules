@@ -73,7 +73,7 @@ Com a trilha inteiramente preenchida por dano agravado, não é possível Romper
 O dano de Vontade não desaparece ao final dos conflitos. A recuperação depende da **gravidade** do dano sofrido.
 
 - **Dano superficial:** ao completar um [Descanso Prolongado](Descanso%20Prolongado.md), o personagem recupera todo o dano superficial de Vontade. Agir para cumprir seu **Desejo** também recupera dano superficial (ver [Ambição e Desejo](Ambi%C3%A7%C3%A3o%20e%20Desejo.md)).
-- **Dano agravado:** não se recupera com o tempo. Ele se torna superficial quando o personagem trabalha ativamente em direção à sua **Ambição**, quando uma **Fratura** de Convicção é reparada (1 ponto) ou quando uma Convicção rompida é **restaurada** (até 2 pontos) (ver [Convicções e Pilares](Convic%C3%A7%C3%B5es%20e%20Pilares.md)).
+- **Dano agravado:** não se recupera com o tempo. Ele se torna superficial quando o personagem trabalha ativamente em direção à sua **Ambição**, quando o personagem **recorre a um Pilar** (1 ponto, uma vez por sessão), quando uma **Fratura** de Convicção é reparada (1 ponto) ou quando uma Convicção rompida é **restaurada** (até 2 pontos) (ver [Convicções e Pilares](Convic%C3%A7%C3%B5es%20e%20Pilares.md)).
 
 ---
 

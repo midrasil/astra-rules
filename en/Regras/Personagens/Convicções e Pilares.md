@@ -1,4 +1,4 @@
-<!-- source: c887c659538e -->
+<!-- source: eb90c6a361af -->
 # Convictions and Pillars
 
 A **Conviction** is a principle the character refuses to betray — for example, "Never abandon those who fight at my side".
@@ -14,6 +14,12 @@ Every character has **3 Convictions**, chosen during character creation (see [Id
 Each Conviction must be sustained by a **Pillar**: a concrete person, place or object in the story that embodies that Conviction — for example, a traveling companion or a father's diary.
 
 The Pillar gives the Narrator something tangible to put at risk.
+
+### Turning to a Pillar
+
+**Once per session**, in total, outside a [Tactical Scene](../Cenas%20e%20Conflitos/Cenas%20T%C3%A1ticas.md), the character can turn to one of their Pillars: talk with the person, visit the place or spend time with the object. The scene must be **played out**, even briefly, and show what the Pillar means to the character. At its end, **1 point of aggravated [Willpower](Vontade.md) damage** becomes superficial damage.
+
+The Pillar must be present: a destroyed or lost Pillar cannot be sought out.
 
 ## Fractures
 

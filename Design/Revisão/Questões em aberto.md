@@ -74,7 +74,7 @@ Itens para revisitar. Cada um tem um **gatilho**: o momento da revisão em que d
 - **Origem:** seção 05.
 - **Descrição:** o autor pretende criar uma Competência que permita Tratar durante a Cena Tática e/ou sem material de cura.
 - **Gatilho:** quando as Competências forem revisadas (seções 11 a 25), ou depois disso.
-- **Gatilho atualizado (seção 53):** criação de novas Competências, junto com a Q-012.
+- **Gatilho atualizado (seção 53):** criação de novas Competências. A Q-012 foi fechada sem ela (D-088).
 
 **Q-011 · Dano de Vontade causado por fontes externas**
 - **Origem:** seção 06.
@@ -92,6 +92,7 @@ Itens para revisitar. Cada um tem um **gatilho**: o momento da revisão em que d
 
   Avaliar se isso basta ou se deve haver outra fonte, como uma Competência (paralela à Q-010) ou um "tratamento" mental fora de cena.
 - **Gatilho:** decisão do autor; revisitar nas Competências (seções 11 a 25).
+- **Status:** fechada em 2026-11-06 (D-088): Recorrer a um Pilar, uma vez por sessão, numa cena jogada fora de uma Cena Tática. Análise em [Q-012 - Curar Vontade agravada](Se%C3%A7%C3%B5es/Q-012%20-%20Curar%20Vontade%20agravada.md).
 
 **Q-013 · Armas grandes com Aparador contra Escudos**
 - **Origem:** seção 14.

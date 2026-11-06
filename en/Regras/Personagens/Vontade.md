@@ -1,4 +1,4 @@
-<!-- source: be5d7160b63e -->
+<!-- source: f524390adce1 -->
 # Willpower
 
 **Willpower** is a **resource**: the character spends it to push past their own limits. While [Health](Vida.md) represents the character's physical condition, the damage built up on the Willpower track represents the state of their **psyche**: the strain of that effort and the marks left by their Convictions.
@@ -76,7 +76,7 @@ With the track entirely filled with aggravated damage, it is not possible to Bre
 Willpower damage does not disappear at the end of conflicts. Recovery depends on the **severity** of the damage taken.
 
 - **Superficial damage:** on completing a [Long Rest](Descanso%20Prolongado.md), the character recovers all superficial Willpower damage. Acting to fulfill their **Desire** also recovers superficial damage (see [Ambition and Desire](Ambi%C3%A7%C3%A3o%20e%20Desejo.md)).
-- **Aggravated damage:** does not recover with time. It becomes superficial when the character actively works toward their **Ambition**, when a Conviction **Fracture** is repaired (1 point) or when a broken Conviction is **restored** (up to 2 points) (see [Convictions and Pillars](Convic%C3%A7%C3%B5es%20e%20Pilares.md)).
+- **Aggravated damage:** does not recover with time. It becomes superficial when the character actively works toward their **Ambition**, when the character **turns to a Pillar** (1 point, once per session), when a Conviction **Fracture** is repaired (1 point) or when a broken Conviction is **restored** (up to 2 points) (see [Convictions and Pillars](Convic%C3%A7%C3%B5es%20e%20Pilares.md)).
 
 ---
 

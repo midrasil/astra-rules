@@ -116,5 +116,6 @@ Status: `[ ]` pendente · `[~]` em discussão · `[x]` concluída
 A revisão geral terminou com a seção 53, com as decisões D-001 a D-081 registradas em [Decisões](Decis%C3%B5es.md). Ficam abertas, como projetos futuros (ver [Questões em aberto](Quest%C3%B5es%20em%20aberto.md)):
 
 - **Q-010 e Q-012:** uma Competência de cura, que trate na Cena Tática e repare Vontade agravada.
+  - A Q-012 foi fechada em 2026-11-06 com o Recorrer a um Pilar (D-088); a Q-010 segue aberta.
 - **Q-014 e Q-015:** um guia de criação de criaturas, com a lista única de Capacidades.
 - **Fora deste repositório:** ajustar a ordem da wiki no astra-engine à ordem do Readme (D-081).
