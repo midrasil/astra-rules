@@ -1,3 +1,6 @@
+> [!warning] Substituído
+> As fichas desta nota foram refeitas do zero no novo modelo e publicadas no [Bestiário](../../Regras/Criaturas/Besti%C3%A1rio/Besti%C3%A1rio.md) (D-086). Esta nota fica como histórico da conversão.
+
 Rascunho de trabalho. Adapta as criaturas do livro de monstros de referência para o Astra, usando as [Capacidades de NPC](../../Regras/Capacidades/Capacidades%20de%20NPC.md) e as regras do sistema. Primeiro definimos a **conversão**; depois cada criatura é convertida com ela.
 
 > [!success] Migração das Reservas
