@@ -617,3 +617,8 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
   - o compêndio `core-creatures.json` do astra-engine será atualizado depois, a partir do Bestiário.
 - **Status:** aprovada.
 - **Arquivos:** `Regras/Criaturas/Bestiário/` (novo), `Regras/Criaturas/Criação de NPCs.md`, `Regras/Criaturas/Ficha de NPC.md`, `Regras/Criaturas/Criaturas.md`, `Readme.md`, as versões em `en/` e `Design/Criaturas/Criaturas em Análise.md`.
+
+**D-087 · 2026-11-06 · Vontade padrão nos NPCs (revê a D-084, a D-085 e a D-086)**
+- **Decisão:** a trilha de Vontade deixa de ser opcional. Todo NPC tem trilha de 3 + Determinação, como os personagens, porque várias Capacidades usam Vontade. Sai a regra "sem trilha, nada que custe Vontade" do Uso por NPCs, e a dependência "trilha de Vontade" sai do índice de Capacidades. A Vontade por patamar da Criação de NPCs também sai. Todas as criaturas do Bestiário passam a ter Vontade.
+- **Status:** aprovada (pedido do autor na conversa da wiki).
+- **Arquivos:** `Regras/Criaturas/Ficha de NPC.md`, `Regras/Criaturas/Criação de NPCs.md`, `Regras/Capacidades/Capacidades.md`, `Regras/Criaturas/Bestiário/` e as versões em `en/`.

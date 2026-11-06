@@ -1,4 +1,4 @@
-<!-- source: 6973197500a1 -->
+<!-- source: 89759902eca4 -->
 # Great White Shark
 
 The greatest predator of the seas. It only moves in water.
@@ -9,7 +9,7 @@ The greatest predator of the seas. It only moves in water.
 | **Type and Size** | Beast · Large |
 | **Attributes** | Str 5 · Agi 3 · Vig 4 · Cha 1 · Cun 1 · Det 2 |
 | **Skills** | Acrobatics 3, Athletics 5, Fighting 4, Perception 5 |
-| **Health · Willpower · Initiative · Movement · Absorption** | 7 · — · 3 · 0 · 1 (base 1) |
+| **Health · Willpower · Initiative · Movement · Absorption** | 7 · 5 · 3 · 0 · 1 (base 1) |
 | **Attacks** | Bite, Damage 3, Piercing, Reach 1, Heavy |
 | **Capabilities** | [Aquatic](../../Capacidades/Capacidades%20de%20NPC.md#aquatic) (10), [Frenzy](../../Capacidades/Capacidades%20de%20NPC.md#frenzy), [Improved Frenzy](../../Capacidades/Capacidades%20de%20NPC.md#improved-frenzy) · cost 2 |
 | **Ready Pools** | Bite 9; Dodge 6; Initiative 3 |

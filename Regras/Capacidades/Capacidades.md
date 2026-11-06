@@ -7,7 +7,6 @@ Personagens de jogador recebem Capacidades **somente** pelos Níveis das suas Co
 - **Valor (N):** quando uma Capacidade usa o Nível da sua Competência, ela aparece aqui com **(N)**. A ficha do NPC indica esse valor entre parênteses, de 1 a 5, como **Nada Escapa (3)**. Nas outras regras da Capacidade, o NPC é tratado como se tivesse a Competência nesse Nível.
 - **Requisitos:** os requisitos comuns de uma Competência, como empunhar um Escudo, valem também para o NPC que tem uma Capacidade dela.
 - **Dependências:** uma Capacidade que depende de outra só funciona se o NPC também tiver a outra.
-- **Vontade:** um NPC sem trilha de [Vontade](../Personagens/Vontade.md) não pode usar Capacidades que custem Vontade.
 - **Equivalência:** um NPC que deveria ter uma Competência em certo Nível recebe as Capacidades até esse Nível, com N igual a ele. Por exemplo, um guarda "Sentinela 2" recebe Ataque de Oportunidade e Deter.
 
 ## Capacidades de Competências
@@ -31,7 +30,7 @@ Personagens de jogador recebem Capacidades **somente** pelos Níveis das suas Co
 | [Postura de Tiro](../Compet%C3%AAncias/Atirador.md#n%C3%ADvel-1--postura-de-tiro) | Atirador 1 | — |
 | [Foco Imperturbável](../Compet%C3%AAncias/Atirador.md#n%C3%ADvel-2--foco-imperturb%C3%A1vel) | Atirador 2 | — |
 | [Mira Estável](../Compet%C3%AAncias/Atirador.md#n%C3%ADvel-3--mira-est%C3%A1vel) | Atirador 3 | Postura de Tiro |
-| [Postura de Tiro Aprimorada](../Compet%C3%AAncias/Atirador.md#n%C3%ADvel-4--postura-de-tiro-aprimorada) | Atirador 4 | Postura de Tiro; trilha de Vontade |
+| [Postura de Tiro Aprimorada](../Compet%C3%AAncias/Atirador.md#n%C3%ADvel-4--postura-de-tiro-aprimorada) | Atirador 4 | Postura de Tiro |
 | [Foco Inabalável](../Compet%C3%AAncias/Atirador.md#n%C3%ADvel-5--foco-inabal%C3%A1vel) | Atirador 5 | Postura de Tiro; Foco Imperturbável |
 | [Bonito](../Compet%C3%AAncias/Cativante.md#n%C3%ADvel-1--bonito) | Cativante 1 | — |
 | [Primeira Impressão](../Compet%C3%AAncias/Cativante.md#n%C3%ADvel-2--primeira-impress%C3%A3o) | Cativante 2 | Bonito |
@@ -43,29 +42,29 @@ Personagens de jogador recebem Capacidades **somente** pelos Níveis das suas Co
 | [Combate Singular](../Compet%C3%AAncias/Duelista.md#n%C3%ADvel-1--combate-singular) (N) | Duelista 1 | — |
 | [Superioridade Técnica](../Compet%C3%AAncias/Duelista.md#n%C3%ADvel-2--superioridade-t%C3%A9cnica) (N) | Duelista 2 | — |
 | [Desafio](../Compet%C3%AAncias/Duelista.md#n%C3%ADvel-3--desafio) | Duelista 3 | — |
-| [Fúria](../Compet%C3%AAncias/Furioso.md#n%C3%ADvel-1--f%C3%BAria) | Furioso 1 | trilha de Vontade |
+| [Fúria](../Compet%C3%AAncias/Furioso.md#n%C3%ADvel-1--f%C3%BAria) | Furioso 1 | — |
 | [Sangue por Sangue](../Compet%C3%AAncias/Furioso.md#n%C3%ADvel-2--sangue-por-sangue) | Furioso 2 | Fúria |
 | [Investida Furiosa](../Compet%C3%AAncias/Furioso.md#n%C3%ADvel-3--investida-furiosa) | Furioso 3 | Fúria |
 | [Além da Dor](../Compet%C3%AAncias/Furioso.md#n%C3%ADvel-4--al%C3%A9m-da-dor) | Furioso 4 | Fúria |
-| [Recusar a Queda](../Compet%C3%AAncias/Furioso.md#n%C3%ADvel-5--recusar-a-queda) | Furioso 5 | Fúria; trilha de Vontade |
+| [Recusar a Queda](../Compet%C3%AAncias/Furioso.md#n%C3%ADvel-5--recusar-a-queda) | Furioso 5 | Fúria |
 | [Cobrir Aliado](../Compet%C3%AAncias/Guardi%C3%A3o.md#n%C3%ADvel-1--cobrir-aliado) | Guardião 1 | Escudo empunhado |
 | [Domínio do Escudo](../Compet%C3%AAncias/Guardi%C3%A3o.md#n%C3%ADvel-2--dom%C3%ADnio-do-escudo) | Guardião 2 | Escudo empunhado |
-| [Interpor-se](../Compet%C3%AAncias/Guardi%C3%A3o.md#n%C3%ADvel-3--interpor-se) | Guardião 3 | Escudo empunhado; trilha de Vontade |
+| [Interpor-se](../Compet%C3%AAncias/Guardi%C3%A3o.md#n%C3%ADvel-3--interpor-se) | Guardião 3 | Escudo empunhado |
 | [Abrigo](../Compet%C3%AAncias/Guardi%C3%A3o.md#n%C3%ADvel-4--abrigo) | Guardião 4 | Escudo empunhado |
 | [Bastião](../Compet%C3%AAncias/Guardi%C3%A3o.md#n%C3%ADvel-5--basti%C3%A3o) | Guardião 5 | Escudo empunhado |
 | [Inspiração](../Compet%C3%AAncias/Inspirador.md#n%C3%ADvel-1--inspira%C3%A7%C3%A3o) | Inspirador 1 | — |
-| [Levantar o Ânimo](../Compet%C3%AAncias/Inspirador.md#n%C3%ADvel-2--levantar-o-%C3%A2nimo) | Inspirador 2 | Inspiração; trilha de Vontade |
-| [Refrão Inspirador](../Compet%C3%AAncias/Inspirador.md#n%C3%ADvel-3--refr%C3%A3o-inspirador) | Inspirador 3 | Inspiração; trilha de Vontade |
+| [Levantar o Ânimo](../Compet%C3%AAncias/Inspirador.md#n%C3%ADvel-2--levantar-o-%C3%A2nimo) | Inspirador 2 | Inspiração |
+| [Refrão Inspirador](../Compet%C3%AAncias/Inspirador.md#n%C3%ADvel-3--refr%C3%A3o-inspirador) | Inspirador 3 | Inspiração |
 | [Leitura Fria](../Compet%C3%AAncias/Mentalista.md#n%C3%ADvel-1--leitura-fria) | Mentalista 1 | — |
 | [Leitura de Combate](../Compet%C3%AAncias/Mentalista.md#n%C3%ADvel-2--leitura-de-combate) | Mentalista 2 | uma Capacidade que aplique Lido (Leitura Fria ou Conhecer a Presa) |
 | [Nada Escapa](../Compet%C3%AAncias/Mentalista.md#n%C3%ADvel-3--nada-escapa) (N) | Mentalista 3 | — |
 | [Manipulação](../Compet%C3%AAncias/Mentalista.md#n%C3%ADvel-4--manipula%C3%A7%C3%A3o) | Mentalista 4 | — |
-| [Eu Já Sabia](../Compet%C3%AAncias/Mentalista.md#n%C3%ADvel-5--eu-j%C3%A1-sabia) | Mentalista 5 | uma Capacidade que aplique Lido (Leitura Fria ou Conhecer a Presa); trilha de Vontade |
+| [Eu Já Sabia](../Compet%C3%AAncias/Mentalista.md#n%C3%ADvel-5--eu-j%C3%A1-sabia) | Mentalista 5 | uma Capacidade que aplique Lido (Leitura Fria ou Conhecer a Presa) |
 | [Corpo Robusto](../Compet%C3%AAncias/Robusto.md#corpo-robusto) (N) | Robusto 1 | — |
 | [Ataque de Oportunidade](../Compet%C3%AAncias/Sentinela.md#n%C3%ADvel-1--ataque-de-oportunidade) | Sentinela 1 | arma corpo a corpo empunhada |
 | [Deter](../Compet%C3%AAncias/Sentinela.md#n%C3%ADvel-2--deter) | Sentinela 2 | arma corpo a corpo empunhada; Ataque de Oportunidade |
 | [Retaliar](../Compet%C3%AAncias/Sentinela.md#n%C3%ADvel-3--retaliar) | Sentinela 3 | arma corpo a corpo empunhada; Ataque de Oportunidade |
-| [Vigilância Incansável](../Compet%C3%AAncias/Sentinela.md#n%C3%ADvel-4--vigil%C3%A2ncia-incans%C3%A1vel) | Sentinela 4 | arma corpo a corpo empunhada; Ataque de Oportunidade; trilha de Vontade |
+| [Vigilância Incansável](../Compet%C3%AAncias/Sentinela.md#n%C3%ADvel-4--vigil%C3%A2ncia-incans%C3%A1vel) | Sentinela 4 | arma corpo a corpo empunhada; Ataque de Oportunidade |
 
 ## Capacidades de NPC
 

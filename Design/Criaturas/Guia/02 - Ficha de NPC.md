@@ -165,3 +165,7 @@ Renomear as Características de NPC para Capacidades de NPC e mover a página pa
 - **Características de NPC são Capacidades** (observação do autor): viram **Capacidades de NPC**, em `Regras/Capacidades/Capacidades de NPC.md`; o índice diz que só NPCs têm acesso a elas, em uma frase no lugar da coluna. A definição de Ataque natural foi para a Ficha de NPC.
 - **Agarrar com a boca:** aprovado.
 - **P-G02.1 a P-G02.5:** aprovadas ("aprovo tudo"). A Agarrado já dizia que criaturas sem mãos agarram com a parte do corpo indicada na ficha, então a Condição não mudou.
+
+## Revisão posterior (2026-11-06)
+
+- O autor tornou a trilha de Vontade padrão em todos os NPCs, porque várias Capacidades usam Vontade (D-087). A Vontade opcional desta parte foi substituída.

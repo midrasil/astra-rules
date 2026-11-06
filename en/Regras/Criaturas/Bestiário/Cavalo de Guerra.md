@@ -1,4 +1,4 @@
-<!-- source: 9c5a1344801e -->
+<!-- source: a8825c045420 -->
 # War Horse
 
 A horse trained to fight with its hooves alongside its rider.
@@ -9,7 +9,7 @@ A horse trained to fight with its hooves alongside its rider.
 | **Type and Size** | Beast · Large |
 | **Attributes** | Str 4 · Agi 2 · Vig 4 · Cha 1 · Cun 2 · Det 2 |
 | **Skills** | Acrobatics 2, Athletics 2, Fighting 3, Perception 2 |
-| **Health · Willpower · Initiative · Movement · Absorption** | 7 · — · 4 · 8 · 0 |
+| **Health · Willpower · Initiative · Movement · Absorption** | 7 · 5 · 4 · 8 · 0 |
 | **Attacks** | Kick, Damage 2, Bludgeoning, Reach 1, Heavy |
 | **Capabilities** | [Charge](../../Capacidades/Capacidades%20de%20NPC.md#charge-2-damage-4-squares) (+2 Damage; 4 squares) · cost 1 |
 | **Ready Pools** | Kick 7; Dodge 4; Initiative 4 |
