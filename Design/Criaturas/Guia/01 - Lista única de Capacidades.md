@@ -1,7 +1,7 @@
 # Guia de Criaturas · 01 · Lista única de Capacidades
 
 **Questões:** Q-015 (lista única de Capacidades); prepara a Q-014 (ficha de criatura)
-**Status:** decidida (D-083) e aplicada; aguardando o merge do PR
+**Status:** concluída (PR #77, mergeado em 2026-11-05)
 
 ## Plano do guia
 

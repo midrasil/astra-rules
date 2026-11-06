@@ -1,20 +1,18 @@
-**Características de NPC** são capacidades próprias de NPCs, criaturas e inimigos. Elas são definidas diretamente na ficha da criatura e não pertencem ao sistema de Competências dos personagens.
-
-Um **Ataque natural** é um Ataque feito com o corpo da criatura, como garras, mordidas, chifres ou ferrões. A ficha da criatura define seu Dano, Tipo de Dano e Alcance, como os de uma [arma](../Equipamentos/Armas.md), e ele usa **Agilidade + Lutar**, salvo quando a ficha indicar outra Reserva.
+**Capacidades de NPC** são [Capacidades](Capacidades.md) a que só NPCs, criaturas e inimigos têm acesso. Elas não pertencem a nenhuma Competência: o Narrador as coloca diretamente na [Ficha de NPC](../Criaturas/Ficha%20de%20NPC.md). NPCs também podem receber Capacidades de Competências como Capacidades soltas (ver [Uso por NPCs](Capacidades.md#uso-por-npcs)).
 
 ## Valores configuráveis
 
-Cada característica traz **valores padrão** entre parênteses, como a **Potência**, a Reserva usada para resistir, a duração ou a quantidade de acúmulos. Esses valores são **configuráveis em cada criatura**: duas criaturas com a mesma característica podem ter valores diferentes.
+Cada Capacidade de NPC traz **valores padrão** entre parênteses, como a **Potência**, a Reserva usada para resistir, a duração ou a quantidade de acúmulos. Esses valores são **configuráveis em cada criatura**: duas criaturas com a mesma Capacidade podem ter valores diferentes.
 
-A **Potência** é a [Dificuldade](../Mec%C3%A2nica%20B%C3%A1sica/Reserva%20de%20Dados.md#escala-de-dificuldade) do teste que o alvo faz para resistir, quando a característica pede um.
+A **Potência** é a [Dificuldade](../Mec%C3%A2nica%20B%C3%A1sica/Reserva%20de%20Dados.md#escala-de-dificuldade) do teste que o alvo faz para resistir, quando a Capacidade pede um.
 
-Quando uma Característica menciona uma Perícia sem escrever a Reserva completa, ela utiliza o Atributo vinculado da Perícia. Reservas formadas expressamente por dois Atributos, como Vigor + Determinação, permanecem inalteradas.
+Quando uma Capacidade de NPC menciona uma Perícia sem escrever a Reserva completa, ela utiliza o Atributo vinculado da Perícia. Reservas formadas expressamente por dois Atributos, como Vigor + Determinação, permanecem inalteradas.
 
-Quando uma característica não indicar a Reserva para resistir, use **Vigor + Determinação** contra efeitos no corpo e **Determinação + Astúcia** contra efeitos na mente.
+Quando uma Capacidade de NPC não indicar a Reserva para resistir, use **Vigor + Determinação** contra efeitos no corpo e **Determinação + Astúcia** contra efeitos na mente.
 
 ## Movimentos especiais
 
-Nadar e escalar são [Movimentação Especial](../Movimento/Movimenta%C3%A7%C3%A3o.md#movimenta%C3%A7%C3%A3o-especial) e custam 2 pontos de Movimentação por quadrado. Com uma destas características, a criatura usa aquele movimento pelo **custo normal**, 1 ponto por quadrado, e escolhe no seu Turno se usa a Movimentação com o movimento normal ou com o especial.
+Nadar e escalar são [Movimentação Especial](../Movimento/Movimenta%C3%A7%C3%A3o.md#movimenta%C3%A7%C3%A3o-especial) e custam 2 pontos de Movimentação por quadrado. Com uma destas Capacidades, a criatura usa aquele movimento pelo **custo normal**, 1 ponto por quadrado, e escolhe no seu Turno se usa a Movimentação com o movimento normal ou com o especial.
 
 **Aquática** e **Voadora** podem trazer um valor entre parênteses, como **Aquática (5)**: é a Movimentação da criatura naquele meio, também pelo custo normal. Sem valor, ela usa sua Movimentação padrão. Uma criatura que só se move na água, como um tubarão, tem Movimentação 0 em terra.
 
@@ -36,7 +34,7 @@ Nadar e escalar são [Movimentação Especial](../Movimento/Movimenta%C3%A7%C3%A
 
 ## Efeitos ao acertar
 
-Quando a criatura **vence um Ataque com um Ataque natural corpo a corpo**, o alvo faz um teste para resistir, com Dificuldade igual à Potência. Se falhar, sofre o efeito.
+Quando a criatura **vence um Ataque com um [Ataque natural](../Criaturas/Ficha%20de%20NPC.md#ataques-naturais) corpo a corpo**, o alvo faz um teste para resistir, com Dificuldade igual à Potência. Se falhar, sofre o efeito.
 
 ### Venenosa (Potência 2; Vigor + Determinação)
 
@@ -111,8 +109,6 @@ Quando a criatura **vence um Ataque com um Ataque natural corpo a corpo**, o alv
 
 - **Descrição:** até o alcance, a criatura trata a **Penumbra** como **Claro** e o **Escuro** como **Penumbra**, mas enxerga sem distinguir cores. Além do alcance, a [Iluminação](../Cenas%20e%20Conflitos/Ilumina%C3%A7%C3%A3o.md) vale normalmente. A [escuridão sobrenatural](../Cenas%20e%20Conflitos/Ilumina%C3%A7%C3%A3o.md#escurid%C3%A3o-sobrenatural) bloqueia a Visão no Escuro.
 
-NPCs também podem receber Capacidades de Competências como Capacidades soltas (ver [Capacidades](../Capacidades/Capacidades.md#uso-por-npcs)).
-
 ---
 
-← [Voltar para Criaturas](Criaturas.md)
+← [Voltar para Capacidades](Capacidades.md)

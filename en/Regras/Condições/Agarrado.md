@@ -1,4 +1,4 @@
-<!-- source: c14adf7b32a1 -->
+<!-- source: df5d1f791f85 -->
 # Grappled
 
 A **Grappled** character suffers the following effects.
@@ -21,7 +21,7 @@ Whoever holds the grapple can drag the target while moving, as long as the targe
 
 The grappler can release the target at any moment, without using their Action. The grapple also ends when the two stop being adjacent or when the grappler becomes [Incapacitated](Incapacitado.md) or [Paralyzed](Paralisado.md).
 
-When the Condition comes from an effect with no character grappling, such as the [Web](../Criaturas/Caracter%C3%ADsticas%20de%20NPC.md#web-potency-2-range-6-attack-agility--shooting-escape-strength--athletics), the release and adjacency rules do not apply, and the effect sets how to escape.
+When the Condition comes from an effect with no character grappling, such as the [Web](../Capacidades/Capacidades%20de%20NPC.md#web-potency-2-range-6-attack-agility--shooting-escape-strength--athletics), the release and adjacency rules do not apply, and the effect sets how to escape.
 
 ## How to escape
 

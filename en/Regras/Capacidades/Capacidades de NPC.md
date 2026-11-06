@@ -1,23 +1,21 @@
-<!-- source: dd5471915a08 -->
-# NPC Traits
+<!-- source: 5aa10fd9d593 -->
+# NPC Capabilities
 
-**NPC Traits** are abilities belonging to NPCs, creatures and enemies. They are set directly on the creature's sheet and are not part of the characters' Competency system.
-
-A **Natural Attack** is an Attack made with the creature's body, such as claws, bites, horns or stingers. The creature's sheet sets its Damage, Damage Type and Reach, like those of a [weapon](../Equipamentos/Armas.md), and it uses **Agility + Fighting**, unless the sheet sets another Pool.
+**NPC Capabilities** are [Capabilities](Capacidades.md) that only NPCs, creatures and enemies have access to. They belong to no Competency: the Narrator puts them directly on the [NPC Sheet](../Criaturas/Ficha%20de%20NPC.md). NPCs can also receive Competency Capabilities as standalone Capabilities (see [Use by NPCs](Capacidades.md#use-by-npcs)).
 
 ## Configurable values
 
-Each trait comes with **default values** in parentheses, such as **Potency**, the Pool used to resist, the duration or the number of stacks. These values are **configurable on each creature**: two creatures with the same trait can have different values.
+Each NPC Capability comes with **default values** in parentheses, such as **Potency**, the Pool used to resist, the duration or the number of stacks. These values are **configurable on each creature**: two creatures with the same Capability can have different values.
 
-**Potency** is the [Difficulty](../Mec%C3%A2nica%20B%C3%A1sica/Reserva%20de%20Dados.md#difficulty-scale) of the test the target makes to resist, when the trait calls for one.
+**Potency** is the [Difficulty](../Mec%C3%A2nica%20B%C3%A1sica/Reserva%20de%20Dados.md#difficulty-scale) of the test the target makes to resist, when the Capability calls for one.
 
-When a Trait mentions a Skill without spelling out the full Pool, it uses the Skill's linked Attribute. Pools expressly made of two Attributes, such as Vigor + Determination, stay unchanged.
+When an NPC Capability mentions a Skill without spelling out the full Pool, it uses the Skill's linked Attribute. Pools expressly made of two Attributes, such as Vigor + Determination, stay unchanged.
 
-When a trait does not set the Pool to resist, use **Vigor + Determination** against effects on the body and **Determination + Cunning** against effects on the mind.
+When an NPC Capability does not set the Pool to resist, use **Vigor + Determination** against effects on the body and **Determination + Cunning** against effects on the mind.
 
 ## Special movement
 
-Swimming and climbing are [Special Movement](../Movimento/Movimenta%C3%A7%C3%A3o.md#special-movement) and cost 2 Movement points per square. With one of these traits, the creature uses that movement at the **normal cost**, 1 point per square, and chooses on its Turn whether to spend its Movement on normal or special movement.
+Swimming and climbing are [Special Movement](../Movimento/Movimenta%C3%A7%C3%A3o.md#special-movement) and cost 2 Movement points per square. With one of these Capabilities, the creature uses that movement at the **normal cost**, 1 point per square, and chooses on its Turn whether to spend its Movement on normal or special movement.
 
 **Aquatic** and **Flying** can come with a value in parentheses, such as **Aquatic (5)**: it is the creature's Movement in that medium, also at the normal cost. With no value, it uses its default Movement. A creature that only moves in water, such as a shark, has Movement 0 on land.
 
@@ -39,7 +37,7 @@ Swimming and climbing are [Special Movement](../Movimento/Movimenta%C3%A7%C3%A3o
 
 ## On-hit effects
 
-When the creature **wins an Attack with a melee natural Attack**, the target makes a test to resist, with Difficulty equal to the Potency. On a failure, they suffer the effect.
+When the creature **wins an Attack with a melee [natural Attack](../Criaturas/Ficha%20de%20NPC.md#natural-attacks)**, the target makes a test to resist, with Difficulty equal to the Potency. On a failure, they suffer the effect.
 
 ### Venomous (Potency 2; Vigor + Determination)
 
@@ -114,8 +112,6 @@ When the creature **wins an Attack with a melee natural Attack**, the target mak
 
 - **Description:** up to its range, the creature treats **Dim** as **Bright** and **Dark** as **Dim**, but sees without telling colors apart. Beyond its range, [Lighting](../Cenas%20e%20Conflitos/Ilumina%C3%A7%C3%A3o.md) applies as usual. [Supernatural darkness](../Cenas%20e%20Conflitos/Ilumina%C3%A7%C3%A3o.md#supernatural-darkness) blocks Darkvision.
 
-NPCs can also receive Competency Capabilities as standalone Capabilities (see [Capabilities](../Capacidades/Capacidades.md#use-by-npcs)).
-
 ---
 
-← [Back to Creatures](Criaturas.md)
+← [Back to Capabilities](Capacidades.md)

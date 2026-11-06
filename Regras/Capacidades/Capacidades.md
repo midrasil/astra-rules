@@ -1,4 +1,4 @@
-As **Capacidades** são os efeitos que as [Competências](../Compet%C3%AAncias/Compet%C3%AAncias.md) concedem a cada Nível. Esta página reúne todas em uma lista única, junto com as [Características de NPC](../Criaturas/Caracter%C3%ADsticas%20de%20NPC.md). O texto de cada uma continua na sua página de origem.
+As **Capacidades** são os efeitos que as [Competências](../Compet%C3%AAncias/Compet%C3%AAncias.md) concedem a cada Nível. Esta página reúne todas em uma lista única, junto com as [Capacidades de NPC](Capacidades%20de%20NPC.md), a que só NPCs têm acesso. O texto de cada uma continua na sua página de origem.
 
 Personagens de jogador recebem Capacidades **somente** pelos Níveis das suas Competências. NPCs usam a mesma ficha, simplificada, mas em vez de Competências recebem **Capacidades soltas** desta lista, escolhidas pelo Narrador.
 
@@ -67,32 +67,32 @@ Personagens de jogador recebem Capacidades **somente** pelos Níveis das suas Co
 | [Retaliar](../Compet%C3%AAncias/Sentinela.md#n%C3%ADvel-3--retaliar) | Sentinela 3 | arma corpo a corpo empunhada; Ataque de Oportunidade |
 | [Vigilância Incansável](../Compet%C3%AAncias/Sentinela.md#n%C3%ADvel-4--vigil%C3%A2ncia-incans%C3%A1vel) | Sentinela 4 | arma corpo a corpo empunhada; Ataque de Oportunidade; trilha de Vontade |
 
-## Características de NPC
+## Capacidades de NPC
 
-As Características de NPC são exclusivas de NPCs e já trazem os seus valores configuráveis entre parênteses.
+As Capacidades de NPC são exclusivas de NPCs: personagens de jogador não têm acesso a elas. Elas já trazem os seus valores configuráveis entre parênteses.
 
-| Característica | Valores padrão |
+| Capacidade | Valores padrão |
 | --- | --- |
-| [Aquática](../Criaturas/Caracter%C3%ADsticas%20de%20NPC.md#aqu%C3%A1tica) | — |
-| [Voadora](../Criaturas/Caracter%C3%ADsticas%20de%20NPC.md#voadora) | — |
-| [Escavadora](../Criaturas/Caracter%C3%ADsticas%20de%20NPC.md#escavadora) | — |
-| [Escaladora](../Criaturas/Caracter%C3%ADsticas%20de%20NPC.md#escaladora) | — |
-| [Venenosa](../Criaturas/Caracter%C3%ADsticas%20de%20NPC.md#venenosa-pot%C3%AAncia-2-vigor--determina%C3%A7%C3%A3o) | Potência 2; Vigor + Determinação |
-| [Paralisante](../Criaturas/Caracter%C3%ADsticas%20de%20NPC.md#paralisante-pot%C3%AAncia-2-vigor--for%C3%A7a) | Potência 2; Vigor + Força |
-| [Atordoante](../Criaturas/Caracter%C3%ADsticas%20de%20NPC.md#atordoante-pot%C3%AAncia-2-determina%C3%A7%C3%A3o--ast%C3%BAcia) | Potência 2; Determinação + Astúcia |
-| [Infecciosa](../Criaturas/Caracter%C3%ADsticas%20de%20NPC.md#infecciosa) | — |
-| [Frenesi](../Criaturas/Caracter%C3%ADsticas%20de%20NPC.md#frenesi) | — |
-| [Frenesi Aprimorado](../Criaturas/Caracter%C3%ADsticas%20de%20NPC.md#frenesi-aprimorado) | — |
-| [Sopro](../Criaturas/Caracter%C3%ADsticas%20de%20NPC.md#sopro-dano-tipo-de-dano) | Dano; Tipo de Dano |
-| [Investida](../Criaturas/Caracter%C3%ADsticas%20de%20NPC.md#investida-2-de-dano-4-quadrados) | +2 de Dano; 4 quadrados |
-| [Ir para a Garganta](../Criaturas/Caracter%C3%ADsticas%20de%20NPC.md#ir-para-a-garganta-margem-3) | Margem 3 |
-| [Constritora](../Criaturas/Caracter%C3%ADsticas%20de%20NPC.md#constritora-margem-2) | Margem 2 |
-| [Aterrorizante](../Criaturas/Caracter%C3%ADsticas%20de%20NPC.md#aterrorizante-pot%C3%AAncia-2-determina%C3%A7%C3%A3o--ast%C3%BAcia-ac%C3%BAmulos-iguais-%C3%A0-pot%C3%AAncia) | Potência 2; Determinação + Astúcia; acúmulos iguais à Potência |
-| [Teia](../Criaturas/Caracter%C3%ADsticas%20de%20NPC.md#teia-pot%C3%AAncia-2-alcance-6-ataque-agilidade--atirar-escapar-for%C3%A7a--atletismo) | Potência 2; Alcance 6; Ataque: Agilidade + Atirar; escapar: Força + Atletismo |
-| [Emboscada Subterrânea](../Criaturas/Caracter%C3%ADsticas%20de%20NPC.md#emboscada-subterr%C3%A2nea) | — |
-| [Enxame](../Criaturas/Caracter%C3%ADsticas%20de%20NPC.md#enxame-dano-pelo-tamanho) | dano pelo Tamanho |
-| [Regeneração](../Criaturas/Caracter%C3%ADsticas%20de%20NPC.md#regenera%C3%A7%C3%A3o-2-interrompida-pelo-tipo-de-dano-ou-material-definido-na-criatura) | 2; interrompida pelo Tipo de Dano ou Material definido na criatura |
-| [Visão no Escuro](../Criaturas/Caracter%C3%ADsticas%20de%20NPC.md#vis%C3%A3o-no-escuro-12-quadrados) | 12 quadrados |
+| [Aquática](Capacidades%20de%20NPC.md#aqu%C3%A1tica) | — |
+| [Voadora](Capacidades%20de%20NPC.md#voadora) | — |
+| [Escavadora](Capacidades%20de%20NPC.md#escavadora) | — |
+| [Escaladora](Capacidades%20de%20NPC.md#escaladora) | — |
+| [Venenosa](Capacidades%20de%20NPC.md#venenosa-pot%C3%AAncia-2-vigor--determina%C3%A7%C3%A3o) | Potência 2; Vigor + Determinação |
+| [Paralisante](Capacidades%20de%20NPC.md#paralisante-pot%C3%AAncia-2-vigor--for%C3%A7a) | Potência 2; Vigor + Força |
+| [Atordoante](Capacidades%20de%20NPC.md#atordoante-pot%C3%AAncia-2-determina%C3%A7%C3%A3o--ast%C3%BAcia) | Potência 2; Determinação + Astúcia |
+| [Infecciosa](Capacidades%20de%20NPC.md#infecciosa) | — |
+| [Frenesi](Capacidades%20de%20NPC.md#frenesi) | — |
+| [Frenesi Aprimorado](Capacidades%20de%20NPC.md#frenesi-aprimorado) | — |
+| [Sopro](Capacidades%20de%20NPC.md#sopro-dano-tipo-de-dano) | Dano; Tipo de Dano |
+| [Investida](Capacidades%20de%20NPC.md#investida-2-de-dano-4-quadrados) | +2 de Dano; 4 quadrados |
+| [Ir para a Garganta](Capacidades%20de%20NPC.md#ir-para-a-garganta-margem-3) | Margem 3 |
+| [Constritora](Capacidades%20de%20NPC.md#constritora-margem-2) | Margem 2 |
+| [Aterrorizante](Capacidades%20de%20NPC.md#aterrorizante-pot%C3%AAncia-2-determina%C3%A7%C3%A3o--ast%C3%BAcia-ac%C3%BAmulos-iguais-%C3%A0-pot%C3%AAncia) | Potência 2; Determinação + Astúcia; acúmulos iguais à Potência |
+| [Teia](Capacidades%20de%20NPC.md#teia-pot%C3%AAncia-2-alcance-6-ataque-agilidade--atirar-escapar-for%C3%A7a--atletismo) | Potência 2; Alcance 6; Ataque: Agilidade + Atirar; escapar: Força + Atletismo |
+| [Emboscada Subterrânea](Capacidades%20de%20NPC.md#emboscada-subterr%C3%A2nea) | — |
+| [Enxame](Capacidades%20de%20NPC.md#enxame-dano-pelo-tamanho) | dano pelo Tamanho |
+| [Regeneração](Capacidades%20de%20NPC.md#regenera%C3%A7%C3%A3o-2-interrompida-pelo-tipo-de-dano-ou-material-definido-na-criatura) | 2; interrompida pelo Tipo de Dano ou Material definido na criatura |
+| [Visão no Escuro](Capacidades%20de%20NPC.md#vis%C3%A3o-no-escuro-12-quadrados) | 12 quadrados |
 
 ---
 

@@ -35,11 +35,11 @@ Qualquer que seja o resultado, a presa fica [Lida](../Condi%C3%A7%C3%B5es/Lido.m
 
 - Qual é uma de suas [Resistências](../Resist%C3%AAncia%20e%20Vulnerabilidade/Resist%C3%AAncia.md) ou [Imunidades](../Resist%C3%AAncia%20e%20Vulnerabilidade/Imunidade.md)?
 - Qual é uma de suas [Vulnerabilidades](../Resist%C3%AAncia%20e%20Vulnerabilidade/Vulnerabilidade.md)?
-- Qual é uma de suas [Características](../Criaturas/Caracter%C3%ADsticas%20de%20NPC.md)?
+- Qual é uma de suas [Capacidades](../Capacidades/Capacidades.md)?
 - Como ela caça, ataca ou se defende?
 - Ela está ferida, faminta ou acuada?
 
-Cada pergunta revela uma única Resistência, Imunidade, Vulnerabilidade ou Característica. Você pode repetir uma pergunta para descobrir outra. Quando a presa não possuir nenhuma, o Narrador informa isso.
+Cada pergunta revela uma única Resistência, Imunidade, Vulnerabilidade ou Capacidade. Você pode repetir uma pergunta para descobrir outra. Quando a presa não possuir nenhuma, o Narrador informa isso.
 
 Ao seguir os rastros de uma presa com o [Rastreador](#n%C3%ADvel-1--rastreador), você pode fazer este teste a partir deles, sem gastar Ação. A presa fica Lida por você durante a primeira Cena em que você a encontrar.
 

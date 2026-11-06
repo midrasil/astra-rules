@@ -1,4 +1,4 @@
-<!-- source: 11f3359a7cdd -->
+<!-- source: f0cc00eba85a -->
 # Hunter
 
 Hunter represents the character who lives off the wilds and the creatures that dwell in them. They follow tracks others cannot see, know the animals, monsters and supernatural creatures they pursue in depth and use that knowledge to bring them down.
@@ -36,11 +36,11 @@ Whatever the result, the prey becomes [Read](../Condi%C3%A7%C3%B5es/Lido.md) by 
 
 - What is one of its [Resistances](../Resist%C3%AAncia%20e%20Vulnerabilidade/Resist%C3%AAncia.md) or [Immunities](../Resist%C3%AAncia%20e%20Vulnerabilidade/Imunidade.md)?
 - What is one of its [Vulnerabilities](../Resist%C3%AAncia%20e%20Vulnerabilidade/Vulnerabilidade.md)?
-- What is one of its [Traits](../Criaturas/Caracter%C3%ADsticas%20de%20NPC.md)?
+- What is one of its [Capabilities](../Capacidades/Capacidades.md)?
 - How does it hunt, attack or defend itself?
 - Is it wounded, hungry or cornered?
 
-Each question reveals a single Resistance, Immunity, Vulnerability or Trait. You can repeat a question to discover another. When the prey has none, the Narrator says so.
+Each question reveals a single Resistance, Immunity, Vulnerability or Capability. You can repeat a question to discover another. When the prey has none, the Narrator says so.
 
 When following a prey's tracks with [Tracker](#level-1--tracker), you can make this test from the tracks, without spending an Action. The prey becomes Read by you during the first Scene in which you find it.
 

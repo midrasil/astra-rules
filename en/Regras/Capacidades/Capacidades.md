@@ -1,7 +1,7 @@
-<!-- source: f10191b27a38 -->
+<!-- source: 1385748313e6 -->
 # Capabilities
 
-**Capabilities** are the effects that [Competencies](../Compet%C3%AAncias/Compet%C3%AAncias.md) grant at each Level. This page gathers all of them in a single list, together with the [NPC Traits](../Criaturas/Caracter%C3%ADsticas%20de%20NPC.md). The text of each one stays on its source page.
+**Capabilities** are the effects that [Competencies](../Compet%C3%AAncias/Compet%C3%AAncias.md) grant at each Level. This page gathers all of them in a single list, together with the [NPC Capabilities](Capacidades%20de%20NPC.md), which only NPCs have access to. The text of each one stays on its source page.
 
 Player characters receive Capabilities **only** through the Levels of their Competencies. NPCs use the same sheet, simplified, but instead of Competencies they receive **standalone Capabilities** from this list, chosen by the Narrator.
 
@@ -70,32 +70,32 @@ Player characters receive Capabilities **only** through the Levels of their Comp
 | [Retaliate](../Compet%C3%AAncias/Sentinela.md#level-3--retaliate) | Sentinel 3 | a wielded melee weapon; Opportunity Attack |
 | [Tireless Vigilance](../Compet%C3%AAncias/Sentinela.md#level-4--tireless-vigilance) | Sentinel 4 | a wielded melee weapon; Opportunity Attack; a Willpower track |
 
-## NPC Traits
+## NPC Capabilities
 
-NPC Traits are exclusive to NPCs and already carry their configurable values in parentheses.
+NPC Capabilities are exclusive to NPCs: player characters have no access to them. They already carry their configurable values in parentheses.
 
-| Trait | Default values |
+| Capability | Default values |
 | --- | --- |
-| [Aquatic](../Criaturas/Caracter%C3%ADsticas%20de%20NPC.md#aquatic) | — |
-| [Flying](../Criaturas/Caracter%C3%ADsticas%20de%20NPC.md#flying) | — |
-| [Burrowing](../Criaturas/Caracter%C3%ADsticas%20de%20NPC.md#burrowing) | — |
-| [Climbing](../Criaturas/Caracter%C3%ADsticas%20de%20NPC.md#climbing) | — |
-| [Venomous](../Criaturas/Caracter%C3%ADsticas%20de%20NPC.md#venomous-potency-2-vigor--determination) | Potency 2; Vigor + Determination |
-| [Paralyzing](../Criaturas/Caracter%C3%ADsticas%20de%20NPC.md#paralyzing-potency-2-vigor--strength) | Potency 2; Vigor + Strength |
-| [Stunning](../Criaturas/Caracter%C3%ADsticas%20de%20NPC.md#stunning-potency-2-determination--cunning) | Potency 2; Determination + Cunning |
-| [Infectious](../Criaturas/Caracter%C3%ADsticas%20de%20NPC.md#infectious) | — |
-| [Frenzy](../Criaturas/Caracter%C3%ADsticas%20de%20NPC.md#frenzy) | — |
-| [Improved Frenzy](../Criaturas/Caracter%C3%ADsticas%20de%20NPC.md#improved-frenzy) | — |
-| [Breath](../Criaturas/Caracter%C3%ADsticas%20de%20NPC.md#breath-damage-damage-type) | Damage; Damage Type |
-| [Charge](../Criaturas/Caracter%C3%ADsticas%20de%20NPC.md#charge-2-damage-4-squares) | +2 Damage; 4 squares |
-| [Go for the Throat](../Criaturas/Caracter%C3%ADsticas%20de%20NPC.md#go-for-the-throat-margin-3) | Margin 3 |
-| [Constrictor](../Criaturas/Caracter%C3%ADsticas%20de%20NPC.md#constrictor-margin-2) | Margin 2 |
-| [Terrifying](../Criaturas/Caracter%C3%ADsticas%20de%20NPC.md#terrifying-potency-2-determination--cunning-stacks-equal-to-potency) | Potency 2; Determination + Cunning; stacks equal to Potency |
-| [Web](../Criaturas/Caracter%C3%ADsticas%20de%20NPC.md#web-potency-2-range-6-attack-agility--shooting-escape-strength--athletics) | Potency 2; Range 6; Attack: Agility + Shooting; escape: Strength + Athletics |
-| [Burrowing Ambush](../Criaturas/Caracter%C3%ADsticas%20de%20NPC.md#burrowing-ambush) | — |
-| [Swarm](../Criaturas/Caracter%C3%ADsticas%20de%20NPC.md#swarm-damage-by-size) | damage by Size |
-| [Regeneration](../Criaturas/Caracter%C3%ADsticas%20de%20NPC.md#regeneration-2-interrupted-by-the-damage-type-or-material-set-on-the-creature) | 2; interrupted by the Damage Type or Material set on the creature |
-| [Darkvision](../Criaturas/Caracter%C3%ADsticas%20de%20NPC.md#darkvision-12-squares) | 12 squares |
+| [Aquatic](Capacidades%20de%20NPC.md#aquatic) | — |
+| [Flying](Capacidades%20de%20NPC.md#flying) | — |
+| [Burrowing](Capacidades%20de%20NPC.md#burrowing) | — |
+| [Climbing](Capacidades%20de%20NPC.md#climbing) | — |
+| [Venomous](Capacidades%20de%20NPC.md#venomous-potency-2-vigor--determination) | Potency 2; Vigor + Determination |
+| [Paralyzing](Capacidades%20de%20NPC.md#paralyzing-potency-2-vigor--strength) | Potency 2; Vigor + Strength |
+| [Stunning](Capacidades%20de%20NPC.md#stunning-potency-2-determination--cunning) | Potency 2; Determination + Cunning |
+| [Infectious](Capacidades%20de%20NPC.md#infectious) | — |
+| [Frenzy](Capacidades%20de%20NPC.md#frenzy) | — |
+| [Improved Frenzy](Capacidades%20de%20NPC.md#improved-frenzy) | — |
+| [Breath](Capacidades%20de%20NPC.md#breath-damage-damage-type) | Damage; Damage Type |
+| [Charge](Capacidades%20de%20NPC.md#charge-2-damage-4-squares) | +2 Damage; 4 squares |
+| [Go for the Throat](Capacidades%20de%20NPC.md#go-for-the-throat-margin-3) | Margin 3 |
+| [Constrictor](Capacidades%20de%20NPC.md#constrictor-margin-2) | Margin 2 |
+| [Terrifying](Capacidades%20de%20NPC.md#terrifying-potency-2-determination--cunning-stacks-equal-to-potency) | Potency 2; Determination + Cunning; stacks equal to Potency |
+| [Web](Capacidades%20de%20NPC.md#web-potency-2-range-6-attack-agility--shooting-escape-strength--athletics) | Potency 2; Range 6; Attack: Agility + Shooting; escape: Strength + Athletics |
+| [Burrowing Ambush](Capacidades%20de%20NPC.md#burrowing-ambush) | — |
+| [Swarm](Capacidades%20de%20NPC.md#swarm-damage-by-size) | damage by Size |
+| [Regeneration](Capacidades%20de%20NPC.md#regeneration-2-interrupted-by-the-damage-type-or-material-set-on-the-creature) | 2; interrupted by the Damage Type or Material set on the creature |
+| [Darkvision](Capacidades%20de%20NPC.md#darkvision-12-squares) | 12 squares |
 
 ---
 

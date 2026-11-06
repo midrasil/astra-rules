@@ -18,7 +18,7 @@ Quem mantém o agarrão pode arrastar o alvo enquanto se movimenta, desde que el
 
 Quem agarra pode soltar o alvo a qualquer momento, sem usar a Ação. O agarrão também termina quando os dois deixam de estar adjacentes ou quando quem agarra fica [Incapacitado](Incapacitado.md) ou [Paralisado](Paralisado.md).
 
-Quando a Condição vem de um efeito sem um personagem que agarre, como a [Teia](../Criaturas/Caracter%C3%ADsticas%20de%20NPC.md#teia-pot%C3%AAncia-2-alcance-6-ataque-agilidade--atirar-escapar-for%C3%A7a--atletismo), as regras de soltar e de adjacência não se aplicam, e o efeito define como escapar.
+Quando a Condição vem de um efeito sem um personagem que agarre, como a [Teia](../Capacidades/Capacidades%20de%20NPC.md#teia-pot%C3%AAncia-2-alcance-6-ataque-agilidade--atirar-escapar-for%C3%A7a--atletismo), as regras de soltar e de adjacência não se aplicam, e o efeito define como escapar.
 
 ## Como escapar
 

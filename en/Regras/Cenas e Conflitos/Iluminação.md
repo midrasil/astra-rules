@@ -1,4 +1,4 @@
-<!-- source: 65430047a8ef -->
+<!-- source: d5997f51e31d -->
 # Lighting
 
 The **Lighting** of a place sets how much can be seen there. It affects rolls that depend on seeing something, such as attacking, responding to an Attack, noticing or searching.
@@ -15,7 +15,7 @@ The penalty uses the lighting of the place where **what you are trying to see** 
 
 ## Darkvision
 
-A creature with [Darkvision](../Criaturas/Caracter%C3%ADsticas%20de%20NPC.md#darkvision-12-squares), up to its range, treats **Dim** as **Bright** and **Dark** as **Dim**.
+A creature with [Darkvision](../Capacidades/Capacidades%20de%20NPC.md#darkvision-12-squares), up to its range, treats **Dim** as **Bright** and **Dark** as **Dim**.
 
 ## Supernatural Darkness
 

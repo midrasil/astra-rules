@@ -580,3 +580,16 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
   - Capacidades entra no Readme entre Competências e Criaturas, e as páginas de Competências e de Características de NPC remetem ao índice.
 - **Status:** aprovada.
 - **Arquivos:** `Regras/Capacidades/Capacidades.md` (novo), `Readme.md`, `CLAUDE.md`, `Regras/Competências/Competências.md`, `Regras/Criaturas/Características de NPC.md` e as versões em `en/`.
+
+**D-084 · 2026-11-06 · Guia de Criaturas 02: ficha de NPC (P-G02.1 a P-G02.5; fecha a Q-014)**
+- **Decisão:**
+  - nova página Ficha de NPC: a ficha de personagem simplificada, sem Ambição, Desejo, Convicções e Pilares, Carga máxima, XP e Competências; Capacidades soltas no lugar das Competências;
+  - Vida 3 + Vigor, sem bônus por Tamanho; mais Vida por Vigor acima de 5 (criaturas que não são humanas) ou por Corpo Robusto (N);
+  - trilha de Vontade opcional: com trilha, 3 + Determinação e todas as regras; sem trilha, o NPC não usa Vontade e não sofre dano de Vontade; agravado recuperado a critério do Narrador; fugir ou se render como consequência comum da trilha toda agravada;
+  - Absorção base 0 por padrão ou o valor da proteção natural; armadura soma;
+  - Ataques naturais: definição movida para a ficha; Origem Natural, Material Orgânico salvo indicação, dano agravado; a ficha pode indicar a parte do corpo que conta como mão livre para Agarrar;
+  - Reservas prontas como campo opcional; NPCs não ganham XP;
+  - Características de NPC passam a se chamar Capacidades de NPC e vão para `Regras/Capacidades/`; o Caçador pergunta "Qual é uma de suas Capacidades?";
+  - equilíbrio de Capacidades de Nível alto em NPCs fica para o orçamento da parte 03.
+- **Status:** aprovada.
+- **Arquivos:** `Regras/Criaturas/Ficha de NPC.md` (novo), `Regras/Capacidades/Capacidades de NPC.md` (movido de `Regras/Criaturas/Características de NPC.md`), `Regras/Capacidades/Capacidades.md`, `Regras/Criaturas/Criaturas.md`, `Readme.md`, Caçador, Movimentação, Iluminação, Agarrado, Atordoado, Envenenado, Medo, Paralisado e as versões em `en/`.

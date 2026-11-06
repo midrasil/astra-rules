@@ -104,6 +104,7 @@ Itens para revisitar. Cada um tem um **gatilho**: o momento da revisão em que d
 - **Descrição:** o núcleo não diz como definir a Vida, a Vontade, a Absorção base e os Ataques naturais de NPCs, nem se eles seguem as fórmulas dos personagens. Hoje o Narrador usa as fórmulas dos personagens.
 - **Gatilho:** seção 53, ou um futuro guia de criação de criaturas. Depende da Q-015.
 - **Gatilho atualizado (seção 53):** guia de criação de criaturas, desenho à parte, depois da Q-015.
+- **Status:** fechada no guia de criaturas, parte 02 (D-084): página Ficha de NPC; o orçamento por patamar segue na parte 03.
 
 **Q-015 · Lista única de Capacidades para personagens e NPCs**
 - **Origem:** seção 30 (ideia do autor).
