@@ -1,4 +1,4 @@
-<!-- source: 1385748313e6 -->
+<!-- source: 81820746686b -->
 # Capabilities
 
 **Capabilities** are the effects that [Competencies](../Compet%C3%AAncias/Compet%C3%AAncias.md) grant at each Level. This page gathers all of them in a single list, together with the [NPC Capabilities](Capacidades%20de%20NPC.md), which only NPCs have access to. The text of each one stays on its source page.
@@ -10,7 +10,6 @@ Player characters receive Capabilities **only** through the Levels of their Comp
 - **Value (N):** when a Capability uses the Level of its Competency, it is listed here with **(N)**. The NPC's sheet gives that value in parentheses, from 1 to 5, such as **Nothing Escapes (3)**. For the Capability's other rules, the NPC is treated as having the Competency at that Level.
 - **Requirements:** a Competency's common requirements, such as wielding a Shield, also apply to an NPC that has one of its Capabilities.
 - **Dependencies:** a Capability that depends on another only works if the NPC also has the other.
-- **Willpower:** an NPC without a [Willpower](../Personagens/Vontade.md) track cannot use Capabilities that cost Willpower.
 - **Equivalence:** an NPC meant to have a Competency at a given Level receives the Capabilities up to that Level, with N equal to it. For example, a "Sentinel 2" guard receives Opportunity Attack and Halt.
 
 ## Competency Capabilities
@@ -34,7 +33,7 @@ Player characters receive Capabilities **only** through the Levels of their Comp
 | [Shooting Stance](../Compet%C3%AAncias/Atirador.md#level-1--shooting-stance) | Marksman 1 | — |
 | [Unshakable Focus](../Compet%C3%AAncias/Atirador.md#level-2--unshakable-focus) | Marksman 2 | — |
 | [Steady Aim](../Compet%C3%AAncias/Atirador.md#level-3--steady-aim) | Marksman 3 | Shooting Stance |
-| [Improved Shooting Stance](../Compet%C3%AAncias/Atirador.md#level-4--improved-shooting-stance) | Marksman 4 | Shooting Stance; a Willpower track |
+| [Improved Shooting Stance](../Compet%C3%AAncias/Atirador.md#level-4--improved-shooting-stance) | Marksman 4 | Shooting Stance |
 | [Unwavering Focus](../Compet%C3%AAncias/Atirador.md#level-5--unwavering-focus) | Marksman 5 | Shooting Stance; Unshakable Focus |
 | [Beautiful](../Compet%C3%AAncias/Cativante.md#level-1--beautiful) | Captivating 1 | — |
 | [First Impression](../Compet%C3%AAncias/Cativante.md#level-2--first-impression) | Captivating 2 | Beautiful |
@@ -46,29 +45,29 @@ Player characters receive Capabilities **only** through the Levels of their Comp
 | [Singular Combat](../Compet%C3%AAncias/Duelista.md#level-1--singular-combat) (N) | Duelist 1 | — |
 | [Technical Superiority](../Compet%C3%AAncias/Duelista.md#level-2--technical-superiority) (N) | Duelist 2 | — |
 | [Challenge](../Compet%C3%AAncias/Duelista.md#level-3--challenge) | Duelist 3 | — |
-| [Fury](../Compet%C3%AAncias/Furioso.md#level-1--fury) | Furious 1 | a Willpower track |
+| [Fury](../Compet%C3%AAncias/Furioso.md#level-1--fury) | Furious 1 | — |
 | [Blood for Blood](../Compet%C3%AAncias/Furioso.md#level-2--blood-for-blood) | Furious 2 | Fury |
 | [Furious Charge](../Compet%C3%AAncias/Furioso.md#level-3--furious-charge) | Furious 3 | Fury |
 | [Beyond Pain](../Compet%C3%AAncias/Furioso.md#level-4--beyond-pain) | Furious 4 | Fury |
-| [Refuse to Fall](../Compet%C3%AAncias/Furioso.md#level-5--refuse-to-fall) | Furious 5 | Fury; a Willpower track |
+| [Refuse to Fall](../Compet%C3%AAncias/Furioso.md#level-5--refuse-to-fall) | Furious 5 | Fury |
 | [Cover Ally](../Compet%C3%AAncias/Guardi%C3%A3o.md#level-1--cover-ally) | Guardian 1 | a wielded Shield |
 | [Shield Mastery](../Compet%C3%AAncias/Guardi%C3%A3o.md#level-2--shield-mastery) | Guardian 2 | a wielded Shield |
-| [Intercept](../Compet%C3%AAncias/Guardi%C3%A3o.md#level-3--intercept) | Guardian 3 | a wielded Shield; a Willpower track |
+| [Intercept](../Compet%C3%AAncias/Guardi%C3%A3o.md#level-3--intercept) | Guardian 3 | a wielded Shield |
 | [Shelter](../Compet%C3%AAncias/Guardi%C3%A3o.md#level-4--shelter) | Guardian 4 | a wielded Shield |
 | [Bulwark](../Compet%C3%AAncias/Guardi%C3%A3o.md#level-5--bulwark) | Guardian 5 | a wielded Shield |
 | [Inspiration](../Compet%C3%AAncias/Inspirador.md#level-1--inspiration) | Inspirer 1 | — |
-| [Lift the Spirit](../Compet%C3%AAncias/Inspirador.md#level-2--lift-the-spirit) | Inspirer 2 | Inspiration; a Willpower track |
-| [Inspiring Chorus](../Compet%C3%AAncias/Inspirador.md#level-3--inspiring-chorus) | Inspirer 3 | Inspiration; a Willpower track |
+| [Lift the Spirit](../Compet%C3%AAncias/Inspirador.md#level-2--lift-the-spirit) | Inspirer 2 | Inspiration |
+| [Inspiring Chorus](../Compet%C3%AAncias/Inspirador.md#level-3--inspiring-chorus) | Inspirer 3 | Inspiration |
 | [Cold Read](../Compet%C3%AAncias/Mentalista.md#level-1--cold-read) | Mentalist 1 | — |
 | [Combat Read](../Compet%C3%AAncias/Mentalista.md#level-2--combat-read) | Mentalist 2 | a Capability that applies Read (Cold Read or Know the Prey) |
 | [Nothing Escapes](../Compet%C3%AAncias/Mentalista.md#level-3--nothing-escapes) (N) | Mentalist 3 | — |
 | [Manipulation](../Compet%C3%AAncias/Mentalista.md#level-4--manipulation) | Mentalist 4 | — |
-| [I Knew It](../Compet%C3%AAncias/Mentalista.md#level-5--i-knew-it) | Mentalist 5 | a Capability that applies Read (Cold Read or Know the Prey); a Willpower track |
+| [I Knew It](../Compet%C3%AAncias/Mentalista.md#level-5--i-knew-it) | Mentalist 5 | a Capability that applies Read (Cold Read or Know the Prey) |
 | [Robust Body](../Compet%C3%AAncias/Robusto.md#robust-body) (N) | Robust 1 | — |
 | [Opportunity Attack](../Compet%C3%AAncias/Sentinela.md#level-1--opportunity-attack) | Sentinel 1 | a wielded melee weapon |
 | [Halt](../Compet%C3%AAncias/Sentinela.md#level-2--halt) | Sentinel 2 | a wielded melee weapon; Opportunity Attack |
 | [Retaliate](../Compet%C3%AAncias/Sentinela.md#level-3--retaliate) | Sentinel 3 | a wielded melee weapon; Opportunity Attack |
-| [Tireless Vigilance](../Compet%C3%AAncias/Sentinela.md#level-4--tireless-vigilance) | Sentinel 4 | a wielded melee weapon; Opportunity Attack; a Willpower track |
+| [Tireless Vigilance](../Compet%C3%AAncias/Sentinela.md#level-4--tireless-vigilance) | Sentinel 4 | a wielded melee weapon; Opportunity Attack |
 
 ## NPC Capabilities
 

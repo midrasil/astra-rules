@@ -9,7 +9,7 @@ A **ficha de NPC** é a ficha de personagem simplificada. Ela vale para NPCs hum
 | **[Atributos](../Personagens/Atributos.md)** | de 1 a 5; criaturas que não são humanas podem passar de 5 |
 | **[Perícias](../Personagens/Per%C3%ADcias.md)** | só as que não são 0 |
 | **Vida** | 3 + Vigor (ver [Vida](#vida)) |
-| **Vontade** | 3 + Determinação, ou sem trilha (ver [Vontade](#vontade)) |
+| **Vontade** | 3 + Determinação (ver [Vontade](#vontade)) |
 | **[Iniciativa](../Cenas%20e%20Conflitos/A%20Cena.md#iniciativa)** | Astúcia + Determinação |
 | **[Movimentação](../Movimento/Movimenta%C3%A7%C3%A3o.md)** | 6, salvo quando a ficha indicar outro valor |
 | **Absorção** | Absorção base e armadura (ver [Absorção](#absor%C3%A7%C3%A3o)) |
@@ -36,12 +36,9 @@ O Tamanho não muda a Vida.
 
 ## Vontade
 
-A trilha de [Vontade](../Personagens/Vontade.md) é **opcional** no NPC:
+Todo NPC tem uma trilha de [Vontade](../Personagens/Vontade.md) de **3 + Determinação** espaços, como os personagens, com todas as regras da Vontade, inclusive as Capacidades que custam Vontade.
 
-- **Com trilha:** **3 + Determinação** espaços, com todas as regras da Vontade, inclusive as Capacidades que custam Vontade. Serve para líderes, rivais e criaturas inteligentes.
-- **Sem trilha:** a ficha indica "Vontade: —". O NPC não usa Vontade de nenhuma forma, não pode usar Capacidades que custem Vontade, e dano de Vontade não o afeta.
-
-O NPC com trilha recupera o dano superficial de Vontade no [Descanso Prolongado](../Personagens/Descanso%20Prolongado.md). O dano agravado é recuperado quando o Narrador decidir, porque o NPC não tem Ambição nem Convicções.
+O NPC recupera o dano superficial de Vontade no [Descanso Prolongado](../Personagens/Descanso%20Prolongado.md). O dano agravado é recuperado quando o Narrador decidir, porque o NPC não tem Ambição nem Convicções.
 
 Quando toda a trilha está preenchida por dano agravado, a consequência é definida pelo Narrador, como na regra de [Vontade Preenchida](../Personagens/Vontade.md#vontade-preenchida). Para NPCs, a mais comum é fugir ou se render.
 
@@ -96,7 +93,7 @@ NPCs não ganham XP. Um NPC que volta mais forte recebe uma ficha nova ou ajusta
 | **Tipo e Tamanho** | Besta · Pequeno |
 | **Atributos** | For 2 · Agi 3 · Vig 2 · Car 1 · Ast 2 · Det 2 |
 | **Perícias** | Acrobacia 3, Lutar 2, Perceber 4 |
-| **Vida · Vontade · Iniciativa · Movimentação · Absorção** | 5 · — · 4 · 8 · 0 |
+| **Vida · Vontade · Iniciativa · Movimentação · Absorção** | 5 · 5 · 4 · 8 · 0 |
 | **Ataques** | Mordida, Dano 1, Perfurante, Alcance 1; agarra com a boca |
 | **Capacidades** | [Ir para a Garganta](../Capacidades/Capacidades%20de%20NPC.md#ir-para-a-garganta-margem-3) (Margem 3) |
 | **Reservas prontas** | Mordida 5; Esquivar 6 |

@@ -1,4 +1,4 @@
-<!-- source: 029d415ce58f -->
+<!-- source: 7e544ab5e32b -->
 # Creating NPCs
 
 **Creating NPCs** is the budget the Narrator uses to build an [NPC Sheet](Ficha%20de%20NPC.md). It says how much an NPC can have at each tier, so the Narrator knows whether an enemy is a minion, an equal or a threat to the whole group, and so a strong Capability does not come cheaper to an NPC than to a character.
@@ -48,7 +48,7 @@ Damage does not go above this reference. The Heavy Property is free, as for weap
 ## Health and Willpower
 
 - **Health:** Vigor is part of the Attribute sum, and Robust Body (N) costs N Capability Points.
-- **Willpower:** a Minion has no track. A Peer or a Veteran has a track at the Narrator's discretion. An Elite or a Legendary NPC has a track.
+- **Willpower:** every NPC has a Willpower track, 3 + Determination, and Determination is part of the Attribute sum.
 
 ## Encounters
 

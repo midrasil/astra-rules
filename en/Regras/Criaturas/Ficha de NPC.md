@@ -1,4 +1,4 @@
-<!-- source: bfcfba459b3f -->
+<!-- source: 03eb76f13afd -->
 # NPC Sheet
 
 The **NPC sheet** is the simplified character sheet. It is used for human NPCs, such as a guard or a rival, and for creatures.
@@ -12,7 +12,7 @@ The **NPC sheet** is the simplified character sheet. It is used for human NPCs, 
 | **[Attributes](../Personagens/Atributos.md)** | from 1 to 5; creatures that are not human can go above 5 |
 | **[Skills](../Personagens/Per%C3%ADcias.md)** | only those that are not 0 |
 | **Health** | 3 + Vigor (see [Health](#health)) |
-| **Willpower** | 3 + Determination, or no track (see [Willpower](#willpower)) |
+| **Willpower** | 3 + Determination (see [Willpower](#willpower)) |
 | **[Initiative](../Cenas%20e%20Conflitos/A%20Cena.md#initiative)** | Cunning + Determination |
 | **[Movement](../Movimento/Movimenta%C3%A7%C3%A3o.md)** | 6, unless the sheet sets another value |
 | **Absorption** | base Absorption and armor (see [Absorption](#absorption)) |
@@ -39,12 +39,9 @@ Size does not change Health.
 
 ## Willpower
 
-The [Willpower](../Personagens/Vontade.md) track is **optional** for an NPC:
+Every NPC has a [Willpower](../Personagens/Vontade.md) track of **3 + Determination** spaces, as characters do, with all the Willpower rules, including the Capabilities that cost Willpower.
 
-- **With a track:** **3 + Determination** spaces, with all the Willpower rules, including the Capabilities that cost Willpower. It suits leaders, rivals and intelligent creatures.
-- **Without a track:** the sheet shows "Willpower: —". The NPC does not use Willpower in any way, cannot use Capabilities that cost Willpower, and Willpower damage does not affect it.
-
-An NPC with a track recovers superficial Willpower damage on a [Long Rest](../Personagens/Descanso%20Prolongado.md). Aggravated damage is recovered when the Narrator decides, because the NPC has no Ambition or Convictions.
+An NPC recovers superficial Willpower damage on a [Long Rest](../Personagens/Descanso%20Prolongado.md). Aggravated damage is recovered when the Narrator decides, because the NPC has no Ambition or Convictions.
 
 When the whole track is filled with aggravated damage, the Narrator sets the consequence, as in the [Full Willpower](../Personagens/Vontade.md#full-willpower) rule. For NPCs, the most common one is to flee or surrender.
 
@@ -99,7 +96,7 @@ NPCs do not earn XP. An NPC who comes back stronger gets a new sheet, or one adj
 | **Type and Size** | Beast · Small |
 | **Attributes** | Str 2 · Agi 3 · Vig 2 · Cha 1 · Cun 2 · Det 2 |
 | **Skills** | Acrobatics 3, Fighting 2, Perception 4 |
-| **Health · Willpower · Initiative · Movement · Absorption** | 5 · — · 4 · 8 · 0 |
+| **Health · Willpower · Initiative · Movement · Absorption** | 5 · 5 · 4 · 8 · 0 |
 | **Attacks** | Bite, Damage 1, Piercing, Reach 1; grapples with its mouth |
 | **Capabilities** | [Go for the Throat](../Capacidades/Capacidades%20de%20NPC.md#go-for-the-throat-margin-3) (Margin 3) |
 | **Ready Pools** | Bite 5; Dodge 6 |

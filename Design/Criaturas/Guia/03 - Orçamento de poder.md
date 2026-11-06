@@ -147,3 +147,7 @@ Criar `Regras/Criaturas/Criação de NPCs.md` (e em `en/`) com os itens 2 a 8, e
 
 - "Concordo com suas propostas": P-G03.1 a P-G03.5 aprovadas, com as recomendações das perguntas: os números da tabela como ponto de partida; os custos das Capacidades de NPC, com movimento e sentidos de graça; chefe sem regra nova; e o Dano dos Ataques naturais limitado pela referência, então a Pancada do Verme passou de 8 para 5 no rascunho de conversão.
 - A página ficou em `Regras/Criaturas/Criação de NPCs.md`, e a Ficha de NPC remete a ela em Progressão.
+
+## Revisão posterior (2026-11-06)
+
+- O autor tornou a trilha de Vontade padrão em todos os NPCs, porque várias Capacidades usam Vontade (D-087). A Vontade opcional desta parte foi substituída.

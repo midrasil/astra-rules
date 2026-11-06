@@ -1,7 +1,7 @@
 # Guia de Criaturas · 04 · Bestiário
 
 **Questões:** nova (fichas das criaturas do núcleo no novo modelo)
-**Status:** decidida (D-086) e aplicada; aguardando o merge do PR
+**Status:** concluída (PR #81, mergeado em 2026-11-06)
 
 ## O pedido
 
@@ -186,3 +186,7 @@ Atualizar o `core-creatures.json` depois do merge, na conversa da wiki.
 - **Investida:** +1 de custo por ponto de Dano acima de +2, escrito na Criação de NPCs.
 - **Páginas:** uma por criatura em `Regras/Criaturas/Bestiário/`, com o índice `Bestiário.md` em ordem de patamar.
 - **Imagens de Zonas:** o pedido do autor foi para uma conversa própria.
+
+## Revisão posterior (2026-11-06)
+
+- O autor tornou a trilha de Vontade padrão em todos os NPCs, porque várias Capacidades usam Vontade (D-087). A Vontade opcional desta parte foi substituída.

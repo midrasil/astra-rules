@@ -45,7 +45,7 @@ O Dano não passa dessa referência. A Propriedade Pesado é livre, como nas arm
 ## Vida e Vontade
 
 - **Vida:** o Vigor entra na soma dos Atributos, e Corpo Robusto (N) custa N Pontos de Capacidade.
-- **Vontade:** o Capanga não tem trilha. O Par e o Veterano têm trilha a critério do Narrador. O Elite e o Lendário têm trilha.
+- **Vontade:** todo NPC tem trilha de Vontade, 3 + Determinação, e a Determinação entra na soma dos Atributos.
 
 ## Encontros
 

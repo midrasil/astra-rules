@@ -1,4 +1,4 @@
-<!-- source: 0c12b1aebea1 -->
+<!-- source: a1582412d4d2 -->
 # Venomous Snake
 
 Cobras, taipans and snakes with deadly venom.
@@ -9,7 +9,7 @@ Cobras, taipans and snakes with deadly venom.
 | **Type and Size** | Beast · Tiny |
 | **Attributes** | Str 1 · Agi 3 · Vig 2 · Cha 1 · Cun 2 · Det 3 |
 | **Skills** | Acrobatics 3, Fighting 3, Perception 2 |
-| **Health · Willpower · Initiative · Movement · Absorption** | 5 · — · 5 · 4 · 0 |
+| **Health · Willpower · Initiative · Movement · Absorption** | 5 · 6 · 5 · 4 · 0 |
 | **Attacks** | Bite, Damage 0, Piercing, Reach 1, Light |
 | **Capabilities** | [Venomous](../../Capacidades/Capacidades%20de%20NPC.md#venomous-potency-2-vigor--determination) (Potency 2) · cost 1 |
 | **Ready Pools** | Bite 6; Dodge 6; Initiative 5 |
