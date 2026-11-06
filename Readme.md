@@ -35,8 +35,8 @@ O núcleo está organizado em dez áreas principais, na ordem em que dependem um
 - [Resistência e Vulnerabilidade](Regras/Resist%C3%AAncia%20e%20Vulnerabilidade/Resist%C3%AAncia%20e%20Vulnerabilidade.md) — como personagens e criaturas reagem a tipos de dano.
 - [Condições](Regras/Condi%C3%A7%C3%B5es/Condi%C3%A7%C3%B5es.md) — estados que afetam os personagens durante uma cena.
 - [Competências](Regras/Compet%C3%AAncias/Compet%C3%AAncias.md) — conjuntos de Capacidades que modificam aquilo que o personagem consegue fazer.
-- [Capacidades](Regras/Capacidades/Capacidades.md) — lista única das Capacidades de Competências e das Características de NPC, com as regras de uso por NPCs.
-- [Criaturas](Regras/Criaturas/Criaturas.md) — tipos de criatura e características próprias de NPCs.
+- [Capacidades](Regras/Capacidades/Capacidades.md) — lista única das Capacidades de Competências e das Capacidades de NPC, com as regras de uso por NPCs.
+- [Criaturas](Regras/Criaturas/Criaturas.md) — ficha de NPC e tipos de criatura.
 
 Todas as regras desta página são do núcleo. Os módulos, quando existirem, ficam em pastas próprias.
 

@@ -30,7 +30,7 @@ Por exemplo, um personagem com 6 pontos de Movimentação poderia atravessar nor
 
 Mover-se para fora do alcance de um inimigo não provoca, por padrão, Ataques ou outras penalidades.
 
-Determinadas **Capacidades**, Características ou efeitos podem criar exceções a essa regra, permitindo que um personagem puna ou interfira na movimentação de seus adversários.
+Determinadas **Capacidades** ou efeitos podem criar exceções a essa regra, permitindo que um personagem puna ou interfira na movimentação de seus adversários.
 
 ### Deslocamento forçado
 
@@ -56,7 +56,7 @@ Normalmente, nadar e escalar não exigem rolagem. Quando o risco, a pressão ou 
 
 O **Voo** não utiliza as regras de Movimentação Especial.
 
-A forma como um personagem voa, sua velocidade, limitações, custos e demais propriedades são determinadas diretamente pela **Capacidade, Característica, equipamento, efeito ou outra fonte** responsável por conceder essa capacidade.
+A forma como um personagem voa, sua velocidade, limitações, custos e demais propriedades são determinadas diretamente pela **Capacidade, equipamento, efeito ou outra fonte** responsável por conceder essa capacidade.
 
 Dessa forma, diferentes formas de voo podem funcionar de maneiras distintas, de acordo com sua origem.
 

@@ -1,4 +1,4 @@
-<!-- source: 064faf25ca93 -->
+<!-- source: cabeb15a0f71 -->
 # Movement
 
 During their Turn, a character can move across the battlefield using their **Movement**.
@@ -33,7 +33,7 @@ For example, a character with 6 points of Movement could normally cross 6 square
 
 Moving out of an enemy's reach does not, by default, provoke Attacks or other penalties.
 
-Certain **Capabilities**, Traits or effects can create exceptions to this rule, letting a character punish or interfere with their opponents' movement.
+Certain **Capabilities** or effects can create exceptions to this rule, letting a character punish or interfere with their opponents' movement.
 
 ### Forced Movement
 
@@ -59,7 +59,7 @@ Normally, swimming and climbing do not require a roll. When the risk, pressure o
 
 **Flight** does not use the Special Movement rules.
 
-How a character flies, their speed, limitations, costs and other properties are set directly by the **Capability, Trait, equipment, effect or other source** that grants that ability.
+How a character flies, their speed, limitations, costs and other properties are set directly by the **Capability, equipment, effect or other source** that grants that ability.
 
 This way, different forms of flight can work in different ways, depending on their origin.
 

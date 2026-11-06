@@ -12,7 +12,7 @@ A penalidade usa a iluminação do lugar onde está **o que se tenta ver**: o al
 
 ## Visão no Escuro
 
-Uma criatura com [Visão no Escuro](../Criaturas/Caracter%C3%ADsticas%20de%20NPC.md#vis%C3%A3o-no-escuro-12-quadrados), até o alcance dela, trata a **Penumbra** como **Claro** e o **Escuro** como **Penumbra**.
+Uma criatura com [Visão no Escuro](../Capacidades/Capacidades%20de%20NPC.md#vis%C3%A3o-no-escuro-12-quadrados), até o alcance dela, trata a **Penumbra** como **Claro** e o **Escuro** como **Penumbra**.
 
 ## Escuridão sobrenatural
 

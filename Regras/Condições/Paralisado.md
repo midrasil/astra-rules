@@ -2,7 +2,7 @@ Um personagem **Paralisado** não pode usar sua **Ação** nem sua **Movimentaç
 
 A condição dura **1 Turno**. Quando ela termina, o personagem fica imune a ficar Paralisado de novo por **1 Turno**.
 
-Paralisado pode ser aplicado por características de NPC, Capacidades ou outros efeitos que façam referência a esta Condição, como a característica **Paralisante** (ver [Características de NPC](../Criaturas/Caracter%C3%ADsticas%20de%20NPC.md)).
+Paralisado pode ser aplicado por Capacidades ou outros efeitos que façam referência a esta Condição, como a Capacidade de NPC **Paralisante** (ver [Capacidades de NPC](../Capacidades/Capacidades%20de%20NPC.md)).
 
 ---
 

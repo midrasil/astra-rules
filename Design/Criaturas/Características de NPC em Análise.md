@@ -112,4 +112,4 @@ Ficam de fora, por serem de cenário ou dependerem de regras que o Astra não te
 - **Medo** é acumulável. Cada acúmulo impõe **-1 dado** em todas as Reservas do personagem.
 - No **fim de cada turno do personagem afetado**, ele perde 1 acúmulo.
 - A quantidade de acúmulos da Aterrorizante, como todos os valores das características, é configurável em cada criatura; o padrão é igual à Potência.
-- Texto final em [Características de NPC](../../Regras/Criaturas/Caracter%C3%ADsticas%20de%20NPC.md).
+- Texto final em [Capacidades de NPC](../../Regras/Capacidades/Capacidades%20de%20NPC.md).

@@ -1,4 +1,4 @@
-Rascunho de trabalho. Adapta as criaturas do livro de monstros de referência para o Astra, usando as [Características de NPC](../../Regras/Criaturas/Caracter%C3%ADsticas%20de%20NPC.md) e as regras do sistema. Primeiro definimos a **conversão**; depois cada criatura é convertida com ela.
+Rascunho de trabalho. Adapta as criaturas do livro de monstros de referência para o Astra, usando as [Capacidades de NPC](../../Regras/Capacidades/Capacidades%20de%20NPC.md) e as regras do sistema. Primeiro definimos a **conversão**; depois cada criatura é convertida com ela.
 
 > [!success] Migração das Reservas
 > As criaturas que já possuem ficha nesta nota foram migradas para os Atributos vinculados. Os números apresentados em **Reservas** já incluem Atributo + Perícia, mas não incluem modificadores circunstanciais. As categorias ainda não convertidas deverão seguir estas regras quando receberem suas fichas.
