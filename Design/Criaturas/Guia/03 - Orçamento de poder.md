@@ -1,7 +1,7 @@
 # Guia de Criaturas · 03 · Orçamento de poder
 
 **Questões:** nova (orçamento de criação de NPCs); fecha o que ficou pendente na parte 02 (Capacidades de Nível alto em NPCs)
-**Status:** decidida (D-085) e aplicada; aguardando o merge do PR
+**Status:** concluída (PR #79, mergeado em 2026-11-06)
 
 ## O que o orçamento precisa responder
 

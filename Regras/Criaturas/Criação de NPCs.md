@@ -29,7 +29,9 @@ As [Capacidades](../Capacidades/Capacidades.md) soltas do NPC saem de um só or�
 | **1** | Voadora, Frenesi, Frenesi Aprimorado, Investida, Ir para a Garganta, Constritora, Teia, Emboscada Subterrânea, Venenosa, Paralisante, Atordoante, Aterrorizante |
 | **2** | Sopro, Enxame, Regeneração |
 
-Cada ponto de Potência acima de 2, e cada ponto de Regeneração acima de 2, custa **+1**. Por exemplo, Venenosa (Potência 4) custa 3.
+Cada ponto de Potência acima de 2, cada ponto de Regeneração acima de 2 e cada ponto de Dano da Investida acima de +2 custa **+1**. Por exemplo, Venenosa (Potência 4) custa 3.
+
+O Dano do Sopro é definido na ficha. Por ser uma [Zona](../Cenas%20e%20Conflitos/Zonas.md), ele não segue a referência dos Ataques naturais.
 
 ## Ataques naturais
 

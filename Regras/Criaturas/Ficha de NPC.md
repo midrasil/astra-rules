@@ -61,6 +61,8 @@ Um **Ataque natural** é um Ataque feito com o corpo da criatura, como garras, m
 - **Propriedades:** a ficha as indica como as de uma arma. Um Ataque natural Pesado, por exemplo, usa Força + Lutar.
 - **Agarrar:** a ficha pode indicar uma parte do corpo, como a boca ou a cauda, que conta como mão livre para [Agarrar](../Condi%C3%A7%C3%B5es/Agarrado.md). Sem essa indicação, uma criatura sem mãos não pode Agarrar.
 
+Além das Capacidades, a ficha pode definir **ataques próprios** da criatura, como um golpe de cauda que cria uma [Zona](../Cenas%20e%20Conflitos/Zonas.md). A ficha diz o que o ataque faz, com as mesmas informações que uma Capacidade daria: Ação, formato, Dano e Tipo de Dano.
+
 ## Reservas prontas
 
 A ficha pode listar as Reservas mais usadas já somadas, como "Mordida 5; Esquivar 6", para o Narrador não calcular durante a cena. A regra continua sendo Atributo + Perícia: a linha é só uma anotação, e os modificadores da cena se aplicam por cima.

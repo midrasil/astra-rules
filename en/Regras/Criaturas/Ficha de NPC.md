@@ -1,4 +1,4 @@
-<!-- source: 4b6d184b5687 -->
+<!-- source: bfcfba459b3f -->
 # NPC Sheet
 
 The **NPC sheet** is the simplified character sheet. It is used for human NPCs, such as a guard or a rival, and for creatures.
@@ -63,6 +63,8 @@ A **natural Attack** is an Attack made with the creature's body, such as claws, 
 - **Severity:** it deals **aggravated** damage, as the general rule says. Unlike [Unarmed](../Equipamentos/Armas.md#unarmed), it is not superficial.
 - **Properties:** the sheet lists them as for a weapon. A Heavy natural Attack, for example, uses Strength + Fighting.
 - **Grapple:** the sheet can name a body part, such as the mouth or the tail, that counts as a free hand to [Grapple](../Condi%C3%A7%C3%B5es/Agarrado.md). Without it, a creature without hands cannot Grapple.
+
+Besides Capabilities, the sheet can define the creature's **own attacks**, such as a tail strike that creates a [Zone](../Cenas%20e%20Conflitos/Zonas.md). The sheet says what the attack does, with the same information a Capability would give: Action, shape, Damage and Damage Type.
 
 ## Ready Pools
 

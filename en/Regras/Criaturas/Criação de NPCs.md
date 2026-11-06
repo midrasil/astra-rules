@@ -1,4 +1,4 @@
-<!-- source: e49069b94c86 -->
+<!-- source: 029d415ce58f -->
 # Creating NPCs
 
 **Creating NPCs** is the budget the Narrator uses to build an [NPC Sheet](Ficha%20de%20NPC.md). It says how much an NPC can have at each tier, so the Narrator knows whether an enemy is a minion, an equal or a threat to the whole group, and so a strong Capability does not come cheaper to an NPC than to a character.
@@ -32,7 +32,9 @@ The NPC's standalone [Capabilities](../Capacidades/Capacidades.md) come out of a
 | **1** | Flying, Frenzy, Improved Frenzy, Charge, Go for the Throat, Constrictor, Web, Burrowing Ambush, Venomous, Paralyzing, Stunning, Terrifying |
 | **2** | Breath, Swarm, Regeneration |
 
-Each point of Potency above 2, and each point of Regeneration above 2, costs **+1**. For example, Venomous (Potency 4) costs 3.
+Each point of Potency above 2, each point of Regeneration above 2 and each point of Charge Damage above +2 costs **+1**. For example, Venomous (Potency 4) costs 3.
+
+Breath Damage is set on the sheet. Because it is a [Zone](../Cenas%20e%20Conflitos/Zonas.md), it does not follow the natural Attack reference.
 
 ## Natural Attacks
 

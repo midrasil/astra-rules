@@ -604,3 +604,16 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
   - rascunho de conversão: Pancada do Verme Gigante de Dano 8 para 5.
 - **Status:** aprovada.
 - **Arquivos:** `Regras/Criaturas/Criação de NPCs.md` (novo), `Regras/Criaturas/Criaturas.md`, `Regras/Criaturas/Ficha de NPC.md`, `Readme.md`, as versões em `en/` e `Design/Criaturas/Criaturas em Análise.md`.
+
+**D-086 · 2026-11-06 · Guia de Criaturas 04: Bestiário (P-G04.1 a P-G04.5)**
+- **Decisão:**
+  - as 25 criaturas do compêndio foram refeitas do zero no novo modelo: patamar escolhido pelo conceito e ficha dentro dos tetos da Criação de NPCs;
+  - sem ajuste por Tamanho no orçamento;
+  - Investida custa +1 por ponto de Dano acima de +2;
+  - o Dano do Sopro é definido na ficha, porque o Sopro é uma Zona e não segue a referência dos Ataques naturais;
+  - a ficha pode definir ataques próprios da criatura além das Capacidades (Açoite de Cauda do Draco e do Dragão);
+  - trilha de Vontade nas criaturas Elite e Lendário e no Orc Líder Tribal;
+  - nova pasta `Regras/Criaturas/Bestiário/`, com o índice e uma página por criatura;
+  - o compêndio `core-creatures.json` do astra-engine será atualizado depois, a partir do Bestiário.
+- **Status:** aprovada.
+- **Arquivos:** `Regras/Criaturas/Bestiário/` (novo), `Regras/Criaturas/Criação de NPCs.md`, `Regras/Criaturas/Ficha de NPC.md`, `Regras/Criaturas/Criaturas.md`, `Readme.md`, as versões em `en/` e `Design/Criaturas/Criaturas em Análise.md`.
