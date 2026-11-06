@@ -4,7 +4,7 @@ O **Valor** é abstrato, não possui nome de moeda e pode conter casas decimais.
 
 | Item | Carga | Valor | Uso |
 |---|---:|---:|---|
-| Kit de Cura | 1 | 5 | material de cura para o [Tratamento](../Personagens/Vida.md#tratamento); 5 usos, cada Tratamento gasta 1 |
+| Kit de Cura | 1 | 5 | material de cura para o [Tratamento](../Personagens/Vida.md#tratamento) e o [Remendo](../Compet%C3%AAncias/Socorrista.md#n%C3%ADvel-1--remendo); 5 usos, cada Tratamento ou Remendo gasta 1 |
 | Vela | 0 | 0,01 | [fonte de luz](../Cenas%20e%20Conflitos/Ilumina%C3%A7%C3%A3o.md#fontes-de-luz) (Claro 1 + Penumbra 1); dura 1 hora |
 | Tocha | 1 | 0,01 | [fonte de luz](../Cenas%20e%20Conflitos/Ilumina%C3%A7%C3%A3o.md#fontes-de-luz) (Claro 4 + Penumbra 4); dura 1 hora; pode ser usada como Arma Improvisada |
 | Lampião | 1 | 5 | [fonte de luz](../Cenas%20e%20Conflitos/Ilumina%C3%A7%C3%A3o.md#fontes-de-luz) (Claro 6 + Penumbra 6); dura 6 horas por frasco de óleo |

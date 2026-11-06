@@ -235,7 +235,7 @@ A lista oficial está em [Competências](../../Regras/Compet%C3%AAncias/Compet%C
 
 ## Decisões pendentes
 
-- lista completa de Competências do sistema, incluindo uma Competência de cura (Q-010 e Q-012);
+- lista completa de Competências do sistema (a Competência de cuidado com feridos virou o Socorrista, D-089);
 - lista única de Capacidades para personagens e NPCs (Q-015);
 - destino dos conceitos mantidos em [[Trunfos não convertidos em Privilégios]];
 - testes de progressão especializada e multiclasse;

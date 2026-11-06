@@ -6,7 +6,7 @@ As Condições são aplicadas por Ações, Manobras, Capacidades ou outras regra
 
 - **Duração:** salvo indicação, uma Condição termina no fim da Cena. As Condições ligadas à trilha de [Vida](../Personagens/Vida.md) e as que têm forma própria de terminar, como Caído e Agarrado, seguem as próprias regras.
 - **Turnos:** uma duração em Turnos conta os Turnos do personagem afetado. A Condição termina no fim do último desses Turnos. Se for aplicada durante o Turno do afetado, esse Turno não conta.
-- **Aplicar de novo:** uma Condição que o personagem já tem não acumula. Ela só renova a duração, e fica valendo a duração que terminar por último. As Condições **acumuláveis**, como Medo, Mirando e Sangrando, dizem como acumulam.
+- **Aplicar de novo:** uma Condição que o personagem já tem não acumula. Ela só renova a duração, e fica valendo a duração que terminar por último. As Condições **acumuláveis**, como Medo, Mirando, Prejudicado e Sangrando, dizem como acumulam.
 
 ## Condições
 
@@ -21,6 +21,8 @@ As Condições são aplicadas por Ações, Manobras, Capacidades ou outras regra
 - [Atordoado](Atordoado.md) — sem Ação.
 - [Medo](Medo.md) — penalidade acumulável em todas as Reservas.
 - [Sangrando](Sangrando.md) — dano superficial acumulável no fim de cada Turno.
+- [Remendado](Remendado.md) — dano de Vida aliviado por um Remendo até o fim da Cena, que volta depois.
+- [Prejudicado](Prejudicado.md) — penalidade acumulável em rolagens Físicas, depois de um Remendo; sai com Tratamento e Descanso Prolongado.
 - [Mirando](Mirando.md) — acumula o bônus da Manobra Mirar para o próximo Ataque à distância.
 - [Lido](Lido.md) — analisado por outro personagem; sem efeito próprio, usado por Capacidades.
 - [Desafiado](Desafiado.md) — provocado por um Duelista; penaliza Confrontos iniciados contra outras criaturas.
