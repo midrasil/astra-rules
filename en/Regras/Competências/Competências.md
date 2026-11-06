@@ -1,4 +1,4 @@
-<!-- source: 35710ae1cf1d -->
+<!-- source: 854ff57f7409 -->
 # Competencies
 
 **Competencies** represent developed ways of acting, fighting, thinking or interacting with the world. Each has its own identity and a fixed progression.
@@ -78,6 +78,7 @@ Each Competency presents its identity, a **Progression** table and a section for
 - [Mentalist](Mentalista.md) — reading people and enemies through the Read Condition, Cunning on Attacks, Perception and social tests, and guaranteed dice against those you have read.
 - [Robust](Robusto.md) — a larger Health track that grows with the Competency's Level.
 - [Sentinel](Sentinela.md) — Opportunity Attacks against anyone who leaves your melee weapon's reach or attacks your allies, stopping the target's movement.
+- [Medic](Socorrista.md) — Patch Up that keeps a wounded ally fighting until the end of the Scene, ignoring Debilitated, more efficient Treatment without supplies, and Proper Facilities Treatment anywhere.
 
 All Capabilities, with the rules for their use by NPCs, are gathered in [Capabilities](../Capacidades/Capacidades.md).
 

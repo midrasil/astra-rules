@@ -1,4 +1,4 @@
-<!-- source: eeb68d177011 -->
+<!-- source: 5fcbc91318e3 -->
 # Conditions
 
 A **Condition** is a state that affects a character during a Scene, imposing mechanical effects while it stays active.
@@ -9,7 +9,7 @@ Conditions are applied by Actions, Maneuvers, Capabilities or other rules. They 
 
 - **Duration:** unless stated otherwise, a Condition ends at the end of the Scene. Conditions tied to the [Health](../Personagens/Vida.md) track and those with their own way of ending, such as Prone and Grappled, follow their own rules.
 - **Turns:** a duration in Turns counts the affected character's Turns. The Condition ends at the end of the last of those Turns. If it is applied during the affected character's Turn, that Turn does not count.
-- **Applying again:** a Condition the character already has does not stack. It only renews the duration, and the duration that ends last applies. **Stacking** Conditions, such as Fear, Aiming and Bleeding, say how they stack.
+- **Applying again:** a Condition the character already has does not stack. It only renews the duration, and the duration that ends last applies. **Stacking** Conditions, such as Fear, Aiming, Impaired and Bleeding, say how they stack.
 
 ## Conditions
 
@@ -24,6 +24,8 @@ Conditions are applied by Actions, Maneuvers, Capabilities or other rules. They 
 - [Stunned](Atordoado.md) — no Action.
 - [Fear](Medo.md) — stacking penalty on every Pool.
 - [Bleeding](Sangrando.md) — stacking superficial damage at the end of each Turn.
+- [Patched](Remendado.md) — Health damage eased by a Patch Up until the end of the Scene, which comes back afterward.
+- [Impaired](Prejudicado.md) — stacking penalty on Physical rolls after a Patch Up; removed by Treatment and Long Rest.
 - [Aiming](Mirando.md) — stacks the bonus of the Aim Maneuver for the next ranged Attack.
 - [Read](Lido.md) — analyzed by another character; no effect of its own, used by Capabilities.
 - [Challenged](Desafiado.md) — provoked by a Duelist; penalizes Confronts started against other creatures.

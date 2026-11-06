@@ -1,4 +1,4 @@
-<!-- source: 81820746686b -->
+<!-- source: 92209ee03684 -->
 # Capabilities
 
 **Capabilities** are the effects that [Competencies](../Compet%C3%AAncias/Compet%C3%AAncias.md) grant at each Level. This page gathers all of them in a single list, together with the [NPC Capabilities](Capacidades%20de%20NPC.md), which only NPCs have access to. The text of each one stays on its source page.
@@ -68,6 +68,11 @@ Player characters receive Capabilities **only** through the Levels of their Comp
 | [Halt](../Compet%C3%AAncias/Sentinela.md#level-2--halt) | Sentinel 2 | a wielded melee weapon; Opportunity Attack |
 | [Retaliate](../Compet%C3%AAncias/Sentinela.md#level-3--retaliate) | Sentinel 3 | a wielded melee weapon; Opportunity Attack |
 | [Tireless Vigilance](../Compet%C3%AAncias/Sentinela.md#level-4--tireless-vigilance) | Sentinel 4 | a wielded melee weapon; Opportunity Attack |
+| [Patch Up](../Compet%C3%AAncias/Socorrista.md#level-1--patch-up) | Medic 1 | — |
+| [Hold Fast](../Compet%C3%AAncias/Socorrista.md#level-2--hold-fast) | Medic 2 | Patch Up |
+| [Trained Hands](../Compet%C3%AAncias/Socorrista.md#level-3--trained-hands) | Medic 3 | — |
+| [Expert Patch](../Compet%C3%AAncias/Socorrista.md#level-4--expert-patch) | Medic 4 | Patch Up |
+| [Field Hospital](../Compet%C3%AAncias/Socorrista.md#level-5--field-hospital) | Medic 5 | — |
 
 ## NPC Capabilities
 

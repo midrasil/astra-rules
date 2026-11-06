@@ -75,6 +75,7 @@ Cada Competência apresenta sua identidade, uma tabela de **Progressão** e uma 
 - [Mentalista](Mentalista.md) — leitura de pessoas e inimigos pela Condição Lido, Astúcia em Ataques, Perceber e testes sociais, e dados garantidos contra quem você leu.
 - [Robusto](Robusto.md) — trilha de Vida maior, que cresce com o Nível da Competência.
 - [Sentinela](Sentinela.md) — Ataque de Oportunidade contra quem sai do alcance da sua arma corpo a corpo ou ataca seus aliados, parando o deslocamento do alvo.
+- [Socorrista](Socorrista.md) — Remendo que mantém um aliado ferido lutando até o fim da Cena, ignorar o Debilitado, Tratamento mais eficiente e sem material, e Tratamento de Instalações Adequadas em qualquer lugar.
 
 Todas as Capacidades, com as regras de uso por NPCs, estão reunidas em [Capacidades](../Capacidades/Capacidades.md).
 

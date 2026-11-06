@@ -65,6 +65,11 @@ Personagens de jogador recebem Capacidades **somente** pelos Níveis das suas Co
 | [Deter](../Compet%C3%AAncias/Sentinela.md#n%C3%ADvel-2--deter) | Sentinela 2 | arma corpo a corpo empunhada; Ataque de Oportunidade |
 | [Retaliar](../Compet%C3%AAncias/Sentinela.md#n%C3%ADvel-3--retaliar) | Sentinela 3 | arma corpo a corpo empunhada; Ataque de Oportunidade |
 | [Vigilância Incansável](../Compet%C3%AAncias/Sentinela.md#n%C3%ADvel-4--vigil%C3%A2ncia-incans%C3%A1vel) | Sentinela 4 | arma corpo a corpo empunhada; Ataque de Oportunidade |
+| [Remendo](../Compet%C3%AAncias/Socorrista.md#n%C3%ADvel-1--remendo) | Socorrista 1 | — |
+| [Aguentar Firme](../Compet%C3%AAncias/Socorrista.md#n%C3%ADvel-2--aguentar-firme) | Socorrista 2 | Remendo |
+| [Mãos Treinadas](../Compet%C3%AAncias/Socorrista.md#n%C3%ADvel-3--m%C3%A3os-treinadas) | Socorrista 3 | — |
+| [Remendo Experiente](../Compet%C3%AAncias/Socorrista.md#n%C3%ADvel-4--remendo-experiente) | Socorrista 4 | Remendo |
+| [Hospital de Campanha](../Compet%C3%AAncias/Socorrista.md#n%C3%ADvel-5--hospital-de-campanha) | Socorrista 5 | — |
 
 ## Capacidades de NPC
 

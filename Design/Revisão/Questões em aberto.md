@@ -75,6 +75,7 @@ Itens para revisitar. Cada um tem um **gatilho**: o momento da revisão em que d
 - **Descrição:** o autor pretende criar uma Competência que permita Tratar durante a Cena Tática e/ou sem material de cura.
 - **Gatilho:** quando as Competências forem revisadas (seções 11 a 25), ou depois disso.
 - **Gatilho atualizado (seção 53):** criação de novas Competências. A Q-012 foi fechada sem ela (D-088).
+- **Status:** fechada em 2026-11-06 (D-089): Competência Socorrista. Análise em [Q-010 - Socorrista](Se%C3%A7%C3%B5es/Q-010%20-%20Socorrista.md).
 
 **Q-011 · Dano de Vontade causado por fontes externas**
 - **Origem:** seção 06.

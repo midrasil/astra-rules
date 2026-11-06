@@ -627,3 +627,13 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
 - **Decisão:** uma vez por sessão, no total, fora de uma Cena Tática, o personagem pode recorrer a um de seus Pilares numa cena jogada, mesmo que breve. Ao final dela, 1 ponto agravado de Vontade se torna superficial. O Pilar precisa estar presente. A Recuperação de Vontade cita a nova fonte. A Capacidade de "acolher" (P-Q012.2) não entra, e a Q-010 segue aberta só como Competência de cura da Vida.
 - **Status:** aprovada.
 - **Arquivos:** `Regras/Personagens/Convicções e Pilares.md`, `Regras/Personagens/Vontade.md` e as versões em `en/`.
+
+**D-089 · 2026-11-06 · Q-010: Competência Socorrista**
+- **Decisão:**
+  - nova Competência Socorrista, de 5 Níveis: Remendo, Aguentar Firme, Mãos Treinadas, Remendo Experiente e Hospital de Campanha;
+  - a Competência não cura na Cena: o Remendo (Ação, adjacente, Astúcia + Curar, uma vez por Cena para cada criatura, Sucessos escolhidos pelo Socorrista) alivia dano até o fim da Cena, e o dano volta depois, podendo derrubar, mas sem matar;
+  - novas Condições Remendado (o estado durante a Cena) e Prejudicado (acumulável, -1 dado por acúmulo nas rolagens Físicas, 1 acúmulo a menos por Tratamento e por Descanso Prolongado);
+  - Aguentar Firme ignora o Debilitado enquanto Remendado; Mãos Treinadas dá +1 ponto no Tratamento e dispensa material; Remendo Experiente dá metade dos acúmulos de Prejudicado; Hospital de Campanha faz os Tratamentos contarem como Instalações Adequadas;
+  - o Kit de Cura serve também ao Remendo.
+- **Status:** aprovada.
+- **Arquivos:** `Regras/Competências/Socorrista.md` (novo), `Regras/Condições/Remendado.md` e `Regras/Condições/Prejudicado.md` (novos), `Regras/Competências/Competências.md`, `Regras/Condições/Condições.md`, `Regras/Capacidades/Capacidades.md`, `Regras/Equipamentos/Catálogo de Itens.md` e as versões em `en/`.
