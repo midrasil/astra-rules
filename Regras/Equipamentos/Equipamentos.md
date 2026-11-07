@@ -37,6 +37,8 @@ A **Carga máxima** de um personagem é o total de Carga que ele consegue carreg
 
 > **5 + Força**
 
+Uma [Mochila](Cat%C3%A1logo%20de%20Itens.md) aumenta a Carga máxima em **2**.
+
 Força é o **Atributo da Carga** por padrão. Capacidades e outras regras podem substituí-la nessa fórmula. Quando isso acontecer, a Carga máxima é recalculada imediatamente a partir do novo Atributo, sem alterar testes de Força ou outras regras.
 
 ### Sobrecarga
