@@ -20,7 +20,7 @@ A **escuridão sobrenatural**, como a criada por magia, conta como Escuro, e nem
 
 ## Fontes de luz
 
-As fontes de luz estão no [Catálogo de Itens](../Equipamentos/Cat%C3%A1logo%20de%20Itens.md). Uma fonte de luz deixa a área em volta como Claro até o seu raio, e como Penumbra por mais o mesmo raio.
+As fontes de luz estão no [Catálogo de Consumíveis](../Equipamentos/Cat%C3%A1logo%20de%20Consum%C3%ADveis.md) (vela e tocha) e no [Catálogo de Itens](../Equipamentos/Cat%C3%A1logo%20de%20Itens.md) (lampião). Uma fonte de luz deixa a área em volta como Claro até o seu raio, e como Penumbra por mais o mesmo raio.
 
 | Fonte | Claro | Penumbra além disso |
 |---|---|---|

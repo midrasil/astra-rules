@@ -31,7 +31,7 @@ O núcleo está organizado em dez áreas principais, na ordem em que dependem um
 - [Personagens](Regras/Personagens/Personagens.md) — capacidades, recursos, motivações e características dos personagens.
 - [Cenas e Conflitos](Regras/Cenas%20e%20Conflitos/Cenas%20e%20Conflitos.md) — estrutura das cenas táticas, turnos e ações de confronto.
 - [Movimento](Regras/Movimento/Movimento.md) — deslocamento e ações relacionadas à movimentação.
-- [Equipamentos](Regras/Equipamentos/Equipamentos.md) — carga, itens comuns, armas, armaduras, escudos e troca de itens.
+- [Equipamentos](Regras/Equipamentos/Equipamentos.md) — carga, itens comuns, Consumíveis, armas, armaduras, escudos e troca de itens.
 - [Resistência e Vulnerabilidade](Regras/Resist%C3%AAncia%20e%20Vulnerabilidade/Resist%C3%AAncia%20e%20Vulnerabilidade.md) — como personagens e criaturas reagem a tipos de dano.
 - [Condições](Regras/Condi%C3%A7%C3%B5es/Condi%C3%A7%C3%B5es.md) — estados que afetam os personagens durante uma cena.
 - [Competências](Regras/Compet%C3%AAncias/Compet%C3%AAncias.md) — conjuntos de Capacidades que modificam aquilo que o personagem consegue fazer.

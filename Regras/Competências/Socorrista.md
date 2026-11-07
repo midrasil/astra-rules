@@ -14,7 +14,7 @@ Socorrista representa o personagem que mantém os feridos de pé durante a luta,
 
 ## Nível 1 — Remendo
 
-Em uma [Cena Tática](../Cenas%20e%20Conflitos/Cenas%20T%C3%A1ticas.md), você pode usar a sua [Ação](../Cenas%20e%20Conflitos/A%C3%A7%C3%A3o.md) para aplicar um Remendo em uma criatura adjacente ou em si mesmo, gastando 1 uso de material de cura, como um [Kit de Cura](../Equipamentos/Cat%C3%A1logo%20de%20Itens.md). Teste **Astúcia + [Curar](../Personagens/Per%C3%ADcias.md)** e escolha quantos Sucessos usar, de 0 até o total obtido.
+Em uma [Cena Tática](../Cenas%20e%20Conflitos/Cenas%20T%C3%A1ticas.md), você pode usar a sua [Ação](../Cenas%20e%20Conflitos/A%C3%A7%C3%A3o.md) para aplicar um Remendo em uma criatura adjacente ou em si mesmo, gastando 1 uso de material de cura, como um [Kit de Cura](../Equipamentos/Cat%C3%A1logo%20de%20Consum%C3%ADveis.md#outros-consum%C3%ADveis). Teste **Astúcia + [Curar](../Personagens/Per%C3%ADcias.md)** e escolha quantos Sucessos usar, de 0 até o total obtido.
 
 A criatura fica [Remendada](../Condi%C3%A7%C3%B5es/Remendado.md), com uma quantidade de pontos aliviados igual aos Sucessos escolhidos. No fim da Cena, o dano aliviado volta e ela fica [Prejudicada](../Condi%C3%A7%C3%B5es/Prejudicado.md).
 

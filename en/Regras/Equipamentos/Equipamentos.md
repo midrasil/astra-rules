@@ -1,13 +1,14 @@
-<!-- source: 12a38cbe930a -->
+<!-- source: bfe6bef006be -->
 # Equipment
 
 Equipment is the objects characters carry and use, whether to attack, protect themselves or carry out other tasks.
 
-The Astra core currently organizes equipment into **four types**:
+The Astra core currently organizes equipment into **five types**:
 
 - [Weapons](Armas.md) — equipment used to attack.
 - [Armor](Armaduras.md) — equipment used for protection.
 - [Shields](Escudos.md) — equipment used for defense.
+- [Consumables](Consum%C3%ADveis.md) — equipment that is used up when used, such as remedies, Drugs and bombs.
 - **Common items** — everyday objects, such as backpacks, ropes and tools.
 
 The equipment available in the core is gathered in:
@@ -15,6 +16,7 @@ The equipment available in the core is gathered in:
 - [Weapon Catalog](Cat%C3%A1logo%20de%20Armas.md);
 - [Armor Catalog](Cat%C3%A1logo%20de%20Armaduras.md);
 - [Shield Catalog](Cat%C3%A1logo%20de%20Escudos.md);
+- [Consumable Catalog](Cat%C3%A1logo%20de%20Consum%C3%ADveis.md);
 - [Item Catalog](Cat%C3%A1logo%20de%20Itens.md).
 
 New equipment types may be added in the future, through specific modules or settings.
@@ -30,7 +32,7 @@ All equipment has a **Value**, used to compare prices and build budgets. Value i
 
 ## Load
 
-The weight of equipment is **not measured in kilograms**. In Astra, the space an item takes up is measured by its **Load**, a whole number. This applies equally to weapons, armor, shields and common items. Very small items have Load 0 (see [Item Catalog](Cat%C3%A1logo%20de%20Itens.md)).
+The weight of equipment is **not measured in kilograms**. In Astra, the space an item takes up is measured by its **Load**, a whole number. This applies equally to weapons, armor, shields, Consumables and common items. Very small items have Load 0 (see [Item Catalog](Cat%C3%A1logo%20de%20Itens.md)).
 
 ### Maximum Load
 

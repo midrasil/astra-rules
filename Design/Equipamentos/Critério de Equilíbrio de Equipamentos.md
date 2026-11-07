@@ -63,3 +63,14 @@ Aprovado na revisão geral: armas na D-070 (seção 43.B; Investida e Guarda acr
 - Todo escudo tem **uma vantagem**: Cobertura, Repelir ou Golpe de Escudo.
 - **Fora da conta:** Valor e Carga dentro da faixa da Categoria.
 - O Aparar (Dano da arma, de 0 a 4) fica na mesma faixa da Proteção: nenhuma arma apara melhor do que o Escudo de Corpo defende.
+
+# Consumíveis
+
+Aprovado na D-090. A pergunta é "vale a Ação e o item gasto?".
+
+- Um Consumível de 1 Uso vale **uma Ação forte**: um pouco melhor do que a Ação que o personagem faria no lugar, porque se gasta.
+- **Nenhum Consumível recupera dano** de Vida ou de Vontade.
+- **Dano de arremesso:** até **2**, ou **1** com um efeito extra (uma Condição, uma Zona).
+- **Condições:** duram no máximo até o fim do próximo Turno de quem usou, ou os Turnos indicados.
+- **Efeitos que duram a Cena** ficam em situações estreitas (um Tipo de Dano, uma Condição). A exceção são as Drogas, que pagam com Custo e Rebote.
+- **Drogas:** o Grau decide a soma das Intensidades, os Custos, o Rebote e o Valor. Drogas novas se montam com as tabelas de Efeitos e Custos de Consumíveis.

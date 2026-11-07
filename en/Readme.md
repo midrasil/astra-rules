@@ -1,4 +1,4 @@
-<!-- source: 655411fa90f4 -->
+<!-- source: cbd2ad1e743a -->
 # Astra
 
 **Astra** is a generic tabletop RPG system, designed to serve different settings, genres and play styles. Characters are built freely, without classes or levels, and conflicts can be resolved narratively or tactically, on a map.
@@ -32,7 +32,7 @@ The core is organized into ten main areas, in the order in which they depend on 
 - [Characters](Regras/Personagens/Personagens.md) — the characters' capabilities, resources, motivations and traits.
 - [Scenes and Conflicts](Regras/Cenas%20e%20Conflitos/Cenas%20e%20Conflitos.md) — structure of tactical scenes, turns and confrontation actions.
 - [Moving](Regras/Movimento/Movimento.md) — getting around and actions related to movement.
-- [Equipment](Regras/Equipamentos/Equipamentos.md) — load, common items, weapons, armor, shields and switching items.
+- [Equipment](Regras/Equipamentos/Equipamentos.md) — load, common items, Consumables, weapons, armor, shields and switching items.
 - [Resistance and Vulnerability](Regras/Resist%C3%AAncia%20e%20Vulnerabilidade/Resist%C3%AAncia%20e%20Vulnerabilidade.md) — how characters and creatures react to damage types.
 - [Conditions](Regras/Condi%C3%A7%C3%B5es/Condi%C3%A7%C3%B5es.md) — states that affect characters during a scene.
 - [Competencies](Regras/Compet%C3%AAncias/Compet%C3%AAncias.md) — sets of Capabilities that change what the character can do.
