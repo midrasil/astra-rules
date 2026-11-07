@@ -23,25 +23,6 @@ As Condições Anestesiado, Lúcido, Obstinado, Ofuscado e Instável estão em [
 
 Uma Droga nova se monta com as tabelas de [Efeitos e Custos](Consum%C3%ADveis.md#efeitos).
 
-## Outros Consumíveis
-
-| Consumível | Usos | Uso | Efeito | Carga | Valor |
-|---|---:|---|---|---:|---:|
-| Kit de Cura | 5 | parte do Tratamento ou do Remendo | material de cura para o [Tratamento](../Personagens/Vida.md#tratamento) e o [Remendo](../Compet%C3%AAncias/Socorrista.md#n%C3%ADvel-1--remendo); cada um gasta 1 Uso | 1 | 5 |
-| Antídoto | 1 | Ação | encerra o [Envenenado](../Condi%C3%A7%C3%B5es/Envenenado.md) | 0 | 50 |
-| Sais de Cheiro | 1 | Ação, criatura adjacente | encerra o [Atordoado](../Condi%C3%A7%C3%B5es/Atordoado.md) ou o [Medo](../Condi%C3%A7%C3%B5es/Medo.md) | 0 | 1 |
-| Frasco de Ácido | 1 | Confrontar, Arremesso (4) | Dano 2, Ácido | 0 | 25 |
-| Fogo Alquímico | 1 | Confrontar, Arremesso (4) | Dano 1, Fogo; o fogo se espalha numa [Zona](../Cenas%20e%20Conflitos/Zonas.md) persistente de Explosão 1 em volta do alvo, até o fim do próximo Turno de quem arremessou, com Dano 1 de Fogo a quem entra nela ou começa o Turno nela | 0 | 50 |
-| Bomba de Fumaça | 1 | Ação, até 4 quadrados | uma Explosão 2 com [Iluminação](../Cenas%20e%20Conflitos/Ilumina%C3%A7%C3%A3o.md) Escuro, até o fim do próximo Turno de quem arremessou | 0 | 10 |
-| Veneno Básico | 1 | Ação, aplicar na arma | o próximo Ataque que causar dano deixa o alvo Envenenado por 2 Turnos | 0 | 100 |
-| Óleo de Arma | 1 | Ação, aplicar na arma | até o fim da Cena, os Ataques da arma também contam como de Fogo, Gelo ou Elétrica (escolha ao comprar) para [Resistências e Vulnerabilidades](../Resist%C3%AAncia%20e%20Vulnerabilidade/Resist%C3%AAncia%20e%20Vulnerabilidade.md) | 0 | 25 |
-| Vela | 1 | Ação | [fonte de luz](../Cenas%20e%20Conflitos/Ilumina%C3%A7%C3%A3o.md#fontes-de-luz) (Claro 1 + Penumbra 1); dura 1 hora | 0 | 0,01 |
-| Tocha | 1 | Ação | [fonte de luz](../Cenas%20e%20Conflitos/Ilumina%C3%A7%C3%A3o.md#fontes-de-luz) (Claro 4 + Penumbra 4); dura 1 hora; pode ser usada como Arma Improvisada | 1 | 0,01 |
-| Frasco de Óleo | 1 | Ação | abastece o [Lampião](Cat%C3%A1logo%20de%20Itens.md) por 6 horas | 0 | 0,1 |
-| Ração (1 dia) | 1 | fora da Cena Tática | alimento para um dia | 0 | 0,5 |
-
-Itens de **Carga 0** seguem a regra do [Catálogo de Itens](Cat%C3%A1logo%20de%20Itens.md): a cada 10, conte 1 de Carga.
-
 ---
 
 ← [Voltar para Equipamentos](Equipamentos.md)

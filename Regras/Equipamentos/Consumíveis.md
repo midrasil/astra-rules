@@ -1,17 +1,12 @@
-Um **Consumível** é um equipamento que se gasta ao ser usado, como remédios, Drogas, venenos, bombas e suprimentos. Os Consumíveis do núcleo estão no [Catálogo de Consumíveis](Cat%C3%A1logo%20de%20Consum%C3%ADveis.md).
-
-Cada Consumível tem **Usos** (quantas vezes pode ser usado antes de acabar; 1 quando o catálogo não indica outro número), **Uso** (o que custa usá-lo), **Efeito**, [Carga e Valor](Equipamentos.md).
+Um **Consumível** é um equipamento que se gasta ao ser usado e que fortalece o personagem por um preço. No núcleo, os Consumíveis são as **Drogas**, reunidas no [Catálogo de Consumíveis](Cat%C3%A1logo%20de%20Consum%C3%ADveis.md). Itens de uso, como remédios, bombas e venenos, estão no [Catálogo de Itens](Cat%C3%A1logo%20de%20Itens.md).
 
 ## Usar um Consumível
 
 - **Sacar** um Consumível segue as regras de [Trocar Equipamento](Trocar%20Equipamento.md).
-- **Usar** um Consumível em si mesmo ou em uma criatura adjacente custa uma [Ação](../Cenas%20e%20Conflitos/A%C3%A7%C3%A3o.md), salvo quando o catálogo indica outro custo. Uma criatura que não quer o efeito precisa ser alvo de [Confrontar](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Confrontar.md).
-- Um Consumível **arremessável** é usado com Confrontar, como uma arma com **Arremesso** (ver [Armas](Armas.md)) e o alcance indicado. O item se gasta mesmo que o Ataque falhe.
-- **Aplicar em uma arma** custa uma Ação. O efeito vale para o próximo Ataque que causar dano com ela, até o fim da Cena.
+- **Usar** um Consumível em si mesmo ou em uma criatura adjacente custa uma [Ação](../Cenas%20e%20Conflitos/A%C3%A7%C3%A3o.md). Uma criatura que não quer o efeito precisa ser alvo de [Confrontar](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Confrontar.md).
+- Todo Consumível tem 1 Uso e se gasta ao ser usado.
 
-O mesmo Consumível não acumula na mesma criatura: usá-lo de novo só renova a duração.
-
-**Nenhum Consumível recupera dano** de [Vida](../Personagens/Vida.md) ou de [Vontade](../Personagens/Vontade.md). O [Kit de Cura](Cat%C3%A1logo%20de%20Consum%C3%ADveis.md#outros-consum%C3%ADveis) fornece o material do Tratamento, mas quem recupera o dano é o Tratamento.
+**Nenhum Consumível recupera dano** de [Vida](../Personagens/Vida.md) ou de [Vontade](../Personagens/Vontade.md).
 
 ## Drogas
 

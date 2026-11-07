@@ -1,20 +1,15 @@
-<!-- source: c85b7c5afb39 -->
+<!-- source: aba60013eb99 -->
 # Consumables
 
-A **Consumable** is a piece of equipment that is used up when used, such as remedies, Drugs, poisons, bombs and supplies. The core Consumables are in the [Consumable Catalog](Cat%C3%A1logo%20de%20Consum%C3%ADveis.md).
-
-Each Consumable has **Uses** (how many times it can be used before it runs out; 1 when the catalog gives no other number), **Use** (what using it costs), **Effect**, [Load and Value](Equipamentos.md).
+A **Consumable** is a piece of equipment that is used up when used and strengthens the character at a price. In the core, Consumables are **Drugs**, gathered in the [Consumable Catalog](Cat%C3%A1logo%20de%20Consum%C3%ADveis.md). Usable items, such as remedies, bombs and poisons, are in the [Item Catalog](Cat%C3%A1logo%20de%20Itens.md).
 
 ## Using a Consumable
 
 - **Drawing** a Consumable follows the rules of [Switching Equipment](Trocar%20Equipamento.md).
-- **Using** a Consumable on yourself or on an adjacent creature takes an [Action](../Cenas%20e%20Conflitos/A%C3%A7%C3%A3o.md), unless the catalog gives another cost. A creature that does not want the effect must be the target of a [Confront](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Confrontar.md).
-- A **throwable** Consumable is used with Confront, like a weapon with **Thrown** (see [Weapons](Armas.md)) and the range given. The item is spent even if the Attack fails.
-- **Applying to a weapon** takes an Action. The effect applies to the next Attack that deals damage with it, until the end of the Scene.
+- **Using** a Consumable on yourself or on an adjacent creature takes an [Action](../Cenas%20e%20Conflitos/A%C3%A7%C3%A3o.md). A creature that does not want the effect must be the target of a [Confront](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Confrontar.md).
+- Every Consumable has 1 Use and is spent when used.
 
-The same Consumable does not stack on the same creature: using it again only renews the duration.
-
-**No Consumable recovers damage** to [Health](../Personagens/Vida.md) or [Willpower](../Personagens/Vontade.md). The [Healing Kit](Cat%C3%A1logo%20de%20Consum%C3%ADveis.md#other-consumables) provides the supplies for Treatment, but Treatment is what recovers the damage.
+**No Consumable recovers damage** to [Health](../Personagens/Vida.md) or [Willpower](../Personagens/Vontade.md).
 
 ## Drugs
 

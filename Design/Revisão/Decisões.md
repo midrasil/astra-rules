@@ -652,3 +652,8 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
 - **Decisão:** os efeitos e Custos nomeados das Drogas viram Condições do núcleo, com página própria, para que o catálogo deixe claro o que cada Droga faz e outras fontes possam aplicá-los: Sem Dor vira **Anestesiado**, Clareza vira **Lúcido** (só o próximo uso de Vontade, depois termina), De Pé vira **Obstinado** (não fica Incapacitado enquanto dura), e **Ofuscado** e **Instável** passam a ser Condições. As Condições aplicadas por uma Droga duram o mesmo que ela. Pesado continua só como Custo.
 - **Status:** aprovada.
 - **Arquivos:** `Regras/Condições/Anestesiado.md`, `Lúcido.md`, `Obstinado.md`, `Ofuscado.md` e `Instável.md` (novos), `Regras/Condições/Condições.md`, `Regras/Equipamentos/Consumíveis.md`, `Regras/Equipamentos/Catálogo de Consumíveis.md` e as versões em `en/`.
+
+**D-092 · 2026-11-07 · Itens de uso voltam ao Catálogo de Itens (revê a D-090)**
+- **Decisão:** os "Outros Consumíveis" (Kit de Cura, Antídoto, Sais de Cheiro, Frasco de Ácido, Fogo Alquímico, Bomba de Fumaça, Veneno Básico, Óleo de Arma, Vela, Tocha, Frasco de óleo e Ração) são itens de uso e voltam ao Catálogo de Itens, que ganha a seção "Usar itens" (Ação, Arremesso, aplicar em arma, não acumula). Os Consumíveis passam a ser só as Drogas, com 1 Uso cada.
+- **Status:** aprovada.
+- **Arquivos:** `Regras/Equipamentos/Consumíveis.md`, `Regras/Equipamentos/Catálogo de Consumíveis.md`, `Regras/Equipamentos/Catálogo de Itens.md`, `Regras/Equipamentos/Equipamentos.md`, `Regras/Competências/Socorrista.md`, `Regras/Personagens/Vida.md`, `Regras/Cenas e Conflitos/Iluminação.md`, `Design/Equipamentos/Critério de Equilíbrio de Equipamentos.md` e as versões em `en/`.
