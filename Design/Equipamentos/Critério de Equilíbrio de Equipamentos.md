@@ -66,7 +66,7 @@ Aprovado na revisão geral: armas na D-070 (seção 43.B; Investida e Guarda acr
 
 # Consumíveis
 
-Aprovado na D-090; desde a D-092, os itens de uso (remédios, bombas, venenos) ficam no Catálogo de Itens e seguem as mesmas regras. A pergunta é "vale a Ação e o item gasto?".
+Aprovado na D-090; desde a D-094, os alquímicos (remédios, bombas, venenos e óleos) também são Consumíveis. A pergunta é "vale a Ação e o item gasto?".
 
 - Um item de 1 uso vale **uma Ação forte**: um pouco melhor do que a Ação que o personagem faria no lugar, porque se gasta.
 - **Nenhum item recupera dano** de Vida ou de Vontade.

@@ -5,7 +5,7 @@ Atualmente o núcleo do Astra organiza os equipamentos em **cinco tipos**:
 - [Armas](Armas.md) — equipamentos utilizados para atacar.
 - [Armaduras](Armaduras.md) — equipamentos utilizados para proteção.
 - [Escudos](Escudos.md) — equipamentos utilizados para defesa.
-- [Consumíveis](Consum%C3%ADveis.md) — Drogas, que fortalecem o corpo ou a mente por um preço.
+- [Consumíveis](Consum%C3%ADveis.md) — Drogas e alquímicos, que se gastam num único uso.
 - **Itens comuns** — objetos de uso cotidiano, como mochilas, cordas e ferramentas.
 
 Os equipamentos disponíveis no núcleo estão reunidos em:
