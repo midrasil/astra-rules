@@ -1,13 +1,15 @@
-<!-- source: aba60013eb99 -->
+<!-- source: 06fb794bbbd6 -->
 # Consumables
 
-A **Consumable** is a piece of equipment that is used up when used and strengthens the character at a price. In the core, Consumables are **Drugs**, gathered in the [Consumable Catalog](Cat%C3%A1logo%20de%20Consum%C3%ADveis.md). Usable items, such as remedies, bombs and poisons, are in the [Item Catalog](Cat%C3%A1logo%20de%20Itens.md).
+A **Consumable** is a piece of equipment that is spent in a single use. In the core, Consumables are **Drugs** and **alchemicals** (remedies, bombs, poisons and oils), gathered in the [Consumable Catalog](Cat%C3%A1logo%20de%20Consum%C3%ADveis.md).
 
 ## Using a Consumable
 
 - **Drawing** a Consumable follows the rules of [Switching Equipment](Trocar%20Equipamento.md).
 - **Using** a Consumable on yourself or on an adjacent creature takes an [Action](../Cenas%20e%20Conflitos/A%C3%A7%C3%A3o.md). A creature that does not want the effect must be the target of a [Confront](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Confrontar.md).
-- Every Consumable has 1 Use and is spent when used.
+- A Consumable with **Thrown** is used with Confront, like a Thrown weapon (see [Weapons](Armas.md)). It is spent even if the Attack fails.
+- **Applying to a weapon** takes an Action. The effect applies to the next Attack that deals damage with it, until the end of the Scene.
+- The same Consumable does not stack on the same creature: using it again only renews the duration.
 
 **No Consumable recovers damage** to [Health](../Personagens/Vida.md) or [Willpower](../Personagens/Vontade.md).
 

@@ -1,7 +1,7 @@
-<!-- source: d851af37c3e5 -->
+<!-- source: 1c510ecfb681 -->
 # Consumable Catalog
 
-This is the Astra core's catalog of Consumables. The rules for using them and for Drugs are in [Consumables](Consum%C3%ADveis.md).
+This is the Astra core's catalog of Consumables. The rules for using them, for Drugs and for alchemicals are in [Consumables](Consum%C3%ADveis.md).
 
 ## Drugs
 
@@ -25,6 +25,20 @@ Each row shows the Effect at each Grade. Every Drug has Load 0 and 1 Use, and it
 The Numbed, Lucid, Relentless, Dazzled and Unsteady Conditions are in [Conditions](../Condi%C3%A7%C3%B5es/Condi%C3%A7%C3%B5es.md) and last as long as the Drug.
 
 A new Drug is built with the [Effects and Costs](Consum%C3%ADveis.md#effects) tables.
+
+## Alchemicals
+
+Every alchemical has 1 Use.
+
+| Alchemical | Use | Effect | Load | Value |
+|---|---|---|---:|---:|
+| Antidote | Action | ends [Poisoned](../Condi%C3%A7%C3%B5es/Envenenado.md) | 0 | 50 |
+| Smelling Salts | Action, adjacent creature | ends [Stunned](../Condi%C3%A7%C3%B5es/Atordoado.md) or [Fear](../Condi%C3%A7%C3%B5es/Medo.md) | 0 | 1 |
+| Flask of Acid | Confront, Thrown (4) | Damage 2, Acid | 0 | 25 |
+| Alchemist's Fire | Confront, Thrown (4) | Damage 1, Fire; the fire spreads into a persistent Burst 1 [Zone](../Cenas%20e%20Conflitos/Zonas.md) around the target, until the end of the thrower's next Turn, dealing Damage 1 Fire to anyone who enters it or starts their Turn in it | 0 | 50 |
+| Smoke Bomb | Action, up to 4 squares | a Burst 2 with Dark [lighting](../Cenas%20e%20Conflitos/Ilumina%C3%A7%C3%A3o.md), until the end of the thrower's next Turn | 0 | 10 |
+| Basic Poison | Action, apply to a weapon | the next Attack that deals damage leaves the target Poisoned for 2 Turns | 0 | 100 |
+| Weapon Oil | Action, apply to a weapon | until the end of the Scene, the weapon's Attacks also count as Fire, Ice or Electric (chosen when bought) for [Resistances and Vulnerabilities](../Resist%C3%AAncia%20e%20Vulnerabilidade/Resist%C3%AAncia%20e%20Vulnerabilidade.md) | 0 | 25 |
 
 ---
 

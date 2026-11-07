@@ -1,4 +1,4 @@
-Este é o catálogo de Consumíveis do núcleo do Astra. As regras de uso e de Drogas estão em [Consumíveis](Consum%C3%ADveis.md).
+Este é o catálogo de Consumíveis do núcleo do Astra. As regras de uso, de Drogas e de alquímicos estão em [Consumíveis](Consum%C3%ADveis.md).
 
 ## Drogas
 
@@ -22,6 +22,20 @@ Cada linha mostra o Efeito em cada Grau. Todas as Drogas têm Carga 0 e 1 Uso, e
 As Condições Anestesiado, Lúcido, Obstinado, Ofuscado e Instável estão em [Condições](../Condi%C3%A7%C3%B5es/Condi%C3%A7%C3%B5es.md) e duram o mesmo que a Droga.
 
 Uma Droga nova se monta com as tabelas de [Efeitos e Custos](Consum%C3%ADveis.md#efeitos).
+
+## Alquímicos
+
+Todos os alquímicos têm 1 Uso.
+
+| Alquímico | Uso | Efeito | Carga | Valor |
+|---|---|---|---:|---:|
+| Antídoto | Ação | encerra o [Envenenado](../Condi%C3%A7%C3%B5es/Envenenado.md) | 0 | 50 |
+| Sais de Cheiro | Ação, criatura adjacente | encerra o [Atordoado](../Condi%C3%A7%C3%B5es/Atordoado.md) ou o [Medo](../Condi%C3%A7%C3%B5es/Medo.md) | 0 | 1 |
+| Frasco de Ácido | Confrontar, Arremesso (4) | Dano 2, Ácido | 0 | 25 |
+| Fogo Alquímico | Confrontar, Arremesso (4) | Dano 1, Fogo; o fogo se espalha numa [Zona](../Cenas%20e%20Conflitos/Zonas.md) persistente de Explosão 1 em volta do alvo, até o fim do próximo Turno de quem arremessou, com Dano 1 de Fogo a quem entra nela ou começa o Turno nela | 0 | 50 |
+| Bomba de Fumaça | Ação, até 4 quadrados | uma Explosão 2 com [Iluminação](../Cenas%20e%20Conflitos/Ilumina%C3%A7%C3%A3o.md) Escuro, até o fim do próximo Turno de quem arremessou | 0 | 10 |
+| Veneno Básico | Ação, aplicar na arma | o próximo Ataque que causar dano deixa o alvo Envenenado por 2 Turnos | 0 | 100 |
+| Óleo de Arma | Ação, aplicar na arma | até o fim da Cena, os Ataques da arma também contam como de Fogo, Gelo ou Elétrica (escolha ao comprar) para [Resistências e Vulnerabilidades](../Resist%C3%AAncia%20e%20Vulnerabilidade/Resist%C3%AAncia%20e%20Vulnerabilidade.md) | 0 | 25 |
 
 ---
 

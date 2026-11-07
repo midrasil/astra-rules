@@ -1,4 +1,4 @@
-<!-- source: 27bf6ab8c935 -->
+<!-- source: 1744644efc03 -->
 # Equipment
 
 Equipment is the objects characters carry and use, whether to attack, protect themselves or carry out other tasks.
@@ -8,7 +8,7 @@ The Astra core currently organizes equipment into **five types**:
 - [Weapons](Armas.md) — equipment used to attack.
 - [Armor](Armaduras.md) — equipment used for protection.
 - [Shields](Escudos.md) — equipment used for defense.
-- [Consumables](Consum%C3%ADveis.md) — Drugs, which strengthen the body or the mind at a price.
+- [Consumables](Consum%C3%ADveis.md) — Drugs and alchemicals, which are spent in a single use.
 - **Common items** — everyday objects, such as backpacks, ropes and tools.
 
 The equipment available in the core is gathered in:

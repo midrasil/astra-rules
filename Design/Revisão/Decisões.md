@@ -662,3 +662,8 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
 - **Decisão:** a Mochila dá +2 de Carga máxima (só uma conta). Corda, Saco de dormir, Ração, Cantil, Pé de cabra e Ferramentas de ladrão ganham uma descrição curta do uso no Catálogo de Itens, sem mecânica própria: o Narrador decide o efeito na mesa.
 - **Status:** aprovada.
 - **Arquivos:** `Regras/Equipamentos/Catálogo de Itens.md`, `Regras/Equipamentos/Equipamentos.md` e as versões em `en/`.
+
+**D-094 · 2026-11-07 · Alquímicos voltam a ser Consumíveis (revê a D-092)**
+- **Decisão:** Antídoto, Sais de Cheiro, Frasco de Ácido, Fogo Alquímico, Bomba de Fumaça, Veneno Básico e Óleo de Arma se gastam num único uso e passam para a seção "Alquímicos" do Catálogo de Consumíveis; as regras de Arremesso, de aplicar em arma e de não acumular voltam para Consumíveis. Kit de Cura, fontes de luz, Frasco de óleo, Ração e munição continuam no Catálogo de Itens, que perde a seção "Usar itens".
+- **Status:** aprovada.
+- **Arquivos:** `Regras/Equipamentos/Consumíveis.md`, `Regras/Equipamentos/Catálogo de Consumíveis.md`, `Regras/Equipamentos/Catálogo de Itens.md`, `Regras/Equipamentos/Equipamentos.md`, `Design/Equipamentos/Critério de Equilíbrio de Equipamentos.md` e as versões em `en/`.

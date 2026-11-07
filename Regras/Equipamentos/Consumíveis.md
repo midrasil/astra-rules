@@ -1,10 +1,12 @@
-Um **Consumível** é um equipamento que se gasta ao ser usado e que fortalece o personagem por um preço. No núcleo, os Consumíveis são as **Drogas**, reunidas no [Catálogo de Consumíveis](Cat%C3%A1logo%20de%20Consum%C3%ADveis.md). Itens de uso, como remédios, bombas e venenos, estão no [Catálogo de Itens](Cat%C3%A1logo%20de%20Itens.md).
+Um **Consumível** é um equipamento que se gasta num único uso. No núcleo, os Consumíveis são as **Drogas** e os **alquímicos** (remédios, bombas, venenos e óleos), reunidos no [Catálogo de Consumíveis](Cat%C3%A1logo%20de%20Consum%C3%ADveis.md).
 
 ## Usar um Consumível
 
 - **Sacar** um Consumível segue as regras de [Trocar Equipamento](Trocar%20Equipamento.md).
 - **Usar** um Consumível em si mesmo ou em uma criatura adjacente custa uma [Ação](../Cenas%20e%20Conflitos/A%C3%A7%C3%A3o.md). Uma criatura que não quer o efeito precisa ser alvo de [Confrontar](../Cenas%20e%20Conflitos/A%C3%A7%C3%B5es/Confrontar.md).
-- Todo Consumível tem 1 Uso e se gasta ao ser usado.
+- Um Consumível com **Arremesso** é usado com Confrontar, como uma arma de Arremesso (ver [Armas](Armas.md)). Ele se gasta mesmo que o Ataque falhe.
+- **Aplicar em uma arma** custa uma Ação. O efeito vale para o próximo Ataque que causar dano com ela, até o fim da Cena.
+- O mesmo Consumível não acumula na mesma criatura: usá-lo de novo só renova a duração.
 
 **Nenhum Consumível recupera dano** de [Vida](../Personagens/Vida.md) ou de [Vontade](../Personagens/Vontade.md).
 
