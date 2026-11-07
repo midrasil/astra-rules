@@ -7,7 +7,7 @@ Sem indicação do cenário, use um orçamento de **100 de Valor**.
 
 Todo item tem um [Valor](../Regras/Equipamentos/Equipamentos.md#valor), e a **moeda** usada varia conforme o cenário.
 
-O núcleo oferece o [Catálogo de Armas](../Regras/Equipamentos/Cat%C3%A1logo%20de%20Armas.md), o [Catálogo de Armaduras](../Regras/Equipamentos/Cat%C3%A1logo%20de%20Armaduras.md), o [Catálogo de Escudos](../Regras/Equipamentos/Cat%C3%A1logo%20de%20Escudos.md) e o [Catálogo de Itens](../Regras/Equipamentos/Cat%C3%A1logo%20de%20Itens.md). O cenário pode limitar, substituir ou ampliar essas opções.
+O núcleo oferece o [Catálogo de Armas](../Regras/Equipamentos/Cat%C3%A1logo%20de%20Armas.md), o [Catálogo de Armaduras](../Regras/Equipamentos/Cat%C3%A1logo%20de%20Armaduras.md), o [Catálogo de Escudos](../Regras/Equipamentos/Cat%C3%A1logo%20de%20Escudos.md), o [Catálogo de Consumíveis](../Regras/Equipamentos/Cat%C3%A1logo%20de%20Consum%C3%ADveis.md) e o [Catálogo de Itens](../Regras/Equipamentos/Cat%C3%A1logo%20de%20Itens.md). O cenário pode limitar, substituir ou ampliar essas opções.
 
 O personagem pode carregar itens até sua [Carga máxima](3%20-%20Caracter%C3%ADsticas%20Derivadas.md); passar disso o deixa em [Sobrecarga](../Regras/Equipamentos/Equipamentos.md#sobrecarga).
 

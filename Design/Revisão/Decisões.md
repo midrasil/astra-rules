@@ -637,3 +637,13 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
   - o Kit de Cura serve também ao Remendo.
 - **Status:** aprovada.
 - **Arquivos:** `Regras/Competências/Socorrista.md` (novo), `Regras/Condições/Remendado.md` e `Regras/Condições/Prejudicado.md` (novos), `Regras/Competências/Competências.md`, `Regras/Condições/Condições.md`, `Regras/Capacidades/Capacidades.md`, `Regras/Equipamentos/Catálogo de Itens.md` e as versões em `en/`.
+
+**D-090 · 2026-11-07 · Consumíveis**
+- **Decisão:**
+  - novo tipo de Equipamento, Consumíveis, com Usos, Uso, Efeito, Carga e Valor; usar custa uma Ação, arremessáveis usam Confrontar com Arremesso, e o mesmo Consumível não acumula na mesma criatura;
+  - nenhum Consumível recupera dano; só alquimia mundana no núcleo; só compra, sem fabricação;
+  - Drogas em cinco Graus (Diluída, Comum, Concentrada, Forte e Pura), com Efeitos por Intensidade (Atributo sem limite, Resistência, Movimentação, ignorar Condição, Visão no Escuro, Sem Dor, Clareza e De Pé), Custos (Atributo, Vulnerabilidade, Pesado, Ofuscado e Instável) e Rebote igual ao Grau (Prejudicado no corpo, dano superficial de Vontade na mente); uma Droga por vez;
+  - Kit de Cura, Vela, Tocha, Frasco de Óleo e Ração passam do Catálogo de Itens para o novo Catálogo de Consumíveis, com doze Drogas e oito outros Consumíveis;
+  - o Critério de Equilíbrio de Equipamentos ganha a seção Consumíveis.
+- **Status:** aprovada.
+- **Arquivos:** `Regras/Equipamentos/Consumíveis.md` e `Regras/Equipamentos/Catálogo de Consumíveis.md` (novos), `Regras/Equipamentos/Equipamentos.md`, `Regras/Equipamentos/Catálogo de Itens.md`, `Regras/Competências/Socorrista.md`, `Regras/Personagens/Vida.md`, `Regras/Cenas e Conflitos/Iluminação.md`, `Criação de Personagem/5 - Equipamento Inicial.md`, `Readme.md`, `Design/Equipamentos/Critério de Equilíbrio de Equipamentos.md` e as versões em `en/`.

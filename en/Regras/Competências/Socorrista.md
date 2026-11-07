@@ -1,4 +1,4 @@
-<!-- source: 2c508e0525e1 -->
+<!-- source: 0022409d02d2 -->
 # Medic
 
 Medic represents the character who keeps the wounded on their feet during the fight, with patches made in the heat of combat, and cares for them more efficiently once it is over.
@@ -15,7 +15,7 @@ Medic represents the character who keeps the wounded on their feet during the fi
 
 ## Level 1 — Patch Up
 
-In a [Tactical Scene](../Cenas%20e%20Conflitos/Cenas%20T%C3%A1ticas.md), you can use your [Action](../Cenas%20e%20Conflitos/A%C3%A7%C3%A3o.md) to patch up an adjacent creature or yourself, spending 1 use of healing supplies, such as a [Healing Kit](../Equipamentos/Cat%C3%A1logo%20de%20Itens.md). Roll **Cunning + [Healing](../Personagens/Per%C3%ADcias.md)** and choose how many Successes to use, from 0 up to the total rolled.
+In a [Tactical Scene](../Cenas%20e%20Conflitos/Cenas%20T%C3%A1ticas.md), you can use your [Action](../Cenas%20e%20Conflitos/A%C3%A7%C3%A3o.md) to patch up an adjacent creature or yourself, spending 1 use of healing supplies, such as a [Healing Kit](../Equipamentos/Cat%C3%A1logo%20de%20Consum%C3%ADveis.md#other-consumables). Roll **Cunning + [Healing](../Personagens/Per%C3%ADcias.md)** and choose how many Successes to use, from 0 up to the total rolled.
 
 The creature becomes [Patched](../Condi%C3%A7%C3%B5es/Remendado.md), with a number of eased points equal to the chosen Successes. At the end of the Scene, the eased damage comes back and it becomes [Impaired](../Condi%C3%A7%C3%B5es/Prejudicado.md).
 

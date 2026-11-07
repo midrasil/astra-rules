@@ -1,10 +1,11 @@
 Equipamentos são os objetos que os personagens carregam e utilizam, seja para atacar, se proteger ou realizar outras tarefas.
 
-Atualmente o núcleo do Astra organiza os equipamentos em **quatro tipos**:
+Atualmente o núcleo do Astra organiza os equipamentos em **cinco tipos**:
 
 - [Armas](Armas.md) — equipamentos utilizados para atacar.
 - [Armaduras](Armaduras.md) — equipamentos utilizados para proteção.
 - [Escudos](Escudos.md) — equipamentos utilizados para defesa.
+- [Consumíveis](Consum%C3%ADveis.md) — equipamentos que se gastam ao serem usados, como remédios, Drogas e bombas.
 - **Itens comuns** — objetos de uso cotidiano, como mochilas, cordas e ferramentas.
 
 Os equipamentos disponíveis no núcleo estão reunidos em:
@@ -12,6 +13,7 @@ Os equipamentos disponíveis no núcleo estão reunidos em:
 - [Catálogo de Armas](Cat%C3%A1logo%20de%20Armas.md);
 - [Catálogo de Armaduras](Cat%C3%A1logo%20de%20Armaduras.md);
 - [Catálogo de Escudos](Cat%C3%A1logo%20de%20Escudos.md);
+- [Catálogo de Consumíveis](Cat%C3%A1logo%20de%20Consum%C3%ADveis.md);
 - [Catálogo de Itens](Cat%C3%A1logo%20de%20Itens.md).
 
 Novos tipos de equipamento podem ser adicionados futuramente, através de módulos ou cenários específicos.
@@ -27,7 +29,7 @@ Todo equipamento possui um **Valor**, usado para comparar preços e montar orça
 
 ## Carga
 
-O peso dos equipamentos **não é medido em quilogramas**. No Astra, o espaço que um item ocupa é medido pela sua **Carga**, um número inteiro. Isso se aplica igualmente a armas, armaduras, escudos e itens comuns. Itens muito pequenos têm Carga 0 (ver [Catálogo de Itens](Cat%C3%A1logo%20de%20Itens.md)).
+O peso dos equipamentos **não é medido em quilogramas**. No Astra, o espaço que um item ocupa é medido pela sua **Carga**, um número inteiro. Isso se aplica igualmente a armas, armaduras, escudos, Consumíveis e itens comuns. Itens muito pequenos têm Carga 0 (ver [Catálogo de Itens](Cat%C3%A1logo%20de%20Itens.md)).
 
 ### Carga máxima
 
