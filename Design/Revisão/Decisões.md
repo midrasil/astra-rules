@@ -657,3 +657,8 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
 - **Decisão:** os "Outros Consumíveis" (Kit de Cura, Antídoto, Sais de Cheiro, Frasco de Ácido, Fogo Alquímico, Bomba de Fumaça, Veneno Básico, Óleo de Arma, Vela, Tocha, Frasco de óleo e Ração) são itens de uso e voltam ao Catálogo de Itens, que ganha a seção "Usar itens" (Ação, Arremesso, aplicar em arma, não acumula). Os Consumíveis passam a ser só as Drogas, com 1 Uso cada.
 - **Status:** aprovada.
 - **Arquivos:** `Regras/Equipamentos/Consumíveis.md`, `Regras/Equipamentos/Catálogo de Consumíveis.md`, `Regras/Equipamentos/Catálogo de Itens.md`, `Regras/Equipamentos/Equipamentos.md`, `Regras/Competências/Socorrista.md`, `Regras/Personagens/Vida.md`, `Regras/Cenas e Conflitos/Iluminação.md`, `Design/Equipamentos/Critério de Equilíbrio de Equipamentos.md` e as versões em `en/`.
+
+**D-093 · 2026-11-07 · Utilidade dos itens comuns**
+- **Decisão:** a Mochila dá +2 de Carga máxima (só uma conta). Corda, Saco de dormir, Ração, Cantil, Pé de cabra e Ferramentas de ladrão ganham uma descrição curta do uso no Catálogo de Itens, sem mecânica própria: o Narrador decide o efeito na mesa.
+- **Status:** aprovada.
+- **Arquivos:** `Regras/Equipamentos/Catálogo de Itens.md`, `Regras/Equipamentos/Equipamentos.md` e as versões em `en/`.

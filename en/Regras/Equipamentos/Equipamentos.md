@@ -1,4 +1,4 @@
-<!-- source: 6082f3480723 -->
+<!-- source: 27bf6ab8c935 -->
 # Equipment
 
 Equipment is the objects characters carry and use, whether to attack, protect themselves or carry out other tasks.
@@ -39,6 +39,8 @@ The weight of equipment is **not measured in kilograms**. In Astra, the space an
 A character's **Maximum Load** is the total Load they can carry without penalties. Its standard formula is:
 
 > **5 + Strength**
+
+A [Backpack](Cat%C3%A1logo%20de%20Itens.md) increases Maximum Load by **2**.
 
 Strength is the **Load Attribute** by default. Capabilities and other rules can replace it in this formula. When that happens, Maximum Load is recalculated immediately from the new Attribute, without changing Strength tests or other rules.
 
