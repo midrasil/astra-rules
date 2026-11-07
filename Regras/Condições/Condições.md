@@ -23,6 +23,11 @@ As Condições são aplicadas por Ações, Manobras, Capacidades ou outras regra
 - [Sangrando](Sangrando.md) — dano superficial acumulável no fim de cada Turno.
 - [Remendado](Remendado.md) — dano de Vida aliviado por um Remendo até o fim da Cena, que volta depois.
 - [Prejudicado](Prejudicado.md) — penalidade acumulável em rolagens Físicas, depois de um Remendo; sai com Tratamento e Descanso Prolongado.
+- [Anestesiado](Anestesiado.md) — ignora as penalidades de Debilitado, Prejudicado e Envenenado.
+- [Lúcido](L%C3%BAcido.md) — o próximo uso de Vontade não custa dano de Vontade.
+- [Obstinado](Obstinado.md) — não fica Incapacitado enquanto durar.
+- [Ofuscado](Ofuscado.md) — o Claro conta como Penumbra.
+- [Instável](Inst%C3%A1vel.md) — pode perder a Movimentação no fim de cada Turno.
 - [Mirando](Mirando.md) — acumula o bônus da Manobra Mirar para o próximo Ataque à distância.
 - [Lido](Lido.md) — analisado por outro personagem; sem efeito próprio, usado por Capacidades.
 - [Desafiado](Desafiado.md) — provocado por um Duelista; penaliza Confrontos iniciados contra outras criaturas.

@@ -1,4 +1,4 @@
-<!-- source: 681aaff4825a -->
+<!-- source: c85b7c5afb39 -->
 # Consumables
 
 A **Consumable** is a piece of equipment that is used up when used, such as remedies, Drugs, poisons, bombs and supplies. The core Consumables are in the [Consumable Catalog](Cat%C3%A1logo%20de%20Consum%C3%ADveis.md).
@@ -22,6 +22,8 @@ The same Consumable does not stack on the same creature: using it again only ren
 
 - **Effect:** what the Drug grants while it lasts.
 - **Cost:** the penalty the character suffers while the Drug lasts.
+
+Conditions applied by a Drug, such as Numbed or Dazzled, last as long as the Drug.
 - **Crash:** when the Drug ends, the character pays the rest of the bill, equal to the Grade:
   - **body** Drugs give stacks of [Impaired](../Condi%C3%A7%C3%B5es/Prejudicado.md);
   - **mind** Drugs deal superficial [Willpower](../Personagens/Vontade.md) damage.
@@ -51,9 +53,9 @@ Each effect has an **Intensity**. The sum of a Drug's Intensities equals its Gra
 | **+2 base [Movement](../Movimento/Movimenta%C3%A7%C3%A3o.md)** | 1 per +2 |
 | **Ignore a Condition:** [Fear](../Condi%C3%A7%C3%B5es/Medo.md), [Stunned](../Condi%C3%A7%C3%B5es/Atordoado.md), [Poisoned](../Condi%C3%A7%C3%B5es/Envenenado.md), [Slowed](../Condi%C3%A7%C3%B5es/Lento.md), [Shaken](../Condi%C3%A7%C3%B5es/Abalado.md) or [Challenged](../Condi%C3%A7%C3%B5es/Desafiado.md) has no effect while the Drug lasts | 1 each |
 | **[Darkvision](../Cenas%20e%20Conflitos/Ilumina%C3%A7%C3%A3o.md#darkvision)** up to 6 squares | 1 |
-| **Numb:** ignores the dice penalties of [Debilitated](../Condi%C3%A7%C3%B5es/Debilitado.md), Impaired and Poisoned | 2 |
-| **Clarity:** the first use of Willpower in the Scene costs no Willpower damage | 2 |
-| **Still Standing:** a full Health track does not leave the character [Incapacitated](../Condi%C3%A7%C3%B5es/Incapacitado.md) while the Drug lasts. If the track is full when it ends, they become Incapacitated | 3 |
+| becomes [Numbed](../Condi%C3%A7%C3%B5es/Anestesiado.md): ignores the penalties of Debilitated, Impaired and Poisoned | 2 |
+| becomes [Lucid](../Condi%C3%A7%C3%B5es/L%C3%BAcido.md): the next Willpower use costs no Willpower damage | 2 |
+| becomes [Relentless](../Condi%C3%A7%C3%B5es/Obstinado.md): does not become Incapacitated while the Drug lasts | 3 |
 
 ### Costs
 
@@ -62,8 +64,8 @@ Each effect has an **Intensity**. The sum of a Drug's Intensities equals its Gra
 | **Attribute** | -1 to an Attribute the Drug does not strengthen | -2 |
 | **Vulnerability** | [Vulnerability](../Resist%C3%AAncia%20e%20Vulnerabilidade/Vulnerabilidade.md) 1 to a Damage Type | Vulnerability 2 |
 | **Heavy** | -2 base Movement | -4 |
-| **Dazzled** | Bright counts as Dim for the character | — |
-| **Unsteady** | at the end of each Turn, roll 1 die; with no Success, the character loses their Movement next Turn | — |
+| **Dazzled** | becomes [Dazzled](../Condi%C3%A7%C3%B5es/Ofuscado.md): Bright counts as Dim | — |
+| **Unsteady** | becomes [Unsteady](../Condi%C3%A7%C3%B5es/Inst%C3%A1vel.md): at the end of each Turn, may lose their next Movement | — |
 
 Dazzled and Unsteady cannot be doubled, so they only appear as the extra Cost.
 

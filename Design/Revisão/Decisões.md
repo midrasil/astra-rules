@@ -647,3 +647,8 @@ Formato: **D-NNN · data · seção** — decisão · status · justificativa ·
   - o Critério de Equilíbrio de Equipamentos ganha a seção Consumíveis.
 - **Status:** aprovada.
 - **Arquivos:** `Regras/Equipamentos/Consumíveis.md` e `Regras/Equipamentos/Catálogo de Consumíveis.md` (novos), `Regras/Equipamentos/Equipamentos.md`, `Regras/Equipamentos/Catálogo de Itens.md`, `Regras/Competências/Socorrista.md`, `Regras/Personagens/Vida.md`, `Regras/Cenas e Conflitos/Iluminação.md`, `Criação de Personagem/5 - Equipamento Inicial.md`, `Readme.md`, `Design/Equipamentos/Critério de Equilíbrio de Equipamentos.md` e as versões em `en/`.
+
+**D-091 · 2026-11-07 · Efeitos das Drogas como Condições (revê a D-090)**
+- **Decisão:** os efeitos e Custos nomeados das Drogas viram Condições do núcleo, com página própria, para que o catálogo deixe claro o que cada Droga faz e outras fontes possam aplicá-los: Sem Dor vira **Anestesiado**, Clareza vira **Lúcido** (só o próximo uso de Vontade, depois termina), De Pé vira **Obstinado** (não fica Incapacitado enquanto dura), e **Ofuscado** e **Instável** passam a ser Condições. As Condições aplicadas por uma Droga duram o mesmo que ela. Pesado continua só como Custo.
+- **Status:** aprovada.
+- **Arquivos:** `Regras/Condições/Anestesiado.md`, `Lúcido.md`, `Obstinado.md`, `Ofuscado.md` e `Instável.md` (novos), `Regras/Condições/Condições.md`, `Regras/Equipamentos/Consumíveis.md`, `Regras/Equipamentos/Catálogo de Consumíveis.md` e as versões em `en/`.

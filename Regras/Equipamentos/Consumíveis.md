@@ -19,6 +19,8 @@ O mesmo Consumível não acumula na mesma criatura: usá-lo de novo só renova a
 
 - **Efeito:** o que a Droga concede enquanto dura.
 - **Custo:** a penalidade que o personagem sofre enquanto a Droga dura.
+
+As Condições aplicadas por uma Droga, como Anestesiado ou Ofuscado, duram o mesmo que ela.
 - **Rebote:** quando a Droga termina, o personagem paga o resto da conta, com valor igual ao Grau:
   - Drogas do **corpo** dão acúmulos de [Prejudicado](../Condi%C3%A7%C3%B5es/Prejudicado.md);
   - Drogas da **mente** causam dano superficial de [Vontade](../Personagens/Vontade.md).
@@ -48,9 +50,9 @@ Cada efeito tem uma **Intensidade**. A soma das Intensidades de uma Droga é igu
 | **+2 de [Movimentação](../Movimento/Movimenta%C3%A7%C3%A3o.md) base** | 1 a cada +2 |
 | **Ignorar uma Condição:** [Medo](../Condi%C3%A7%C3%B5es/Medo.md), [Atordoado](../Condi%C3%A7%C3%B5es/Atordoado.md), [Envenenado](../Condi%C3%A7%C3%B5es/Envenenado.md), [Lento](../Condi%C3%A7%C3%B5es/Lento.md), [Abalado](../Condi%C3%A7%C3%B5es/Abalado.md) ou [Desafiado](../Condi%C3%A7%C3%B5es/Desafiado.md) não têm efeito enquanto a Droga dura | 1 cada |
 | **[Visão no Escuro](../Cenas%20e%20Conflitos/Ilumina%C3%A7%C3%A3o.md#vis%C3%A3o-no-escuro)** até 6 quadrados | 1 |
-| **Sem Dor:** ignora as penalidades em dados do [Debilitado](../Condi%C3%A7%C3%B5es/Debilitado.md), do Prejudicado e do Envenenado | 2 |
-| **Clareza:** o primeiro uso de Vontade na Cena não custa dano de Vontade | 2 |
-| **De Pé:** a trilha de Vida cheia não deixa o personagem [Incapacitado](../Condi%C3%A7%C3%B5es/Incapacitado.md) enquanto a Droga dura. Se a trilha estiver cheia quando ela terminar, ele fica Incapacitado | 3 |
+| fica [Anestesiado](../Condi%C3%A7%C3%B5es/Anestesiado.md): ignora as penalidades do Debilitado, do Prejudicado e do Envenenado | 2 |
+| fica [Lúcido](../Condi%C3%A7%C3%B5es/L%C3%BAcido.md): o próximo uso de Vontade não custa dano de Vontade | 2 |
+| fica [Obstinado](../Condi%C3%A7%C3%B5es/Obstinado.md): não fica Incapacitado enquanto a Droga dura | 3 |
 
 ### Custos
 
@@ -59,8 +61,8 @@ Cada efeito tem uma **Intensidade**. A soma das Intensidades de uma Droga é igu
 | **Atributo** | -1 num Atributo que a Droga não fortalece | -2 |
 | **Vulnerabilidade** | [Vulnerabilidade](../Resist%C3%AAncia%20e%20Vulnerabilidade/Vulnerabilidade.md) 1 a um Tipo de Dano | Vulnerabilidade 2 |
 | **Pesado** | -2 de Movimentação base | -4 |
-| **Ofuscado** | o Claro conta como Penumbra para o personagem | — |
-| **Instável** | no fim de cada Turno, role 1 dado; sem Sucesso, o personagem perde a Movimentação do próximo Turno | — |
+| **Ofuscado** | fica [Ofuscado](../Condi%C3%A7%C3%B5es/Ofuscado.md): o Claro conta como Penumbra | — |
+| **Instável** | fica [Instável](../Condi%C3%A7%C3%B5es/Inst%C3%A1vel.md): no fim de cada Turno, pode perder a Movimentação do próximo | — |
 
 Ofuscado e Instável não podem ser dobrados, por isso só aparecem como Custo extra.
 
