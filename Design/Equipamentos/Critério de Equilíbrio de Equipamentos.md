@@ -66,10 +66,10 @@ Aprovado na revisão geral: armas na D-070 (seção 43.B; Investida e Guarda acr
 
 # Consumíveis
 
-Aprovado na D-090. A pergunta é "vale a Ação e o item gasto?".
+Aprovado na D-090; desde a D-092, os itens de uso (remédios, bombas, venenos) ficam no Catálogo de Itens e seguem as mesmas regras. A pergunta é "vale a Ação e o item gasto?".
 
-- Um Consumível de 1 Uso vale **uma Ação forte**: um pouco melhor do que a Ação que o personagem faria no lugar, porque se gasta.
-- **Nenhum Consumível recupera dano** de Vida ou de Vontade.
+- Um item de 1 uso vale **uma Ação forte**: um pouco melhor do que a Ação que o personagem faria no lugar, porque se gasta.
+- **Nenhum item recupera dano** de Vida ou de Vontade.
 - **Dano de arremesso:** até **2**, ou **1** com um efeito extra (uma Condição, uma Zona).
 - **Condições:** duram no máximo até o fim do próximo Turno de quem usou, ou os Turnos indicados.
 - **Efeitos que duram a Cena** ficam em situações estreitas (um Tipo de Dano, uma Condição). A exceção são as Drogas, que pagam com Custo e Rebote.

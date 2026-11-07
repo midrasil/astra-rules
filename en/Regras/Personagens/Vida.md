@@ -1,4 +1,4 @@
-<!-- source: f94aaf9bf3ea -->
+<!-- source: 09b175feace7 -->
 # Health
 
 **Health** represents a character's physical condition and their ability to keep acting after being wounded.
@@ -57,7 +57,7 @@ Wounds do not vanish as soon as a conflict ends. Recovery depends on the **sever
 
 ### Treatment
 
-Outside a Tactical Scene, a character with **healing supplies**, such as a [Healing Kit](../Equipamentos/Cat%C3%A1logo%20de%20Consum%C3%ADveis.md#other-consumables), can treat themselves or another character. Without supplies, treatment is not possible.
+Outside a Tactical Scene, a character with **healing supplies**, such as a [Healing Kit](../Equipamentos/Cat%C3%A1logo%20de%20Itens.md), can treat themselves or another character. Without supplies, treatment is not possible.
 
 Whoever treats rolls **Cunning + Healing**. **Each Success converts 1 point** of aggravated damage into superficial. With no Successes, nothing is converted.
 

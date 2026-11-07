@@ -1,4 +1,4 @@
-<!-- source: 5fcbc91318e3 -->
+<!-- source: 3c0b9f9853e1 -->
 # Conditions
 
 A **Condition** is a state that affects a character during a Scene, imposing mechanical effects while it stays active.
@@ -26,6 +26,11 @@ Conditions are applied by Actions, Maneuvers, Capabilities or other rules. They 
 - [Bleeding](Sangrando.md) — stacking superficial damage at the end of each Turn.
 - [Patched](Remendado.md) — Health damage eased by a Patch Up until the end of the Scene, which comes back afterward.
 - [Impaired](Prejudicado.md) — stacking penalty on Physical rolls after a Patch Up; removed by Treatment and Long Rest.
+- [Numbed](Anestesiado.md) — ignores the penalties of Debilitated, Impaired and Poisoned.
+- [Lucid](L%C3%BAcido.md) — the next Willpower use costs no Willpower damage.
+- [Relentless](Obstinado.md) — does not become Incapacitated while it lasts.
+- [Dazzled](Ofuscado.md) — Bright counts as Dim.
+- [Unsteady](Inst%C3%A1vel.md) — may lose Movement at the end of each Turn.
 - [Aiming](Mirando.md) — stacks the bonus of the Aim Maneuver for the next ranged Attack.
 - [Read](Lido.md) — analyzed by another character; no effect of its own, used by Capabilities.
 - [Challenged](Desafiado.md) — provoked by a Duelist; penalizes Confronts started against other creatures.
