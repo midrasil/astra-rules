@@ -1,4 +1,4 @@
-<!-- source: 2a37fe23679d -->
+<!-- source: 62d572314c4c -->
 # Orc Chieftain
 
 The deadliest warrior of the clan, who leads through fear.
@@ -14,7 +14,6 @@ The deadliest warrior of the clan, who leads through fear.
 | **Attacks** | Battle Axe, Damage 2 (3 with both hands), Slashing, Reach 1, Flexible, Heavy |
 | **Capabilities** | [Fury](../../Compet%C3%AAncias/Furioso.md#level-1--fury) and [Blood for Blood](../../Compet%C3%AAncias/Furioso.md#level-2--blood-for-blood) (Furious 2), [Darkvision](../../Capacidades/Capacidades%20de%20NPC.md#darkvision-12-squares) (12 squares) · cost 2 |
 | **Equipment** | Battle Axe, Breastplate |
-| **Ready Pools** | Battle Axe 9; Dodge 3; resist a Zone 6; Initiative 3 |
 
 ---
 

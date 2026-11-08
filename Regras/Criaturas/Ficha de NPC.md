@@ -16,14 +16,14 @@ A **ficha de NPC** é a ficha de personagem simplificada. Ela vale para NPCs hum
 | **[Resistências, Vulnerabilidades e Imunidades](../Resist%C3%AAncia%20e%20Vulnerabilidade/Resist%C3%AAncia%20e%20Vulnerabilidade.md)** | como nos personagens |
 | **Ataques** | armas e [Ataques naturais](#ataques-naturais) |
 | **Equipamento** | escolhido pelo Narrador |
+| **[Carga máxima](../Equipamentos/Equipamentos.md#carga-m%C3%A1xima)** | 5 + Força, como nos personagens |
 | **Capacidades** | Capacidades soltas, com os valores entre parênteses |
-| **Reservas prontas** | opcional (ver [Reservas prontas](#reservas-prontas)) |
 
-Saem da ficha: Ambição, Desejo, Convicções e Pilares, Carga máxima, XP, Competências e Pontos de Competência.
+Saem da ficha: Ambição, Desejo, Convicções e Pilares, XP, Competências e Pontos de Competência.
 
 Em vez de Competências, o NPC recebe [Capacidades](../Capacidades/Capacidades.md) soltas, escolhidas pelo Narrador entre as das Competências e as [Capacidades de NPC](../Capacidades/Capacidades%20de%20NPC.md) (ver [Uso por NPCs](../Capacidades/Capacidades.md#uso-por-npcs)).
 
-O NPC não tem Carga máxima: o Narrador escolhe um equipamento coerente com ele. Se um NPC carregar algo claramente pesado demais para a cena, o Narrador pode aplicar a [Sobrecarga](../Equipamentos/Equipamentos.md#sobrecarga).
+O NPC tem Carga máxima como os personagens, **5 + Força**. O Narrador escolhe um equipamento coerente com ele, e carregar além da Carga máxima o deixa em [Sobrecarga](../Equipamentos/Equipamentos.md#sobrecarga).
 
 ## Vida
 
@@ -60,10 +60,6 @@ Um **Ataque natural** é um Ataque feito com o corpo da criatura, como garras, m
 
 Além das Capacidades, a ficha pode definir **ataques próprios** da criatura, como um golpe de cauda que cria uma [Zona](../Cenas%20e%20Conflitos/Zonas.md). A ficha diz o que o ataque faz, com as mesmas informações que uma Capacidade daria: Ação, formato, Dano e Tipo de Dano.
 
-## Reservas prontas
-
-A ficha pode listar as Reservas mais usadas já somadas, como "Mordida 5; Esquivar 6", para o Narrador não calcular durante a cena. A regra continua sendo Atributo + Perícia: a linha é só uma anotação, e os modificadores da cena se aplicam por cima.
-
 ## Progressão
 
 NPCs não ganham XP. Um NPC que volta mais forte recebe uma ficha nova ou ajustada pelo Narrador, dentro do orçamento de [Criação de NPCs](Cria%C3%A7%C3%A3o%20de%20NPCs.md).
@@ -81,7 +77,6 @@ NPCs não ganham XP. Um NPC que volta mais forte recebe uma ficha nova ou ajusta
 | **Ataques** | nome, Dano, Tipo de Dano, Alcance e Propriedades |
 | **Capacidades** | com os valores entre parênteses |
 | **Equipamento** | |
-| **Reservas prontas** | opcional |
 
 ## Exemplos
 
@@ -96,7 +91,6 @@ NPCs não ganham XP. Um NPC que volta mais forte recebe uma ficha nova ou ajusta
 | **Vida · Vontade · Iniciativa · Movimentação · Absorção** | 5 · 5 · 4 · 8 · 0 |
 | **Ataques** | Mordida, Dano 1, Perfurante, Alcance 1; agarra com a boca |
 | **Capacidades** | [Ir para a Garganta](../Capacidades/Capacidades%20de%20NPC.md#ir-para-a-garganta-margem-3) (Margem 3) |
-| **Reservas prontas** | Mordida 5; Esquivar 6 |
 
 ### Orc Líder Tribal
 
@@ -111,7 +105,6 @@ NPCs não ganham XP. Um NPC que volta mais forte recebe uma ficha nova ou ajusta
 | **Ataques** | Machado de Batalha, Dano 2 (3 com duas mãos), Corte, Alcance 1, Flexível, Pesado |
 | **Capacidades** | [Fúria](../Compet%C3%AAncias/Furioso.md#n%C3%ADvel-1--f%C3%BAria), [Visão no Escuro](../Capacidades/Capacidades%20de%20NPC.md#vis%C3%A3o-no-escuro-12-quadrados) (12 quadrados) |
 | **Equipamento** | Machado de Batalha, Placa Peitoral |
-| **Reservas prontas** | Machado 9; Esquivar 3; resistir a Zona 6 |
 
 ---
 

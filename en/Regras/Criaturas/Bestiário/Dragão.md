@@ -1,4 +1,4 @@
-<!-- source: 7caa2d8ba0a1 -->
+<!-- source: bdbe8d023b80 -->
 # Dragon
 
 Highly intelligent fire-breathing monsters over 12 meters long. Scales give base Absorption 5.
@@ -12,7 +12,6 @@ Highly intelligent fire-breathing monsters over 12 meters long. Scales give base
 | **Health · Willpower · Initiative · Movement · Absorption** | 11 · 7 · 8 · 8 · 5 (base 5) |
 | **Attacks** | Claws and Bite, Damage 5, Slashing, Reach 1, Heavy; Tail Lash: with its Action, the creature creates an instant Zone in a [Blast 4](../../Cenas%20e%20Conflitos/Zonas.md#blast-n) adjacent to it, with 3 Bludgeoning Damage. |
 | **Capabilities** | [Flying](../../Capacidades/Capacidades%20de%20NPC.md#flying) (24), [Breath](../../Capacidades/Capacidades%20de%20NPC.md#breath-damage-damage-type) (Damage 8; Fire), [Terrifying](../../Capacidades/Capacidades%20de%20NPC.md#terrifying-potency-2-determination--cunning-stacks-equal-to-potency) (Potency 3), [Frenzy](../../Capacidades/Capacidades%20de%20NPC.md#frenzy), [Improved Frenzy](../../Capacidades/Capacidades%20de%20NPC.md#improved-frenzy) · cost 7 |
-| **Ready Pools** | Claws and Bite 12; Dodge 6; Initiative 8 |
 
 ---
 

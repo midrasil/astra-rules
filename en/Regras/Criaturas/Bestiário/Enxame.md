@@ -1,4 +1,4 @@
-<!-- source: 0971c165212b -->
+<!-- source: f359e4d5f43b -->
 # Swarm
 
 A cloud of wasps, mosquitoes or other insects, treated as a single creature.
@@ -13,7 +13,6 @@ A cloud of wasps, mosquitoes or other insects, treated as a single creature.
 | **Resistances, Vulnerabilities and Immunities** | Immune to Slashing and Piercing |
 | **Attacks** | — |
 | **Capabilities** | [Swarm](../../Capacidades/Capacidades%20de%20NPC.md#swarm-damage-by-size) (damage 4 by Size), [Flying](../../Capacidades/Capacidades%20de%20NPC.md#flying) · cost 3 |
-| **Ready Pools** | Dodge 8; Initiative 6 |
 
 ---
 

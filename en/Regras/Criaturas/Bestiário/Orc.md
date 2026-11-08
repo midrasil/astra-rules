@@ -1,4 +1,4 @@
-<!-- source: 1f6e57aa3867 -->
+<!-- source: 1098e0524f83 -->
 # Orc
 
 Savage green-skinned humanoids who rarely take prisoners.
@@ -14,7 +14,6 @@ Savage green-skinned humanoids who rarely take prisoners.
 | **Attacks** | Scimitar, Damage 2, Slashing, Reach 1, Versatile (Piercing), Guard |
 | **Capabilities** | [Darkvision](../../Capacidades/Capacidades%20de%20NPC.md#darkvision-12-squares) (12 squares) · cost 0 |
 | **Equipment** | Scimitar, Leather Armor |
-| **Ready Pools** | Scimitar 5; Dodge 3; Initiative 3 |
 
 ---
 

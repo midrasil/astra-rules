@@ -9,7 +9,6 @@ Gato doméstico comum, que também serve de familiar ou companheiro animal.
 | **Vida · Vontade · Iniciativa · Movimentação · Absorção** | 5 · 6 · 5 · 6 · 0 |
 | **Ataques** | Garras, Dano 0, Corte, Alcance 1, Leve |
 | **Capacidades** | [Visão no Escuro](../../Capacidades/Capacidades%20de%20NPC.md#vis%C3%A3o-no-escuro-12-quadrados) (12 quadrados) · custo 0 |
-| **Reservas prontas** | Garras 3; Esquivar 6; Iniciativa 5 |
 
 ---
 

@@ -9,7 +9,6 @@ Do tamanho de grandes cães, vivem em ninhos de 3 a 8.
 | **Vida · Vontade · Iniciativa · Movimentação · Absorção** | 6 · 6 · 5 · 8 · 0 |
 | **Ataques** | Mordida, Dano 2, Perfurante, Alcance 1 |
 | **Capacidades** | [Escaladora](../../Capacidades/Capacidades%20de%20NPC.md#escaladora), [Teia](../../Capacidades/Capacidades%20de%20NPC.md#teia-pot%C3%AAncia-2-alcance-6-ataque-agilidade--atirar-escapar-for%C3%A7a--atletismo) (Potência 2; Alcance 6), [Venenosa](../../Capacidades/Capacidades%20de%20NPC.md#venenosa-pot%C3%AAncia-2-vigor--determina%C3%A7%C3%A3o) (Potência 4) · custo 4 |
-| **Reservas prontas** | Mordida 8; Teia 8; Esquivar 9; Iniciativa 5 |
 
 ---
 

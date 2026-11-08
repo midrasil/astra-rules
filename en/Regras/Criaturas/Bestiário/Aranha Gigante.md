@@ -1,4 +1,4 @@
-<!-- source: 8f27b1e7beed -->
+<!-- source: fe5c82d7e2f2 -->
 # Giant Spider
 
 As big as large dogs, they live in nests of 3 to 8.
@@ -12,7 +12,6 @@ As big as large dogs, they live in nests of 3 to 8.
 | **Health · Willpower · Initiative · Movement · Absorption** | 6 · 6 · 5 · 8 · 0 |
 | **Attacks** | Bite, Damage 2, Piercing, Reach 1 |
 | **Capabilities** | [Climbing](../../Capacidades/Capacidades%20de%20NPC.md#climbing), [Web](../../Capacidades/Capacidades%20de%20NPC.md#web-potency-2-range-6-attack-agility--shooting-escape-strength--athletics) (Potency 2; Range 6), [Venomous](../../Capacidades/Capacidades%20de%20NPC.md#venomous-potency-2-vigor--determination) (Potency 4) · cost 4 |
-| **Ready Pools** | Bite 8; Web 8; Dodge 9; Initiative 5 |
 
 ---
 

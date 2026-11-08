@@ -9,7 +9,6 @@ O maior predador dos mares. Só se move na água.
 | **Vida · Vontade · Iniciativa · Movimentação · Absorção** | 7 · 5 · 3 · 0 · 1 (base 1) |
 | **Ataques** | Mordida, Dano 3, Perfurante, Alcance 1, Pesado |
 | **Capacidades** | [Aquática](../../Capacidades/Capacidades%20de%20NPC.md#aqu%C3%A1tica) (10), [Frenesi](../../Capacidades/Capacidades%20de%20NPC.md#frenesi), [Frenesi Aprimorado](../../Capacidades/Capacidades%20de%20NPC.md#frenesi-aprimorado) · custo 2 |
-| **Reservas prontas** | Mordida 9; Esquivar 6; Iniciativa 3 |
 
 ---
 

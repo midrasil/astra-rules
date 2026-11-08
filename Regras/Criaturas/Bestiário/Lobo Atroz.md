@@ -9,7 +9,6 @@ Lobos muito grandes e selvagens, às vezes usados como cães de ataque.
 | **Vida · Vontade · Iniciativa · Movimentação · Absorção** | 6 · 6 · 5 · 10 · 0 |
 | **Ataques** | Mordida, Dano 2, Perfurante, Alcance 1; agarra com a boca |
 | **Capacidades** | [Ir para a Garganta](../../Capacidades/Capacidades%20de%20NPC.md#ir-para-a-garganta-margem-3) (Margem 3) · custo 1 |
-| **Reservas prontas** | Mordida 6; Esquivar 6; Iniciativa 5 |
 
 ---
 

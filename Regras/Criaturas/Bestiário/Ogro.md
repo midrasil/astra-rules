@@ -11,7 +11,6 @@ Brutamontes de quase três metros, aparentados aos orcs e aos gigantes.
 | **Ataques** | Clava Massiva, Dano 4, Contusão, Alcance 1, Duas mãos, Pesado, Manobra (Derrubar) |
 | **Capacidades** | [Frenesi](../../Capacidades/Capacidades%20de%20NPC.md#frenesi), [Corpo Robusto](../../Compet%C3%AAncias/Robusto.md#corpo-robusto) (2) · custo 3 |
 | **Equipamento** | Clava Massiva, Peles Grossas |
-| **Reservas prontas** | Clava Massiva 9; Esquivar 3; Iniciativa 4 |
 
 ---
 

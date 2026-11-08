@@ -11,7 +11,6 @@ Humanoides selvagens de pele esverdeada, que raramente fazem prisioneiros.
 | **Ataques** | Cimitarra, Dano 2, Corte, Alcance 1, Versátil (Perfurante), Guarda |
 | **Capacidades** | [Visão no Escuro](../../Capacidades/Capacidades%20de%20NPC.md#vis%C3%A3o-no-escuro-12-quadrados) (12 quadrados) · custo 0 |
 | **Equipamento** | Cimitarra, Armadura de Couro |
-| **Reservas prontas** | Cimitarra 5; Esquivar 3; Iniciativa 3 |
 
 ---
 

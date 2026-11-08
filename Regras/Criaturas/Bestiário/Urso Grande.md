@@ -9,7 +9,6 @@ Ursos-pardos, kodiaks e ursos-polares. A Constritora representa o abraço de urs
 | **Vida · Vontade · Iniciativa · Movimentação · Absorção** | 8 · 5 · 3 · 8 · 1 (base 1) |
 | **Ataques** | Garras, Dano 3, Corte, Alcance 1, Pesado; agarra com as patas |
 | **Capacidades** | [Constritora](../../Capacidades/Capacidades%20de%20NPC.md#constritora-margem-2) (Margem 2), [Frenesi](../../Capacidades/Capacidades%20de%20NPC.md#frenesi) · custo 2 |
-| **Reservas prontas** | Garras 9; Esquivar 3; Iniciativa 3 |
 
 ---
 

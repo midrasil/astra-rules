@@ -1,4 +1,4 @@
-<!-- source: 6a3ef9adbafb -->
+<!-- source: be14ed967073 -->
 # Constrictor Snake
 
 Pythons, boas and other snakes over 4 meters long.
@@ -12,7 +12,6 @@ Pythons, boas and other snakes over 4 meters long.
 | **Health · Willpower · Initiative · Movement · Absorption** | 5 · 6 · 4 · 4 · 0 |
 | **Attacks** | Bite, Damage 0, Piercing, Reach 1; grapples with its body |
 | **Capabilities** | [Constrictor](../../Capacidades/Capacidades%20de%20NPC.md#constrictor-margin-2) (Margin 2) · cost 1 |
-| **Ready Pools** | Bite 4; Dodge 3; Initiative 4 |
 
 ---
 

@@ -10,7 +10,6 @@ Criaturas pequenas e cruéis que atacam à noite, sozinhas ou ao lado de orcs.
 | **Ataques** | Lança Curta, Dano 1, Perfurante, Alcance 1, Leve, Arremesso (6) |
 | **Capacidades** | [Visão no Escuro](../../Capacidades/Capacidades%20de%20NPC.md#vis%C3%A3o-no-escuro-12-quadrados) (12 quadrados) · custo 0 |
 | **Equipamento** | Lança Curta |
-| **Reservas prontas** | Lança Curta 4; Esquivar 5; Iniciativa 4 |
 
 ---
 

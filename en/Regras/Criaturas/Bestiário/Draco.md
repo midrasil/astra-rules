@@ -1,4 +1,4 @@
-<!-- source: a1aefd4d60b6 -->
+<!-- source: 6a0fad33ab15 -->
 # Drake
 
 Wingless dragons with animal intelligence, more aggressive in direct combat. Scales give base Absorption 4.
@@ -12,7 +12,6 @@ Wingless dragons with animal intelligence, more aggressive in direct combat. Sca
 | **Health · Willpower · Initiative · Movement · Absorption** | 8 · 5 · 4 · 6 · 4 (base 4) |
 | **Attacks** | Claws and Bite, Damage 4, Slashing, Reach 1, Heavy; Tail Lash: with its Action, the creature creates an instant Zone in a [Blast 3](../../Cenas%20e%20Conflitos/Zonas.md#blast-n) adjacent to it, with 2 Bludgeoning Damage. |
 | **Capabilities** | [Breath](../../Capacidades/Capacidades%20de%20NPC.md#breath-damage-damage-type) (Damage 8; Fire), [Terrifying](../../Capacidades/Capacidades%20de%20NPC.md#terrifying-potency-2-determination--cunning-stacks-equal-to-potency) (Potency 2) · cost 3 |
-| **Ready Pools** | Claws and Bite 9; Dodge 4; Initiative 4 |
 
 ---
 

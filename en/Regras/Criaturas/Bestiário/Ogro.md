@@ -1,4 +1,4 @@
-<!-- source: c13c0876a6fc -->
+<!-- source: c97bfaa9fc39 -->
 # Ogre
 
 Brutes nearly three meters tall, kin to orcs and giants.
@@ -14,7 +14,6 @@ Brutes nearly three meters tall, kin to orcs and giants.
 | **Attacks** | Massive Club, Damage 4, Bludgeoning, Reach 1, Two-handed, Heavy, Maneuver (Trip) |
 | **Capabilities** | [Frenzy](../../Capacidades/Capacidades%20de%20NPC.md#frenzy), [Robust Body](../../Compet%C3%AAncias/Robusto.md#robust-body) (2) · cost 3 |
 | **Equipment** | Massive Club, Thick Hides |
-| **Ready Pools** | Massive Club 9; Dodge 3; Initiative 4 |
 
 ---
 

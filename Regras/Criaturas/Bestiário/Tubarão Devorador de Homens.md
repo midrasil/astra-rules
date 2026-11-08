@@ -9,7 +9,6 @@ Tubarões-tigre, tubarões-touro e similares. Só se movem na água.
 | **Vida · Vontade · Iniciativa · Movimentação · Absorção** | 6 · 6 · 5 · 0 · 0 |
 | **Ataques** | Mordida, Dano 2, Perfurante, Alcance 1 |
 | **Capacidades** | [Aquática](../../Capacidades/Capacidades%20de%20NPC.md#aqu%C3%A1tica) (10), [Frenesi](../../Capacidades/Capacidades%20de%20NPC.md#frenesi) · custo 1 |
-| **Reservas prontas** | Mordida 6; Esquivar 6; Iniciativa 5 |
 
 ---
 
