@@ -43,3 +43,7 @@ Todas as regras desta página são do núcleo. Os módulos, quando existirem, fi
 ## Criação de personagem
 
 Para montar um personagem, siga as etapas da [Criação de Personagem](Cria%C3%A7%C3%A3o%20de%20Personagem/0%20-%20Cria%C3%A7%C3%A3o%20de%20Personagem.md).
+
+## Licença
+
+Copyright © 2026 Vitor José. Todos os direitos reservados. Veja [LICENSE.md](LICENSE.md).
