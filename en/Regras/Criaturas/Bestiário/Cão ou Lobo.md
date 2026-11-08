@@ -1,4 +1,4 @@
-<!-- source: 915fc58e41a6 -->
+<!-- source: 24af574206bb -->
 # Dog or Wolf
 
 Large attack dogs, wolves, hyenas and the like. They usually hunt in packs.
@@ -12,7 +12,6 @@ Large attack dogs, wolves, hyenas and the like. They usually hunt in packs.
 | **Health · Willpower · Initiative · Movement · Absorption** | 5 · 5 · 4 · 8 · 0 |
 | **Attacks** | Bite, Damage 1, Piercing, Reach 1, Light; grapples with its mouth |
 | **Capabilities** | [Go for the Throat](../../Capacidades/Capacidades%20de%20NPC.md#go-for-the-throat-margin-3) (Margin 3) · cost 1 |
-| **Ready Pools** | Bite 5; Dodge 6; Initiative 4 |
 
 ---
 

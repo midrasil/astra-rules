@@ -11,7 +11,6 @@ O guerreiro mais mortal do clã, que lidera pelo medo.
 | **Ataques** | Machado de Batalha, Dano 2 (3 com duas mãos), Corte, Alcance 1, Flexível, Pesado |
 | **Capacidades** | [Fúria](../../Compet%C3%AAncias/Furioso.md#n%C3%ADvel-1--f%C3%BAria) e [Sangue por Sangue](../../Compet%C3%AAncias/Furioso.md#n%C3%ADvel-2--sangue-por-sangue) (Furioso 2), [Visão no Escuro](../../Capacidades/Capacidades%20de%20NPC.md#vis%C3%A3o-no-escuro-12-quadrados) (12 quadrados) · custo 2 |
 | **Equipamento** | Machado de Batalha, Placa Peitoral |
-| **Reservas prontas** | Machado de Batalha 9; Esquivar 3; resistir a Zona 6; Iniciativa 3 |
 
 ---
 

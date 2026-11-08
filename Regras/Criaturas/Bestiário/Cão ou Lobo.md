@@ -9,7 +9,6 @@ Grandes cães de ataque, lobos, hienas e similares. Costumam caçar em matilha.
 | **Vida · Vontade · Iniciativa · Movimentação · Absorção** | 5 · 5 · 4 · 8 · 0 |
 | **Ataques** | Mordida, Dano 1, Perfurante, Alcance 1, Leve; agarra com a boca |
 | **Capacidades** | [Ir para a Garganta](../../Capacidades/Capacidades%20de%20NPC.md#ir-para-a-garganta-margem-3) (Margem 3) · custo 1 |
-| **Reservas prontas** | Mordida 5; Esquivar 6; Iniciativa 4 |
 
 ---
 

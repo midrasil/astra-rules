@@ -10,7 +10,6 @@ Uma nuvem de vespas, mosquitos ou outros insetos, tratada como uma só criatura.
 | **Resistências, Vulnerabilidades e Imunidades** | Imune a Corte e Perfurante |
 | **Ataques** | — |
 | **Capacidades** | [Enxame](../../Capacidades/Capacidades%20de%20NPC.md#enxame-dano-pelo-tamanho) (dano 4 pelo Tamanho), [Voadora](../../Capacidades/Capacidades%20de%20NPC.md#voadora) · custo 3 |
-| **Reservas prontas** | Esquivar 8; Iniciativa 6 |
 
 ---
 

@@ -1,4 +1,4 @@
-<!-- source: 43f059a95cf1 -->
+<!-- source: 8cbb597fb7e7 -->
 # Bull
 
 Aggressive when enraged. Charge represents its running gore.
@@ -12,7 +12,6 @@ Aggressive when enraged. Charge represents its running gore.
 | **Health · Willpower · Initiative · Movement · Absorption** | 7 · 6 · 4 · 7 · 0 |
 | **Attacks** | Horns, Damage 3, Piercing, Reach 1, Heavy |
 | **Capabilities** | [Charge](../../Capacidades/Capacidades%20de%20NPC.md#charge-2-damage-4-squares) (+2 Damage; 4 squares) · cost 1 |
-| **Ready Pools** | Horns 6; Dodge 3; Initiative 4 |
 
 ---
 

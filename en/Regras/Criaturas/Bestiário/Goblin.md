@@ -1,4 +1,4 @@
-<!-- source: 119f5a4c1d3a -->
+<!-- source: 7e2bfacbfdd0 -->
 # Goblin
 
 Small, cruel creatures that strike at night, alone or alongside orcs.
@@ -13,7 +13,6 @@ Small, cruel creatures that strike at night, alone or alongside orcs.
 | **Attacks** | Short Spear, Damage 1, Piercing, Reach 1, Light, Thrown (6) |
 | **Capabilities** | [Darkvision](../../Capacidades/Capacidades%20de%20NPC.md#darkvision-12-squares) (12 squares) · cost 0 |
 | **Equipment** | Short Spear |
-| **Ready Pools** | Short Spear 4; Dodge 5; Initiative 4 |
 
 ---
 

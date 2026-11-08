@@ -1,4 +1,4 @@
-<!-- source: 03eb76f13afd -->
+<!-- source: c09eab246433 -->
 # NPC Sheet
 
 The **NPC sheet** is the simplified character sheet. It is used for human NPCs, such as a guard or a rival, and for creatures.
@@ -19,14 +19,14 @@ The **NPC sheet** is the simplified character sheet. It is used for human NPCs, 
 | **[Resistances, Vulnerabilities and Immunities](../Resist%C3%AAncia%20e%20Vulnerabilidade/Resist%C3%AAncia%20e%20Vulnerabilidade.md)** | as for characters |
 | **Attacks** | weapons and [natural Attacks](#natural-attacks) |
 | **Equipment** | chosen by the Narrator |
+| **[Maximum Load](../Equipamentos/Equipamentos.md#maximum-load)** | 5 + Strength, as for characters |
 | **Capabilities** | standalone Capabilities, with their values in parentheses |
-| **Ready Pools** | optional (see [Ready Pools](#ready-pools)) |
 
-Left off the sheet: Ambition, Desire, Convictions and Pillars, Maximum Load, XP, Competencies and Competency Points.
+Left off the sheet: Ambition, Desire, Convictions and Pillars, XP, Competencies and Competency Points.
 
 Instead of Competencies, the NPC receives standalone [Capabilities](../Capacidades/Capacidades.md), chosen by the Narrator from the Competency Capabilities and the [NPC Capabilities](../Capacidades/Capacidades%20de%20NPC.md) (see [Use by NPCs](../Capacidades/Capacidades.md#use-by-npcs)).
 
-The NPC has no Maximum Load: the Narrator chooses equipment that fits it. If an NPC carries something clearly too heavy for the scene, the Narrator can apply [Overload](../Equipamentos/Equipamentos.md#overload).
+The NPC has a Maximum Load like characters, **5 + Strength**. The Narrator chooses equipment that fits it, and carrying more than the Maximum Load leaves it [Overloaded](../Equipamentos/Equipamentos.md#overload).
 
 ## Health
 
@@ -63,10 +63,6 @@ A **natural Attack** is an Attack made with the creature's body, such as claws, 
 
 Besides Capabilities, the sheet can define the creature's **own attacks**, such as a tail strike that creates a [Zone](../Cenas%20e%20Conflitos/Zonas.md). The sheet says what the attack does, with the same information a Capability would give: Action, shape, Damage and Damage Type.
 
-## Ready Pools
-
-The sheet can list the most used Pools already added up, such as "Bite 5; Dodge 6", so the Narrator does not have to work them out during the scene. The rule is still Attribute + Skill: the line is only a note, and the scene's modifiers apply on top of it.
-
 ## Progression
 
 NPCs do not earn XP. An NPC who comes back stronger gets a new sheet, or one adjusted by the Narrator, within the [Creating NPCs](Cria%C3%A7%C3%A3o%20de%20NPCs.md) budget.
@@ -84,7 +80,6 @@ NPCs do not earn XP. An NPC who comes back stronger gets a new sheet, or one adj
 | **Attacks** | name, Damage, Damage Type, Reach and Properties |
 | **Capabilities** | with their values in parentheses |
 | **Equipment** | |
-| **Ready Pools** | optional |
 
 ## Examples
 
@@ -99,7 +94,6 @@ NPCs do not earn XP. An NPC who comes back stronger gets a new sheet, or one adj
 | **Health · Willpower · Initiative · Movement · Absorption** | 5 · 5 · 4 · 8 · 0 |
 | **Attacks** | Bite, Damage 1, Piercing, Reach 1; grapples with its mouth |
 | **Capabilities** | [Go for the Throat](../Capacidades/Capacidades%20de%20NPC.md#go-for-the-throat-margin-3) (Margin 3) |
-| **Ready Pools** | Bite 5; Dodge 6 |
 
 ### Orc Tribal Leader
 
@@ -114,7 +108,6 @@ NPCs do not earn XP. An NPC who comes back stronger gets a new sheet, or one adj
 | **Attacks** | Battle Axe, Damage 2 (3 with both hands), Slashing, Reach 1, Flexible, Heavy |
 | **Capabilities** | [Fury](../Compet%C3%AAncias/Furioso.md#level-1--fury), [Darkvision](../Capacidades/Capacidades%20de%20NPC.md#darkvision-12-squares) (12 squares) |
 | **Equipment** | Battle Axe, Breastplate |
-| **Ready Pools** | Axe 9; Dodge 3; resist a Zone 6 |
 
 ---
 

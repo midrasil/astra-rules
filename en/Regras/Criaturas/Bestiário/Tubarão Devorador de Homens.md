@@ -1,4 +1,4 @@
-<!-- source: 896a18e3d5bd -->
+<!-- source: a7d1af015594 -->
 # Maneater Shark
 
 Tiger sharks, bull sharks and the like. They only move in water.
@@ -12,7 +12,6 @@ Tiger sharks, bull sharks and the like. They only move in water.
 | **Health · Willpower · Initiative · Movement · Absorption** | 6 · 6 · 5 · 0 · 0 |
 | **Attacks** | Bite, Damage 2, Piercing, Reach 1 |
 | **Capabilities** | [Aquatic](../../Capacidades/Capacidades%20de%20NPC.md#aquatic) (10), [Frenzy](../../Capacidades/Capacidades%20de%20NPC.md#frenzy) · cost 1 |
-| **Ready Pools** | Bite 6; Dodge 6; Initiative 5 |
 
 ---
 

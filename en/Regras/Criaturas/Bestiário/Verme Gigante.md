@@ -1,4 +1,4 @@
-<!-- source: 6b8173c5d547 -->
+<!-- source: 9fed14febf11 -->
 # Giant Worm
 
 Fifteen-meter worms that burrow under plains and sense vibrations from afar. Scales give base Absorption 4.
@@ -12,7 +12,6 @@ Fifteen-meter worms that burrow under plains and sense vibrations from afar. Sca
 | **Health · Willpower · Initiative · Movement · Absorption** | 11 · 5 · 4 · 6 · 4 (base 4) |
 | **Attacks** | Bite, Damage 4, Piercing, Reach 1, Heavy; Slam, Damage 5, Bludgeoning, Reach 2, Heavy |
 | **Capabilities** | [Burrowing](../../Capacidades/Capacidades%20de%20NPC.md#burrowing), [Burrowing Ambush](../../Capacidades/Capacidades%20de%20NPC.md#burrowing-ambush), [Robust Body](../../Compet%C3%AAncias/Robusto.md#robust-body) (3) · cost 4 |
-| **Ready Pools** | Bite 9; Slam 9; Dodge 3; Initiative 4 |
 
 ---
 

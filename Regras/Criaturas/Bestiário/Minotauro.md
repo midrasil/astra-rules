@@ -11,7 +11,6 @@ Guardiões de labirintos com cabeça de touro, ansiosos por combate.
 | **Ataques** | Chifres, Dano 3, Perfurante, Alcance 1, Pesado; Lança, Dano 3, Perfurante, Alcance 2, Duas mãos, Investida |
 | **Capacidades** | [Investida](../../Capacidades/Capacidades%20de%20NPC.md#investida-2-de-dano-4-quadrados) (+4 de Dano; 6 quadrados), [Frenesi](../../Capacidades/Capacidades%20de%20NPC.md#frenesi) · custo 4 |
 | **Equipamento** | Lança, Armadura de Couro |
-| **Reservas prontas** | Chifres 10; Lança 8; Esquivar 5; Iniciativa 4 |
 
 ---
 

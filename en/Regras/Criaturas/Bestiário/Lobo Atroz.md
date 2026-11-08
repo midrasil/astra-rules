@@ -1,4 +1,4 @@
-<!-- source: ac60f534683d -->
+<!-- source: 095fee22b3ca -->
 # Dire Wolf
 
 Very large, savage wolves, sometimes used as attack dogs.
@@ -12,7 +12,6 @@ Very large, savage wolves, sometimes used as attack dogs.
 | **Health · Willpower · Initiative · Movement · Absorption** | 6 · 6 · 5 · 10 · 0 |
 | **Attacks** | Bite, Damage 2, Piercing, Reach 1; grapples with its mouth |
 | **Capabilities** | [Go for the Throat](../../Capacidades/Capacidades%20de%20NPC.md#go-for-the-throat-margin-3) (Margin 3) · cost 1 |
-| **Ready Pools** | Bite 6; Dodge 6; Initiative 5 |
 
 ---
 

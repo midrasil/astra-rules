@@ -9,7 +9,6 @@ Vermes de 15 metros que cavam sob planícies e sentem vibrações à distância.
 | **Vida · Vontade · Iniciativa · Movimentação · Absorção** | 11 · 5 · 4 · 6 · 4 (base 4) |
 | **Ataques** | Mordida, Dano 4, Perfurante, Alcance 1, Pesado; Pancada, Dano 5, Contusão, Alcance 2, Pesado |
 | **Capacidades** | [Escavadora](../../Capacidades/Capacidades%20de%20NPC.md#escavadora), [Emboscada Subterrânea](../../Capacidades/Capacidades%20de%20NPC.md#emboscada-subterr%C3%A2nea), [Corpo Robusto](../../Compet%C3%AAncias/Robusto.md#corpo-robusto) (3) · custo 4 |
-| **Reservas prontas** | Mordida 9; Pancada 9; Esquivar 3; Iniciativa 4 |
 
 ---
 

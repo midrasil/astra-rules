@@ -1,4 +1,4 @@
-<!-- source: 18bf88163f7f -->
+<!-- source: 485d4ae82e48 -->
 # Mule
 
 A stubborn pack animal. Anyone riding it takes -2 dice on Riding.
@@ -12,7 +12,6 @@ A stubborn pack animal. Anyone riding it takes -2 dice on Riding.
 | **Health · Willpower · Initiative · Movement · Absorption** | 6 · 5 · 3 · 6 · 0 |
 | **Attacks** | Kick, Damage 1, Bludgeoning, Reach 1, Heavy |
 | **Capabilities** | — · cost 0 |
-| **Ready Pools** | Kick 3; Dodge 2; Initiative 3 |
 
 ---
 

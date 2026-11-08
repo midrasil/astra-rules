@@ -1,4 +1,4 @@
-<!-- source: 012ba1a92174 -->
+<!-- source: 04fd732e2c10 -->
 # Small Cat
 
 An ordinary house cat, also fit as a familiar or animal companion.
@@ -12,7 +12,6 @@ An ordinary house cat, also fit as a familiar or animal companion.
 | **Health · Willpower · Initiative · Movement · Absorption** | 5 · 6 · 5 · 6 · 0 |
 | **Attacks** | Claws, Damage 0, Slashing, Reach 1, Light |
 | **Capabilities** | [Darkvision](../../Capacidades/Capacidades%20de%20NPC.md#darkvision-12-squares) (12 squares) · cost 0 |
-| **Ready Pools** | Claws 3; Dodge 6; Initiative 5 |
 
 ---
 

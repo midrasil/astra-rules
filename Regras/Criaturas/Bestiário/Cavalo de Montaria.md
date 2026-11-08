@@ -9,7 +9,6 @@ Cavalo de viagem e transporte, rápido mas pouco feito para a luta.
 | **Vida · Vontade · Iniciativa · Movimentação · Absorção** | 6 · 4 · 2 · 10 · 0 |
 | **Ataques** | Coice, Dano 1, Contusão, Alcance 1, Pesado |
 | **Capacidades** | — · custo 0 |
-| **Reservas prontas** | Coice 3; Esquivar 6; Iniciativa 2 |
 
 ---
 

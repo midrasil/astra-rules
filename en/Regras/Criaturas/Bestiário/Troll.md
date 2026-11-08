@@ -1,4 +1,4 @@
-<!-- source: a011d33bf428 -->
+<!-- source: 83567de8000f -->
 # Troll
 
 Tall, gangly carnivores of forests, bridges and caves. Thick hide gives base Absorption 1.
@@ -13,7 +13,6 @@ Tall, gangly carnivores of forests, bridges and caves. Thick hide gives base Abs
 | **Attacks** | Claws, Damage 2, Slashing, Reach 1, Heavy; Spiked Club, Damage 2 (3 with both hands), Bludgeoning, Reach 1, Flexible, Heavy, Versatile (Piercing) |
 | **Capabilities** | [Regeneration](../../Capacidades/Capacidades%20de%20NPC.md#regeneration-2-interrupted-by-the-damage-type-or-material-set-on-the-creature) (2; stopped by Fire), [Frenzy](../../Capacidades/Capacidades%20de%20NPC.md#frenzy), [Improved Frenzy](../../Capacidades/Capacidades%20de%20NPC.md#improved-frenzy) · cost 4 |
 | **Equipment** | Spiked Club |
-| **Ready Pools** | Claws 9; Spiked Club 9; Dodge 4; Initiative 4 |
 
 ---
 

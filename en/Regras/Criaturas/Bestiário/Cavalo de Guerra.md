@@ -1,4 +1,4 @@
-<!-- source: a8825c045420 -->
+<!-- source: d0a1c92416cc -->
 # War Horse
 
 A horse trained to fight with its hooves alongside its rider.
@@ -12,7 +12,6 @@ A horse trained to fight with its hooves alongside its rider.
 | **Health · Willpower · Initiative · Movement · Absorption** | 7 · 5 · 4 · 8 · 0 |
 | **Attacks** | Kick, Damage 2, Bludgeoning, Reach 1, Heavy |
 | **Capabilities** | [Charge](../../Capacidades/Capacidades%20de%20NPC.md#charge-2-damage-4-squares) (+2 Damage; 4 squares) · cost 1 |
-| **Ready Pools** | Kick 7; Dodge 4; Initiative 4 |
 
 ---
 

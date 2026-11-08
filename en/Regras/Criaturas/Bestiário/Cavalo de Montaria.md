@@ -1,4 +1,4 @@
-<!-- source: 0050746a7b7e -->
+<!-- source: d352ef31390f -->
 # Riding Horse
 
 A horse for travel and transport, fast but not made for fighting.
@@ -12,7 +12,6 @@ A horse for travel and transport, fast but not made for fighting.
 | **Health · Willpower · Initiative · Movement · Absorption** | 6 · 4 · 2 · 10 · 0 |
 | **Attacks** | Kick, Damage 1, Bludgeoning, Reach 1, Heavy |
 | **Capabilities** | — · cost 0 |
-| **Ready Pools** | Kick 3; Dodge 6; Initiative 2 |
 
 ---
 

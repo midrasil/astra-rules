@@ -9,7 +9,6 @@ Cavalo treinado para lutar com os cascos ao lado do cavaleiro.
 | **Vida · Vontade · Iniciativa · Movimentação · Absorção** | 7 · 5 · 4 · 8 · 0 |
 | **Ataques** | Coice, Dano 2, Contusão, Alcance 1, Pesado |
 | **Capacidades** | [Investida](../../Capacidades/Capacidades%20de%20NPC.md#investida-2-de-dano-4-quadrados) (+2 de Dano; 4 quadrados) · custo 1 |
-| **Reservas prontas** | Coice 7; Esquivar 4; Iniciativa 4 |
 
 ---
 

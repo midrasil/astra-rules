@@ -9,7 +9,6 @@ Predador feroz, sobretudo em campo aberto. A Investida representa o bote.
 | **Vida · Vontade · Iniciativa · Movimentação · Absorção** | 6 · 5 · 4 · 8 · 0 |
 | **Ataques** | Garras e Mordida, Dano 3, Corte, Alcance 1 |
 | **Capacidades** | [Investida](../../Capacidades/Capacidades%20de%20NPC.md#investida-2-de-dano-4-quadrados) (+2 de Dano; 4 quadrados), [Frenesi](../../Capacidades/Capacidades%20de%20NPC.md#frenesi), [Frenesi Aprimorado](../../Capacidades/Capacidades%20de%20NPC.md#frenesi-aprimorado) · custo 3 |
-| **Reservas prontas** | Garras e Mordida 7; Esquivar 6; Iniciativa 4 |
 
 ---
 

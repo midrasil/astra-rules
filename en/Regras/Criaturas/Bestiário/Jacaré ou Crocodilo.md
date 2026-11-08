@@ -1,4 +1,4 @@
-<!-- source: 7688a17a117e -->
+<!-- source: 3b9ea1505a41 -->
 # Alligator or Crocodile
 
 A predator of rivers and swamps, with a thick hide. Constrictor represents its death roll.
@@ -12,7 +12,6 @@ A predator of rivers and swamps, with a thick hide. Constrictor represents its d
 | **Health · Willpower · Initiative · Movement · Absorption** | 7 · 6 · 4 · 3 · 2 (base 2) |
 | **Attacks** | Bite, Damage 2, Piercing, Reach 1, Heavy; grapples with its mouth |
 | **Capabilities** | [Aquatic](../../Capacidades/Capacidades%20de%20NPC.md#aquatic) (5), [Constrictor](../../Capacidades/Capacidades%20de%20NPC.md#constrictor-margin-2) (Margin 2) · cost 1 |
-| **Ready Pools** | Bite 7; Dodge 3; Initiative 4 |
 
 ---
 

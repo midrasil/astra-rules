@@ -9,7 +9,6 @@ Animal de carga teimoso. Quem a monta sofre -2 dados em Cavalgar.
 | **Vida · Vontade · Iniciativa · Movimentação · Absorção** | 6 · 5 · 3 · 6 · 0 |
 | **Ataques** | Coice, Dano 1, Contusão, Alcance 1, Pesado |
 | **Capacidades** | — · custo 0 |
-| **Reservas prontas** | Coice 3; Esquivar 2; Iniciativa 3 |
 
 ---
 

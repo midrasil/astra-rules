@@ -1,4 +1,4 @@
-<!-- source: d75a221d28f0 -->
+<!-- source: 923bdc30cba6 -->
 # Minotaur
 
 Bull-headed labyrinth guardians eager for battle.
@@ -14,7 +14,6 @@ Bull-headed labyrinth guardians eager for battle.
 | **Attacks** | Horns, Damage 3, Piercing, Reach 1, Heavy; Spear, Damage 3, Piercing, Reach 2, Two-handed, Charge |
 | **Capabilities** | [Charge](../../Capacidades/Capacidades%20de%20NPC.md#charge-2-damage-4-squares) (+4 Damage; 6 squares), [Frenzy](../../Capacidades/Capacidades%20de%20NPC.md#frenzy) · cost 4 |
 | **Equipment** | Spear, Leather Armor |
-| **Ready Pools** | Horns 10; Spear 8; Dodge 5; Initiative 4 |
 
 ---
 

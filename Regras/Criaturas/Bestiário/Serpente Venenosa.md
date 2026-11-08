@@ -9,7 +9,6 @@ Najas, taipans e serpentes de veneno mortal.
 | **Vida · Vontade · Iniciativa · Movimentação · Absorção** | 5 · 6 · 5 · 4 · 0 |
 | **Ataques** | Mordida, Dano 0, Perfurante, Alcance 1, Leve |
 | **Capacidades** | [Venenosa](../../Capacidades/Capacidades%20de%20NPC.md#venenosa-pot%C3%AAncia-2-vigor--determina%C3%A7%C3%A3o) (Potência 2) · custo 1 |
-| **Reservas prontas** | Mordida 6; Esquivar 6; Iniciativa 5 |
 
 ---
 
