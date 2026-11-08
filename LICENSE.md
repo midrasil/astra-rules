@@ -1,6 +1,6 @@
 # Licença: todos os direitos reservados
 
-Copyright © 2026 Vitor José. Todos os direitos reservados.
+Copyright © 2026 Vitor José Gervasio de Lima. Todos os direitos reservados.
 
 O Astra, incluindo seus textos de regras, a organização e a apresentação dessas regras, as traduções, as tabelas, as listas, os nomes próprios, as ilustrações e os demais materiais deste repositório, é obra protegida pela Lei nº 9.610/1998 (Lei de Direitos Autorais) e pelos tratados internacionais de direito autoral, como a Convenção de Berna.
 

@@ -46,4 +46,4 @@ Para montar um personagem, siga as etapas da [Criação de Personagem](Cria%C3%A
 
 ## Licença
 
-Copyright © 2026 Vitor José. Todos os direitos reservados. Veja [LICENSE.md](LICENSE.md).
+Copyright © 2026 Vitor José Gervasio de Lima. Todos os direitos reservados. Veja [LICENSE.md](LICENSE.md).
