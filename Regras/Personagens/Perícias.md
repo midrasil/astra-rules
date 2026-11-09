@@ -42,13 +42,19 @@ Uma Perícia em 0 não acrescenta dados: a Reserva é formada apenas pelo Atribu
 | Mentir             | Carisma            | Enganar, blefar e sustentar falsidades.                                                 |
 | Navegar            | Astúcia            | Orientar-se e traçar rotas por terra, mar ou ar.                                        |
 | Ocultismo          | Astúcia            | Conhecimentos sobrenaturais, rituais e mistérios.                                       |
-| Perceber           | Astúcia            | Notar detalhes, sons, movimentos e presenças ao redor.                                  |
+| Perceber           | Astúcia            | Notar detalhes, sons, movimentos e presenças ao redor, e ler as pessoas (ver [Ler Pessoas](#ler-pessoas)). |
 | Performance        | Carisma            | Entreter, atuar, cantar, dançar ou se apresentar diante de público.                     |
 | Persuadir          | Carisma            | Convencer alguém por meio de argumentos, apelo ou lábia.                                |
 | Pesquisar          | Astúcia            | Investigar, buscar informações e analisar pistas e documentos.                          |
 | Pilotar            | Agilidade          | Conduzir veículos aéreos e outros veículos complexos.                                   |
 | Prestidigitação    | Agilidade          | Realizar manobras rápidas com as mãos: furtar, esconder objetos e executar truques.     |
 | Sobrevivência      | Astúcia            | Subsistir em ambientes hostis: caçar, rastrear, construir abrigo e encontrar recursos.  |
+
+## Ler Pessoas
+
+**Perceber** também cobre ler as pessoas: notar uma mentira, uma intenção escondida ou o que alguém sente por trás do que mostra.
+
+Quando um personagem tenta enganar outro com **Mentir**, o alvo resiste com **Astúcia + Perceber**, em um [teste oposto](../Mec%C3%A2nica%20B%C3%A1sica/Reserva%20de%20Dados.md#testes-opostos). O mesmo vale para perceber uma intenção que alguém tenta esconder, como uma emboscada combinada num olhar ou um aliado prestes a trair.
 
 ## Idiomas
 

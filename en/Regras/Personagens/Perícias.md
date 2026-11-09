@@ -1,4 +1,4 @@
-<!-- source: f2d3143b8449 -->
+<!-- source: b7df3035c679 -->
 # Skills
 
 **Skills** represent trained abilities and areas of knowledge a character has developed through practice, study or experience. They do not describe innate talent, but what the character has learned to do.
@@ -45,13 +45,19 @@ A Skill at 0 adds no dice: the Pool is formed by the Attribute alone.
 | Deception         | Charisma         | Deceiving, bluffing and keeping up falsehoods.                                          |
 | Navigation        | Cunning          | Finding the way and plotting routes over land, sea or air.                              |
 | Occultism         | Cunning          | Supernatural knowledge, rituals and mysteries.                                          |
-| Perception        | Cunning          | Noticing details, sounds, movements and presences nearby.                               |
+| Perception        | Cunning          | Noticing details, sounds, movements and presences nearby, and reading people (see [Reading People](#reading-people)). |
 | Performance       | Charisma         | Entertaining, acting, singing, dancing or performing before an audience.                |
 | Persuasion        | Charisma         | Convincing someone through arguments, appeal or smooth talk.                            |
 | Research          | Cunning          | Investigating, seeking information and analyzing clues and documents.                   |
 | Piloting          | Agility          | Flying aircraft and operating other complex vehicles.                                   |
 | Sleight of Hand   | Agility          | Performing quick feats with the hands: pickpocketing, hiding objects and doing tricks.  |
 | Survival          | Cunning          | Getting by in hostile environments: hunting, tracking, building shelter and finding resources. |
+
+## Reading People
+
+**Perception** also covers reading people: noticing a lie, a hidden intention or what someone feels behind what they show.
+
+When a character tries to deceive another with **Deception**, the target resists with **Cunning + Perception**, in an [opposed test](../Mec%C3%A2nica%20B%C3%A1sica/Reserva%20de%20Dados.md#opposed-tests). The same applies to noticing an intention someone tries to hide, such as an ambush agreed on with a glance or an ally about to betray.
 
 ## Languages
 
