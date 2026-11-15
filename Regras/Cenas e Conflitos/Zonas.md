@@ -6,46 +6,78 @@ Por padrão, uma Zona afeta todas as criaturas em seu interior, incluindo aliado
 
 ## Formatos
 
-Os formatos de Zona usam a grade como a Movimentação: a diagonal conta como 1 quadrado. Nos diagramas, **C** é quem cria a Zona, **■** é um quadrado afetado, **◆** é o ponto de origem (também afetado) e **·** está fora da Zona.
+Os formatos de Zona usam a grade como a Movimentação: a diagonal conta como 1 quadrado. Nos diagramas, o círculo é quem cria a Zona, os quadrados destacados são afetados e o losango marca o ponto de origem, também afetado.
 
 ### Explosão N
 
 Todos os quadrados a até N quadrados de um ponto de origem, escolhido dentro do alcance da fonte. Uma Explosão N forma um quadrado de lado 2N + 1. Se a origem for o próprio quadrado de quem cria a Zona, ele também é afetado.
 
-Explosão 1 e Explosão 2:
+```grade
+Explosão 1, à distância
+· · · · · · ·
+· · · · ■ ■ ■
+· · · · ■ ◆ ■
+· · · · ■ ■ ■
+· · · · · · ·
+· · · · · · ·
+C · · · · · ·
 
-```
-· · · · ·      ■ ■ ■ ■ ■
-· ■ ■ ■ ·      ■ ■ ■ ■ ■
-· ■ ◆ ■ ·      ■ ■ ◆ ■ ■
-· ■ ■ ■ ·      ■ ■ ■ ■ ■
-· · · · ·      ■ ■ ■ ■ ■
+Explosão 2
+· · · · · · ·
+· ■ ■ ■ ■ ■ ·
+· ■ ■ ■ ■ ■ ·
+· ■ ■ ◆ ■ ■ ·
+· ■ ■ ■ ■ ■ ·
+· ■ ■ ■ ■ ■ ·
+· · · · · · ·
+
+Explosão 1 em quem a cria
+· · · · ·
+· ■ ■ ■ ·
+· ■ Ⓒ ■ ·
+· ■ ■ ■ ·
+· · · · ·
 ```
 
 ### Rajada N
 
 Um quadrado de N × N quadrados adjacente a quem cria a Zona, em qualquer direção, inclusive na diagonal. Quem cria a Rajada não é afetado por ela.
 
-Rajada 3 para a frente e na diagonal:
+```grade
+Rajada 3 para a frente
+· · · · ·
+· ■ ■ ■ ·
+· ■ ■ ■ ·
+· ■ ■ ■ ·
+· · C · ·
+· · · · ·
 
-```
-■ ■ ■          ■ ■ ■ ·
-■ ■ ■          ■ ■ ■ ·
-■ ■ ■          ■ ■ ■ ·
-· C ·          · · · C
+Rajada 3 na diagonal
+· · · · · ·
+· ■ ■ ■ · ·
+· ■ ■ ■ · ·
+· ■ ■ ■ · ·
+· · · · C ·
+· · · · · ·
 ```
 
 ### Linha N
 
 N quadrados em linha reta, na horizontal, na vertical ou na diagonal, a partir de um quadrado adjacente a quem cria a Zona. Quem cria a Linha não é afetado por ela.
 
-Linha 4 na horizontal e Linha 3 na diagonal:
+```grade
+Linha 4 na horizontal
+· · · · · · ·
+· C ■ ■ ■ ■ ·
+· · · · · · ·
 
-```
-C ■ ■ ■ ■      · · · ■
-               · · ■ ·
-               · ■ · ·
-               C · · ·
+Linha 3 na diagonal
+· · · · · ·
+· · · · ■ ·
+· · · ■ · ·
+· · ■ · · ·
+· C · · · ·
+· · · · · ·
 ```
 
 Uma criatura que ocupa mais de um quadrado mede a Rajada e a Linha a partir de qualquer quadrado que ocupa (ver [Tamanho](../Personagens/Tamanho.md)). A fonte pode usar outro formato, desde que o descreva.
